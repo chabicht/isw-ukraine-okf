@@ -9,6 +9,7 @@ permalink: /actors/organizations/
 # Organizations
 
 Intergovernmental organizations, alliances, agencies, militaries, and
-companies. No concepts yet — created as sources are incorporated. The
-Institute for the Study of War itself will get a concept here at first
-incorporation (rules.md §8.2).
+companies.
+
+* [Gazprom](gazprom.html) — Russian state-owned energy company.
+* [Institute for the Study of War](institute-for-the-study-of-war.html) — The US-based think tank whose daily assessments are the primary source stream for this bundle.

@@ -10,6 +10,10 @@ permalink: /actors/
 Countries, leaders, organizations, and analysts. Leader concepts live at this
 level; countries, organizations, and authors have their own subdirectories.
 
+## Leaders
+
+* [Volodymyr Zelensky](volodymyr-zelensky.html) - President of Ukraine
+
 ## Countries
 
 * [Countries](countries/) - Nation-state actor concepts
