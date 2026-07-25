@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-07T00:00:00Z
+timestamp: 2025-01-08T00:00:00Z
 ---
 
 # Background
@@ -44,6 +44,12 @@ Ukrainian forces struck a command post of the Russian 810th Naval Infantry Briga
 
 The Kremlin's "Time of Heroes" program announced that over 15,000 Russian military veterans have applied for the second cohort since November 2024, as the Kremlin continues efforts to place invasion veterans in government positions.[6]
 
+On the night of January 7 to 8, Ukrainian forces struck the state-owned Kombinat Kristal oil storage facility near Engels, Saratov Oblast, causing a large fire. The facility provides fuel for the Engels-2 Air Base and the strike will create logistical issues for Russia's strategic aircraft. Ukrainian forces also struck a command post of the Russian 8th Combined Arms Army in occupied Khartsyzk, Donetsk Oblast on January 8, which had been coordinating operations in the Kurakhove direction.[7]
+
+Russian forces are increasingly using drones attached to fiber optic cables that are resistant to electronic warfare interference in strikes throughout the frontline. The spokesman of a Ukrainian brigade reported that fiber-optic drones are slower and less maneuverable than FPV drones, making them more vulnerable to small-arms fire.[7]
+
+A Russian glide bomb strike against an industrial infrastructure object in Zaporizhzhia City on January 8 killed 13 people and injured at least 63.[7]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -52,3 +58,4 @@ The Kremlin's "Time of Heroes" program announced that over 15,000 Russian milita
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
+[7] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)

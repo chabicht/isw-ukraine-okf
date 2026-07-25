@@ -6,6 +6,17 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Engels oil storage strike, 8th CAA CP strike in Khartsyzk, fiber-optic drone proliferation, Zaporizhzhia City glide bomb strike;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with 69th MRD marginal advance south of Dvorichna, Borova direction mechanized claims and 2nd MRD/47th TD Oskil River advance, 16th Spetsnaz Brigade near Raihorodka;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Bilohorivka ops, Verkhnokamyanske unconfirmed claim, glide bomb tactics (3-4 per street), dawn/dusk infantry assaults;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with continued Novodanylivka ops, small infantry assaults several times per day, BARS-11 Kuban training, BARS-Sarmat and 7th VDV near Kamyanske;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with territorial troops exercises Jan 8-31, no threat to Ukraine;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 7-8 overnight strike (64 drones), Zaporizhzhia City glide bomb strike (13 killed, 63 injured);
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Engels oil storage strike, 8th CAA CP strike in Khartsyzk;
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with fiber-optic drone proliferation across the frontline, characteristics and vulnerabilities analysis.
+* **Creation**: Event concepts for [Ukrainian Drone Strike on Engels Oil Storage Facility]({{ site.baseurl }}/events/ukrainian-drone-strike-engels-2025-01-07.html), [Ukrainian Strike on 8th CAA Command Post in Khartsyzk]({{ site.baseurl }}/events/ukrainian-strike-khartsyzk-2025-01-08.html), and [Russian Glide Bomb Strike on Zaporizhzhia City]({{ site.baseurl }}/events/russian-glide-bomb-strike-zaporizhzhia-2025-01-08.html).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Toretsk tactical advances and Kostyantynivka analysis, 810th Brigade CP strike in Belaya, 13 North Korean casualties, Time of Heroes 15,000 applicants;
   [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with Kvitkova Street advance, 71% assessed control, platoon-sized assault tactics, Kostyantynivka threat assessment, 5th/110th brigade withdrawal;

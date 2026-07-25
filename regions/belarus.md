@@ -5,7 +5,7 @@ parent: Regions
 description: The Republic of Belarus, a Russian ally providing staging grounds and supporting the war effort.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-07T00:00:00Z
+timestamp: 2025-01-08T00:00:00Z
 ---
 
 # Current Situation
@@ -16,8 +16,11 @@ Ukrainian President Volodymyr Zelensky stated in an interview published on Janua
 
 Nothing significant to report from the January 7 assessment regarding Belarus.[3]
 
+The Belarusian Ministry of Defense announced on January 8 that Belarusian territorial troops are conducting exercises from January 8 to 31. ISW assesses that these exercises do not threaten Ukraine.[4]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [3] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
+[4] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)

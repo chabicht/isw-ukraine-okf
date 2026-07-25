@@ -5,7 +5,7 @@ parent: Themes
 description: Russian innovations in drone technology, electronic warfare, and armored vehicle modifications for the Ukraine war.
 tags: [military, technology, drone-warfare]
 status: ongoing
-timestamp: 2025-01-07T00:00:00Z
+timestamp: 2025-01-08T00:00:00Z
 ---
 
 # Current Situation
@@ -24,9 +24,12 @@ A Russian milblogger claimed that the Russian military has failed to modernize i
 
 Russian forces are adapting older tank models, such as the T-62, to serve as modified armored personnel carriers. A milblogger posted an image of a modified T-62 tank with a flat platform, characterizing the adaptation as an attempt to solve a chronic shortage of Russian APCs.[4]
 
+Russian forces are increasingly using drones attached to fiber optic cables that are resistant to electronic warfare interference in strikes against Ukrainian forces throughout the frontline. The spokesperson of a Ukrainian brigade reported on January 8 that Russian forces are not yet systematically employing fiber-optic drones and noted that fiber-optic drones are slower and less maneuverable than FPV drones, making them more vulnerable to small-arms fire. A Russian milblogger claimed on January 8 that Russian forces were the first to successfully develop and integrate fiber-optic drones into combat operations in Ukraine but cautioned that Ukrainian forces would soon develop similar innovations. The milblogger added that Russian forces will need to develop new means of downing Ukrainian fiber-optic drones.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [2] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [3] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [4] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
+[5] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)

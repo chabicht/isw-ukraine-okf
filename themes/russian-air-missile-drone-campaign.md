@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-07T00:00:00Z
+timestamp: 2025-01-08T00:00:00Z
 ---
 
 # Current Situation
@@ -34,6 +34,10 @@ On the night of January 6 to 7, Russian forces launched 38 Shahed and other dron
 
 The Ukrainian Air Force reported on January 7 that a Ukrainian F-16 fighter pilot downed six Russian cruise missiles during a single sortie on December 13.[6]
 
+On the night of January 7 to 8, Russian forces launched 64 Shahed and decoy drones from Oryol, Kursk, and Bryansk oblasts and Primorsko-Akhtarsk, Krasnodar Krai. The Ukrainian Air Force reported that Ukrainian forces downed 41 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Zhytomyr, Dnipropetrovsk, Mykolaiv, and Kirovohrad oblasts; 22 decoy drones were "lost," likely due to Ukrainian electronic warfare interference; three drones returned to Russian airspace; and one drone flew towards Belarusian airspace as of 0900 local time. The Kyiv Oblast Military Administration reported that debris from downed Russian drones caused minor damage to houses in Kyiv Oblast.[7]
+
+On January 8, Russian forces conducted a glide bomb strike against an industrial infrastructure object in Zaporizhzhia City, killing 13 people and injuring at least 63.[7]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -42,3 +46,4 @@ The Ukrainian Air Force reported on January 7 that a Ukrainian F-16 fighter pilo
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
+[7] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
