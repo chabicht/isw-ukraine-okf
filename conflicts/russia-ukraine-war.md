@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-05T00:00:00Z
+timestamp: 2025-01-06T00:00:00Z
 ---
 
 # Background
@@ -28,9 +28,20 @@ Ukrainian forces struck the Novatek gas terminal at the Ust-Luga port in Leningr
 
 Ukrainian forces resumed offensive operations in Kursk Oblast on January 5, conducting multiple company-sized mechanized assaults in the Berdin-Novosotnitsky direction, near Leonidovo, and near Pushkarnoye, making tactical advances. Russian sources expressed concern about Ukraine's integration of electronic warfare and long-range strike capabilities with ground operations in Kursk, reflecting a shift toward more effective Ukrainian combined arms tactics. The Russian 41st CAA intensified operations east of Pokrovsk, and elements of the 5th Motorized Rifle Brigade were split between the Pokrovsk and Kurakhove directions as a tactical penetration force. Russian milbloggers expressed concern that the renewed Ukrainian effort in Kursk could be a diversionary operation and that Russian forces are struggling to adapt to Ukrainian battlefield innovations.[4]
 
+Ukrainian forces continued tactical advances in Kursk Oblast on January 6, with geolocated footage confirming gains in southern Berdin, central Russkoye Porechnoye, and central Novosotnitsky. ISW assessed these may be the beginning stages of a concerted Ukrainian operation in Kursk Oblast or elsewhere in the theater. The Russian MoD claimed elements of the 5th and 110th motorized rifle brigades seized all of Kurakhove, though Ukrainian officials reported ongoing fighting within the town as of January 6.[5]
+
+Russian forces reportedly executed three more Ukrainian POWs near Neskuchne on January 3; a geolocated image published January 6 shows the aftermath. Ukraine's GUR published a purported audio interception of a unit commander of the Russian 60th Motorized Rifle Brigade (5th CAA, Eastern Military District) ordering the execution of a Ukrainian POW. ISW continues to assess that Russian commanders are either complacent or enabling their subordinates to execute POWs in violation of international law.[5]
+
+Ukrainian Human Rights Commissioner Dmytro Lyubinets announced that Ukraine and Russia reached a preliminary agreement to conduct regular POW exchanges in 2025, including both military POWs and civilian prisoners, prioritizing the seriously ill or wounded. Lyubinets noted it remains to be seen whether Russia will keep its word.[5]
+
+Chechen Akhmat Spetsnaz commander Apty Alaudinov published a video of his meeting with Rusich Group deputy commander "Medved" and the self-declared Nazi leader of the Rusich Group Alexei Milchakov on January 6. Alaudinov stated he has no issue with Russian nationalists who love their "nation" as long as they do not claim superiority over others, and that they agreed on a "common enemy" and "common goals," needing to prevent anyone from stirring up "interethnic and interfaith" tensions. The meeting signals an effort to bridge tensions between Chechen forces and ultranationalist Russian factions that have previously criticized Chechen Akhmat forces.[5]
+
+Ukrainian President Volodymyr Zelensky stated in an interview published on January 5 that 3,800 North Korean personnel have been killed and wounded in Kursk Oblast, warning that North Korea could deploy additional personnel to support Russian aggression.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
+[5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)

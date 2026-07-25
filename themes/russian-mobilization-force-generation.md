@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-04T00:00:00Z
+timestamp: 2025-01-06T00:00:00Z
 ---
 
 # Current Situation
@@ -22,8 +22,13 @@ Russian soldiers continue to report commanders abusing subordinates and hiding c
 
 The Russian government continues to increase financial incentives to boost military recruitment. Samara Oblast increased one-time lump payments for signing a contract to four million rubles (about $36,222), characterized as the highest one-time payment currently offered in Russia. Voronezh Oblast increased one-time payments to individuals who refer someone else to sign a contract by 50 percent to 75,000 rubles (about $679), just two weeks after the previous increase.[3]
 
+Ukrainian President Volodymyr Zelensky stated in an interview published on January 5 that 3,800 North Korean personnel have been killed and wounded in Kursk Oblast. Zelensky warned that North Korea could deploy additional military personnel to support Russian aggression against Ukraine.[4]
+
+Russian machine guns and small arms manufacturer Degtyaryev Plant recently filed its second multimillion-ruble lawsuit against the Russian Ministry of Defense (MoD) for over 100 million rubles (about $930,000) for an unspecified reason. The Degtyaryev Plant won a case against the Russian MoD for about 100.5 million rubles (about $934,000) in December 2024 in its first lawsuit. Russian authorities have arrested multiple high-ranking Russian MoD officials, including those responsible for defense procurement and logistics, on charges of bribery and embezzlement in recent months.[4]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
+[4] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)

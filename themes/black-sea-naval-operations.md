@@ -5,7 +5,7 @@ parent: Themes
 description: Naval dynamics in the Black Sea, including Ukraine's naval drone campaign and Russian fleet operations.
 tags: [military, naval, black-sea, crimea, strike-campaign]
 status: ongoing
-timestamp: 2025-01-03T00:00:00Z
+timestamp: 2025-01-06T00:00:00Z
 ---
 
 # Current Situation
@@ -18,7 +18,12 @@ ISW assesses that increased Ukrainian offensive capabilities in the Black Sea th
 
 The GUR reported on January 3 that several Russian ships will arrive at the Port of Tartus in Syria to evacuate Russian military assets to Libya. The Ivan Gren large landing ship, Alexander Otrakovsky landing ship, and Sparta cargo ship are scheduled to arrive on January 5; the Sparta II cargo ship and Ivan Skobelev tanker on January 8. The vessels will transfer Russian assets to an unspecified location in Libya.[2]
 
+Ukrainian forces continue to conduct strikes against Russian air defense systems in southern Ukraine, reportedly destroying five systems in a single day. The Ukrainian Navy published footage showing a drone strike that destroyed two Russian Pantsir-S1 air defense systems and stated that Ukrainian forces also destroyed or damaged an Osa air defense system in occupied Kherson Oblast. Ukraine's Southern Operational Command reported that Ukrainian forces destroyed two Russian S-300 air defense systems in the past day. A Russian milblogger claimed that Ukrainian forces destroyed one Pantsir by launching an FPV drone from a sea-launched drone carrier, complaining that Russian forces are not developing protections against Ukrainian drone innovations.[3]
+
+Ukrainian drone strikes continue to affect Russian operations in the Black Sea. Ukrainian Navy Spokesperson Captain Third Rank Dmytro Pletenchuk reported on January 6 that Russian forces have saturated the Kerch Strait Bridge with echeloned air defenses and increased the number of fuel tanker trucks crossing the bridge, indicating that Russian forces are using the bridge for fuel supply after Ukrainian strikes damaged Russian ferries. Pletenchuk reported on January 5 that Russian forces have only deployed one submarine in the Black Sea to guard a Russian base (likely at the naval base in occupied Sevastopol, Crimea) and that Russian forces have been using aviation to protect the Black Sea area due to the threat of Ukrainian naval and aerial drone strikes against Russian ships. Pletenchuk stated that Ukrainian drone strikes against ships docked for repairs have forced Russian forces to stop trying to repair vessels in occupied Crimea. Pletenchuk stated that the Russian base in Russian-occupied Ochamchire, Abkhazia lacks a harbor that would allow Russian forces to dock ships safely or expand their naval capabilities, consistent with ISW's prior assessment that the existing port in Ochamchire is unsuitable to become a primary base for the Russian Black Sea Fleet as the sandy beaches and surrounding terrain is largely inconducive for the construction of deepwater naval infrastructure.[3]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
+[3] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)

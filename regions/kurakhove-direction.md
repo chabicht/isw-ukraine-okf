@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-05T00:00:00Z
+timestamp: 2025-01-06T00:00:00Z
 ---
 
 # Current Situation
@@ -18,6 +18,8 @@ Ukrainian forces likely maintain limited positions near the Kurakhivske Reservoi
 
 Elements of the Russian 5th Motorized Rifle Brigade (51st CAA) reportedly participated in the seizure of Kurakhove and the Kurakhivske TPP and are conducting clearing operations within Kurakhove, while other elements of the same brigade are operating east of Pokrovsk. The Russian military's decision to split the 5th Motorized Rifle Brigade across two prioritized sectors of the frontline indicates it may be using the brigade as a tactical penetration force.[4]
 
+The Russian MoD claimed on January 6 that elements of the 5th and 110th motorized rifle brigades (51st CAA) seized all of Kurakhove. Ukrainian Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated that fighting was ongoing within Kurakhove as of the morning of January 6. Kremlin newswire _TASS_ reported that Russian forces pushed Ukrainian forces out of part of the Kurakhivske TPP (west of Kurakhove) and that fighting is ongoing for administrative buildings at the TPP. A Russian milblogger claimed Russian forces advanced south of Shevchenko (northwest of Kurakhove), but ISW has not observed confirmation. Elements of the Russian 114th Motorized Rifle Brigade (51st CAA) are reportedly operating near Petropavlivka and Shevchenko, and elements of the 238th Artillery Brigade (8th CAA, Southern Military District) near Kurakhove.[5]
+
 Note: ISW is incorporating data previously reported as the Vuhledar direction as part of the Kurakhove direction moving forward, reflecting the shifting operational situation.
 
 # Citations
@@ -26,3 +28,4 @@ Note: ISW is incorporating data previously reported as the Vuhledar direction as
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
+[5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)

@@ -6,6 +6,27 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with POW execution near Neskuchne, preliminary POW exchange agreement, Akhmat-Rusich meeting, North Korean casualties, MoD Kurakhove seizure claim;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with continued Ukrainian tactical advances, Russian redeployment of 177th Naval Infantry Regiment from Zaporizhia, strike on 3754th Aviation Technical Base;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with Synehubov's statement on reduced attacks due to Kursk operations;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Russian tactics (armored columns, dismounted infantry up to 10km), Oskil River strikes, 144th Motorized Rifle Division seizure of Ivanivka;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with no advances, fireteam tactics;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with increased armored vehicle use, 200th Motorized Rifle Brigade;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with advances on Heroiv Chornobylia and Hirskyi streets, 69.4% assessed control;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with Ukrainian advance at Vozdvyzhenka, Russian advance northeast of Vovkove, Maxim Krivonos detachment;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with MoD seizure claim, ongoing fighting, TPP administrative building battle;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with continued Velyka Novosilka operations, encirclement attempt claim;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with continued operations near Novodanylivka;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with Dnipro bridgehead attempt, 80th Arctic Motorized Brigade;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 5-6 overnight strike data, railway damage in Kyiv Oblast;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with SBU confirmation of Ust-Luga strike, Pantsir and S-300 AD system strikes;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with 3,800 North Korean casualties, Degtyaryev Plant lawsuit;
+  [Black Sea naval operations]({{ site.baseurl }}/themes/black-sea-naval-operations.html) with AD system strikes, Kerch Strait Bridge fuel supply, single submarine deployment, Ochamchire limitations;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with Zelensky-Lukashenko apology claim and press secretary denial;
+  [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with North Korean casualty figure and Lukashenko apology claim.
+* **Update**: Event concept for [Ukrainian Drone Strike on Ust-Luga Gas Terminal]({{ site.baseurl }}/events/ukrainian-drone-strike-ust-luga-2025-01-03.html) with SBU confirmation details.
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Kursk renewed Ukrainian offensive, Russian combined arms concerns, 41st CAA Pokrovsk intensification, 5th Motorized Rifle Brigade split;
   [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Ukrainian mechanized assaults near Berdin/Leonidovo/Pushkarnoye, Russian Makhnovka advance, EW integration, Storm Shadow strike on 76th VDV CP;

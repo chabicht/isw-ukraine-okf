@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Pokrovsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-05T00:00:00Z
+timestamp: 2025-01-06T00:00:00Z
 ---
 
 # Current Situation
@@ -20,9 +20,12 @@ The Russian 41st CAA intensified operations east of Pokrovsk over the last week,
 
 The Russian military command may assess that advancing through the fields and small settlements along the Vozdvyzhenka-Yelyzavetivka-Myrne-Razine line will be easier than fighting through the more urbanized and heavily defended settlements of Novoekonomichne and Myrnohrad closer to Pokrovsk. Russian forces may also be exploiting comparatively weaker Ukrainian defensive positions further east and south of Pokrovsk as part of an ongoing effort to seize territory regardless of tactical insignificance, advancing towards the Donetsk-Dnipropetrovsk Oblast administrative boundary.[4]
 
+Ukrainian and Russian forces continued to advance in the Pokrovsk direction on January 6. Geolocated footage published on January 6 indicates that Ukrainian forces advanced on the northwestern outskirts of Vozdvyzhenka (east of Pokrovsk). Additional geolocated footage indicates that Russian forces recently advanced northeast of Vovkove (southwest of Pokrovsk). The Russian MoD claimed that Russian forces seized Dachenske (south of Pokrovsk), which ISW assessed Russian forces had seized as of December 22. Russian milbloggers claimed advances east of Vozdvyzhenka, into Baranivka, near Yelyzavetivka, into eastern Zelene, south of Zvirove, and north of Vovkove, but ISW has not observed confirmation. Elements of the Russian 5th Motorized Rifle Brigade (51st Combined Arms Army) reportedly continue operating near Vozdvyzhenka, and elements of the "Maxim Krivonos" volunteer detachment — allegedly formed by former members of the Ukrainian Armed Forces who defected to fight for Russia — are reportedly operating in the Pokrovsk direction.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
+[5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)

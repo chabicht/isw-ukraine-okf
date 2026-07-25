@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Toretsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-04T00:00:00Z
+timestamp: 2025-01-06T00:00:00Z
 ---
 
 # Current Situation
@@ -16,8 +16,11 @@ Russian forces continued offensive operations in the Toretsk direction on Januar
 
 Russian forces recently marginally advanced in Toretsk on January 4. Geolocated footage published on January 4 indicates that Russian forces recently marginally advanced along 1-Hirskyi Street in northwestern Toretsk. Russian forces conducted offensive operations near Toretsk itself, northeast of Toretsk near Dyliivka, and west of Toretsk near Shcherbynivka.[3]
 
+Russian forces recently advanced in northwestern and northern Toretsk on January 6. Geolocated footage published on January 4 indicates that Russian forces recently advanced along Heroiv Chornobylia and Darhomyzhskoho streets in northwestern Toretsk. Additional geolocated footage published on January 6 indicates Russian forces advanced along 3 Hirskyi and 4 Hirskyi streets in northern Toretsk. A Russian milblogger claimed additional gains in northern, northeastern, and southwestern Toretsk and west of Krymske, but ISW has not observed visual confirmation. Ukraine's Khortytsia Group of Forces reported that Russian forces conducted an assault with an unspecified number of armored vehicles toward Shcherbynivka (southwest of Toretsk). ISW assesses that Russian forces occupy 69.4 percent of Toretsk as of January 6.[4]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
+[4] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
