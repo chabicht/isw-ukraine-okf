@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-04T00:00:00Z
+timestamp: 2025-01-05T00:00:00Z
 ---
 
 # Current Situation
@@ -20,6 +20,10 @@ A Ukrainian Magura V5 naval drone used missiles to destroy two Russian Mi-8 heli
 
 On the night of January 3-4, Ukrainian forces struck the Novatek gas terminal at the Ust-Luga port in Leningrad Oblast — the second largest sea trade port in Russia after Novorossiysk. Geolocated footage confirms damage to the terminal. Ukrainian forces also targeted the Baltimore Air Base in Voronezh City with at least five drones; Russian forces reportedly shot down all the drones.[3]
 
+On December 30, 2024, Ukrainian forces launched Storm Shadow missiles at a 76th VDV Division command post near Lgov, Kursk Oblast, killing the division's Communications Head Lieutenant Colonel Valery Tereschchenko and reportedly eight senior commanders while wounding 20 personnel. The strike targeted Russian command and control in support of ongoing Ukrainian ground operations in the Kursk salient.[4]
+
+Ukrainian forces conducted HIMARS strikes near Bolshoye Soldatskoye and other areas in Kursk Oblast on January 5 to prevent Russian forces from deploying reinforcements, artillery systems, and drone operators — an example of integrating long-range fires with ground operations to interdict Russian rear areas.[4]
+
 Ukrainian strikes continue to degrade Russian logistics in occupied Crimea, including damage to the railway on the Kerch Strait Bridge and ferries transporting railway cars and fuel tankers.[1]
 
 # Citations
@@ -27,3 +31,4 @@ Ukrainian strikes continue to degrade Russian logistics in occupied Crimea, incl
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
+[4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)

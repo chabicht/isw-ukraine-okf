@@ -6,6 +6,19 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Kursk renewed Ukrainian offensive, Russian combined arms concerns, 41st CAA Pokrovsk intensification, 5th Motorized Rifle Brigade split;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Ukrainian mechanized assaults near Berdin/Leonidovo/Pushkarnoye, Russian Makhnovka advance, EW integration, Storm Shadow strike on 76th VDV CP;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with 41st CAA intensification east of Pokrovsk, 5th Brigade advances, envelopment analysis;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with 5th Motorized Rifle Brigade split and clearing operations;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Borova direction mechanized advance and Kupyansk frontline proximity;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with no confirmed advances;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with continued Velyka Novosilka operations;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 4 afternoon and Jan 4-5 overnight strike data;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Storm Shadow strike on 76th VDV CP and HIMARS interdiction in Kursk;
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with Ukrainian EW integration degrading Russian drone ops and combined arms adaptation concerns.
+* **Creation**: Event concept for [Ukrainian Storm Shadow Strike on 76th VDV Division Command Post near Lgov]({{ site.baseurl }}/events/ukrainian-missile-strike-lgov-2024-12-30.html).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with vehicle loss data, sustainability analysis, and Ust-Luga strike;
   [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Jan 4 operations and unit dispositions;

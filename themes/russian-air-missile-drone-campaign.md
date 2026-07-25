@@ -22,6 +22,10 @@ On January 3, Russian forces launched five S-300 air defense missiles at Ukraini
 
 On the night of January 3-4, Russian forces launched 81 Shahed and decoy drones from Bryansk, Kursk, and Oryol oblasts and Primorsko-Akhtarsk, Krasnodar Krai. Ukrainian forces downed 34 drones over Poltava, Sumy, Kharkiv, Kyiv, Chernihiv, Kirovohrad, Dnipropetrovsk, Odesa, and Mykolaiv oblasts. 47 drones were lost to Ukrainian electronic warfare interference. Debris from downed drones damaged residential homes in Chernihiv and Sumy oblasts. A Russian Shahed drone damaged two industrial locations in Stari Borovychi, Chernihiv Oblast.[3]
 
+On the afternoon of January 4, Russian forces launched 30 Shahed and decoy drones from the northeastern direction. Ukrainian forces downed 14 drones; 16 drones were lost to Ukrainian electronic warfare interference. A Russian drone strike damaged an infrastructure facility in Zaporizkyi Raion, Zaporizhia Oblast.[4]
+
+On the night of January 4-5, Russian forces launched 103 Shahed and decoy drones from Bryansk and Oryol oblasts and Millerovo, Rostov Oblast. Ukrainian forces downed 61 drones over Poltava, Sumy, Kharkiv, Kyiv, Chernihiv, Cherkasy, Dnipropetrovsk, Zhytomyr, and Khmelnytskyi oblasts; 42 drones were lost to electronic warfare interference. Debris from downed drones damaged several houses in Kharkiv Oblast.[4]
+
 Ukrainian President Volodymyr Zelensky reported that Ukrainian forces shot down 1,310 cruise and ballistic missiles and 7,800 Iranian Shahed drones in 2024.[1][2]
 
 # Citations
@@ -29,3 +33,4 @@ Ukrainian President Volodymyr Zelensky reported that Ukrainian forces shot down 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
+[4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)

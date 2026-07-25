@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-04T00:00:00Z
+timestamp: 2025-01-05T00:00:00Z
 ---
 
 # Background
@@ -22,14 +22,15 @@ President Volodymyr Zelensky outlined conditions for a "just peace" on January 2
 
 Ukrainian Prime Minister Denys Shmyhal announced on January 3 that Ukraine plans to produce about 3,000 cruise missiles and "drone-missiles" and at least 30,000 long-range drones in 2025, with the defense industrial base aiming for $30 billion in output and $1 billion in foreign investment.[2]
 
-Russia continues to press offensive operations in Donetsk and Luhansk oblasts, with recent advances near Pokrovsk, Kurakhove, and Vuhledar confirmed on January 3. Ukrainian forces withdrew from the Kurakhivske Thermal Power Plant and Russia seized Shevchenko northwest of Kurakhove. The Russian military command is shifting its focus from enveloping Pokrovsk to pushing west towards the Donetsk-Dnipropetrovsk border.[2]
-
 Ukraine reported destroying or damaging 3,689 Russian tanks, 8,956 infantry fighting vehicles, 13,050 artillery systems, and 407 air defense systems between January 1, 2024 and January 1, 2025.[3] Russia's annual tank production — 250-300 new and modernized tanks plus 250-300 repaired — is far below this loss rate. Satellite tracking indicates Russia has 47% of pre-war tank reserves, 52% of infantry fighting vehicle reserves, and 45% of armored personnel carrier reserves remaining.[3] ISW assesses it appears increasingly unlikely the Russian military can sustain its current annual rate of nearly 9,000 armored vehicle losses through 2025, which is nearly three times the annual loss rate of the first two years of the war. Russian forces have reportedly responded by reducing armored vehicle usage in assaults, notably in the Kurakhove direction, and by adapting older T-62 tanks as modified armored personnel carriers to address vehicle shortages.[3]
 
 Ukrainian forces struck the Novatek gas terminal at the Ust-Luga port in Leningrad Oblast on January 3–4, damaging the facility. Ust-Luga is the second largest port in Russia after Novorossiysk, and the strike follows a similar Ukrainian strike on the same terminal in January 2024.[3]
+
+Ukrainian forces resumed offensive operations in Kursk Oblast on January 5, conducting multiple company-sized mechanized assaults in the Berdin-Novosotnitsky direction, near Leonidovo, and near Pushkarnoye, making tactical advances. Russian sources expressed concern about Ukraine's integration of electronic warfare and long-range strike capabilities with ground operations in Kursk, reflecting a shift toward more effective Ukrainian combined arms tactics. The Russian 41st CAA intensified operations east of Pokrovsk, and elements of the 5th Motorized Rifle Brigade were split between the Pokrovsk and Kurakhove directions as a tactical penetration force. Russian milbloggers expressed concern that the renewed Ukrainian effort in Kursk could be a diversionary operation and that Russian forces are struggling to adapt to Ukrainian battlefield innovations.[4]
 
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
+[4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)

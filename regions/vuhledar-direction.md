@@ -18,6 +18,8 @@ Near Velyka Novosilka, Russian forces continued offensive operations on January 
 
 Russian forces continued offensive operations near Velyka Novosilka on January 4 but did not make any confirmed advances. Russian forces conducted offensive operations west of Velyka Novosilka near Novosilka. A Russian milblogger claimed advances northwest of Neskuchne and towards Novosilka south of the O0510 highway, but ISW has not observed confirmation.[3]
 
+Russian forces continued offensive operations near Velyka Novosilka on January 5 but did not make confirmed advances. Elements of the Russian 114th Motorized Rifle Regiment and 218th Tank Regiment (both of the 127th Motorized Rifle Division, 5th CAA, EMD) are attacking along the Velyka Novosilka-Hulyaipole road. A Russian milblogger claimed advances south of Velyka Novosilka near Neskuchne, but ISW has not observed confirmation. Russian forces also continued assaults north of Velyka Novosilka near Novyi Komar.[4]
+
 Note: ISW is incorporating data previously reported as the Vuhledar direction as part of the Kurakhove direction moving forward, reflecting the shifting operational situation.
 
 # Citations
@@ -25,3 +27,4 @@ Note: ISW is incorporating data previously reported as the Vuhledar direction as
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
+[4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
