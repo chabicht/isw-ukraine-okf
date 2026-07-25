@@ -17,6 +17,9 @@ these conventions.
 
 ## 1. Bundle Overview
 
+- **Subject**: The Russia-Ukraine war, as covered by the Institute for the
+  Study of War (ISW). The primary source stream is ISW's near-daily *Russian
+  Offensive Campaign Assessment* series, supplemented by ISW special reports.
 - **Format**: OKF v0.1 (see `okf.md` for the full specification).
 - **Site**: Published via GitHub Pages using the [Just the Docs](https://github.com/just-the-docs/just-the-docs)
   Jekyll theme. Site config is in `_config.yml`; dependencies in `Gemfile`.
@@ -118,7 +121,7 @@ speculation that has been overtaken by events).
 Producers MAY add any additional keys. Common extensions in this bundle:
 
 ```yaml
-author: Velina Tchakarova       # For author actor concepts
+author: Christina Harward       # For author actor concepts
 source_url: https://...         # For events sourced from a single article
 ```
 
@@ -156,11 +159,11 @@ Leaf pages (concepts) sort alphabetically by `title` automatically. No
 ## 5. Naming Conventions
 
 - **Kebab-case, descriptive**: `united-states.md`, not `us.md` or `UnitedStates.md`.
-- **Year suffix for time-bound concepts**: `us-iran-war-2026.md`, not
-  `2026-us-iran-war.md`. The year goes at the end, not as a date prefix.
+- **Year suffix for time-bound concepts**: `kursk-incursion-2024.md`, not
+  `2024-kursk-incursion.md`. The year goes at the end, not as a date prefix.
 - **Full English names for countries**: `united-states`, `united-kingdom`,
   `south-korea`. Short forms (`us`, `usa`) may appear in tags for discoverability.
-- **Full names for authors**: `velina-tchakarova`, `phillips-obrien`.
+- **Full names for authors**: `christina-harward`, `kateryna-shymkiv`.
 - **Concept IDs**: Derived from the file path with `.md` removed.
   E.g., `actors/united-states.md` → concept ID `actors/united-states`.
 
@@ -172,9 +175,9 @@ A custom frontmatter field indicating the lifecycle state of the concept.
 
 | Value | Meaning | Examples |
 |-------|---------|----------|
-| `ongoing` | Actively evolving situation | US-Iran War, Global System Rupture, Taiwan standoff |
-| `concluded` | Situation has ended; recorded for context | A past ceasefire, a concluded election |
-| `evergreen` | Structural/enduring knowledge | Geography of Hormuz, energy fundamentals |
+| `ongoing` | Actively evolving situation | Russia-Ukraine War, the strike campaign, an active front axis |
+| `concluded` | Situation has ended; recorded for context | A past ceasefire, a concluded offensive |
+| `evergreen` | Structural/enduring knowledge | Black Sea geography, Russian energy-export fundamentals |
 | `historical` | Past event recorded for historical context | Cold War, WWII |
 
 For `ongoing` concepts, `timestamp` tracks the last update, and `log.md`
@@ -196,6 +199,29 @@ The body uses standard markdown with conventional section headings:
 
 Not all sections are required for every concept. Use what applies.
 
+### 7.1 Daily-cadence conventions
+
+The primary source stream is near-daily. To keep concepts readable at that
+cadence:
+
+- **Region concepts mirror ISW's recurring operational sections.** One region
+  concept per recurring axis in the daily assessments (e.g. the northern axis,
+  the eastern-Ukraine main effort, the southern axis, Ukrainian operations in
+  Russia, Belarus). The air/missile/drone campaign is a **theme**, not a
+  region. This gives every daily operational claim an obvious, stable
+  destination. Axis regions own sector-level operational state; the conflict
+  concept owns the war-level arc (see
+  `.opencode/skills/okf-consolidate/references/concept-type-authority.md`).
+- **`# Current Situation` is rewritten, not appended.** Each incorporation
+  rewrites it to reflect the present state. `# Analysis` accretes
+  thematically per §8. Per-day deltas are recorded as `log.md` entries naming
+  the assessment date; history lives in `log.md` and git, not in the concept.
+- **Events are for discrete notable occurrences** (major strike waves,
+  summits, ceasefires, leadership changes) — never one event per daily issue.
+- **"No change" findings** (e.g. "Russian forces did not advance") update the
+  concept's `timestamp` without prose churn; add a `log.md` entry only if the
+  concept was otherwise untouched for an extended period.
+
 ---
 
 ## 8. Analysis Dissolution
@@ -212,28 +238,38 @@ subsection. Attribution is inline. Citations appear after each attributed claim.
 ```markdown
 # Analysis
 
-### Military Assessment
-The US-Iran war revealed significant US military weakness. O'Brien notes poor
-planning, failure to protect facilities, and inability to achieve strategic
-objectives. [1] Tchakarova frames this within the broader Global System
-Rupture, where US decline is a structural feature. [2]
+### Economic Impact of the Strike Campaign
+Ukraine's strikes on Russian refineries are producing cascading economic
+damage. ISW assesses that fuel shortages now affect most of Russia's federal
+subjects and are draining export revenue the Kremlin needs to finance the
+war. [1]
 
-### Technology and Cost Dynamics
-Both O'Brien and Tchakarova identify the advantage of cheap mass systems over
-expensive precision platforms. [1][2]
+### Air-Defense Trade-offs
+ISW assesses that Russia cannot strengthen air defenses over both frontline
+and rear areas simultaneously, suggesting Ukraine can sustain the deep-strike
+campaign. [1][2]
 ```
 
 ### 8.2 Author tracking
 
 Recurring authors (3+ sources, or anticipated to reach that threshold) get
-**actor concepts** in `actors/` that serve as indexes:
+**actor concepts** in `actors/` that serve as indexes.
+
+For ISW material the threshold applies to the **institution, not each
+byline**: ISW gets an organization actor concept
+(`actors/organizations/institute-for-the-study-of-war.md`) describing its
+analytical method and coverage, created at first incorporation. Individual
+ISW analysts get author concepts only if they develop a distinct recurring
+framework of their own.
+
+Author actor concepts:
 
 - Describe their analytical framework, worldview, recurring themes, and perspective.
 - Link to all concepts where their analysis appears.
 
 ### 8.3 Frameworks that span multiple concepts
 
-Analytical frameworks that apply broadly (e.g., "Global System Rupture",
+Analytical frameworks that apply broadly (e.g., "Ukraine's deep-strike campaign",
 "energy is power") become **theme concepts** in `themes/`, where the framework
 itself is the concept.
 
@@ -242,7 +278,7 @@ itself is the concept.
 ## 9. Cross-linking
 
 - **Absolute links** use the `{{ site.baseurl }}` prefix and `.html` extension:
-  `[US-Iran War]({{ site.baseurl }}/conflicts/us-iran-war-2026.html)`.
+  `[Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html)`.
 - **Relative links** within the same directory use bare filenames with `.html`:
   `[United States](united-states.html)`.
 - Links to directory index pages use the permalink (no `.html`):
@@ -266,8 +302,8 @@ itself is the concept.
 ```markdown
 # Citations
 
-[1] [Early Lessons From The US-Iran War](https://phillipspobrien.substack.com/p/early-lessons-from-the-us-iran-war)
-[2] [Ceasefire in Iran](https://substack.com/@velinatchakarova/p-202096137)
+[1] [Russian Offensive Campaign Assessment, July 24, 2026](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-24-2026/)
+[2] [Ukraine's Strike Campaigns Will Likely Continue to Hurt Russia's Economy and Military Operations in Ukraine](https://understandingwar.org/research/russia-ukraine/ukraines-strike-campaigns-will-likely-continue-to-hurt-russias-economy-and-military-operations-in-ukraine/)
 ```
 
 ---
@@ -293,12 +329,14 @@ not `energy-policy`).
 `energy`, `military`, `technology`, `ai`, `ideology`, `economics`,
 `cognitive-warfare`, `drone-warfare`, `nuclear`, `cbrn`, `sanctions`, `trade`,
 `demography`, `intelligence`, `critical-minerals`, `supply-chain`,
-`naval`, `air-defense`, `missile`, `cyber`, `elections`
+`naval`, `air-defense`, `missile`, `cyber`, `elections`, `strike-campaign`,
+`occupation`, `mobilization`, `war-economy`, `fortifications`
 
 ### 11.3 Regional tags
 
-`middle-east`, `indo-pacific`, `europe`, `africa`, `latin-america`,
-`central-asia`, `caucasus`, `sahel`, `baltic`, `black-sea`
+`middle-east`, `indo-pacific`, `europe`, `eastern-europe`, `africa`,
+`latin-america`, `central-asia`, `caucasus`, `sahel`, `baltic`, `black-sea`,
+`crimea`
 
 ### 11.4 Conflict character tags
 
@@ -371,6 +409,31 @@ concept files — only for non-concept repo files (e.g. `rules.md`,
   from the source's `source:` frontmatter field is used.
 - Author actor concepts list the sources that inform them, linking to the
   original URLs.
+
+### 14.1 ISW source conventions
+
+- ISW articles are saved as markdown under `sources/isw/`, named
+  `YYYY-MM-DD-<slug>.md` where the date is the **publication date**:
+  `sources/isw/2026-07-24-russian-offensive-campaign-assessment.md`.
+- Source-file frontmatter:
+
+```yaml
+source: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-july-24-2026/
+title: Russian Offensive Campaign Assessment, July 24, 2026
+date: 2026-07-24
+publication: ISW
+source_type: daily-assessment    # or: special-report
+authors: [Christina Harward, Kateryna Shymkiv]
+```
+
+- Concepts cite the **ISW article URL**. ISW's own endnotes (Telegram
+  channels, media reports, etc.) are second-hand sources: they remain in the
+  raw source file and are never re-cited in concepts.
+- Daily assessments follow a fixed structure (key takeaways, then recurring
+  operational sections per axis, the air/missile/drone campaign, and Belarus).
+  Incorporation maps each operational section to its axis region concept per
+  §7.1; toplines and cross-cutting analysis map to the conflict, theme, and
+  actor concepts they concern.
 
 ---
 

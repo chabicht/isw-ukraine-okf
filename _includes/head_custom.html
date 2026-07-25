@@ -1,0 +1,53 @@
+<script>
+  (function() {
+    var dark = window.matchMedia('(prefers-color-scheme: dark)');
+
+    function storedTheme() {
+      try { return localStorage.getItem('theme'); } catch (e) { return null; }
+    }
+    function setStoredTheme(v) {
+      try {
+        if (v === null) localStorage.removeItem('theme');
+        else localStorage.setItem('theme', v);
+      } catch (e) {}
+    }
+
+    function osTheme() { return dark.matches ? 'dark' : 'light'; }
+
+    function effectiveTheme() {
+      var s = storedTheme();
+      return (s === 'light' || s === 'dark') ? s : osTheme();
+    }
+
+    function applyTheme() {
+      if (window.jtd && typeof jtd.setTheme === 'function') {
+        jtd.setTheme(effectiveTheme());
+      }
+      var btn = document.getElementById('theme-toggle');
+      if (btn) btn.textContent = iconFor(currentMode());
+    }
+
+    function currentMode() {
+      var s = storedTheme();
+      return (s === 'light' || s === 'dark') ? s : 'auto';
+    }
+
+    function iconFor(mode) {
+      return mode === 'light' ? '\u2600' : mode === 'dark' ? '\u263D' : '\u25D0';
+    }
+
+    window.cycleTheme = function() {
+      var order = ['light', 'dark', 'auto'];
+      var next = order[(order.indexOf(currentMode()) + 1) % order.length];
+      if (next === 'auto') setStoredTheme(null);
+      else setStoredTheme(next);
+      applyTheme();
+    };
+
+    applyTheme();
+    document.addEventListener('DOMContentLoaded', applyTheme);
+    dark.addEventListener('change', function() {
+      if (storedTheme() === null) applyTheme();
+    });
+  })();
+</script>
