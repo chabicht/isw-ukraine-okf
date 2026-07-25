@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-06T00:00:00Z
+timestamp: 2025-01-07T00:00:00Z
 ---
 
 # Current Situation
@@ -20,6 +20,8 @@ Elements of the Russian 5th Motorized Rifle Brigade (51st CAA) reportedly partic
 
 The Russian MoD claimed on January 6 that elements of the 5th and 110th motorized rifle brigades (51st CAA) seized all of Kurakhove. Ukrainian Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated that fighting was ongoing within Kurakhove as of the morning of January 6. Kremlin newswire _TASS_ reported that Russian forces pushed Ukrainian forces out of part of the Kurakhivske TPP (west of Kurakhove) and that fighting is ongoing for administrative buildings at the TPP. A Russian milblogger claimed Russian forces advanced south of Shevchenko (northwest of Kurakhove), but ISW has not observed confirmation. Elements of the Russian 114th Motorized Rifle Brigade (51st CAA) are reportedly operating near Petropavlivka and Shevchenko, and elements of the 238th Artillery Brigade (8th CAA, Southern Military District) near Kurakhove.[5]
 
+Russian forces continued offensive operations in the Kurakhove direction on January 7 but did not make any confirmed advances. Ukraine's Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated that Ukrainian forces are still defending on the western outskirts of Kurakhove and maintain positions in the Kurakhivska TPP. Trehubov noted that Russian forces are attempting to level Kurakhove to the ground. The spokesperson for a Ukrainian brigade operating in the Kurakhove direction stated that Russian forces have concentrated their largest force grouping in the Kurakhove direction and are constantly replenishing frontline units. The spokesperson stated that recently deployed Russian troops often undergo fewer than two weeks of training before deploying to the frontline near Kurakhove and that Russian forces are using fewer armored vehicles than in late 2024. Russian milbloggers claimed Russian forces seized Shevchenko (west of Kurakhove) and advanced in fields west of Petropavlivka and two kilometers west of Sukhi Yaly, but ISW has not observed confirmation. A Russian milblogger claimed that elements of the Russian 114th Motorized Rifle Brigade (51st CAA) are advancing towards Andriivka and recently seized Ukrainian positions near Dachne along the Vovcha River after resting and reconstituting. A Russian milblogger also claimed that the Russian military command recently withdrew elements of the 5th and 110th motorized rifle brigades (51st CAA) from combat operations near Kurakhove to rest and reconstitute, and will redeploy them to an unspecified frontline area at a future date.[6]
+
 Note: ISW is incorporating data previously reported as the Vuhledar direction as part of the Kurakhove direction moving forward, reflecting the shifting operational situation.
 
 # Citations
@@ -29,3 +31,4 @@ Note: ISW is incorporating data previously reported as the Vuhledar direction as
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
+[6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)

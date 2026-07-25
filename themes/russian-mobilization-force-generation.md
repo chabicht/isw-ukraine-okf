@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-06T00:00:00Z
+timestamp: 2025-01-07T00:00:00Z
 ---
 
 # Current Situation
@@ -26,9 +26,12 @@ Ukrainian President Volodymyr Zelensky stated in an interview published on Janua
 
 Russian machine guns and small arms manufacturer Degtyaryev Plant recently filed its second multimillion-ruble lawsuit against the Russian Ministry of Defense (MoD) for over 100 million rubles (about $930,000) for an unspecified reason. The Degtyaryev Plant won a case against the Russian MoD for about 100.5 million rubles (about $934,000) in December 2024 in its first lawsuit. Russian authorities have arrested multiple high-ranking Russian MoD officials, including those responsible for defense procurement and logistics, on charges of bribery and embezzlement in recent months.[4]
 
+The Kremlin continues to promote the "Time of Heroes" program, which aims to place veterans of the Russian full-scale invasion of Ukraine in positions in local, regional, and federal governments. The program announced on December 31 that over 15,000 Russian military veterans have applied for the second cohort since November 2024 and that the application window is open until January 25.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
+[5] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)

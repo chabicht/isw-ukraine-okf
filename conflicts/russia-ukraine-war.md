@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-06T00:00:00Z
+timestamp: 2025-01-07T00:00:00Z
 ---
 
 # Background
@@ -38,6 +38,12 @@ Chechen Akhmat Spetsnaz commander Apty Alaudinov published a video of his meetin
 
 Ukrainian President Volodymyr Zelensky stated in an interview published on January 5 that 3,800 North Korean personnel have been killed and wounded in Kursk Oblast, warning that North Korea could deploy additional personnel to support Russian aggression.[5]
 
+Russian forces made tactical advances in northwestern Toretsk on January 7, reaching the northwestern administrative boundary along Kvitkova Street, with ISW assessing Russian forces occupy 71 percent of the settlement. Russian forces shifted assault tactics from fireteams to platoons of up to 20 soldiers. ISW assessed that Russian forces intend to exploit their advances to push towards Kostyantynivka along the T-05-16 highway but are unlikely to pose a significant threat to the town without reinforcements from other sectors. The Russian military command could redeploy forces from Pokrovsk and Kurakhove to Toretsk in the future but would likely not do so until objectives in those areas are achieved. The 5th and 110th motorized rifle brigades were reportedly withdrawn from Kurakhove for rest and reconstitution.[6]
+
+Ukrainian forces struck a command post of the Russian 810th Naval Infantry Brigade in Belaya, Kursk Oblast on January 7 — the second strike on an 810th Brigade command post in Kursk Oblast within two weeks. Ukraine's SSO reported killing 13 North Korean soldiers in Kursk Oblast.[6]
+
+The Kremlin's "Time of Heroes" program announced that over 15,000 Russian military veterans have applied for the second cohort since November 2024, as the Kremlin continues efforts to place invasion veterans in government positions.[6]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -45,3 +51,4 @@ Ukrainian President Volodymyr Zelensky stated in an interview published on Janua
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
+[6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)

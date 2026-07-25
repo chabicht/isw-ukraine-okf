@@ -6,6 +6,25 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Toretsk tactical advances and Kostyantynivka analysis, 810th Brigade CP strike in Belaya, 13 North Korean casualties, Time of Heroes 15,000 applicants;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with Kvitkova Street advance, 71% assessed control, platoon-sized assault tactics, Kostyantynivka threat assessment, 5th/110th brigade withdrawal;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Russian advances in Kruglenkoye, Leonidovo, Staraya Sorochina, Russkoye Porechnoye, Ukrainian advance in Pogrebki, 13 NK soldiers killed, 810th CP strike, unit dispositions;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued limited attacks near Vovchansk and Tykhe, glide bomb increase;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Novomlynsk flag raise, Borova direction 27th MRB mechanized advance, thermal-imaging cloak tactics, Lyman unconfirmed claims;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Bilohorivka ops, no advances;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with continued ops, 98th VDV Division drone operators;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with advances in eastern Lysivka, north of Vovkove, northwest of Vozdvyzhenka, 35th MRB operations;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with continued TPP defense, Ukrainian positions on western outskirts, 5th/110th brigade withdrawal for reconstitution, reduced armored vehicle use, minimal training of recent reinforcements;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with continued operations near Novosilka and Pryvilne;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with continued Novodanylivka ops, 291st MRR and BARS-Sarmat operations, Ukrainian infantry group advance claims;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with Dnipro direction limited attacks, Osa and Pantsir AD system destruction, 81st Artillery Regiment and 127th Reconnaissance Brigade;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 6-7 overnight strike (38 drones), F-16 pilot downing 6 cruise missiles;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with 810th Brigade CP strike in Belaya, F-16 sortie;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with Time of Heroes 15,000+ applicants;
+  [Black Sea naval operations]({{ site.baseurl }}/themes/black-sea-naval-operations.html) with Osa and Pantsir AD system destruction in Kherson.
+* **Creation**: Event concept for [Ukrainian Strike on 810th Brigade Command Post in Belaya]({{ site.baseurl }}/events/ukrainian-missile-strike-belaya-2025-01-07.html).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with POW execution near Neskuchne, preliminary POW exchange agreement, Akhmat-Rusich meeting, North Korean casualties, MoD Kurakhove seizure claim;
   [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with continued Ukrainian tactical advances, Russian redeployment of 177th Naval Infantry Regiment from Zaporizhia, strike on 3754th Aviation Technical Base;

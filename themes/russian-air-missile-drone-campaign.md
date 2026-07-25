@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-06T00:00:00Z
+timestamp: 2025-01-07T00:00:00Z
 ---
 
 # Current Situation
@@ -30,6 +30,10 @@ Ukrainian President Volodymyr Zelensky reported that Ukrainian forces shot down 
 
 On the night of January 5 to 6, Russian forces launched two Kh-59/69 cruise missiles from the south and 128 Shahed and other drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol and Kursk oblasts. Ukrainian forces downed both Kh-59 missiles and 79 drones over Mykolaiv, Poltava, Sumy, Kharkiv, Kyiv, Chernihiv, Cherkasy, Dnipropetrovsk, Zhytomyr, Kirovohrad, and Vinnytsia oblasts; 49 drones became "lost." The drones and missiles did not hit any targets, but falling debris damaged enterprises, institutions, and residential areas in Chernihiv, Sumy, Cherkasy, Poltava, and Kyiv oblasts. Ukrainian train operator Ukrzaliznytsia reported that strikes damaged the railway network and temporarily stopped operations in Kyiv Oblast on January 6, but operations have since been restored.[5]
 
+On the night of January 6 to 7, Russian forces launched 38 Shahed and other drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Kursk Oblast. The Ukrainian Air Force reported that Ukrainian forces downed 28 drones over Poltava, Sumy, Kharkiv, Cherkasy, Mykolaiv, Kherson, and Kirovohrad oblasts; 10 decoy drones were "lost" due to Ukrainian electronic warfare interference; and three drones returned to Russian airspace as of 0900 local time.[6]
+
+The Ukrainian Air Force reported on January 7 that a Ukrainian F-16 fighter pilot downed six Russian cruise missiles during a single sortie on December 13.[6]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -37,3 +41,4 @@ On the night of January 5 to 6, Russian forces launched two Kh-59/69 cruise miss
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
+[6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)

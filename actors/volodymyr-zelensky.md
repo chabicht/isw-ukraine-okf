@@ -5,7 +5,7 @@ parent: Actors
 description: President of Ukraine, the wartime leader of the nation's defense against Russian aggression.
 tags: [leader, ukraine, military]
 status: ongoing
-timestamp: 2025-01-06T00:00:00Z
+timestamp: 2025-01-07T00:00:00Z
 ---
 
 # Current Situation

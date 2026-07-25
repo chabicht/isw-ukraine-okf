@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Pokrovsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-06T00:00:00Z
+timestamp: 2025-01-07T00:00:00Z
 ---
 
 # Current Situation
@@ -22,6 +22,8 @@ The Russian military command may assess that advancing through the fields and sm
 
 Ukrainian and Russian forces continued to advance in the Pokrovsk direction on January 6. Geolocated footage published on January 6 indicates that Ukrainian forces advanced on the northwestern outskirts of Vozdvyzhenka (east of Pokrovsk). Additional geolocated footage indicates that Russian forces recently advanced northeast of Vovkove (southwest of Pokrovsk). The Russian MoD claimed that Russian forces seized Dachenske (south of Pokrovsk), which ISW assessed Russian forces had seized as of December 22. Russian milbloggers claimed advances east of Vozdvyzhenka, into Baranivka, near Yelyzavetivka, into eastern Zelene, south of Zvirove, and north of Vovkove, but ISW has not observed confirmation. Elements of the Russian 5th Motorized Rifle Brigade (51st Combined Arms Army) reportedly continue operating near Vozdvyzhenka, and elements of the "Maxim Krivonos" volunteer detachment — allegedly formed by former members of the Ukrainian Armed Forces who defected to fight for Russia — are reportedly operating in the Pokrovsk direction.[5]
 
+Russian forces recently advanced in the Pokrovsk direction on January 7. Geolocated footage published on January 6 and 7 indicates that Russian forces recently advanced within eastern Lysivka (southeast of Pokrovsk), north of Vovkove (southwest of Pokrovsk), and northwest of Vozdvyzhenka (east of Pokrovsk). A Russian milblogger claimed additional gains northwest of Vovkove, but ISW has not observed confirmation. Russian forces conducted offensive operations near Pokrovsk itself and across multiple areas east, southeast, south, and southwest of the town. Elements of the Russian 35th Motorized Rifle Brigade (41st CAA, CMD) are reportedly operating near Pokrovsk.[6]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -29,3 +31,4 @@ Ukrainian and Russian forces continued to advance in the Pokrovsk direction on J
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
+[6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)

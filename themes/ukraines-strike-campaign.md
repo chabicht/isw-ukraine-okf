@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-06T00:00:00Z
+timestamp: 2025-01-07T00:00:00Z
 ---
 
 # Current Situation
@@ -30,6 +30,10 @@ Ukrainian outlet _Suspilne_ reported on January 6 that SBU sources confirmed Ukr
 
 Ukrainian forces continue to strike Russian air defense systems in southern Ukraine. The Ukrainian Navy published footage showing a drone strike that destroyed two Russian Pantsir-S1 systems and also destroyed or damaged one Osa system in occupied Kherson Oblast. Ukraine's Southern Operational Command reported that Ukrainian forces destroyed two Russian S-300 systems in the past day. A Russian milblogger claimed that one Pantsir was destroyed by an FPV drone launched from a sea-borne drone carrier.[5]
 
+The Ukrainian General Staff stated on January 7 that Ukrainian forces struck a command post of the Russian 810th Naval Infantry Brigade (BSF, SMD) in Belaya, Kursk Oblast. The Ukrainian General Staff did not report if the strike killed or wounded Russian personnel. Ukrainian forces previously struck a different 810th Naval Infantry Brigade command post near Lgov, Kursk Oblast on December 25, killing the brigade's deputy commander and other staff officers.[6]
+
+The Ukrainian Air Force reported on January 7 that a Ukrainian F-16 fighter pilot downed six Russian cruise missiles during a single sortie on December 13.[6]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -37,3 +41,4 @@ Ukrainian forces continue to strike Russian air defense systems in southern Ukra
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
+[6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
