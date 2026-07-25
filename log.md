@@ -6,6 +6,26 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Zelensky's just-peace conditions, Shmyhal's production plans, and Russian shift to Donetsk-Dnipropetrovsk border;
+  [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with his January 2 interview on peace conditions and martial law;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with continued stalemate and Yandex refinery-censorship order;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with reduced sabotage-group training quality;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with continued unconfirmed claims;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with no additional advances;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with Ukrainian counterattacks near Refractory Plant;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with civilian-disguise reports and fiber-optic drone use;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with confirmed advances and 41st CAA redeployment;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with Ukrainian withdrawal from TPP and seizure of Shevchenko;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with advances south of Rozlyv and Velyka Novosilka GLOC disruption;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with continued but inconclusive operations;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with Kozatskyi Island attacks and 80th Brigade operations;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 2-3 strike data and Verkhovna Rada damage;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Shmyhal's 2025 production targets and Trembita missile;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with Glaz/Groza software and commander-abuse reports;
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with fiber-optic drone range improvements;
+  [Black Sea naval operations]({{ site.baseurl }}/themes/black-sea-naval-operations.html) with Syria-to-Libya evacuation movement.
+
 * **Creation**: First source incorporation — [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) conflict concept; [Russia]({{ site.baseurl }}/actors/countries/russia.html), [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html), [Moldova]({{ site.baseurl }}/actors/countries/moldova.html), [Iran]({{ site.baseurl }}/actors/countries/iran.html), [Belarus]({{ site.baseurl }}/actors/countries/belarus.html) country actors; [Gazprom]({{ site.baseurl }}/actors/organizations/gazprom.html) and [Institute for the Study of War]({{ site.baseurl }}/actors/organizations/institute-for-the-study-of-war.html) organization actors; and [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) leader actor. Source: ISW Russian Offensive Campaign Assessment, January 2, 2025.
 
 ## 2026-07-25

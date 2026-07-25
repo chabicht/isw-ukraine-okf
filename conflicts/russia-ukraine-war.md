@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-02T00:00:00Z
+timestamp: 2025-01-03T00:00:00Z
 ---
 
 # Background
@@ -18,10 +18,13 @@ As of January 2025, the war remains a grinding war of attrition across a heavily
 
 A major energy and economic development occurred on January 1, 2025, when Ukraine declined to renew its contract to transport Russian gas through its territory, ending five decades of Russian gas transit via Ukraine. The cessation will cost Gazprom an estimated $6 billion annually in lost revenue, leaving TurkStream as Russia's sole pipeline route to Europe.[1]
 
-President Volodymyr Zelensky signaled in his New Year's Eve address that Ukraine will intensify drone and missile strikes against Russia in 2025. Ukraine produced over one million drones in 2024, is developing domestic missile systems, and aims to bring Russia to accept terms for a "just peace" through military strength.[1]
+President Volodymyr Zelensky outlined conditions for a "just peace" on January 2: a strong Ukrainian military, security guarantees from Western allies, and Ukraine's future NATO and EU membership — directly rebutting Putin's 2022 Istanbul demand that Ukraine demilitarize to 50,000 personnel. Zelensky reiterated that the constitution prohibits elections under martial law, countering Kremlin narratives questioning his legitimacy.[2]
 
-Russia continues to press offensive operations in Donetsk and Luhansk oblasts, with recent advances near Siversk, Toretsk, Pokrovsk, Kurakhove, and Vuhledar. Russia is also pursuing long-term occupation goals at the Zaporizhzhia Nuclear Power Plant, planning to license all six reactors under Russian authority by 2028.[1]
+Ukrainian Prime Minister Denys Shmyhal announced on January 3 that Ukraine plans to produce about 3,000 cruise missiles and "drone-missiles" and at least 30,000 long-range drones in 2025, with the defense industrial base aiming for $30 billion in output and $1 billion in foreign investment.[2]
+
+Russia continues to press offensive operations in Donetsk and Luhansk oblasts, with recent advances near Pokrovsk, Kurakhove, and Vuhledar confirmed on January 3. Ukrainian forces withdrew from the Kurakhivske Thermal Power Plant and Russia seized Shevchenko northwest of Kurakhove. The Russian military command is shifting its focus from enveloping Pokrovsk to pushing west towards the Donetsk-Dnipropetrovsk border.[2]
 
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
+[2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

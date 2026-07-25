@@ -5,7 +5,7 @@ parent: Actors
 description: President of Ukraine, the wartime leader of the nation's defense against Russian aggression.
 tags: [leader, ukraine, military]
 status: ongoing
-timestamp: 2025-01-02T00:00:00Z
+timestamp: 2025-01-03T00:00:00Z
 ---
 
 # Current Situation
@@ -16,6 +16,11 @@ Zelensky announced that Ukraine produced over one million drones in 2024 and is 
 
 Zelensky characterized Ukraine's expanding missile and drone arsenal as "arguments for a just peace," articulating a strategic vision in which military strength creates the conditions for favorable diplomacy. He also reported that Ukrainian forces shot down 1,310 cruise and ballistic missiles and 7,800 Iranian Shahed drones in 2024.[1]
 
+On January 2, Zelensky elaborated on the conditions for a "just peace": a strong Ukrainian military, security guarantees from Western allies, and Ukraine's future NATO and EU membership. He stated that such conditions are necessary to deter Russia from renewed aggression. Zelensky specifically referenced Putin's 2022 Istanbul peace talk demand that Ukraine demilitarize to roughly 50,000 personnel, rejecting that as incompatible with a just peace.[2]
+
+Zelensky reiterated on January 2 that Ukrainian law prohibits elections under martial law. He stated that ending martial law requires the "hot phase" of the war to end and Ukraine to be in a "strong position" with a strong military, weapons package, and security guarantees. Kremlin officials have used deliberate misreadings of Ukraine's law and constitution to claim Zelensky is an illegitimate president.[2]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
+[2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

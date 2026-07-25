@@ -5,7 +5,7 @@ parent: Organizations
 description: The US-based think tank whose Russian Offensive Campaign Assessment series is the primary source stream for this knowledge bundle.
 tags: [organization, author, military, intelligence]
 status: evergreen
-timestamp: 2025-01-02T00:00:00Z
+timestamp: 2025-01-03T00:00:00Z
 ---
 
 # Background
