@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-03T00:00:00Z
+timestamp: 2025-01-04T00:00:00Z
 ---
 
 # Current Situation
@@ -20,7 +20,10 @@ The Russian MoD continues to support its official "Glaz/Groza" reconnaissance an
 
 Russian soldiers continue to report commanders abusing subordinates and hiding casualties. Officers of military unit 29593 (either the 1440th or 1194th Motorized Rifle Regiment) are confiscating soldiers' personal phones and forcing injured soldiers to pay their platoon commanders 20,000 to 50,000 rubles (about $181-$452) to receive hospital treatment. The unit command may have transferred injured soldiers to a fake unit to hide the casualty rate.[2]
 
+The Russian government continues to increase financial incentives to boost military recruitment. Samara Oblast increased one-time lump payments for signing a contract to four million rubles (about $36,222), characterized as the highest one-time payment currently offered in Russia. Voronezh Oblast increased one-time payments to individuals who refer someone else to sign a contract by 50 percent to 75,000 rubles (about $679), just two weeks after the previous increase.[3]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
+[3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)

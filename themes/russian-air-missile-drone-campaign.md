@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-03T00:00:00Z
+timestamp: 2025-01-04T00:00:00Z
 ---
 
 # Current Situation
@@ -16,7 +16,11 @@ On the night of January 1-2, 2025, Russian forces launched 72 Shahed and other s
 
 On the night of January 2-3, 2025, Russian forces launched 93 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast and Bryansk and Oryol oblasts. Ukrainian forces downed 60 drones over Poltava, Sumy, Kharkiv, Kyiv, Chernihiv, Cherkasy, Zhytomyr, Donetsk, and Dnipropetrovsk oblasts; 26 decoy drones were lost. Russian drones struck private enterprises and residential complexes in Donetsk and Chernihiv oblasts. Debris damaged residential homes and civilian vehicles in Kyiv Oblast. The Russian strike on Kyiv City on January 1 damaged administrative buildings of the Verkhovna Rada.
 
-The Hajun Project reported that 395 Russian drones entered Belarusian airspace in 2024, with 145 in December 2024 alone. Air defenses downed 10 Shahed drones over Latvian and Belarusian airspace in 2024.
+The Hajun Project reported that 395 Russian drones entered Belarusian airspace in 2024, with 145 in December 2024 alone. Air defenses downed 10 Shahed drones over Latvian and Belarusian airspace in 2024.[1][2]
+
+On January 3, Russian forces launched five S-300 air defense missiles at Ukrainian positions in Kursk Oblast; three Iskander-M ballistic missiles at Chernihiv Oblast; three Kh-59/69 cruise missiles at Dnipropetrovsk Oblast; and 32 Shahed and decoy drones. Ukrainian forces downed three Kh-59/69 missiles and 13 drones; 19 drones were lost to Ukrainian electronic warfare interference. Russian forces conducted three missile strikes on a residential building on the outskirts of Chernihiv City within a few hours, killing one civilian and damaging surrounding houses.[3]
+
+On the night of January 3-4, Russian forces launched 81 Shahed and decoy drones from Bryansk, Kursk, and Oryol oblasts and Primorsko-Akhtarsk, Krasnodar Krai. Ukrainian forces downed 34 drones over Poltava, Sumy, Kharkiv, Kyiv, Chernihiv, Kirovohrad, Dnipropetrovsk, Odesa, and Mykolaiv oblasts. 47 drones were lost to Ukrainian electronic warfare interference. Debris from downed drones damaged residential homes in Chernihiv and Sumy oblasts. A Russian Shahed drone damaged two industrial locations in Stari Borovychi, Chernihiv Oblast.[3]
 
 Ukrainian President Volodymyr Zelensky reported that Ukrainian forces shot down 1,310 cruise and ballistic missiles and 7,800 Iranian Shahed drones in 2024.[1][2]
 
@@ -24,3 +28,4 @@ Ukrainian President Volodymyr Zelensky reported that Ukrainian forces shot down 
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
+[3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)

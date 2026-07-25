@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-03T00:00:00Z
+timestamp: 2025-01-04T00:00:00Z
 ---
 
 # Current Situation
@@ -16,7 +16,12 @@ On January 3, geolocated footage published on January 2 confirmed Russian forces
 
 Near Velyka Novosilka, Russian forces continued offensive operations on January 3 but made no confirmed advances. A Ukrainian brigade spokesperson reported that Russian forces are primarily focused on disrupting Ukrainian GLOCs supplying forces in the Kurakhove and Velyka Novosilka directions, using small infantry groups to enter contested gray zones.[2]
 
+Russian forces continued offensive operations near Velyka Novosilka on January 4 but did not make any confirmed advances. Russian forces conducted offensive operations west of Velyka Novosilka near Novosilka. A Russian milblogger claimed advances northwest of Neskuchne and towards Novosilka south of the O0510 highway, but ISW has not observed confirmation.[3]
+
+Note: ISW is incorporating data previously reported as the Vuhledar direction as part of the Kurakhove direction moving forward, reflecting the shifting operational situation.
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
+[3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)

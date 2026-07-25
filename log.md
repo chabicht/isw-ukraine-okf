@@ -6,6 +6,25 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with vehicle loss data, sustainability analysis, and Ust-Luga strike;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Jan 4 operations and unit dispositions;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued limited operations;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Ukrainian Terny recapture, Russian Ivanivka advance, and Kupyansk/Borova claims;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with no confirmed advances;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with 10,000+ personnel and 98th VDV Division operations;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with marginal advance on 1-Hirskyi Street;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with advances in Lysivka and Vovkove, Novoolenivka seizure;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with Ukrainian positions at Stari Terny, Kostyantynopolske advance, and unit dispositions;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with continued Velyka Novosilka operations;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with unconfirmed claims and Ukrainian counterattacks;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Dnipro island assaults;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 3 strikes, Chernihiv City strike, and Jan 3-4 overnight Shahed data;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Ust-Luga and Baltimore Air Base strikes;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with Samara and Voronezh payment increases;
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with naval drone lag and T-62 APC modifications.
+* **Creation**: Event concept for [Ukrainian Drone Strike on Ust-Luga Gas Terminal]({{ site.baseurl }}/events/ukrainian-drone-strike-ust-luga-2025-01-03.html).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Zelensky's just-peace conditions, Shmyhal's production plans, and Russian shift to Donetsk-Dnipropetrovsk border;
   [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with his January 2 interview on peace conditions and martial law;

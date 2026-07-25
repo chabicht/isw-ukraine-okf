@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-03T00:00:00Z
+timestamp: 2025-01-04T00:00:00Z
 ---
 
 # Current Situation
@@ -14,7 +14,11 @@ Ukrainian President Volodymyr Zelensky signaled in his New Year's Eve address th
 
 On January 3, Ukrainian Prime Minister Denys Shmyhal announced Ukraine plans to produce about 3,000 cruise missiles and "drone-missiles" and at least 30,000 long-range drones in 2025. The DIB aims to increase production capacity to about $30 billion worth of goods and attract $1 billion in foreign investment. The Telegraph reported that Ukraine is working to mass-produce the "Trembita" cruise missile, which has a 90-mile range, a 40-pound payload, and costs $10,000 per unit.[2]
 
-Ukrainian forces conducted a HIMARS strike against the command post of the Russian 810th Naval Infantry Brigade in Ivanovskoye, Kursk Oblast. A Ukrainian Magura V5 naval drone used missiles to destroy two Russian Mi-8 helicopters and damage a third in the Black Sea on December 31, 2024.
+Ukrainian forces conducted a HIMARS strike against the command post of the Russian 810th Naval Infantry Brigade in Ivanovskoye, Kursk Oblast on January 2. Russian opposition outlet _Astra_ reported that the strike killed seven Russian servicemembers.[1][3]
+
+A Ukrainian Magura V5 naval drone used missiles to destroy two Russian Mi-8 helicopters and damage a third in the Black Sea on December 31, 2024.
+
+On the night of January 3-4, Ukrainian forces struck the Novatek gas terminal at the Ust-Luga port in Leningrad Oblast — the second largest sea trade port in Russia after Novorossiysk. Geolocated footage confirms damage to the terminal. Ukrainian forces also targeted the Baltimore Air Base in Voronezh City with at least five drones; Russian forces reportedly shot down all the drones.[3]
 
 Ukrainian strikes continue to degrade Russian logistics in occupied Crimea, including damage to the railway on the Kerch Strait Bridge and ferries transporting railway cars and fuel tankers.[1]
 
@@ -22,3 +26,4 @@ Ukrainian strikes continue to degrade Russian logistics in occupied Crimea, incl
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
+[3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
