@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "experiment": "retrospective controlled comparison from frozen inputs and recorded sessions",
+  "model_control": "GLM-5.2 medium for text cases; Tchakarova multimodal work excluded as a capability confound",
+  "strategies": [
+    {"id": 1, "name": "source-owned parallel direct writes", "hard_gate": "fail", "evidence": "SWP collision; overlapping destinations; user-directed rollback and retry"},
+    {"id": 2, "name": "fully sequential analysis and writing", "hard_gate": "pass", "evidence": "SWP recovery completed without a second collision", "tradeoff": "highest elapsed time"},
+    {"id": 3, "name": "parallel read-only extraction, one coordinator writer", "hard_gate": "selected conservative default", "evidence": "separates safe read parallelism from serialized mutation; deterministic ownership tests pass", "tradeoff": "coordinator bottleneck"},
+    {"id": 4, "name": "parallel exclusive-destination writers", "hard_gate": "conditional pass", "evidence": "War on the Rocks follow-up used destination-owned shared files without recorded rollback", "tradeoff": "requires complete reservations and coordinator-owned globals"}
+  ],
+  "winner": 3,
+  "reason": "No fully concurrent strategy has evidence clearing every semantic and idempotence gate. Per experiment rule, choose parallel analysis with serialized writing.",
+  "exceptions": [
+    "Allow strategy 4 only when manifests prove disjoint destinations and current pre-edit hashes.",
+    "Keep author concepts, indexes, rules, configuration, and log.md coordinator-owned.",
+    "Never compare image-dependent runs with text-only concurrency candidates."
+  ]
+}

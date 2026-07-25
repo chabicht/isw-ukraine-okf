@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OKF review findings",
+  "type": "object",
+  "required": ["schema_version", "review_id", "baseline_hash", "sampling", "findings", "verdict"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "sampling": {"type": "object", "required": ["deterministic_scope", "semantic_sample", "limits"]},
+    "findings": {"type": "array", "items": {"type": "object", "required": ["id", "severity", "evidence", "affected", "required_disposition", "resolution_status"]}},
+    "verdict": {"enum": ["Blocked", "Needs remediation", "Ready for consolidation", "Ready"]}
+  }
+}

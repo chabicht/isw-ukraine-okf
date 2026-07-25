@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "run_id": "okf-2026-07-22-lifecycle-remediation",
+  "baseline_hash": "b6198e8",
+  "checkpoint_hash": "0a62df9",
+  "sources": [
+    {"path": "sources/2026-07-22 Phillips P. OBrien Midweek Update 20 Each Day The US Weakens Itself.md", "sha256": "616573bf0c68292a28223e127c47e83a24ef69b6c20dc28b22048d36b93792c7"},
+    {"path": "sources/2026-07-20 Can America Open Hormuz by the Midterms.md", "sha256": "ff622f0db97aec9917c3f1831e25a574ff5031c21d47e8231b16e45ca8d6c247"},
+    {"path": "sources/2026-07-22 csis.org Elbows Up The Price of Economic Coercion Against Canada.md", "sha256": "8563ea0b0389bfceda5c433cb0bbab8e2dde0dbcef92adf41ef218eb4b42f3cd"},
+    {"path": "sources/SWP_WP_Adrians_WhiteWaterZone_2026.pdf", "sha256": "8dc5086f486fbe428c051eefee98b1bdeb943a034d86317d48259add747ff8a3"}
+  ],
+  "all_sources_ref": "baseline.json#/source_hashes",
+  "model": {"id": "gpt-5", "variant": "default", "vision": true},
+  "claims": [
+    {"id": "OB20-SIDEWAYS", "source": "O'Brien Midweek Update #20", "facets": ["conflict-operations", "iran-coercive-posture", "us-readiness", "author-thesis"]},
+    {"id": "PAPE-HORMUZ-CLOCK", "source": "Can America Open Hormuz by the Midterms", "facets": ["conflict-operations", "iran-time-horizon", "us-force-allocation", "author-framework"]},
+    {"id": "PAPE-AQABA-BYPASS", "source": "Breaking Analysis #6", "facets": ["conflict-escalation", "iran-coercive-posture", "jordan-exposure"]},
+    {"id": "CANADA-COERCION", "source": "CSIS Canada cluster", "facets": ["canada-actor-impact", "usmca-event", "coercion-theme", "trump-posture"]},
+    {"id": "SWP-WHITE-WATER", "source": "SWP White Water Zone PDF", "facets": ["arctic-environment", "canada-sovereignty", "nato-doctrine", "author-framework"]}
+  ],
+  "destinations": [
+    {"claim_id": "PAPE-HORMUZ-CLOCK", "facet_id": "conflict-operations", "concept": "conflicts/us-iran-war-2026.md"},
+    {"claim_id": "PAPE-HORMUZ-CLOCK", "facet_id": "iran-time-horizon", "concept": "actors/countries/iran.md"},
+    {"claim_id": "PAPE-HORMUZ-CLOCK", "facet_id": "us-force-allocation", "concept": "actors/countries/united-states.md"},
+    {"claim_id": "PAPE-HORMUZ-CLOCK", "facet_id": "author-framework", "concept": "actors/authors/robert-pape.md"},
+    {"claim_id": "PAPE-AQABA-BYPASS", "facet_id": "conflict-escalation", "concept": "conflicts/us-iran-war-2026.md"},
+    {"claim_id": "PAPE-AQABA-BYPASS", "facet_id": "iran-coercive-posture", "concept": "actors/countries/iran.md"},
+    {"claim_id": "PAPE-AQABA-BYPASS", "facet_id": "jordan-exposure", "concept": "actors/countries/jordan.md"}
+  ],
+  "worker_write_sets": {
+    "coordinator": [
+      "actors/authors/phillips-obrien.md",
+      "actors/authors/robert-pape.md",
+      "actors/countries/canada.md",
+      "actors/countries/iran.md",
+      "actors/countries/united-states.md"
+    ]
+  },
+  "pre_edit_hashes": {
+    "actors/authors/phillips-obrien.md": "da4f8e1eef820026c8fd8d6286a92097ab9a072e023e2282ea129aca6d9ac979",
+    "actors/authors/robert-pape.md": "a6be43792c12d96a42dba7278383b7daa796ef90b4416a3c79b2431d6bbc741d",
+    "actors/countries/canada.md": "b60e31d22552944c950245c3f547812437f4b6d095150588a65fdc5ab1893ff2",
+    "actors/countries/iran.md": "3cc2259ad2bdb7ce625ebb33fb50047d25f1cf365979181d63f6996fba5735a4",
+    "actors/countries/united-states.md": "6081ce5fe4096cc51cb86a0b2b690b12694c28057445ff9ad3fb6a31b83837a6"
+  },
+  "result_hashes": {
+    "actors/authors/phillips-obrien.md": "16e02a7ba34ac18c3ecb9797c5fa55370009a749cd700bf359202ad90980995a",
+    "actors/authors/robert-pape.md": "154b0d3fa68d94c467b2750ad1564779ff3359fa1b6638fcec0140ddaf55b0ce",
+    "actors/countries/canada.md": "8e9d52129729eb4e2f18a2039a113078f8206a7209d49def7473d2175136b562",
+    "actors/countries/iran.md": "2c6dbee8fcd96ea99bd08b384da5fa16a85c33c366bf4791b1ff79ee0e0b6f96",
+    "actors/countries/united-states.md": "adbab771da06ed679fab31f2471c83b7d8cd42e8a30772bd34b77d5b3696a8c7"
+  },
+  "validation_delta": {"errors": {"before": 3, "after": 0}, "warnings": {"baseline": 48, "after": 47, "new": 0}, "high_similarity_candidates": {"before": 8, "after": 0}},
+  "lifecycle_status": "post_review"
+}

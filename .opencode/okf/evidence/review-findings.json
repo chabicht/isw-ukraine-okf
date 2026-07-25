@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "review_id": "review-2026-07-22-remediation",
+  "baseline_hash": "0a62df9",
+  "sampling": {
+    "deterministic_scope": "All 60 changed concepts plus source immutability and 25 input paths",
+    "semantic_sample": "Seven strata recorded in claim-audit.json",
+    "limits": "Semantic conclusions are sampled; structural conclusions are exhaustive."
+  },
+  "findings": [
+    {"id": "OKF-LINK-LABEL-TARGET-db614941b8", "severity": "high", "basis": "observed", "evidence": "Bahrain label targeted Saudi Arabia", "affected": {"concept": "actors/authors/phillips-obrien.md", "claim": "OB20-SIDEWAYS"}, "required_disposition": "Remove the false target or create an authoritative Bahrain concept", "resolution_status": "resolved"},
+    {"id": "OKF-LINK-LABEL-TARGET-4001b76423", "severity": "high", "basis": "observed", "evidence": "Bahrain label targeted Saudi Arabia", "affected": {"concept": "actors/countries/iran.md", "claim": "OB20-SIDEWAYS"}, "required_disposition": "Remove the false target or create an authoritative Bahrain concept", "resolution_status": "resolved"},
+    {"id": "OKF-CITATIONS-TERMINAL-86fcead52d", "severity": "high", "basis": "observed", "evidence": "Canada had a See Also heading after # Citations", "affected": {"concept": "actors/countries/canada.md"}, "required_disposition": "Move See Also before terminal citations", "resolution_status": "resolved"},
+    {"id": "OKF-DUPLICATE-PAPE-HORMUZ", "severity": "high", "basis": "observed", "evidence": "Detailed Hormuz suppression and political-clock evidence had near-identical custody in author, actor, and conflict concepts", "affected": {"claim": "PAPE-HORMUZ-CLOCK", "concepts": ["actors/authors/robert-pape.md", "actors/countries/iran.md", "actors/countries/united-states.md", "conflicts/us-iran-war-2026.md"]}, "required_disposition": "Keep operational detail in the conflict and retain only concept-specific facets elsewhere", "resolution_status": "resolved"},
+    {"id": "OKF-PROVENANCE-WHITE-WATER", "severity": "medium", "basis": "sampled", "evidence": "White Water citation uses the SWP working-group page rather than a document-specific URL", "affected": {"source": "sources/SWP_WP_Adrians_WhiteWaterZone_2026.pdf"}, "required_disposition": "Retain original PDF hash and replace URL if a stable document URL becomes available", "resolution_status": "accepted_residual"}
+  ],
+  "verdict": "Ready for consolidation"
+}

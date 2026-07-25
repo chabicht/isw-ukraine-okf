@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "plan_id": "transfer-2026-07-22-pape-custody",
+  "baseline_hash": "0a62df9",
+  "scope": ["actors/authors/robert-pape.md", "actors/countries/iran.md", "actors/countries/united-states.md", "conflicts/us-iran-war-2026.md"],
+  "transfers": [
+    {
+      "claim_id": "PAPE-HORMUZ-CLOCK",
+      "canonical_home": "conflicts/us-iran-war-2026.md",
+      "retained_facets": {
+        "actors/authors/robert-pape.md": "coercion framework and tactical/strategic distinction",
+        "actors/countries/iran.md": "regime time horizon",
+        "actors/countries/united-states.md": "force allocation and mission expansion"
+      },
+      "removed_copies": ["duplicated force estimates", "duplicated coastal description", "duplicated Vietnam/congressional timeline"],
+      "expected_citations": {"actors/authors/robert-pape.md": [16], "actors/countries/iran.md": [25], "actors/countries/united-states.md": [36, 37], "conflicts/us-iran-war-2026.md": [52]},
+      "pre_edit_hashes": {"actors/authors/robert-pape.md": "a6be43792c12d96a42dba7278383b7daa796ef90b4416a3c79b2431d6bbc741d", "actors/countries/iran.md": "3cc2259ad2bdb7ce625ebb33fb50047d25f1cf365979181d63f6996fba5735a4", "actors/countries/united-states.md": "6081ce5fe4096cc51cb86a0b2b690b12694c28057445ff9ad3fb6a31b83837a6", "conflicts/us-iran-war-2026.md": "20511f6d217cd0123355f87b0655b8db8961d808a982040379ac53cf6b0c6eee"},
+      "decision": "merge"
+    },
+    {
+      "claim_id": "PAPE-AQABA-BYPASS",
+      "canonical_home": "conflicts/us-iran-war-2026.md",
+      "retained_facets": {"actors/countries/iran.md": "incentive to contest bypasses", "actors/countries/jordan.md": "receiving-state exposure"},
+      "removed_copies": ["near-verbatim pipeline and resistance-belt mechanism in Iran actor"],
+      "expected_citations": {"actors/countries/iran.md": [24], "conflicts/us-iran-war-2026.md": [24]},
+      "pre_edit_hashes": {"actors/countries/iran.md": "3cc2259ad2bdb7ce625ebb33fb50047d25f1cf365979181d63f6996fba5735a4", "conflicts/us-iran-war-2026.md": "20511f6d217cd0123355f87b0655b8db8961d808a982040379ac53cf6b0c6eee"},
+      "decision": "merge"
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "independent": true,
+    "review_id": "OKF-REVIEW-2026-07-22-A7F3C1",
+    "approved_plan_sha256": "991a8ccca7c3ac8a6255438f223852d50c46ceaec583030f2f4a9f9fd5b44b13",
+    "review_model": "fireworks/accounts/fireworks/models/glm-5p2",
+    "review_variant": "medium"
+  }
+}

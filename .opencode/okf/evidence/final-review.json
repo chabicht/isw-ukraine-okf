@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "review_id": "OKF-REVIEW-2026-07-22-A7F3C1",
+  "review_session": "ses_074a17c14ffeW1vuf6hI9dEVMI",
+  "independent": true,
+  "model": "fireworks/accounts/fireworks/models/glm-5p2",
+  "variant": "medium",
+  "approved_plan_sha256": "991a8ccca7c3ac8a6255438f223852d50c46ceaec583030f2f4a9f9fd5b44b13",
+  "baseline_hash": "0a62df9",
+  "verdict": "Ready",
+  "transfer_inspection": {
+    "inspected": 2,
+    "approved": 2,
+    "claims_preserved": true,
+    "citations_preserved": true,
+    "canonical_home_unchanged": "conflicts/us-iran-war-2026.md",
+    "expected_citations_verified": [16, 24, 25, 36, 37, 52]
+  },
+  "findings": [
+    {"id": "F-001", "severity": "low", "basis": "observed", "finding": "Pending approval was the only pre-approval contract failure", "disposition": "resolved by approval"},
+    {"id": "F-002", "severity": "low", "basis": "observed", "finding": "Canonical conflict home retained full detail and matched its pre-edit hash", "disposition": "accepted"},
+    {"id": "F-003", "severity": "low", "basis": "sampled", "finding": "Author, Iran, and United States summaries preserve distinct facets and citations", "disposition": "accepted"}
+  ],
+  "high_similarity_candidates": 0,
+  "reopening_conditions": [
+    "edit to any of the four scoped concept files",
+    "change to the approved transfer plan",
+    "new transfer",
+    "edit outside declared consolidation scope"
+  ]
+}

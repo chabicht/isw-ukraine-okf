@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OKF consolidation transfer plan",
+  "type": "object",
+  "required": ["schema_version", "plan_id", "baseline_hash", "scope", "transfers", "review"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "transfers": {"type": "array", "items": {"type": "object", "required": ["claim_id", "canonical_home", "retained_facets", "removed_copies", "expected_citations", "pre_edit_hashes", "decision"]}},
+    "review": {"type": "object", "required": ["status", "independent", "review_id"]}
+  }
+}

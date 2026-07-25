@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "scope": "Normalized metadata only; no raw assistant transcript retained",
+  "sessions": [
+    {
+      "id": "ses_0752ab5e0ffee39icri4mhRXbg",
+      "title": "Adding new source files to index",
+      "model": "fireworks/accounts/fireworks/models/glm-5p2",
+      "variant": "medium",
+      "elapsed_ms": 632187,
+      "tokens": {"input": 85248, "output": 18540, "cache_read": 975513},
+      "topology": {"children": 7, "strategy": "source workers followed by destination-owned shared-file workers"},
+      "assignments": ["Cipher Brief budget", "WOTR Make-or-Buy", "WOTR cognitive warfare", "United States", "Defense Industrial Resilience", "Great Power Competition", "War on the Rocks author"],
+      "outcome": "completed without recorded rollback; shared destinations were coordinator-assigned in follow-up work"
+    },
+    {
+      "id": "ses_074e52f24ffeg7EjQDZiSyjcQm",
+      "title": "Adding new files in sources/ to index",
+      "model": "fireworks/accounts/fireworks/models/glm-5p2",
+      "variant": "medium",
+      "elapsed_ms": 1016948,
+      "tokens": {"input": 178431, "output": 18487, "cache_read": 3326158},
+      "topology": {"children": 6, "strategy": "three parallel source writers, then three sequential retries"},
+      "prompts": [
+        "incorporate the new (not already added to the index) files in sources/; analyze the task and let subagents do the work in small chunks.",
+        "what about the pdf?",
+        "stop. parallel subagents mangled files with parallel edits. how about we roll back all okf changes not added to the index and retry your plan sequentially?"
+      ],
+      "intervention": "User directed rollback of affected unstaged OKF edits and sequential retry.",
+      "retries": ["Critical Minerals", "Labour Migration", "White Water Zone"],
+      "outcome": "recovered sequentially; raw PDF processed with pdftotext"
+    },
+    {
+      "id": "ses_074c5410cffeOWPmKRFVek962A",
+      "title": "okf-review skill incorporation changes review",
+      "model": "fireworks/accounts/fireworks/models/glm-5p2",
+      "variant": "default",
+      "elapsed_ms": 372264,
+      "tokens": {"input": 92101, "output": 21124, "cache_read": 1592706},
+      "outcome": "Ready; missed terminal section order, two Bahrain misroutes, warning-baseline proof, and high-similarity custody webs"
+    },
+    {
+      "id": "ses_074bf5b35ffebGi5vZo4pa0Umt",
+      "title": "Concept file consolidation Pass 1 survey",
+      "model": "fireworks/accounts/fireworks/models/glm-5p2",
+      "variant": "default",
+      "elapsed_ms": 453050,
+      "tokens": {"input": 164263, "output": 22937, "cache_read": 576235},
+      "topology": {"children": 2, "strategy": "broad file inventories"},
+      "outcome": "valuable clusters but over-broad reads, incomplete changed-set scope, inconsistent homes, and unresolved ownership"
+    }
+  ]
+}

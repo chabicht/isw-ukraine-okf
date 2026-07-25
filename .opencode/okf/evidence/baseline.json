@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "repository_baseline": "b6198e8",
+  "untouched_checkpoint": "0a62df9",
+  "checkpoint_branch": "okf-lifecycle-analysis",
+  "index": {
+    "files": 93,
+    "insertions": 4167,
+    "deletions": 68,
+    "new_markdown_sources": 24,
+    "new_pdf_sources": 1,
+    "changed_concepts": 60,
+    "new_concepts": ["actors/countries/canada.md", "actors/countries/jordan.md"],
+    "windows_metadata_deletions": 5
+  },
+  "validation": {
+    "baseline_files": 163,
+    "baseline_errors": 0,
+    "baseline_warnings": 48,
+    "checkpoint_files": 165,
+    "checkpoint_errors": 0,
+    "checkpoint_warnings": 47,
+    "warning_delta": -1,
+    "explanation": "Canada creation resolved the baseline broken link; all remaining validator warnings are present in the extracted b6198e8 baseline."
+  },
+  "source_hashes": {
+    "sources/2026-07-20 Breaking Analysis 6 Why Aqaba.md": "a88e4ef5413e1a075464ae5cf062515ce840ee1fffb33d6f89ae91bd16782f79",
+    "sources/2026-07-20 Can America Open Hormuz by the Midterms.md": "ff622f0db97aec9917c3f1831e25a574ff5031c21d47e8231b16e45ca8d6c247",
+    "sources/2026-07-22 Aurelien And It Goes On.md": "0648f5318966dba10594c6c321a0a233f31bbf55334cafc6a946104db4e47ef9",
+    "sources/2026-07-22 Phillips P. OBrien Bravery Does Not Win Wars.md": "ee4d436956af3a8d346cae6d5807992706be991df8e39f7affb43878f56049f3",
+    "sources/2026-07-22 Phillips P. OBrien Midweek Update 20 Each Day The US Weakens Itself.md": "616573bf0c68292a28223e127c47e83a24ef69b6c20dc28b22048d36b93792c7",
+    "sources/2026-07-22 Prof Robert Pape Breaking Analysis 7 New Intel on Pick Axe Mountain -- Has Iran Already Won the Nuclear Race.md": "0cd08d5653fe34b03cbe6b8e8e7591bf42073faf6395a6e584a257b0bb085c76",
+    "sources/2026-07-22 Velina Tchakarova Global System Rupture.md": "2f2d13705491927555b728468f7c369229d2b4db9d95507fb5e68c49738231f6",
+    "sources/2026-07-22 csis.org Beyond Deterrence Evolving China-Russia Military Coordination and the U.S.-Japan Alliance.md": "989fefc5d8de5079a963db0590dc1a85fc4358aa90407f3fa006e8b5f6e85e37",
+    "sources/2026-07-22 csis.org China and CRINK Implications for Japan and the United States.md": "8957a1054dad201520dc6e7d890d138f46e51236d6df8d0477c878d61608d111",
+    "sources/2026-07-22 csis.org Elbows Up The Price of Economic Coercion Against Canada.md": "8563ea0b0389bfceda5c433cb0bbab8e2dde0dbcef92adf41ef218eb4b42f3cd",
+    "sources/2026-07-22 csis.org Understanding President Trump’s New Tariffs on Canadian Imports.md": "b85e213b015d22168132580d7346a7235889b88be718a8d34c91a7d14b9d27d1",
+    "sources/2026-07-22 geopoliticalfutures.com Rising Costs from the New Hormuz Blockade.md": "7d782d3ac10c6c45508b0e284d122ed80adeb443daeb7ac865318498a18635f2",
+    "sources/2026-07-22 geopoliticalfutures.com The Promise of Ukraine’s Military-Industrial Complex.md": "d9129e2ba3bed6ad4cc7ced6bdf6aa403165637f738417e3204d062ee116bb4e",
+    "sources/2026-07-22 rusi.org Japan's Ambivalent Policy Towards Russia and Ukraine.md": "b677b13f17b8b60d554f7e86606602c59b87b497839cf4f66ed87ae95e9c800a",
+    "sources/2026-07-22 rusi.org The Dismissal of Ukraine's Defence Minister.md": "65f1756e134dfe034b4c9795f5e2817d3a5771b2e3b72b077428bee95edc52dc",
+    "sources/2026-07-22 substack.com July 20, 2026.md": "6f1ff587edd4003d7e5ab585b8986b778e18eb0b7845f82225e81a81a044e395",
+    "sources/2026-07-22 substack.com July 21, 2026.md": "8d99f319dd407459b2fc86a1afe997d41a87d83d3383326b56829a6127bae13e",
+    "sources/2026-07-22 substack.com Oligarchy and the Media.md": "cd987726d45e34a2521e0311832464334e447b661fb033ac25a80e306c763ec9",
+    "sources/2026-07-22 substack.com Oy, Canada Tariffs.md": "168bbb762386a087f7dcb74b1f8fc6f5d9b9f55b6523ba524eb3533e2975e21a",
+    "sources/2026-07-22 swp-berlin.org Critical Minerals Will Reshape European-African Relations.md": "b4d30834f2864404ed6ba04fe269c19cac494fd6e2bd6ed54f38d24f6f6c6e53",
+    "sources/2026-07-22 swp-berlin.org Protection Gaps in Germany’s Skilled Labour Migration System.md": "ebb470ae8aa2843ddaa3c38cfcca86eaf54775595c7c2d707e4ec8aa43e6637c",
+    "sources/2026-07-22 thecipherbrief.com The $1.5 Trillion Defense Budget Without a Strategy.md": "62840e776d55956b38c7b3f4e06443a58eaaee8b089d561da3bfa587be889d8f",
+    "sources/2026-07-22 warontherocks.com The Make-or-Buy Line has Moved.md": "05a15b07d7a9d0f69770e9043291ddb3f73ae8301e436edb5427da26f942011f",
+    "sources/2026-07-22 warontherocks.com Total War on Taipei China Explores Elevating Cognitive Effects into Its Vision of Warfare.md": "6397fd08483d1223f018a3f663c26b702f17969487efca7d4f0e3299e67d82fc",
+    "sources/SWP_WP_Adrians_WhiteWaterZone_2026.pdf": "8dc5086f486fbe428c051eefee98b1bdeb943a034d86317d48259add747ff8a3"
+  }
+}
