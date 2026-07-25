@@ -9,6 +9,7 @@ vendor/
 
 # Python
 __pycache__/
+.pytest_cache/
 
 # OpenCode
 .opencode/node_modules/
