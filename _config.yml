@@ -3,7 +3,7 @@ remote_theme: just-the-docs/just-the-docs
 title: ISW Russia-Ukraine Knowledge Bundle
 description: A structured knowledge base on the Russia-Ukraine war, distilled from ISW's near-daily Russian Offensive Campaign Assessments and special reports.
 
-baseurl: /isw-okf
+baseurl: /isw-ukraine-okf
 url: https://chabicht.github.io
 
 permalink: /:path:output_ext
@@ -24,7 +24,7 @@ color_scheme: light
 
 aux_links:
   "View on GitHub":
-    - "https://github.com/chabicht/isw-okf"
+    - "https://github.com/chabicht/isw-ukraine-okf"
 
 # Just the Docs collections — we use the default "pages" collection
 # which includes all top-level and nested .md files automatically.
