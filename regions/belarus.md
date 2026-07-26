@@ -5,7 +5,7 @@ parent: Regions
 description: The Republic of Belarus, a Russian ally providing staging grounds and supporting the war effort.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-29T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Current Situation
@@ -60,6 +60,8 @@ Belarusian President Alexander Lukashenko approved on January 28 draft amendment
 
 Nothing significant to report from the January 29 assessment regarding Belarus.[14]
 
+The Collective Security Treaty Organization (CSTO) approved joint military training exercises for 2025 on January 30 during a meeting at the CSTO Crisis Response Center in Moscow. The CSTO will hold: a Strategic Command and staff training in March; a joint exercise with the Collective Rapid Reaction Force 'Interaction-2025,' special exercises 'Search-2025,' and logistics exercises 'Echelon-2025' in September in Belarus; an operational training session 'Frontier-2025' in October in Kyrgyzstan; and a joint exercise of the CSTO Peacekeeping Forces 'Indestructible Brotherhood-2025' and a special joint exercise 'Barrier-2025' in October in Tajikistan focusing on counter-terrorism training.[15]
+
 # Citations
 
 [12] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -82,3 +84,5 @@ Nothing significant to report from the January 29 assessment regarding Belarus.[
 [12] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 [13] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
 [14] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
+
+[15] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)

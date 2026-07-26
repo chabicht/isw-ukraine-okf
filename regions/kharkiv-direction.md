@@ -5,7 +5,7 @@ parent: Regions
 description: The northern axis of Russian offensive operations in Kharkiv Oblast, centered on Vovchansk.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-29T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Current Situation
@@ -56,6 +56,8 @@ Russian forces continued ground attacks northeast of Kharkiv City near Vovchansk
 
 Russian forces continued ground attacks northeast of Kharkiv City near Vovchansk and Starytsya on January 28 and 29 but did not advance. A Ukrainian drone battalion operating in Kharkiv Oblast published footage on January 29 showing a Ukrainian strike on a Russian Buk-M3 air defense system in occupied Kharkiv Oblast.[21]
 
+Ukrainian forces recently marginally advanced in northern Vovchansk (northeast of Kharkiv City) on January 30, as indicated by geolocated footage published on January 30. Russian forces continued assaults near Kozacha Lopan (north of Kharkiv City along the international border) on January 29 and 30.[22]
+
 # Citations
 
 [21] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
@@ -86,3 +88,5 @@ Russian forces continued ground attacks northeast of Kharkiv City near Vovchansk
 [18] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 [19] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
 [20] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
+
+[22] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)

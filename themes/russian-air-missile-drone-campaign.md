@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-29T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Current Situation
@@ -92,7 +92,11 @@ On the night of January 27 to 28, Russian forces conducted a series of drone str
 
 On the night of January 28 to 29, Russian forces conducted a series of missile and drone strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched an Iskander-M ballistic missile from occupied Crimea and 57 Shahed and other strike and decoy drones from Millerovo, Primorsko-Akhtarsk, Kursk Oblast, and occupied Cape Chauda, Crimea. Ukrainian forces downed 29 drones; 14 other drones were lost, likely due to Ukrainian electronic warfare interference. The strikes affected Kharkiv, Kyiv, Mykolaiv, Odesa, and Sumy oblasts.[27]
 
+On the night of January 29 to 30, Russian forces conducted a series of drone strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched 81 Shahed and decoy drones from Kursk and Oryol oblasts; Millerovo, Rostov Oblast; and Primorsko-Akhtarsk, Krasnodar Krai. Ukrainian forces downed 37 drones over Poltava, Sumy, Kyiv, Cherkasy, Kirovohrad, Zhytomyr, Khmelnytskyi, Dnipropetrovsk, Kherson, and Odesa oblasts. Ukrainian officials reported that a Russian Shahed drone struck a residential building in Sumy City, killing at least six people, and that Russian drones also damaged industrial enterprises and residential areas in Kharkiv, Chernihiv, Odesa, and Poltava oblasts.[28]
+
 # Citations
+
+[28] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
 
 [22] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 

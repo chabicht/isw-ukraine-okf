@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine, the defending nation in the full-scale war with Russia.
 tags: [country, military, energy, europe, eastern-europe, black-sea]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Current Situation
@@ -22,8 +22,11 @@ Recently declassified US documents highlight the integral role of US monetary an
 
 Ukraine continued to offer solutions to Transnistria's energy crisis on January 25. President Zelensky stated during a press conference with Moldovan President Maia Sandu that Ukraine can supply Transnistria with coal at low prices or even free of charge if Transnistria would supply Ukraine with electricity in return, and offered to send specialists to increase the Transnistrian power plant's output.[3]
 
+The US military reportedly transferred roughly 90 decommissioned Patriot missiles from storage facilities in Israel to Poland and is expected to deliver these missiles to Ukraine on an unspecified date, according to US defense officials.[4]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [3] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[4] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)

@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-29T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Current Situation
@@ -102,7 +102,11 @@ Russian authorities continue to offer financial incentives to increase recruitme
 
 Volunteer recruitment rates in Moscow have dropped sharply as Russian citizens grow increasingly unwilling to serve in Ukraine. Russian opposition outlet Verstka reported on January 29 that the number of Russian citizens willing to volunteer to fight in Moscow City has dropped from a peak daily rate of 200 to 250 people in August 2024 to about 40 people currently. The demographic makeup has shifted: ordinary Russian citizens now comprise only half of the volunteers, while the other half are largely foreigners and individuals facing criminal or administrative charges. Verstka noted that more citizens from China, African countries, and post-Soviet countries are signing contracts, drawn by one-time payments of 1.9 million rubles (about $19,140). The Russian government continues to use its Time of Heroes program to appoint veterans to federal government positions. The program reported on January 29 that Russian authorities appointed Sergey Kuzminchuk to be the federal inspector for the Kamchatka Krai Office of the Plenipotentiary Representative of the Russian President in the Far Eastern Federal District.[22]
 
+Ukraine's Main Military Intelligence Directorate (GUR) reported on January 30 that Russia plans to recruit 126,000 personnel from detainees in prisons or pretrial detention centers, under criminal investigation, or with outstanding loans. The GUR assessed that Russia needs to recruit at least 280,000 personnel in 2025 to maintain its replacement rate.[23]
+
 # Citations
+
+[23] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
 
 [16] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 [17] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)

@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's war economy and energy exports, including sanctions effects and European energy dynamics.
 tags: [economics, energy, sanctions, europe, war-economy]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Current Situation
@@ -32,7 +32,11 @@ The Kremlin appears to be growing increasingly concerned about perceptions of Ru
 
 Putin demonstrated concern about lower oil prices during a January 24 interview, responding to Trump's call for OPEC states to "bring down the cost of oil" to decrease Russia's ability to wage war. Putin claimed that "too high prices are bad" for both the US and Russian economies, attempting to portray the diversified US economy as operating similarly to Russia's petrostate economy. Falling oil prices would decrease Russia's federal budget revenues and risk destabilizing the Russian regime while reducing Russia's share of the global oil market. Putin's focus on his inner circle's interests in the energy sector contrasts with US leaders' focus on the general voting population, which benefits from lower energy prices.[8]
 
+PRC-based companies continue to supply Russia with critical materials needed for its war effort. RFE/RL, citing its Ukrainian bureau's investigative unit Schemes, reported on January 30 that at least two dozen PRC-based firms untouched by Western sanctions are directly supplying Russia with gallium, germanium, and antimony — key elements used in Russian drones and missiles. Schemes found that PRC-based firms send these materials to Russian DIB companies including state defense conglomerate Rostec, which supplies nearly 80 percent of the Kremlin's weaponry used in Ukraine. At least a third of these suppliers are reportedly linked to the PRC government, which has repeatedly denied aiding Russia's war. Schemes also noted that the Russian subsidiary of a Japanese company imported antimony from the PRC and supplied silicon wafers to Russian military microelectronics manufacturers.[9]
+
 # Citations
+
+[9] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
 
 [7] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 

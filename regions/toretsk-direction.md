@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Toretsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-29T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Current Situation
@@ -60,6 +60,8 @@ Ukrainian forces recently advanced in northern Toretsk amid continued Russian of
 
 Ukrainian and Russian forces recently advanced in the Toretsk direction on January 29. Geolocated footage published on January 28 and 29 indicates that Ukrainian forces recently advanced along Klymenka Street in northwestern Leonidivka (west of Toretsk) and along Darhomyzhskoho Street in northern Toretsk, respectively. Additional geolocated footage indicates Russian forces marginally advanced in northwestern Pivnichne (east of Toretsk). A Russian milblogger claimed Russian forces control 90 to 95 percent of Toretsk, but ISW currently assesses that Russian forces occupy roughly 88 percent of Toretsk. Assault elements of the Russian 132nd Motorized Rifle Brigade (51st CAA) are reportedly fighting at the Toretska Mine in northern Toretsk.[20]
 
+Russian forces recently advanced in the Toretsk direction on January 30. Geolocated footage published on January 30 indicates that Russian forces recently advanced in the industrial area in northern Toretsk. Russian forces continued ground attacks in Toretsk, north of Toretsk near Krymske, and west of Toretsk near Shcherbynivka on January 29 and 30. The spokesperson of a Ukrainian brigade operating in the Toretsk direction reported on January 30 that Ukrainian forces recaptured lost positions near Krymske (north of Toretsk) and that Ukrainian strikes are constraining Russian forces' ability to operate armored vehicles near Toretsk. The Ukrainian spokesperson noted that Russian forces are operating in smaller assault units of three or four troops and conducting assaults in multiple waves. Drone operators of the Russian 80th Sparta Separate Reconnaissance Battalion (51st CAA) and drone operators of the Russian Radical Wake of the 1st Motorized Rifle Brigade (51st CAA) are reportedly striking Ukrainian positions near Toretsk.[21]
+
 # Citations
 
 [15] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -87,3 +89,5 @@ Ukrainian and Russian forces recently advanced in the Toretsk direction on Janua
 [18] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
 [19] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
 [20] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
+
+[21] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)

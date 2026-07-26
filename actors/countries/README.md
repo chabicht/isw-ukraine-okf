@@ -11,6 +11,7 @@ permalink: /actors/countries/
 Nation-state actors.
 
 * [Belarus](belarus.html) — Russian ally that has hosted Russian forces and supported the invasion.
+* [China](china.html) — Strategic partner of Russia providing economic and defense industrial support for the war effort.
 * [Iran](iran.html) — Military partner of Russia in the war against Ukraine.
 * [Moldova](moldova.html) — Affected by the war through energy security and Transnistrian dynamics.
 * [North Korea](north-korea.html) — Military partner of Russia providing troops and materiel for the war.

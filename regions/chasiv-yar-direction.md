@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Chasiv Yar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-29T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Current Situation
@@ -52,6 +52,8 @@ Russian forces continued offensive operations near and within Chasiv Yar on Janu
 
 Russian forces recently advanced in the Chasiv Yar direction on January 29. Geolocated footage published on January 28 shows Chechen Akhmat Spetsnaz forces assaulting Ukrainian positions near a waste heap south of Chasiv Yar, indicating Russian forces advanced along the T-0504 Bakhmut-Kostyantynivka highway and westward over part of the waste heap. The Ukrainian General Staff published a map indicating Russian forces also likely advanced along the O-0508 highway in southeastern Orikhovo-Vasylivka (north of Chasiv Yar). Russian milbloggers claimed the Russian Hispaniola Volunteer Brigade seized most or all of Pivnichnyi Microraion and Novopivnichnyi Microraion and advanced in fields south of Tsentralnyi Pond. Assault elements of the Russian 13th Rusich Detachment (4th MRB, 3rd CAA) are reportedly operating southeast of Chasiv Yar, and elements of the 98th VDV Division and 200th MRB (14th AC, LMD) are reportedly fighting in Chasiv Yar.[20]
 
+Russian forces recently advanced in the Chasiv Yar direction amid continued Russian offensive operations in the area on January 30. Geolocated footage published on January 29 indicates that Russian forces recently advanced along Dniprovska Street in central Chasiv Yar. Russian milbloggers claimed that Russian forces advanced near Mykolaivka (west of Chasiv Yar), along Vysokovoltna Street in southwestern Chasiv Yar, and in forested areas south of Chasiv Yar, but ISW has not observed confirmation. Russian forces continued ground attacks near Chasiv Yar itself; north of Chasiv Yar near Orikhovo-Vasylivka and Novomarkove; southeast of Chasiv Yar near Ozaryanivka; and south of Chasiv Yar near Predtechyne on January 29 and 30. Likely elements of the Russian Hispaniola Volunteer Brigade, 98th VDV Division, 331st VDV Regiment, 200th Motorized Rifle Brigade (14th AC, LMD), and 4th Motorized Rifle Brigade (3rd CAA) reportedly continue to operate in the Chasiv Yar direction.[21]
+
 # Citations
 
 [20] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
@@ -82,3 +84,5 @@ Russian forces recently advanced in the Chasiv Yar direction on January 29. Geol
 [16] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [18] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
 [19] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
+
+[21] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)

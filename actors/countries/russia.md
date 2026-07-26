@@ -46,11 +46,11 @@ Putin continued to obfuscate his unwillingness to participate in good-faith nego
 
 ISW assessed in its January 30 Briefing Room episode that Putin's objective in any negotiations is not limited to territorial concessions — his aim remains the destruction of Ukraine as a sovereign state. ISW warned against accepting a negotiation framework that focuses solely on territorial boundaries while ignoring the implications for Ukrainian sovereignty.[9]
 
+TASS published an interview with Valdai Discussion Club Research Director Fyodor Lukyanov on January 30 who stated that the "main thing" for future peace negotiations is not territories but addressing the "root causes" of the war — NATO's expansion into Eastern Europe. Lukyanov stated that "with the territories, everything is clear: how much you take is yours," indicating the Kremlin has no intention of compromising on territorial gains. Lukyanov called on the Kremlin to "never give in" and to be prepared for a "tough conversation" with Trump, assuming Trump is weak and susceptible to intimidation. ISW is not prepared to assess that Lukyanov has intimate knowledge of Putin's intentions but notes his statements are consistent with other Kremlin officials' positions.[10]
+
 # Citations
 
 [5] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
-
-[1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
@@ -60,3 +60,4 @@ ISW assessed in its January 30 Briefing Room episode that Putin's objective in a
 [7] [The Russia-Iran Coalition Deepens](https://understandingwar.org/research/russia-ukraine/the-russia-iran-coalition-deepens/)
 [8] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [9] [Putin's Poison Pill for Peace Talks](https://understandingwar.org/research/russia-ukraine/putins-poison-pill-for-peace-talks)
+[10] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)

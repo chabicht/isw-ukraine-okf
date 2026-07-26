@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-29T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Current Situation
@@ -82,6 +82,8 @@ Russian forces continued offensive operations within the Ukrainian salient in Ku
 
 Ukrainian forces recently marginally advanced along Novoselovka Street in northwestern Pogrebki (northwest of Sudzha) on January 29. Russian milbloggers claimed Russian forces recently advanced west of Plekhovo and north of Guyevo (both south of Sudhza), but ISW has not observed confirmation. Fighting continued near Russkoye Porechnoye and Sverdlikovo. Ukrainian forces counterattacked near Nikolskiy. Geolocated footage from January 28 shows Ukrainian forces repelled a roughly platoon-sized Russian mechanized assault involving at least four armored vehicles west of Nikolskiy. Drone operators of the Russian Rubikon Center for Advanced Unmanned Technologies, 83rd VDV Brigade, elements of the 7th VDV Division, and 34th Motorized Rifle Brigade are reportedly operating in Kursk Oblast.[20]
 
+A Russian milblogger claimed on January 30 that Russian forces advanced further into northern Sumy Oblast along the international border, into northern Zhuravka and to fields west of the settlement, but ISW has not observed confirmation. Russian forces continued offensive operations within the Ukrainian salient in Kursk Oblast on January 30 but did not make any confirmed advances. Ukrainian forces may have conducted a drone strike against the Transneft-owned Novozybkov oil pumping station in Bryansk Oblast on the night of January 29-30, part of the Druzhba pipeline supplying oil to Europe. Drone operators of the Russian 1434th Akhmat-Chechnya Regiment, 83rd VDV Brigade, 34th Motorized Rifle Brigade, and likely 56th VDV Regiment are reportedly operating in the Kursk direction.[21]
+
 # Citations
 
 [20] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
@@ -109,3 +111,5 @@ Ukrainian forces recently marginally advanced along Novoselovka Street in northw
 [8] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [9] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [10] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
+
+[21] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)

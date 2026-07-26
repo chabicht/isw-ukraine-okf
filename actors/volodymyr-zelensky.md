@@ -5,7 +5,7 @@ parent: Actors
 description: President of Ukraine, the wartime leader of the nation's defense against Russian aggression.
 tags: [leader, ukraine, military]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Current Situation
@@ -36,6 +36,8 @@ Putin claimed during a January 24 interview that the September 2022 Ukrainian de
 
 Zelensky replaced Khortytsia Group of Forces Commander Brigadier General Andrii Hnatov with Ground Forces Commander Major General Mykhailo Drapatyi on January 26. Zelensky stated that Drapatyi will also remain Ground Forces Commander and that Hnatov will become Deputy Chief of the Ukrainian General Staff. Zelensky noted that Drapatyi's dual position will help combine the Ukrainian military's combat operations with the proper training of brigades and that Hnatov will work to improve coordination between headquarters and the front.[9]
 
+The Parliamentary Assembly of the Council of Europe (PACE) adopted a resolution on January 28 closely echoing Zelensky's principle of "peace through strength," calling for unwavering European support to Ukraine and sustainable peace negotiations only from a position of Ukrainian strength with direct Ukrainian involvement.[10]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -47,3 +49,4 @@ Zelensky replaced Khortytsia Group of Forces Commander Brigadier General Andrii 
 [7] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 [8] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [9] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[10] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)

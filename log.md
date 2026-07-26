@@ -10,6 +10,29 @@ permalink: /log/
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with ISW assessment that Putin's objective is not only territory but destruction of Ukraine as a sovereign state, warning against negotiation frameworks that focus solely on territorial boundaries;
   [Russia]({{ site.baseurl }}/actors/countries/russia.html) with Briefing Room assessment of Putin's sovereignty destruction goal.
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Lukyanov interview (root causes = NATO expansion, territorial maximalism, Trump weakness assumption), PACE peace resolution (peace through strength, direct Ukrainian involvement), Patriot missile transfer (90 missiles from Israel to Poland to Ukraine);
+  [Russia]({{ site.baseurl }}/actors/countries/russia.html) with Lukyanov negotiating posture (no territorial compromise, root causes framing, Trump intimidation assumption);
+  [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) with Patriot missile transfer update;
+  [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with PACE resolution endorsement of peace-through-strength;
+  [China]({{ site.baseurl }}/actors/countries/china.html) created with PRC critical materials supply to Russian DIB (gallium, germanium, antimony to Rostec);
+  [Russian War Economy and Energy]({{ site.baseurl }}/themes/russian-war-economy-energy.html) with PRC firms supplying critical materials to Russian DIB;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Sumy Oblast border incursion claims (unconfirmed), continued ops no confirmed advances, Novozybkov oil pumping station drone strike;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with Ukrainian marginal advance in northern Vovchansk;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with continued ops no advances across Kupyansk/Borova/Lyman axes, 752nd MRR and 16th Spetsnaz operations;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with unconfirmed Bilohorivka/Verkhnokamyanske claims;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with advance along Dniprovska Street in central Chasiv Yar (geolocated);
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with Russian advance in N industrial area, Ukrainian recapture near Krymske (geolocated), small team multi-wave tactics;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with Ukrainian marginal advance west of Novoandriivka (geolocated), infantry-only assaults with limited vehicle support;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with advance to eastern Andriivka outskirts (geolocated), Dachne/Ulakly claims, fog inhibiting drone ops, 102nd MRR/200th Artillery operations;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with continued ops no confirmed advances, Velyka Novosilka regrouping claims;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with unconfirmed Kamyanske advance claim, 1455th MRR near Orikhiv;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with Russian seizure of Velykyi Sokolin Island in Dnipro Delta (geolocated);
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 29-30 overnight strike (81 Shahed, 37 downed, Sumy residential building 6 killed);
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with GUR report on 126K prisoner recruitment plan, 280K personnel needed in 2025;
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with Shoigu 3D printing weapons inspection at Aviation Materials Institute;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with CSTO 2025 joint military exercises approved (Belarus, Kyrgyzstan, Tajikistan).
+
 ## 2025-01-29
 
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/).
