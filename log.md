@@ -4,6 +4,27 @@ nav_order: 8
 permalink: /log/
 ---
 
+* **Creation**: Event concept for [Ukrainian Drone Strike on Oryol Drone Storage Facility]({{ site.baseurl }}/events/ukrainian-drone-strike-oryol-2025-01-26.html).
+
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Oryol drone storage second strike (200+ Shaheds destroyed), EU Moldova/Transnistria aid package (3M m3 loan, 30M euro grant), Zelensky command change (Drapatyi replaces Hnatov);
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with continued fighting no confirmed changes, MoD Nikolayevo-Darino claim (assessed Jan 21), Oryol Volunteer Detachment and 98th VDV fiber-optic drone operations;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued Lyptsi/Vovchansk attacks no advance, repelled 10-equipment assault near Vovchansk;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk no confirmed advances, Borova unconfirmed Novoyehorivka/Nadiya claims, milblogger complaints about MoD lying about Novoyehorivka seizure, Lyman unconfirmed Novosadove/Ivanivka claims;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with no offensive operations reported;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with advance along Myru and Horkoho streets in central Chasiv Yar (geolocated), pipe explosions on canal for armored vehicle passages, Chechen Akhmat and Rusich on southeast outskirts, 98th VDV dispositions;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with Ukrainian advance in northwestern Toretsk (geolocated), Russian advance near Toretska Mine (geolocated), 56th Spetsnaz Battalion operations near Katerynivka;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with no confirmed advances, unconfirmed Nadiivka/Novoandriivka claims, Trehubov on bypass attempt and decreasing personnel, 35th MRB Grom Battalion near Zelene;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with advance in northern Andriivka (geolocated), unconfirmed Slovyansk highway claim, 114th MRB/103rd MRR/68th Tank/33rd MRR dispositions;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with Ukrainian withdrawal from southern Velyka Novosilka to avoid encirclement, unconfirmed full seizure claim, 40th Naval Infantry and 5th Tank Brigade dispositions;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with limited Novodanylivka/Novoandriivka attacks no advance, 42nd MRD and 136th MRB drone operations;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Dnipro limited attacks no advance, poor weather limiting drone usage, 81st Artillery Regiment dispositions;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 26-27 overnight strike (104 Shahed, 57 downed, 39 EW-lost), infrastructure strikes in Dnipropetrovsk/Sumy/Ivano-Frankivsk/Kyiv oblasts;
+  [Ukraine's Strike Campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with second Oryol drone storage facility strike (200+ Shaheds destroyed, thermobaric warhead storage);
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with Kursk. Heroes! regional Time of Heroes analogue, conscription bill allowing late call-up within one year;
+  [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with Drapatyi/Hnatov command change;
+  [Moldova]({{ site.baseurl }}/actors/countries/moldova.html) with EU aid package (3M m3 loan, 30M euro grant), MOL/MVM gas discussions, Transnistrian reserves running out.
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Velyka Novosilka 89% seizure assessment, MoD fanfare analysis, EMD decision point for Spring/Summer 2025, Toretsk poised seizure outlook, Ryazan Oil Refinery second strike, Zelensky weekly strike totals (1,250 glide bombs, 750+ FPV, 220+ missiles);
   [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with Velyka Novosilka advances to Tsentralana Street, 89% occupancy assessment, 5th Tank/40th Naval Infantry/37th MRB dispositions, Belousov congratulations, MoD informational effort assessment;

@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-26T00:00:00Z
+timestamp: 2025-01-27T00:00:00Z
 ---
 
 # Current Situation
@@ -68,6 +68,8 @@ The Russian MoD posted footage on January 26 purportedly showing Russian forces 
 
 The seizure and clearing of Velyka Novosilka will likely present opportunities and a decision point to the Russian military command on whether to redeploy elements of the Russian EMD from the Velyka Novosilka area to other priority operational areas. Any redeployment over the coming weeks will indicate the Russian military command's priority operational areas for Spring and Summer 2025.[22]
 
+Russian forces continued offensive operations near Velyka Novosilka on January 27 but did not advance. Russian forces conducted offensive operations near Velyka Novosilka itself, northeast of Velyka Novosilka near Rozdolne, north of Velyka Novosilka near Novyi Komar, and west of Velyka Novosilka near Novosilka on January 26 and 27. Trehubov stated on January 27 that Ukrainian forces withdrew from southern Velyka Novosilka in order to avoid encirclement. Trehubov also stated that Russian forces seized a significant part of the settlement but that Ukrainian forces maintain positions within Velyka Novosilka closer to the outskirts. A Russian milblogger claimed that Russian forces seized all of Velyka Novosilka but have not finished clearing the settlement. Elements of the Russian 40th Naval Infantry Brigade (Pacific Fleet, Eastern Military District [EMD]) and 5th Tank Brigade (36th CAA, EMD) reportedly continue to operate within Velyka Novosilka.[23]
+
 # Citations
 
 [22] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -97,3 +99,4 @@ The seizure and clearing of Velyka Novosilka will likely present opportunities a
 [15] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [16] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [21] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[23] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)

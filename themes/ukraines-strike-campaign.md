@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-26T00:00:00Z
+timestamp: 2025-01-27T00:00:00Z
 ---
 
 # Current Situation
@@ -78,6 +78,8 @@ On the night of January 23 to 24, Ukrainian forces conducted a large series of d
 
 On the night of Jan 25 to 26, Ukrainian forces struck the Ryazan Oil Refinery for the second time in three days. The Ukrainian General Staff confirmed that GUR and Unmanned Systems Forces elements conducted the strike, with geolocated footage showing a fire at a refinery tank. Russian MoD claimed eight drones were downed over Ryazan Oblast, while Governor Pavel Malkov reported air defense and EW systems destroyed Ukrainian drones with damage assessment ongoing. Ukrainian officials noted the refinery is one of Russia's four largest, producing fuel for military equipment, jet fuel, diesel, and other petroleum products for tanks, aircraft, and ships. The previous strike on the facility occurred on Jan 23 to 24.[19]
 
+Ukrainian forces struck Russian long-range drone storage facilities in Oryol Oblast again on January 26. The Ukrainian General Staff reported that Ukrainian forces struck drone and thermobaric warhead storage warehouses, causing secondary detonations and destroying over 200 Shahed drones. Ukrainian Center for Countering Disinformation Head Lieutenant Andriy Kovalenko stated that Ukrainian forces struck the same drone storage facility at the end of December 2024. Oryol Oblast Governor Andrei Klychkov claimed that Ukrainian forces repeatedly attempted to strike Oryol Oblast and that Russian electronic warfare (EW) interference downed a Ukrainian drone in Oryol Oblast.[20]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -99,3 +101,4 @@ On the night of Jan 25 to 26, Ukrainian forces struck the Ryazan Oil Refinery fo
 [17] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 [18] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 [19] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
+[20] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)

@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-26T00:00:00Z
+timestamp: 2025-01-27T00:00:00Z
 ---
 
 # Current Situation
@@ -86,6 +86,8 @@ On the night of Jan 25 to 26, Russian forces launched 72 Shahed and decoy drones
 
 Ukrainian President Zelensky reported on Jan 26 that Russian forces launched 1,250 glide bombs, over 750 FPV drones, and over 220 missiles against Ukraine from Jan 20 to 26. The Ukrainian Air Force reported downing two guided aircraft missiles, 375 Shaheds, 71 reconnaissance drones, and 59 other drones during that period.[24]
 
+On the night of Jan 26 to 27, Russian forces conducted a series of drone strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched 104 Shahed and decoy drones from Oryol and Kursk oblasts; Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and occupied Cape Chauda, Crimea. Ukrainian forces downed 57 drones over Kyiv, Mykolaiv, Kharkiv, Poltava, Sumy, Dnipropetrovsk, Khmelnytskyi, Zhytomyr, Vinnytsia, and Ivano-Frankivsk oblasts; 39 decoy drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; and Russian drones struck infrastructure and residences in Dnipropetrovsk, Sumy, Ivano-Frankivsk, and Kyiv oblasts.[25]
+
 # Citations
 
 [22] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -115,3 +117,4 @@ Ukrainian President Zelensky reported on Jan 26 that Russian forces launched 1,2
 [19] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 [23] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [24] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[25] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)

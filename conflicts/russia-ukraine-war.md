@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-26T00:00:00Z
+timestamp: 2025-01-27T00:00:00Z
 ---
 
 # Background
@@ -162,7 +162,15 @@ Ukrainian forces conducted a second strike on the Ryazan Oil Refinery in Ryazan 
 
 Ukrainian President Zelensky reported on Jan 26 that Russian forces launched 1,250 glide bombs, over 750 FPV drones, and over 220 missiles against Ukraine from Jan 20 to 26. The Ukrainian Air Force reported downing two guided aircraft missiles, 375 Shaheds, 71 reconnaissance drones, and 59 other drones during that period.[24]
 
+Ukrainian forces struck Russian long-range drone storage facilities in Oryol Oblast again on January 26, destroying over 200 Shahed drones and causing secondary detonations. The Ukrainian General Staff reported that Ukrainian forces struck drone and thermobaric warhead storage warehouses at the facility. Ukrainian Center for Countering Disinformation Head Lieutenant Andriy Kovalenko stated that Ukrainian forces struck the same drone storage facility at the end of December 2024.[25]
+
+The European Union proposed an aid package on January 27 to Moldova and Transnistria to help resolve the ongoing gas crisis in the pro-Russian breakaway republic, as part of efforts to reduce Russia's ability to exploit Transnistria in its energy blackmail schemes targeting Chisinau. The package includes an immediate loan of three million cubic meters of gas to Transnistria and offers a grant of 30 million euros for Moldova to purchase gas from the European market from February 1 to 10 to support Transnistria's electricity production. The EU also offered to invest in Transnistrian electricity production and distribution over the next two years and is considering supporting coal deliveries from Ukraine to Transnistria.[25]
+
+Ukrainian President Volodymyr Zelensky replaced Khortytsia Group of Forces Commander Brigadier General Andrii Hnatov with Ground Forces Commander Major General Mykhailo Drapatyi on January 26. Zelensky stated that Drapatyi will also remain Ground Forces Commander and that Hnatov will become Deputy Chief of the Ukrainian General Staff. Zelensky noted that Drapatyi's dual position will help combine combat operations with proper training of brigades, and that Hnatov will work to improve coordination between headquarters and the front.[25]
+
 # Citations
+
+[25] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Pokrovsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-26T00:00:00Z
+timestamp: 2025-01-27T00:00:00Z
 ---
 
 # Current Situation
@@ -60,6 +60,8 @@ Russian forces recently advanced in the Pokrovsk direction amid continued fighti
 
 Russian forces recently marginally advanced west of Pokrovsk amid ongoing offensive operations on Jan 26. Geolocated footage published on Jan 25 indicates that Russian forces recently marginally advanced in the fields north of Kotlyne (west of Pokrovsk). The spokesperson of a Ukrainian National Guard Brigade stated that Russian forces are transporting infantry on armored vehicles towards Ukrainian positions and using several tanks to provide fire support for each group of disembarking infantry. The Russian MoD claimed that Russian forces seized Zelene (south of Pokrovsk), which ISW assessed Russian forces seized as of Jan 21. Russian milbloggers claimed advances further west of Kotlyne with seizure of a nearby mineshaft, in fields south of Udachne, south of Novoyelyzavetivka, and gaining a foothold in eastern and southern Nadiivka — ISW has not observed confirmation. A Russian source claimed Russian forces are attempting to bypass and envelop Yelyzavetivka (east of Pokrovsk). Russian forces continued assaults in multiple areas on Jan 25 and 26. Elements of the Russian 35th Motorized Rifle Brigade (41st CAA, CMD) and drone operators of the Russian Rubicon Center for Advanced Unmanned Technologies and the "Vega" Spetsnaz Detachment (24th Guards Spetsnaz Brigade, GRU) are reportedly operating in the Pokrovsk direction.[22]
 
+Russian forces continued offensive operations in the Pokrovsk direction on January 27 but did not make any confirmed advances. Russian milbloggers claimed on January 26 and 27 that Russian forces seized Nadiivka (southwest of Pokrovsk) and Novoandriivka (southwest of Pokrovsk) and advanced north of Novoandriivka, but ISW has not observed confirmation of these claims. Russian forces continued attacking near Pokrovsk itself; east of Pokrovsk near Vodyane Druhe, Myrolyubivka, Yelyzavetivka, and Promin; southeast of Pokrovsk near Lysivka and Sukhyi Yar; south of Pokrovsk near Zelene and Novoukrainka; west of Pokrovsk near Udachne and Kotlyne; and southwest of Pokrovsk near Zvirove, Novovasylivka, Novooleksandrivka, Uspenivka, Novoserhiivka, Sribne, and Nadiivka and towards Bohdanivka on January 26 and 27. Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated on January 27 that there are a large number of small combat engagements near Pokrovsk and that Russian forces are attempting to enter and envelop Pokrovsk from the west. Trehubov assessed that Russian forces operating in the Pokrovsk direction may have a decreasing number of personnel due to their attempts to bypass Pokrovsk on its flanks instead of frontal assaults. The spokesperson of a Ukrainian brigade operating in the Pokrovsk direction stated that Russian forces use small columns of armored vehicles and tanks to disembark infantry but noted that the open terrain allows for such movement. Elements of the Russian "Grom" Battalion of the 35th Motorized Rifle Brigade (41st CAA, Central Military District [CMD]) are reportedly operating near Zelene.[23]
+
 # Citations
 
 [22] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -89,3 +91,4 @@ Russian forces recently marginally advanced west of Pokrovsk amid ongoing offens
 [15] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [16] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [21] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[23] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)

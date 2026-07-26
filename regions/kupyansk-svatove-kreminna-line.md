@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-26T00:00:00Z
+timestamp: 2025-01-27T00:00:00Z
 ---
 
 # Current Situation
@@ -120,6 +120,12 @@ Russian forces recently advanced in the Borova direction. Geolocated footage pub
 
 Russian forces continued offensive operations in the Lyman direction on January 26 but did not advance. Russian milbloggers claimed that Russian forces advanced to the outskirts of Kolodyazi after repelling Ukrainian counterattacks, though another milblogger claimed that Russian forces are unsuccessfully trying to enter Kolodyazi in small groups. Russian forces conducted offensive operations northeast of Lyman near Kolodyazi, Yampolivka, Terny, Ivanivka, and Novolyubivka and east of Lyman near Torske on January 25 and 26. A Ukrainian brigade spokesperson stated that Russian forces rarely conduct mechanized assaults but are almost constantly attacking in teams of two to three people, using a tactic where an unarmed soldier first storms positions to identify firing positions, followed by well-trained soldiers. Drone operators of the Russian 16th Spetsnaz Brigade (GRU) are reportedly operating near Zarichne.[18]
 
+Russian forces conducted offensive operations east of Kupyansk near Petropavlivka; southeast of Kupyansk near Pishchane and Stepova Novoselivka; and south of Kupyansk near Hlushkivka on January 26 and 27 but did not make any confirmed advances.[19]
+
+Russian forces continued offensive operations in the Borova direction on January 27 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces advanced in southern Novoyehorivka (southeast of Borova) and west of Nadiya (east of Borova), but ISW has not observed confirmation of these claims. Russian forces conducted offensive operations northeast of Borova near Lozova, Kolisnykivka, Zahryzove, and Zelenyi Hai; east of Borova near Kopanky and Nadiya; and southeast of Borova near Makiivka, Novoyehorivka, and Hrekivka on January 26 and 27. Russian milbloggers continued to complain about the Russian military command lying about battlefield successes, most recently in the Borova direction. Russian milbloggers denied the Russian MoD's January 20 claim that Russian forces seized Novoyehorivka, claiming that Russian forces are still 1.5 kilometers from the settlement and that there has not been movement in this area for some time. One milblogger claimed that footage showing Russian forces in the settlement recently was fake. Milbloggers noted that the Russian MoD's false claims of seizures negatively affect ongoing Russian offensive operations, as Russian commanders will not order strikes against settlements they think have been seized, leaving Russian forces on the ground without proper fire support during assaults.[19]
+
+Russian forces continued offensive operations in the Lyman direction on January 27 but did not make any confirmed advances. A Russian milblogger claimed that Russian forces advanced northwest of Novosadove and Ivanivka (both northeast of Lyman), but ISW has not observed confirmation of these claims. Russian forces conducted offensive operations northeast of Lyman near Terny, Kolodyazi, and Yampolivka and towards Zelene Dolyna and east of Lyman near Zarichne and Torske on January 26 and 27.[19]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -144,3 +150,4 @@ Russian forces continued offensive operations in the Lyman direction on January 
 [12] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [17] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [18] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
+[19] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)

@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-26T00:00:00Z
+timestamp: 2025-01-27T00:00:00Z
 ---
 
 # Current Situation
@@ -92,12 +92,17 @@ Russian milbloggers continue to complain about Russia's insufficient quantities 
 
 Russian milbloggers criticized the Russian government on Jan 25 for failing to prioritize recruitment and training of the next generation of military officers. One milblogger claimed current Russian youth are more patriotic than previous generations, but another countered that the government is not capitalizing on this trend and criticized youth for highlighting military issues without enlisting or developing solutions. The second milblogger criticized military academies for prioritizing state awards over proper training and claimed the military expelled many 2024 contract servicemembers due to behavioral or training issues. A third milblogger noted cadet wages are not livable and accused the military command of carelessness toward the future officer corps. A Kremlin-affiliated milblogger called for adjustments to youth policies and propaganda.[19]
 
+The Russian government continues to expand the federal "Time of Heroes" program by creating similar programs at the regional level. Kursk Oblast Governor Alexander Khinshtein announced on January 27 the "Kursk. Heroes!" program, a regional analogue of the "Time of Heroes" program.[20]
+
+The Russian Cabinet of Ministers expressed support on January 27 for Russian State Duma Defense Committee Chairperson Andrei Kartapolov's draft bill that would allow the Russian military to call up conscripts, whom Russian authorities did not conscript during their conscription cycle, within one year following the announcement of their original conscription cycle. Kartapolov stated that the Duma may begin discussing the bill before the start of the Spring 2025 conscription cycle.[20]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 [17] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 [18] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [19] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
+[20] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
 
 [15] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

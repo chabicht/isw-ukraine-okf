@@ -5,7 +5,7 @@ parent: Countries
 description: The Republic of Moldova, affected by the Russia-Ukraine war through energy security and Transnistrian dynamics.
 tags: [country, energy, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-27T00:00:00Z
 ---
 
 # Current Situation
@@ -30,6 +30,8 @@ Russian business outlet Kommersant reported on January 22 that Russia may resume
 
 Moldovan President Maia Sandu met with Ukrainian President Volodymyr Zelensky in Kyiv on January 25. Zelensky stated that Ukraine can supply Transnistria with coal at low prices or even free of charge if Transnistria would supply Ukraine with electricity in return, and that Ukraine is ready to send specialists to increase the Transnistrian power plant's output. Zelensky noted that Transnistria's cooperation with Moldova and Ukraine could reduce electricity prices throughout Moldova by 30 percent. Transnistrian authorities have previously refused Moldovan and Ukrainian offers of help, instead turning to schemes involving Moscow providing gas to cover its domestic electricity needs. Transnistria's possible acceptance of these offers would disrupt Russian efforts to use the energy crisis to strengthen Transnistria's economic dependence on Moscow and to leverage Chisinau's turn to higher-priced European electricity as part of Moscow's anti-EU narratives.[6]
 
+The European Union proposed a new aid package on January 27 to Moldova and Transnistria to help resolve the ongoing gas crisis. The package includes an immediate loan of three million cubic meters of gas to Transnistria and offers a grant of 30 million euros for Moldova to purchase gas from the European market from February 1 to 10 to support Transnistria's electricity production. Moldovan Prime Minister Dorin Recean noted that the EU will continue to support Chisinau after February 10. The EU also offered to invest in Transnistrian electricity production and distribution over the next two years and is considering supporting coal deliveries from Ukraine to Transnistria. The EU has supported allocating transmission capacity along the gas delivery route from Bulgaria and Romania to Moldova. The Transnistrian Energy Operational Headquarters stated that Transnistrian gas reserves are running out and will last only until early February 2025. Russian business outlet Kommersant reported that Moldovagaz is in discussions with Hungarian oil and gas company MOL and Hungarian electricity company MVM about buying gas for Transnistria, with delivery beginning in early February. Recean confirmed that MOL presented Moldovagaz with a draft contract but noted that Moldovan authorities must verify the legality and compliance of the contract with national and international law.[7]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -38,3 +40,4 @@ Moldovan President Maia Sandu met with Ukrainian President Volodymyr Zelensky in
 [4] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [5] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 [6] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[7] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)

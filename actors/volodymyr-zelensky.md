@@ -5,7 +5,7 @@ parent: Actors
 description: President of Ukraine, the wartime leader of the nation's defense against Russian aggression.
 tags: [leader, ukraine, military]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-27T00:00:00Z
 ---
 
 # Current Situation
@@ -34,6 +34,8 @@ Zelensky met with Moldovan President Maia Sandu in Kyiv on January 25, offering 
 
 Putin claimed during a January 24 interview that the September 2022 Ukrainian decree banning negotiations with Putin is a significant impediment to peace, calling on the West to force Zelensky to repeal it. Zelensky signed the decree on the day of Putin's illegal annexation of four Ukrainian oblasts and after months of Russian demands for Ukraine's full capitulation during Spring 2022 Istanbul talks. Zelensky has consistently signaled his willingness to negotiate with Russia and make certain compromises in pursuit of peace despite the decree. He has outlined clear conditions for potential talks — preserving Ukraine's sovereignty and territorial integrity, developing Ukraine's DIB, and securing security guarantees from Western allies — and has repeatedly advocated for a diplomatic solution from a "position of strength." Zelensky has also invited Russian representatives to attend Ukraine's second Global Peace Summit.[7]
 
+Zelensky replaced Khortytsia Group of Forces Commander Brigadier General Andrii Hnatov with Ground Forces Commander Major General Mykhailo Drapatyi on January 26. Zelensky stated that Drapatyi will also remain Ground Forces Commander and that Hnatov will become Deputy Chief of the Ukrainian General Staff. Zelensky noted that Drapatyi's dual position will help combine the Ukrainian military's combat operations with the proper training of brigades and that Hnatov will work to improve coordination between headquarters and the front.[9]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -44,3 +46,4 @@ Putin claimed during a January 24 interview that the September 2022 Ukrainian de
 [6] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [7] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 [8] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[9] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
