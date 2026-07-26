@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-29T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -82,7 +82,11 @@ Ukrainian forces struck Russian long-range drone storage facilities in Oryol Obl
 
 On the night of January 28 to 29, Ukrainian forces conducted a drone strike at the Lukoil-Nizhegorodnefteorgsintez oil refinery in Kstovo, Nizhny Novgorod Oblast. The Ukrainian General Staff reported that elements of the GUR and Unmanned Systems Forces struck the refinery, causing a fire. Ukrainian Center for Countering Disinformation Head Lieutenant Andriy Kovalenko reported that the refinery produces gasoline, diesel, aviation kerosene, and bitumen; processes 15 to 17 million tons of oil per year; and supports the Russian military. Ukrainian drones also reportedly struck the Russian Main Missile and Artillery Directorate of the Russian MoD's 23rd Arsenal near Oktyabrsky, Tver Oblast, damaging an empty weapons storage building and three other buildings. Ukrainian forces previously struck the 23rd Arsenal in September 2024.[21]
 
+On the night of January 30 to 31, Ukrainian forces struck the Lukoil-Volgogradneftoperobka Oil Refinery in Volgograd City. The Ukrainian General Staff reported that elements of the GUR, Unmanned Systems Forces, and other Ukrainian forces conducted the strike, causing an explosion. Ukrainian Center for Countering Disinformation Head Lieutenant Andriy Kovalenko reported that the refinery is the sixth largest oil refinery in Russia. Volgograd Oblast Governor Andrei Bocharov claimed drone debris caused a fire at an unspecified oil refinery. Ukrainian forces previously struck this refinery in February and May 2024.[22]
+
 # Citations
+
+[22] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-31-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

@@ -4,6 +4,31 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2025-01-31
+
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with UK/FIN/CZ aid packages, Russian slow envelopment doctrinal method (Avdiivka blueprint disseminated across theater), Russian 6-9 month operation commitment (Putin not ending war soon), sustainability concerns (manpower/equipment costs exceeding DIB capacity), Moldova/Transnistria EU gas deal (€64M, degrades Russian influence);
+  [Russia]({{ site.baseurl }}/actors/countries/russia.html) with Kupyansk envelopment doctrine, 6-9 month commitment, Moldova EU deal degrading influence;
+  [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) with UK £2B ($2.5B) aid for air defense and localization, Finland €200M ($207M), Czechia ammunition initiative;
+  [Moldova]({{ site.baseurl }}/actors/countries/moldova.html) with EU €64M package acceptance (€20M gas, €10M electricity, €34M budget), Transnistria gas purchase on European market via Energocom Feb 1-10;
+  [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) with NYT report of NK withdrawal from frontline (~Jan 17), 5,500 casualties reported by Syrskyi, potential temporary withdrawal;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with continued assaults no confirmed advance, Ukrainian CP strike in Rylsk;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with limited attacks near Lyptsi/Vovchansk no advance, Akhmat Bati Detachment operations;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk direction continued ops (375th AT Battalion), Borova no advance (20th CAA, 84th Recon), Lyman advance east of Yampolivka (geolocated, 144th MRD);
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued ops no advance, Verkhnokamyanske unconfirmed claim, 10 AFVs destroyed/damaged;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with continued ops no confirmed advance, Pivnichnyi Microraion and Refractory Plant claims unconfirmed;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with advance in Petrivka and southern Toretsk (geolocated Jan 30), pocket eliminated between Toretsk and Shcherbynivka;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with marginal advance west of Kotlyne (geolocated), Novovasylivka MoD claim assessed Jan 1, Reuters report on small group tactics;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with advance north of Sukhi Yaly (geolocated), pocket collapsing, second bridge destroyed near Kostyantynopil, 102nd MRR/68th Tank/114th MRB/Vizantiya operations;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with continued ops no confirmed advance, 5th Tank Brigade operations;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with unconfirmed Kamyanske advance claim, 50th Self-Propelled Artillery Regiment operations;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with limited Dnipro/Delta island attacks no advance;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 30-31 overnight strike (102 Shahed, 59 downed, 37 EW-lost), Cherkasy/Odesa damage;
+  [Ukraine's Strike Campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Volgograd Lukoil oil refinery strike (GUR/Unmanned Systems Forces);
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with NK withdrawal from frontline, Time of Heroes regional program (Nizhny Novgorod), Saratov/Occupied Kherson payment increases;
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with MoD AI technology plan (ERA Technopolis exhibition);
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with nothing significant.
+
 ## 2025-01-30
 
 * **Incorporation**: Processed ISW [Putin's Poison Pill for Peace Talks](https://understandingwar.org/research/russia-ukraine/putins-poison-pill-for-peace-talks) (Briefing Room Episode 49, George Barros).

@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -104,7 +104,15 @@ Volunteer recruitment rates in Moscow have dropped sharply as Russian citizens g
 
 Ukraine's Main Military Intelligence Directorate (GUR) reported on January 30 that Russia plans to recruit 126,000 personnel from detainees in prisons or pretrial detention centers, under criminal investigation, or with outstanding loans. The GUR assessed that Russia needs to recruit at least 280,000 personnel in 2025 to maintain its replacement rate.[23]
 
+Western and Ukrainian officials continue to report that North Korean forces have withdrawn from frontline positions in Kursk Oblast. The New York Times reported on January 30 that Ukrainian and US officials stated the Russian military command pulled North Korean forces from the battlefield after heavy casualties, and Ukrainian forces have not seen North Korean forces for about two weeks (since about January 17). US officials noted the withdrawal may be temporary — North Korean forces could return after more training or after the Russian command finds a way to deploy them with fewer losses. A Ukrainian official stated North Korean forces' disorganization and lack of cohesion with Russian forces quickly increased casualties. Ukrainian soldiers stated North Korean forces advanced with few armored vehicles and rarely paused to regroup or fall back. Ukrainian Ground Forces Commander Colonel General Oleksandr Syrskyi recently stated Ukrainian forces have inflicted roughly 5,500 casualties on the 11,000 to 12,000-strong North Korean contingent since November 2024.
+
+The Russian government continues to expand the federal "Time of Heroes" program by creating regional analogues. Nizhny Novgorod Oblast Governor Gleb Nitkin announced the "Heroes, Nizhny Novgorod Oblast" program. Kursk and Irkutsk Oblast authorities recently announced similar programs, and the Kremlin instructed all Russian federal subjects to establish these programs.
+
+The Russian government continues to increase financial incentives for signing military contracts. Saratov Oblast Governor Roman Busargin announced that Samara Oblast increased the one-time payment for recruits signing contracts between February 1 and December 31, 2025 from 500,000 to 700,000 rubles ($5,072 to $7,101). The Kherson Oblast occupation administration posted an advertisement offering individuals who sign contracts in occupied Kherson Oblast a one-time payment of 800,000 rubles ($8,116), a monthly salary of 210,000 rubles ($2,130), and an annual salary of 3.32 million rubles ($33,684). Article 51 of the Geneva Convention explicitly prevents an occupying power from compelling the occupied population to serve in its military.[24]
+
 # Citations
+
+[24] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-31-2025/)
 
 [23] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
 

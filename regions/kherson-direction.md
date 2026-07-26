@@ -5,7 +5,7 @@ parent: Regions
 description: The Dnipro River delta and Kherson Oblast frontline area.
 tags: [military, eastern-europe, kinetic, black-sea]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -62,6 +62,8 @@ Russian forces recently advanced in the Dnipro direction on January 29. Geolocat
 
 Russian forces recently advanced in the Dnipro direction amid continued offensive operations in the area on January 30. Geolocated footage published on January 29 indicates that Russian forces recently seized Velykyi Sokolin Island (southeast of Kherson City).[25]
 
+Russian forces continued limited ground attacks in the Dnipro direction and on the islands of the Dnipro River Delta on January 30 and 31.
+
 # Citations
 
 [21] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -97,3 +99,4 @@ Russian forces recently advanced in the Dnipro direction amid continued offensiv
 [24] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 
 [25] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
+[26] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)

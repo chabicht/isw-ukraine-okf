@@ -5,7 +5,7 @@ parent: Regions
 description: The northern axis of Russian offensive operations in Kharkiv Oblast, centered on Vovchansk.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -58,7 +58,11 @@ Russian forces continued ground attacks northeast of Kharkiv City near Vovchansk
 
 Ukrainian forces recently marginally advanced in northern Vovchansk (northeast of Kharkiv City) on January 30, as indicated by geolocated footage published on January 30. Russian forces continued assaults near Kozacha Lopan (north of Kharkiv City along the international border) on January 29 and 30.[22]
 
+Russian forces conducted limited ground attacks north of Kharkiv City near Lyptsi and northeast of Kharkiv City near Vovchansk on January 30 and 31 and did not advance. Drone operators of the Chechen Akhmat Spetsnaz "Bati" Detachment are reportedly operating in northern Kharkiv Oblast.[23]
+
 # Citations
+
+[23] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-31-2025/)
 
 [21] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 

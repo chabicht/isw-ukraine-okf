@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -94,7 +94,11 @@ On the night of January 28 to 29, Russian forces conducted a series of missile a
 
 On the night of January 29 to 30, Russian forces conducted a series of drone strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched 81 Shahed and decoy drones from Kursk and Oryol oblasts; Millerovo, Rostov Oblast; and Primorsko-Akhtarsk, Krasnodar Krai. Ukrainian forces downed 37 drones over Poltava, Sumy, Kyiv, Cherkasy, Kirovohrad, Zhytomyr, Khmelnytskyi, Dnipropetrovsk, Kherson, and Odesa oblasts. Ukrainian officials reported that a Russian Shahed drone struck a residential building in Sumy City, killing at least six people, and that Russian drones also damaged industrial enterprises and residential areas in Kharkiv, Chernihiv, Odesa, and Poltava oblasts.[28]
 
+On the night of January 30 to 31, Russian forces launched 102 Shahed and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; Kursk and Bryansk oblasts; and occupied Cape Chauda, Crimea. The Ukrainian Air Force reported that Ukrainian forces downed 59 drones over Kharkiv, Poltava, Sumy, Kyiv, Chernihiv, Cherkasy, Kirovohrad, Zhytomyr, Khmelnytskyi, Dnipropetrovsk, Mykolaiv, and Odesa oblasts; 37 drones were "lost," likely due to Ukrainian EW interference; drones impacted Sumy, Odesa, and Cherkasy oblasts; and four drones remained in airspace as of 0900. Ukrainian outlet Suspilne reported a Russian drone damaged an apartment building in Cherkasy City. Odesa Oblast Head Oleh Kiper reported that Russian drones struck Chornomorsk and damaged a hospital, warehouse, and buildings.[29]
+
 # Citations
+
+[29] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-31-2025/)
 
 [28] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
 

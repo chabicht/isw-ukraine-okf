@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -136,7 +136,15 @@ Russian forces continued offensive operations in the Kupyansk direction on Janua
 
 Russian forces continued offensive operations in the Kupyansk direction on January 30 but did not advance. Russian forces continued attacking northeast of Kupyansk near Petropavlivka on January 29 and 30. Russian forces continued offensive operations in the Borova direction on January 30 but did not advance. Russian forces continued attacking northeast of Borova near Nova Kruhlyakivka, Lozova, Zahryzove, Kolisnykivka, and Novoosynove; east of Borova near Kopanky; and southeast of Borova near Makiivka, Nevske, and Novoyehorivka on January 29 and 30. Elements of the Russian 752nd Motorized Rifle Regiment (3rd MRD, 20th CAA, MMD) are reportedly operating in the Borova direction, and elements of the 16th Spetsnaz Brigade (GRU) are reportedly operating near Hrekivka. Russian forces continued offensive operations in the Lyman direction on January 30 but did not advance. Russian forces continued attacking north of Lyman near Zelena Dolyna; northeast of Lyman near Kolodyazi, Yampolivka, Terny, and Novolyubivka; and east of Lyman near Torske on January 29 and 30.[21]
 
+Russian forces continued offensive operations in other areas of the Kupyansk direction on January 31, attacking east of Kupyansk near Petropavlivka and southeast of Kupyansk near Pishchane. A Russian milblogger claimed Ukrainian forces counterattacked near Petropavlivka. The chief of staff of a Ukrainian battalion operating in the Kupyansk direction stated that Russian forces usually conduct assault operations during the daytime and artillery strikes at night, and are continuing to leverage manpower advantages to conduct meat assaults. Elements of the Russian 375th Separate Anti-Tank Artillery Battalion (47th Tank Division, 1st GTA) are reportedly operating in the Kupyansk direction.
+
+Russian forces continued offensive operations in the Borova direction on January 31 but did not advance. Russian forces continued attacking northeast of Borova near Nova Kruhlyakivka and Zahryzove and east of Borova near Kopanky. Elements of the Russian 20th CAA (MMD) — including the 84th Reconnaissance Battalion — are reportedly attacking near Novoyehorivka (southeast of Borova).
+
+Russian forces recently advanced northeast of Lyman on January 31. Geolocated footage published on January 31 indicates Russian forces recently advanced east of Yampolivka (northeast of Lyman). Russian forces continued attacking north of Lyman near Zelena Dolyna; northeast of Lyman near Kolodyazi, Balka Zhuravka (formerly Nevske), Yampolivka, Terny, and Novolyubivka; and southeast of Borova near Novomykhailivka. A Russian milblogger claimed Russian forces unsuccessfully attacked east of Yampolivka. Elements of the Russian 144th Motorized Rifle Division (20th CAA, MMD) reportedly continue operating in the Lyman direction.[22]
+
 # Citations
+
+[22] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-31-2025/)
 
 [20] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 

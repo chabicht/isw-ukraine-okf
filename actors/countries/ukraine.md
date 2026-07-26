@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine, the defending nation in the full-scale war with Russia.
 tags: [country, military, energy, europe, eastern-europe, black-sea]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -24,9 +24,12 @@ Ukraine continued to offer solutions to Transnistria's energy crisis on January 
 
 The US military reportedly transferred roughly 90 decommissioned Patriot missiles from storage facilities in Israel to Poland and is expected to deliver these missiles to Ukraine on an unspecified date, according to US defense officials.[4]
 
+The United Kingdom, Finland, and Czechia announced several immediate and longer-term military assistance packages for Ukraine on January 31. Ukrainian Defense Minister Rustem Umerov stated that the UK will provide Ukraine with a military assistance package valued at two billion GBP (about $2.5 billion), primarily for the purchase of air defense systems and funding for localization of defense production in Ukraine. Finnish Defense Minister Antti Hakkanen announced Finland will provide Ukraine with a new tranche of military assistance valued at almost 200 million euros (about $207 million). Czech Foreign Minister Jan Lipavsky stated that the Czech government is considering creating a new initiative to purchase artillery ammunition for Ukraine.
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [3] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [4] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
+[5] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)

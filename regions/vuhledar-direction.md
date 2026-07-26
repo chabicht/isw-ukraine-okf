@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -76,6 +76,8 @@ Russian forces recently advanced northeast and southwest of Velyka Novosilka on 
 
 Russian forces continued offensive operations in the Velyka Novosilka area on January 30 but did not make confirmed advances. A Russian milblogger claimed on January 30 that Russian forces are advancing to the north and northwest of Velyka Novosilka. ISW has not observed confirmation of this claim, however. Russian forces attacked northwest of Velyka Novosilka near Novoocheretuvate, north of Velyka Novosilka near Novyi Komar, northeast of Velyka Novosilka near Rozdolne, and southwest of Velyka Novosilka near Novosilka on January 29 and 30. A Russian milblogger claimed that Russian forces quickly regrouped following their purported seizure of Velyka Novosilka and conducted simultaneous attacks in the Velyka Novosilka direction near Rozdolne and in the Kurakhove direction near Andriivka.[26]
 
+Russian forces continued offensive operations near Velyka Novosilka on January 31 but did not make any confirmed advances. A Russian milblogger claimed Russian forces advanced north of Rozdolne (northeast of Velyka Novosilka) and north of Novyi Komar (north of Velyka Novosilka) — ISW has not observed confirmation. Russian forces conducted offensive operations north of Velyka Novosilka near Novyi Komar; northwest of Velyka Novosilka near Rozdolne; west of Velyka Novosilka near Novosilka; and southwest of Velyka Novosilka near Novopil. A Russian source claimed Ukrainian forces are counterattacking in unspecified areas of the Velyka Novosilka direction. Elements of the Russian 5th Tank Brigade (36th CAA, EMD) reportedly continue to operate in Velyka Novosilka.[27]
+
 # Citations
 
 [22] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -110,3 +112,4 @@ Russian forces continued offensive operations in the Velyka Novosilka area on Ja
 [25] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 
 [26] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
+[27] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)

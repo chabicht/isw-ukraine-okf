@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -62,6 +62,8 @@ Russian forces recently advanced west of Kurakhove on January 29. Geolocated foo
 
 Russian forces recently advanced in the Kurakhove direction amid continued offensive operations on January 30. Geolocated footage published on January 25 indicates that Russian forces advanced in a field up to the eastern outskirts of Andriivka (northwest of Kurakhove). Russian milbloggers claimed on January 30 that Russian forces also advanced further into southern Dachne (west of Kurakhove), toward Ulakly (west of Kurakhove) from Zelenivka (southwest of Kurakhove), and southwest of Kostyantynopil (west of Kurakhove). ISW has not observed confirmation of these claims, however. Russian forces attacked northwest of Kurakhove near Andriivka and Shevchenko; west of Kurakhove near Dachne, Kostyantynopil, and Ulakly; and southwest of Kurakhove towards Bahatyr on January 29 and 30. A Russian milblogger claimed that Russian forces are outflanking Rozlyv (southwest of Kurakhove). The deputy commander of a Ukrainian drone battalion operating in the area reported that Russian forces are constantly conducting ground assaults and attempting to sever Ukrainian logistics, and noted that heavy fog continues to inhibit drone operations. Elements of the Russian 102nd Motorized Rifle Regiment (150th MRD, 8th CAA, SMD) are reportedly operating near Dachne, and artillery elements of the Russian 200th Artillery Brigade (29th CAA, EMD) are reportedly striking targets near Rozlyv.[24]
 
+Russian forces recently advanced in the Kurakhove direction on January 31. Geolocated footage published on January 30 indicates Russian forces recently advanced north of Sukhi Yaly (southwest of Kurakhove) during a motorized assault and have likely collapsed the southern part of the Ukrainian pocket along the Zelenivka-Sukhi Yaly-Yantarne line. Russian milbloggers claimed Russian forces also advanced northeast of Sukhi Yaly — ISW has not observed confirmation. Russian milbloggers claimed Russian forces are prioritizing advances towards Kostyantynopil from the south and Andriivka from the north to encircle Ukrainian forces near Dachne and Ulakly. Russian forces recently advanced to the eastern outskirts of Andriivka, and further advances will complicate Ukrainian withdrawal from the pocket. Russian milbloggers claimed Russian forces advanced to central Andriivka and pushed Ukrainian forces to the outskirts of Kostyantynopil but have not entered it. Russian milbloggers claimed there are reports Russian forces control half of Dachne and may encircle Ukrainian forces if they cut the H-15 highway near Ulakly. Footage shows Russian forces conducting an airstrike against a Ukrainian bridge across the Sukhi Yaly River near Kostyantynopil — the second bridge destroyed in the area — likely part of efforts to trap Ukrainian forces in the pocket. Elements of the 102nd MRR and 68th Tank Regiment (both 150th MRD, 8th CAA, SMD) are reportedly operating in Dachne; elements of the 381st Artillery Regiment (150th MRD) near Kurakhove; elements of the 114th MRB (51st CAA) in the Bahatyr direction; and drone operators of the "Vizantiya" detachment in the Kurakhove direction.[25]
+
 # Citations
 
 [20] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -93,3 +95,4 @@ Russian forces recently advanced in the Kurakhove direction amid continued offen
 [23] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 
 [24] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
+[25] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)

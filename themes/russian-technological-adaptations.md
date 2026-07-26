@@ -5,7 +5,7 @@ parent: Themes
 description: Russian innovations in drone technology, electronic warfare, and armored vehicle modifications for the Ukraine war.
 tags: [military, technology, drone-warfare]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -40,7 +40,11 @@ The Russian defense industrial base continues to develop armored vehicle adaptat
 
 Russian Security Council Secretary Sergei Shoigu visited the All-Russian Research Institution of Aviation Materials on January 30 and inspected technological innovations aimed at 3D printing unspecified weapons and parts for military, aviation, and space equipment.[12]
 
+The Russian Ministry of Defense reported that it plans to introduce new technology using artificial intelligence (AI) to the battlefield in Ukraine. Several senior Russian civilian and defense officials attended the "ERA Technopolis" exhibition about AI on January 31 and selected unspecified "samples and technologies" for Russian forces to use on the battlefield.[13]
+
 # Citations
+
+[13] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-31-2025/)
 
 [12] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
 

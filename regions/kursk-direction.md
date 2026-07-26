@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -84,7 +84,11 @@ Ukrainian forces recently marginally advanced along Novoselovka Street in northw
 
 A Russian milblogger claimed on January 30 that Russian forces advanced further into northern Sumy Oblast along the international border, into northern Zhuravka and to fields west of the settlement, but ISW has not observed confirmation. Russian forces continued offensive operations within the Ukrainian salient in Kursk Oblast on January 30 but did not make any confirmed advances. Ukrainian forces may have conducted a drone strike against the Transneft-owned Novozybkov oil pumping station in Bryansk Oblast on the night of January 29-30, part of the Druzhba pipeline supplying oil to Europe. Drone operators of the Russian 1434th Akhmat-Chechnya Regiment, 83rd VDV Brigade, 34th Motorized Rifle Brigade, and likely 56th VDV Regiment are reportedly operating in the Kursk direction.[21]
 
+Russian forces continued assaults in the Ukrainian salient in Kursk Oblast on January 31 but did not make confirmed advances. Russian milbloggers claimed Russian forces advanced up to 600 meters in Makhnovka (south of Sudzha) — ISW has not observed confirmation. Russian milbloggers claimed Russian forces attacked in forested areas near Nikolskiy and Sverdlikovo (both northwest of Sudzha). A Russian milblogger claimed Ukrainian forces counterattacked near Novaya Sorochina and Staraya Sorochina (northwest of Sudzha). Elements of the 34th Motorized Rifle Brigade (49th CAA, SMD) are reportedly operating in Pogrebki, and drone operators of the 1434th "Akhmat-Chechnya" Regiment are reportedly operating in the Sudzha direction. The Ukrainian General Staff reported Ukrainian missile and artillery forces destroyed a Russian command post in Rylsk (northwest of Sudzha) as part of an ongoing Ukrainian operation to deprive Russian forces of effective C2 in Kursk Oblast.[22]
+
 # Citations
+
+[22] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-31-2025/)
 
 [20] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 

@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Background
@@ -158,6 +158,16 @@ The Parliamentary Assembly of the Council of Europe (PACE) adopted a resolution 
 
 The US military reportedly transferred roughly 90 decommissioned Patriot missiles from storage facilities in Israel to Poland, expected to be delivered to Ukraine on an unspecified date.[29]
 
+UK, Finland, and Czechia announced military assistance packages on January 31 — the UK announced approximately £2 billion ($2.5 billion) for air defense and defense localization, Finland announced a €200 million ($207 million) military assistance package, and Czechia announced it is considering a new artillery ammunition initiative.[30]
+
+Russian forces are developing and disseminating a doctrinal method for slow envelopments based on the Avdiivka blueprint (February 2024, 12-15km gap, 4 months). Vuhledar (October 2024) and Velyka Novosilka (January 2025) followed this pattern. Russian forces are now testing larger envelopments around Pokrovsk (30km gap) and Kupyansk. The Russian military command is involving multiple military districts in single envelopments — notably the 6th Combined Arms Army (Leningrad Military District) and 1st Guards Tank Army (Moscow Military District) at Kupyansk — which is notable as it shows the Russian General Staff improving dissemination of lessons learned across sectors, something it previously failed to do.[30]
+
+The Russian military command is willing to commit to 6-9 month operations. The Kupyansk envelopment is months-long, closing a 25-30km gap, and fording the Oskil River. Commanders assume Putin does not intend to end the war soon. Putin's theory of victory assumes gradual creeping advances indefinitely.[30]
+
+The Russian offensive method brings slow operational maneuver but requires significant manpower and equipment. Envelopments are unsustainable given current force generation and defense industrial base capacity. Tank and armored vehicle losses in 2024 will be prohibitive over the long term as Soviet-era stocks exhaust. The monthly recruitment rate is equal to or below the casualty replacement rate.[30]
+
+Moldovan and Transnistrian authorities agreed to accept an EU package totaling €64 million — €20 million for Transnistria gas, €10 million for Moldova electricity, and €34 million for the Moldova federal budget. Transnistria will buy gas on the European market via Energocom from February 1 to 10 and plans Russian-funded Hungarian company gas starting February 11. EU acceptance heavily degrades Russia's economic influence over Transnistria.[30]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -193,6 +203,7 @@ The Russian military likely formed a separate unmanned systems regiment at the m
 [27] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 [28] [Putin's Poison Pill for Peace Talks](https://understandingwar.org/research/russia-ukraine/putins-poison-pill-for-peace-talks)
 [29] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
+[30] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

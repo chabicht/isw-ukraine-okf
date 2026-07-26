@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations northeast of Siversk, centered on Bilohorivka, Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -56,7 +56,11 @@ Russian forces conducted offensive operations in the Siversk direction on Januar
 
 Russian forces continued offensive operations in the Siversk direction on January 29 but did not make any confirmed advances. A Russian milblogger claimed on January 30 that Russian forces marginally advanced in Bilohorivka (northeast of Siversk) and that another milblogger claimed Russian forces captured the eastern section of Verkhnokamyanske (east of Siversk), but ISW has not observed confirmation of these claims. Russian forces continued ground attacks northeast of Siversk near Bilohorivka and east of Siversk near Verkhnokamyanske on January 29 and 30.[22]
 
+Russian forces continued offensive operations in the Siversk direction on January 31 but did not advance. Russian milbloggers claimed Russian forces advanced into Verkhnokamyanske (east of Siversk). Russian forces attacked northeast of Siversk near Bilohorivka, east of Siversk near Verkhnokamyanske, and southeast of Siversk near Spirne. Ukraine's Khortytsia Group of Forces reported that Russian forces attacked with armored vehicle support near Bilohorivka and Verkhnokamyanske and that Ukrainian forces destroyed and damaged 10 armored fighting vehicles involved in the assault. Drone operators of the Russian 6th Motorized Rifle Brigade (3rd CAA, formerly 2nd LNR AC) are reportedly operating in the Siversk direction.[23]
+
 # Citations
+
+[23] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-31-2025/)
 
 [21] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 

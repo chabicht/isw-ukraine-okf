@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Pokrovsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -68,6 +68,8 @@ Russian forces recently marginally advanced southwest of Pokrovsk on January 29.
 
 Ukrainian forces recently advanced southwest of Pokrovsk amid ongoing Russian offensive operations in the area on January 30. Geolocated footage published on January 29 indicates that Ukrainian forces recently marginally advanced west of Novoandriivka (southwest of Pokrovsk). Russian milbloggers claimed that Ukrainian forces also counterattacked near Nadiivka (north of Novoandriivka). The spokesperson of a Ukrainian National Guard brigade reported that Russian forces are exclusively conducting infantry assaults with limited vehicle support and that Ukrainian drones remain the most effective weapon to repel Russian assaults in the Pokrovsk direction. Russian milbloggers claimed that Russian forces are advancing southwest of Pokrovsk near Kotlyne and in forested areas south of Uspenivka and are slowly advancing north from Vozdvyzhenka (east of Pokrovsk), but ISW has not observed confirmation. Russian forces continued assaults near Pokrovsk itself and across multiple areas on January 29 and 30. Drone operators of the Russian 1195th Motorized Rifle Regiment (41st CAA, CMD) are reportedly operating in the Pokrovsk direction.[26]
 
+Russian forces recently advanced in the Pokrovsk direction on January 31. Geolocated footage published on January 29 indicates Russian forces recently marginally advanced west of Kotlyne (west of Pokrovsk). The Russian MoD claimed on January 31 that Russian forces seized Novovasylivka (southwest of Pokrovsk), but ISW assessed Russian forces seized the settlement as of January 1. A Russian milblogger claimed Russian forces advanced southeast of Vodyane Druhe (east of Pokrovsk) and south of Uspenivka (southwest of Pokrovsk); another claimed Russian forces advanced to eastern Sukhyi Yar (southeast of Pokrovsk) — ISW has not observed confirmation. Russian forces attacked near Pokrovsk itself and across multiple areas. A Russian milblogger claimed Ukrainian forces maintain positions in southern Uspenivka and that Russian forces are repelling Ukrainian counterattacks near Nadiivka. Reuters reported that the deputy commander of a Ukrainian brigade stated Russian forces have much higher infantry quantities and are attacking in small groups willing to take high casualties, adeptly exploiting terrain and low-visibility weather to hide from Ukrainian drones. Elements of the "Maxim Krivonos" volunteer detachment (allegedly formed by former Ukrainian Armed Forces defectors) are reportedly operating in the area.[27]
+
 # Citations
 
 [22] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -102,3 +104,4 @@ Ukrainian forces recently advanced southwest of Pokrovsk amid ongoing Russian of
 [25] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 
 [26] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
+[27] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)

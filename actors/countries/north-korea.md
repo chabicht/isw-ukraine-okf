@@ -5,7 +5,7 @@ parent: Countries
 description: The Democratic People's Republic of Korea, a military partner of Russia providing troops and materiel for the war in Ukraine.
 tags: [country, military, asia, indo-pacific]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -34,6 +34,8 @@ These fresh North Korean forces are unlikely to decisively improve Russian opera
 
 Ukrainian GUR Head Lieutenant General Kyrylo Budanov told The War Zone on January 22 that North Korea will deploy additional missile and artillery troops to Kursk Oblast at an unspecified future time, but is unlikely to deploy a large number of additional ground combat troops. Budanov stated that North Korea has provided Russia with roughly 120 M-1989 Koksan 170mm self-propelled artillery systems and 120 M-1991 240mm multiple launch rocket systems (MLRS) since November 2024 and will likely send at least 120 more of each system in the future. Budanov also stated that North Korea plans to provide Russia with 150 additional KN-23 short-range ballistic missiles in 2025, having already sent 148 KN-23 missiles in 2024. North Korean troops typically operate North Korean-provided weapons in Kursk Oblast and are training Russian forces on these systems.[7]
 
+Western and Ukrainian officials continue to report that North Korean forces have withdrawn from frontline positions in Kursk Oblast. The New York Times reported on January 30 that Ukrainian and US officials stated the Russian military command pulled North Korean forces from the battlefield after heavy casualties, and Ukrainian forces have not seen North Korean forces for about two weeks (since about January 17). US officials noted the withdrawal may be temporary. A Ukrainian official stated North Korean forces' disorganization and lack of cohesion with Russian forces quickly increased casualties. Ukrainian soldiers stated North Korean forces advanced with few armored vehicles and rarely paused to regroup or fall back. The NYT reported that North Korean dictator Kim Jong Un might expect Russia's help in advancing North Korea's missile program as well as diplomatic assistance at the UN in exchange for sending forces. Ukrainian Ground Forces Commander Colonel General Oleksandr Syrskyi recently stated Ukrainian forces have inflicted roughly 5,500 casualties on the 11,000 to 12,000-strong North Korean contingent since November 2024.
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
@@ -43,3 +45,4 @@ Ukrainian GUR Head Lieutenant General Kyrylo Budanov told The War Zone on Januar
 [5] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [6] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 [7] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
+[8] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)

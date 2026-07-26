@@ -5,7 +5,7 @@ parent: Countries
 description: The Russian Federation, the primary belligerent in the Russia-Ukraine war.
 tags: [country, military, energy, nuclear, europe, eastern-europe, black-sea, middle-east, ideology]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -48,6 +48,8 @@ ISW assessed in its January 30 Briefing Room episode that Putin's objective in a
 
 TASS published an interview with Valdai Discussion Club Research Director Fyodor Lukyanov on January 30 who stated that the "main thing" for future peace negotiations is not territories but addressing the "root causes" of the war — NATO's expansion into Eastern Europe. Lukyanov stated that "with the territories, everything is clear: how much you take is yours," indicating the Kremlin has no intention of compromising on territorial gains. Lukyanov called on the Kremlin to "never give in" and to be prepared for a "tough conversation" with Trump, assuming Trump is weak and susceptible to intimidation. ISW is not prepared to assess that Lukyanov has intimate knowledge of Putin's intentions but notes his statements are consistent with other Kremlin officials' positions.[10]
 
+The Russian military command has shown that it is willing to commit to operations that could take six to nine months to conclude, and Russian commanders are likely operating under the assumption that Putin does not intend to end the war in the near future. Russian forces have been working to push Ukrainian forces from the east bank of the Oskil River since Winter 2023-2024. The envelopment of Kupyansk will almost certainly be a months-long effort requiring closing a 25 to 30-km gap, fording the Oskil River, seizing settlements, and repelling Ukrainian counterattacks. The Russian military command is developing and disseminating a doctrinal method for advances throughout the theater using slow envelopments modeled on the Avdiivka seizure in February 2024, which served as a blueprint for Vuhledar (October 2024) and Velyka Novosilka (January 2025). The Russian military is also involving elements of both the 6th CAA (LMD) and 1st GTA (MMD) to envelop Kupyansk, indicating the General Staff may be improving its ability to disseminate lessons learned across multiple sectors. Putin's commanders are internalizing that Putin has no interest in ending the war and intends to continue fighting until he accomplishes his objectives — the toppling of the current Ukrainian government and destruction of the Ukrainian military. Moldovan and Transnistrian authorities also agreed to accept an EU package totaling 64 million euros, further limiting Russia's economic influence over the pro-Russian breakaway republic.
+
 # Citations
 
 [5] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
@@ -61,3 +63,4 @@ TASS published an interview with Valdai Discussion Club Research Director Fyodor
 [8] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [9] [Putin's Poison Pill for Peace Talks](https://understandingwar.org/research/russia-ukraine/putins-poison-pill-for-peace-talks)
 [10] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
+[11] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)

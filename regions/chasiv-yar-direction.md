@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Chasiv Yar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-30T00:00:00Z
+timestamp: 2025-01-31T00:00:00Z
 ---
 
 # Current Situation
@@ -54,6 +54,8 @@ Russian forces recently advanced in the Chasiv Yar direction on January 29. Geol
 
 Russian forces recently advanced in the Chasiv Yar direction amid continued Russian offensive operations in the area on January 30. Geolocated footage published on January 29 indicates that Russian forces recently advanced along Dniprovska Street in central Chasiv Yar. Russian milbloggers claimed that Russian forces advanced near Mykolaivka (west of Chasiv Yar), along Vysokovoltna Street in southwestern Chasiv Yar, and in forested areas south of Chasiv Yar, but ISW has not observed confirmation. Russian forces continued ground attacks near Chasiv Yar itself; north of Chasiv Yar near Orikhovo-Vasylivka and Novomarkove; southeast of Chasiv Yar near Ozaryanivka; and south of Chasiv Yar near Predtechyne on January 29 and 30. Likely elements of the Russian Hispaniola Volunteer Brigade, 98th VDV Division, 331st VDV Regiment, 200th Motorized Rifle Brigade (14th AC, LMD), and 4th Motorized Rifle Brigade (3rd CAA) reportedly continue to operate in the Chasiv Yar direction.[21]
 
+Russian forces continued offensive operations in the Chasiv Yar direction on January 31 but did not make confirmed advances. Russian milbloggers claimed Russian forces seized Pivnichnyi Microraion (northern Chasiv Yar) and advanced elsewhere within Chasiv Yar, including near the Refractory Plant in central Chasiv Yar and toward Mykolaivka (west of Chasiv Yar) — ISW has not observed confirmation. Russian forces attacked near Chasiv Yar itself; north of Chasiv Yar near Novomarkove and Orikhovo-Vasylivka; and south of Chasiv Yar near Stupochky, Bila Hora, and Predtechyne. A Russian milblogger claimed Shevchenko Microraion (southwestern Chasiv Yar) is a contested "gray" zone. Drone operators of the Russian 215th Reconnaissance Battalion (98th VDV Division) and 4th Motorized Rifle Brigade (3rd CAA) reportedly continue operating near Chasiv Yar; elements of the 88th "Hispaniola" Volunteer Brigade and 200th Motorized Rifle Brigade (14th AC, LMD) reportedly continue operating in Chasiv Yar.[22]
+
 # Citations
 
 [20] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
@@ -86,3 +88,4 @@ Russian forces recently advanced in the Chasiv Yar direction amid continued Russ
 [19] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
 
 [21] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
+[22] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)
