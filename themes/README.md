@@ -15,3 +15,4 @@ Cross-cutting analytical topics and frameworks.
 * [Russian Mobilization and Force Generation](russian-mobilization-force-generation.html) - Russia's efforts to generate combat power without general mobilization
 * [Russian Technological Adaptations](russian-technological-adaptations.html) - Russian innovations in drones, EW, and armor for the Ukraine war
 * [Black Sea Naval Operations](black-sea-naval-operations.html) - Naval dynamics and Ukraine's drone campaign in the Black Sea
+* [Russia-Iran Cooperation](russia-iran-cooperation.html) - The deepening strategic relationship between Russia and Iran across defense, economic, and political spheres

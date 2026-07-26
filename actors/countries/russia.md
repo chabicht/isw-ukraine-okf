@@ -3,9 +3,9 @@ type: Actor
 title: Russia
 parent: Countries
 description: The Russian Federation, the primary belligerent in the Russia-Ukraine war.
-tags: [country, military, energy, nuclear, europe, eastern-europe, black-sea]
+tags: [country, military, energy, nuclear, europe, eastern-europe, black-sea, middle-east, ideology]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -13,6 +13,8 @@ timestamp: 2025-01-25T00:00:00Z
 Russia faces mounting economic pressure from the cessation of gas transit through Ukraine. Gazprom is losing an estimated $6 billion per year, with TurkStream now its only remaining pipeline route to Europe. The Kremlin is posturing to project confidence, mirroring its Winter 2021–2022 coercion campaign over Nord Stream 2, likely aiming to extract concessions from Europe and undermine EU unity.[1]
 
 Russia is advancing long-term occupation plans for the Zaporizhzhia Nuclear Power Plant, intending to obtain Russian licenses to operate all six reactors by 2028. Occupation authorities plan to replace foreign-sourced equipment with Russian-made components and use the plant to supply energy to occupied Ukraine and Russian regions west of the Urals.[1]
+
+Russia's 2022 full-scale invasion of Ukraine fundamentally shifted and intensified the Russo-Iranian relationship. ISW assesses that the core of the relationship is a mutually binding interest in challenging and overturning the US-led world order. Russo-Iranian cooperation operates along seven major axes spanning defense, economic, and political spheres. The interrelated nature of these nodes of cooperation means that the success of Russia cannot be separated from the success of Iran.[7]
 
 Russian President Vladimir Putin and Iranian President Masoud Pezeshkian signed the Russia-Iran Comprehensive Strategic Partnership Agreement on January 17, 2025. The agreement addresses enhanced defense cooperation, intelligence sharing, nuclear energy use and cooperation, transportation support and development of the International North-South Transport Corridor (INSTC), and unspecified "military-technical cooperation." The agreement could lay the groundwork for Russia to establish aircraft refueling hubs and a naval presence in Iran, particularly as the fall of Bashar al-Assad's regime threatens Russian bases in Syria. The agreement notably lacks a mutual defense clause, indicating that Russia likely lacks the bandwidth to support significant operations outside of Ukraine and is prioritizing its manpower needs through its mutual defense treaty with North Korea.[1]
 
@@ -38,7 +40,7 @@ Reuters reported on January 23 that Putin is growing increasingly concerned abou
 
 The Kremlin is reportedly taking measures to protect industrial facilities in Russian border regions from Ukrainian strikes. Russian Security Council Chairperson Dmitry Medvedev met with a group representing the Bryansk Oblast Military Industrial Commission on January 23 and discussed increasing Russian air defense system production and protecting industrial and state storage facilities in the oblast. Medvedev also visited the Bryansk Chemical Plant to assess the situation after previous Ukrainian strikes against the plant. Ukrainian strikes in the Russian rear have largely targeted defense industrial base (DIB) facilities, and the Kremlin may be increasingly interested in bolstering air defense capabilities to protect DIB facilities as the Russian economy continues to deteriorate.[5]
 
-The Kremlin is continuing to leverage the prominent Kremlin-linked _Rybar_ Telegram channel to cultivate increased Russian influence in Iraq. The _Rybar_ channel claimed on January 25 that its team, including founder Mikhail Zvinchuk, visited Iraq and met with Iraqi Prime Minister Mohammad Shia Al Sudani and other officials, who noted their openness to increasing trade and foreign investments with Russian partners. The channel welcomed Russian businesses, media companies, bloggers, and investors to begin exploring opportunities in Iraq. ISW-CTP previously assessed that Russia may be setting conditions to supplant the US as a security partner in Iraq in anticipation of a possible US reduction in military presence there. The fall of the Bashar Al-Assad regime in Syria may be prompting the Kremlin to reconsider its relations with Iraq.[7]
+The Kremlin is continuing to leverage the prominent Kremlin-linked _Rybar_ Telegram channel to cultivate increased Russian influence in Iraq. The _Rybar_ channel claimed on January 25 that its team, including founder Mikhail Zvinchuk, visited Iraq and met with Iraqi Prime Minister Mohammad Shia Al Sudani and other officials, who noted their openness to increasing trade and foreign investments with Russian partners. The channel welcomed Russian businesses, media companies, bloggers, and investors to begin exploring opportunities in Iraq. ISW-CTP previously assessed that Russia may be setting conditions to supplant the US as a security partner in Iraq in anticipation of a possible US reduction in military presence there. The fall of the Bashar Al-Assad regime in Syria may be prompting the Kremlin to reconsider its relations with Iraq.[8]
 
 Putin continued to obfuscate his unwillingness to participate in good-faith negotiations during a January 24 interview, blaming Ukraine's September 2022 decree banning negotiations with him as a strawman obstacle. Putin claimed any peace agreements reached before Ukraine repeals the decree would be "illegitimate" and called on the West to force Zelensky to repeal it, while simultaneously questioning Zelensky's legitimacy as president. Putin attempted to position himself as US President Donald Trump's equal, suggesting the two leaders could bypass Ukraine and negotiate directly about Ukraine's fate. Putin also demonstrated concern about lower oil prices, responding to Trump's call for OPEC to reduce oil prices by claiming both the US and Russian economies would suffer from "too low prices." [6]
 
@@ -53,4 +55,5 @@ Putin continued to obfuscate his unwillingness to participate in good-faith nego
 [3] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [4] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 [6] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
-[7] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[7] [The Russia-Iran Coalition Deepens](https://understandingwar.org/research/russia-ukraine/the-russia-iran-coalition-deepens/)
+[8] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

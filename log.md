@@ -4,6 +4,15 @@ nav_order: 8
 permalink: /log/
 ---
 
+* **Creation**: Theme concept for [Russia-Iran Cooperation]({{ site.baseurl }}/themes/russia-iran-cooperation.html).
+
+* **Incorporation**: Processed ISW special report [The Russia-Iran Coalition Deepens](https://understandingwar.org/research/russia-ukraine/the-russia-iran-coalition-deepens/).
+  Created [Russia-Iran Cooperation]({{ site.baseurl }}/themes/russia-iran-cooperation.html) theme with analysis of the seven axes of cooperation, shared ideological core, and asymmetric outcomes;
+  Updated [Iran]({{ site.baseurl }}/actors/countries/iran.html) with deepened relationship context, seven axes of cooperation, and sanctions evasion dynamics;
+  Updated [Russia]({{ site.baseurl }}/actors/countries/russia.html) with Russia-Iran cooperation structural context;
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with ISW assessment that Russia's success is tied to Iran's success;
+  Updated [Institute for the Study of War]({{ site.baseurl }}/actors/organizations/institute-for-the-study-of-war.html) with special report citation.
+
 * **Creation**: Event concept for [Ukrainian Drone Strike on Oryol Drone Storage Facility]({{ site.baseurl }}/events/ukrainian-drone-strike-oryol-2025-01-26.html).
 
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/).
