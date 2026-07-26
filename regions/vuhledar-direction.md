@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-07T00:00:00Z
+timestamp: 2025-01-09T00:00:00Z
 ---
 
 # Current Situation
@@ -24,6 +24,8 @@ Russian forces continued offensive operations near Velyka Novosilka on January 6
 
 Russian forces continued offensive operations west of Velyka Novosilka near Novosilka and northwest of Velyka Novosilka towards Pryvilne on January 7 but did not make any confirmed advances.[6]
 
+Russian forces continued offensive operations in the Velyka Novosilka direction on January 8 and 9 but did not make confirmed advances. Russian milbloggers claimed that Russian forces advanced northeast of Novyi Komar (north of Velyka Novosilka), towards Novosilka (west of Velyka Novosilka), northeast of Rivnopil, and west and northwest of Neskuchne (both southwest of Velyka Novosilka) — ISW has not observed confirmation. Russian forces attacked west of Velyka Novosilka near Novosilka and north of Velyka Novosilka near Novyi Komar on January 8 and 9.[7]
+
 Note: ISW is incorporating data previously reported as the Vuhledar direction as part of the Kurakhove direction moving forward, reflecting the shifting operational situation.
 
 # Citations
@@ -34,3 +36,4 @@ Note: ISW is incorporating data previously reported as the Vuhledar direction as
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
+[7] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)

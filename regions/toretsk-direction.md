@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Toretsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-07T00:00:00Z
+timestamp: 2025-01-09T00:00:00Z
 ---
 
 # Current Situation
@@ -18,6 +18,9 @@ Russian forces likely intend to exploit advances in northwestern Toretsk to push
 
 Russian forces may also attempt to leverage gains within and near Toretsk with recent advances east of Pokrovsk to eliminate the Ukrainian salient southwest of Toretsk. Advances northwest of Toretsk and south of Chasiv Yar could collapse the Ukrainian pocket in the area and level the frontline west and southwest of Kostyantynivka. The Russian military command could redeploy forces from the Pokrovsk and Kurakhove directions to Toretsk in the future but would likely not do so until objectives in those areas are achieved. A Russian milblogger claimed the command withdrew elements of the 5th and 110th motorized rifle brigades (51st CAA) from Kurakhove for rest and reconstitution, potentially for future commitment to a priority sector that could include Toretsk.[1]
 
+Russian forces continued offensive operations in the Toretsk direction on January 9 but did not make confirmed advances. Russian forces attacked near Toretsk, north of Toretsk near Dyliivka, and west of Toretsk near Shcherbynivka on January 8 and 9. A Russian milblogger claimed on January 8 that Russian forces have almost fully pushed Ukrainian forces to the outskirts of Toretsk. Drone elements of the Russian 80th "Sparta" Separate Reconnaissance Battalion and 132nd Motorized Rifle Brigade (both of the 51st CAA) reportedly continue to operate in the Toretsk direction.[2]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
+[2] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)

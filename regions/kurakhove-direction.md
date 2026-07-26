@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-07T00:00:00Z
+timestamp: 2025-01-09T00:00:00Z
 ---
 
 # Current Situation
@@ -24,6 +24,8 @@ Russian forces continued offensive operations in the Kurakhove direction on Janu
 
 Note: ISW is incorporating data previously reported as the Vuhledar direction as part of the Kurakhove direction moving forward, reflecting the shifting operational situation.
 
+Russian forces continued offensive operations in the Kurakhove direction on January 9 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces advanced one kilometer deep near Slovyanka, 400 meters deep near Petropavlivka (both northwest of Kurakhove), and 2.5 kilometers south of Kurakhove — ISW has not observed confirmation. Russian forces conducted offensive operations near Kurakhove itself; northwest of Kurakhove near Sribne, Shevchenko, Petropavlivka, and Slovyanka; west of Kurakhove towards Kostyantynopil and Andriivka; south of Kurakhove near Dachne; and southwest of Kurakhove near Kostyantynopolske and Yantarne on January 8 and 9. A Russian source claimed Ukrainian forces are counterattacking near Petropavlivka and on the Yantarne-Dachne road. Ukrainian Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated that Ukrainian forces are still present near the Kurakhivske TPP and are repelling Russian attacks in the area. Elements of the Russian 110th Motorized Rifle Brigade (51st CAA) are reportedly operating in Kurakhove; elements of the 20th Motorized Rifle Division (8th CAA, SMD) south of Kurakhove; elements of the 381st Artillery Regiment (150th MRD, 8th CAA, SMD) near Dachne; elements of the 11th Air Force and Air Defense Army (VKS, EMD) near Kostyantynopil; and elements of the "Grachi" Spetsnaz detachment near Kurakhove.[7]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -32,3 +34,4 @@ Note: ISW is incorporating data previously reported as the Vuhledar direction as
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
+[7] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)

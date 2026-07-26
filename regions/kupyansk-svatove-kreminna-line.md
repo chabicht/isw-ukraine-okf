@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-08T00:00:00Z
+timestamp: 2025-01-09T00:00:00Z
 ---
 
 # Current Situation
@@ -18,9 +18,14 @@ Russian forces recently advanced northeast of Borova. Geolocated footage publish
 
 Russian forces continued offensive operations in the Borova direction on January 8 but did not make any confirmed advances. Russian milbloggers claimed that Russian mechanized units seized two forested areas and cleared Ukrainian forces from positions between Zahryzove and Lozova (both northeast of Borova) and advanced west of Makiivka (southeast of Borova). One Russian milblogger claimed that Russian forces are five kilometers from Borova, but ISW assesses that Russian forces have advanced roughly 12 kilometers from Borova as of January 8. Geolocated footage published on January 7 shows a lone Ukrainian armored vehicle temporarily advancing into and then retreating from Kolisnykivka (northeast of Borova) without encountering Russian forces, indicating that Russian forces may not hold positions throughout the settlement. Mashovets stated that elements of the Russian 2nd Motorized Rifle Division and the 47th Tank Division (both of the 1st Guards Tank Army, Moscow Military District) are advancing on the east (left) bank of the Oskil River, most likely referring to the section of the bank near Kolisnykivka. Russian forces attacked northeast of Borova near Zahryzove; east of Borova near Nadiya, Kopanky, Novoyehorivka, and Pershotravneve; and southeast of Borova near Novoserhiivka, Cherneshchyna, and Makiivka on January 7 and 8. Drone operators of the Russian 16th Spetsnaz Brigade (Russian General Staff's Main Directorate [GRU]) are reportedly operating near Raihorodka (east of Borova).[2]
 
-Russian forces continued offensive operations in the Lyman direction on January 7 but did not make any confirmed advances. Russian milbloggers claimed Russian forces advanced northwest of Novodsadove and west of Ivanivka (both northeast of Lyman). Russian forces continued ground attacks northeast of Lyman near Terny, Ivanivka, and Yampolivka and east of Lyman near Zarichne. Drone operators of the Russian 16th Spetsnaz Brigade (GRU) are reportedly operating near the Serebryanske forest area (southeast of Lyman).[1]
+Russian forces continued offensive operations in the Lyman direction on January 9 but did not make confirmed advances. A Russian source claimed that Russian forces advanced up to and are attacking a tactical height near Kolodyazi (northeast of Lyman), but ISW has not observed confirmation of this claim. Russian forces continued offensive operations northeast of Lyman near Ivanivka and Terny on January 8 and 9. Elements of the Russian 144th Motorized Rifle Division (20th CAA, MMD) reportedly continue to operate near Terny.[3]
+
+Russian forces continued offensive operations in the Kupyansk direction on January 9 but did not make further advances. A Russian source claimed that Russian forces advanced up to five kilometers south of Dvorichna (north of Kupyansk) but ISW has not observed confirmation. An officer in a Ukrainian brigade operating in the Kupyansk direction stated that Russian forces are attempting to seize on poor weather conditions to advance in squad-sized infantry groups. Russian forces continued assaults north of Kupyansk near Zapadne and Holubivka and northeast of Kupyansk near Petropavlivka on January 8 and 9.[3]
+
+Russian forces recently advanced southeast of Borova amid ongoing offensive operations in the Borova direction on January 9. Geolocated footage published on January 9 indicates that Russian forces advanced west and northwest of Makiivka (southeast of Borova). Russian forces continued assaults northeast of Borova near Koliznykvika, Zahryzove, Zelenyi Hai, Borisovka, Andriivka, and Kopanky; east of Borova near Novoyehorivka and Tverdokhlibove; and southeast of Borova near Makiivka and Hrekivka on January 8 and 9.[3]
 
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [2] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
+[3] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)

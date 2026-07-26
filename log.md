@@ -6,6 +6,25 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with 25th UDCG Ramstein meeting, $500M US PDA package, IRIS-T, drone coalition 30,000 drones, eight roadmap documents through 2027, Russian elite frustration and maneuver analysis, Taganrog SIZO torture center, UN condemnation of POW executions, Zaporizhzhia City revised casualty count (116 injured);
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Russian reinforced BN-sized mechanized assault northwest of Sudzha (50+ vehicles, 6 waves), seizure of Leonidovo/Aleksandriya, advances in Pogrebki/Makhnovka, Ukrainian advance in Nikolayevka, 4,000 NK casualties, 106th VDV Division and 30th MRR dispositions;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued limited attacks near Starytsya and Vovchansk, 69th MRD drone operators;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk squad-sized infantry ops in poor weather, unconfirmed 5km Dvorichna claim, Borova advance west/northwest of Makiivka, Lyman unconfirmed Kolodyazi height claim, 144th MRD near Terny;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Bilohorivka ops, unconfirmed Verkhnokamyanske advance claim;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with continued ops, unconfirmed forested area and highway claims, Ukrainian drone battalion tactics report;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with continued ops, Milblogger claim of near-full outskirts push, 80th Sparta and 132nd MRB;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with advance east of Yasenove, Russian bypass tactics, Udachne 4km assessment;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with continued ops no advances, unclaimed 1km-2.5km claims, Ukrainian TPP defense, 110th MRB/20th MRD/381st Artillery/11th Air Force dispositions;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with continued Velyka Novosilka ops no advances;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with continued Mala Tokmachka ops, 291st MRR;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Kozatskyi Island assaults;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with Kremlin annexation plans through Union State framework, planned subsumption by 2030;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 8-9 overnight strike (70 Shahed, 46 downed, 24 EW-lost), Iskander-K interception over Kryvyi Rih, Zaporizhzhia City casualty update to 116 injured;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with Kremlin post-war veteran Duma election plan, Tula Oblast VDV contract incentives (5M rubles), GUR report of 300 forced Ukrainian conscripts in occupied Zaporizhia/Kherson, Luhansk coercion with 2.5M ruble payments;
+  [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with Ramstein speech, 4,000 NK casualties updated.
+* **Update**: Event concept for [Russian Glide Bomb Strike on Zaporizhzhia City]({{ site.baseurl }}/events/russian-glide-bomb-strike-zaporizhzhia-2025-01-08.html) with revised injury count (116, up from 63).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Engels oil storage strike, 8th CAA CP strike in Khartsyzk, fiber-optic drone proliferation, Zaporizhzhia City glide bomb strike;
   [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with 69th MRD marginal advance south of Dvorichna, Borova direction mechanized claims and 2nd MRD/47th TD Oskil River advance, 16th Spetsnaz Brigade near Raihorodka;

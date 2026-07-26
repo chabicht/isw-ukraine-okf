@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-08T00:00:00Z
+timestamp: 2025-01-09T00:00:00Z
 ---
 
 # Background
@@ -48,7 +48,13 @@ On the night of January 7 to 8, Ukrainian forces struck the state-owned Kombinat
 
 Russian forces are increasingly using drones attached to fiber optic cables that are resistant to electronic warfare interference in strikes throughout the frontline. The spokesman of a Ukrainian brigade reported that fiber-optic drones are slower and less maneuverable than FPV drones, making them more vulnerable to small-arms fire.[7]
 
-A Russian glide bomb strike against an industrial infrastructure object in Zaporizhzhia City on January 8 killed 13 people and injured at least 63.[7]
+A Russian glide bomb strike against an industrial infrastructure object in Zaporizhzhia City on January 8 killed 13 people and injured at least 116, an increase from the 63 initially reported.[7]
+
+Ukraine's Western partners held the 25th Ukraine Defense Contact Group meeting at Ramstein Air Base in Germany on January 9. President Zelensky called for all participants to sign bilateral security agreements, emphasized the need for more air defense systems, and stated Ukraine wants to equip its forces with a record number of domestically produced and internationally procured drones in 2025. Ukrainian Defense Minister Rustem Umerov announced the group approved eight roadmap documents outlining Ukrainian forces' objectives through 2027 in air defense, artillery, armored vehicles, drones, air force, and maritime security, aiming for NATO compatibility. The US announced a new $500 million PDA package including AIM-7, RIM-7, and AIM-9M air defense missiles, air-to-ground munitions, F-16 support equipment, and small-arms ammunition. Germany committed IRIS-T missiles, Poland announced preparations for a new aid package, and the drone coalition (UK, Latvia, Denmark, Netherlands, Sweden) signed contracts worth £45 million to provide Ukraine with 30,000 drones. US Defense Secretary Lloyd Austin stated that Russia has advantages but faces challenges evidenced by its turn to North Korea and Iran.[8]
+
+Russian elites and high-ranking security officials are reportedly frustrated with Putin's half-measures in waging the war, increasingly concerned about Western sanctions' long-term economic impact, and lack a clear post-war vision, according to sources in the presidential administration and federal government cited by Meduza. Security officials are advocating for Putin to intensify the war through partial reserve callups and a formal transition to a wartime footing rather than seeking negotiations. ISW assesses that the Russian elites' diagnosis is inaccurate: Russia's failure to restore maneuver to the battlefield — not manpower shortages — is the main factor limiting the rate of advance. Russian forces have demonstrated the ability to make slow, grinding gains through infantry assaults but cannot convert tactical gains into deep penetrations due to armored vehicle shortages, poor campaign planning, and inadequate commander training. Russian forces are fielding fewer armored vehicles in favor of attritional infantry-led assaults. Meduza's report indicates Russian elites — like Putin — are uninterested in a negotiated settlement in the near future and support negotiating only on terms amounting to Ukraine's capitulation.[8]
+
+Russian opposition outlet Mediazone reported that Russian authorities have turned the SIZO-2 pretrial detention center in Taganrog, Rostov Oblast into a torture center for Ukrainian POWs and civilians, with accounts of physical and sexual abuse to coerce guilty pleas in sham trials. The UN Memorial Center for Human Rights reported the FSB assumed control of the facility. The UN condemned the recent surge in Russian executions of Ukrainian POWs — Deputy Human Rights Chief Nada Al-Nashif called on Russian authorities on January 8 to halt summary executions, noting the UN has verified 68 cases since the start of the war. ISW continues to assess that Russian military commanders are either complicit in or enabling these executions.[8]
 
 # Citations
 
@@ -59,3 +65,4 @@ A Russian glide bomb strike against an industrial infrastructure object in Zapor
 [5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [7] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
+[8] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)

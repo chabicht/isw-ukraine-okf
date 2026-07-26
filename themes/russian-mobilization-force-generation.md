@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-07T00:00:00Z
+timestamp: 2025-01-09T00:00:00Z
 ---
 
 # Current Situation
@@ -28,6 +28,12 @@ Russian machine guns and small arms manufacturer Degtyaryev Plant recently filed
 
 The Kremlin continues to promote the "Time of Heroes" program, which aims to place veterans of the Russian full-scale invasion of Ukraine in positions in local, regional, and federal governments. The program announced on December 31 that over 15,000 Russian military veterans have applied for the second cohort since November 2024 and that the application window is open until January 25.[5]
 
+Russian opposition outlet Meduza reported on January 9 that the Kremlin's post-war vision includes electing a "certain proportion" of Russian military veterans to the State Duma. Meduza's sources characterized the proposal as only a "superficial" attempt to distract politicians and the public from Russia's poor conduct of the war, but such an election would likely place radicalized veterans in government positions and militarize a significant portion of the federal government in the medium- to long-term. The Kremlin has been using its Time of Heroes program to appoint Kremlin-selected veterans to government positions as it sets conditions for a possible future military conflict against NATO.[6]
+
+Russian federal subjects continue offering financial incentives to encourage contract military service. A Tula Oblast advertisement promised a five million-ruble (about $48,898) annual salary to Russians who sign contracts with the Russian Airborne Forces by March 1, 2025.[6]
+
+Russian authorities continue to force Ukrainians living under occupation to serve in the Russian military. Ukraine's GUR reported that Russian occupation authorities forced 300 Ukrainian citizens living in occupied Zaporizhia and Kherson oblasts to serve in the Russian military between October 1 and December 31, 2024. Russian authorities are also attempting to coerce residents of occupied Luhansk Oblast into signing contracts, promising one-time payments of 2.5 million rubles (about $24,450).[6]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -35,3 +41,4 @@ The Kremlin continues to promote the "Time of Heroes" program, which aims to pla
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [5] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
+[6] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)

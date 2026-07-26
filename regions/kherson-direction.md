@@ -5,7 +5,7 @@ parent: Regions
 description: The Dnipro River delta and Kherson Oblast frontline area.
 tags: [military, eastern-europe, kinetic, black-sea]
 status: ongoing
-timestamp: 2025-01-07T00:00:00Z
+timestamp: 2025-01-09T00:00:00Z
 ---
 
 # Current Situation
@@ -20,6 +20,8 @@ Russian forces continued limited ground attacks in the Dnipro direction on Janua
 
 Russian forces continued limited ground attacks in the Dnipro direction on January 7 but did not make any confirmed advances. Ukraine's Southern Defense Force reported on January 7 that Ukrainian forces destroyed two Osa air defense systems in unspecified areas in southern Ukraine. Geolocated footage published by the Ukrainian Navy on January 6 indicates Ukrainian forces recently destroyed Russian air defense systems, including at least one Pantsir-S1 system, near occupied Pryvillya, Kherson Oblast. Elements of the Russian 81st Artillery Regiment (70th Motorized Rifle Division, 18th CAA, SMD) and 127th Reconnaissance Brigade (22nd AC, BSF) are reportedly operating in the Kherson direction.[5]
 
+Russian forces continued assaults in the Dnipro direction and on the islands of the Dnipro River Delta, including near Kozatskyi Island (northeast of Kherson City), on January 8 and 9 but did not make any confirmed advances.[6]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -27,3 +29,4 @@ Russian forces continued limited ground attacks in the Dnipro direction on Janua
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [5] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
+[6] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)

@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Pokrovsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-07T00:00:00Z
+timestamp: 2025-01-09T00:00:00Z
 ---
 
 # Current Situation
@@ -24,6 +24,8 @@ Ukrainian and Russian forces continued to advance in the Pokrovsk direction on J
 
 Russian forces recently advanced in the Pokrovsk direction on January 7. Geolocated footage published on January 6 and 7 indicates that Russian forces recently advanced within eastern Lysivka (southeast of Pokrovsk), north of Vovkove (southwest of Pokrovsk), and northwest of Vozdvyzhenka (east of Pokrovsk). A Russian milblogger claimed additional gains northwest of Vovkove, but ISW has not observed confirmation. Russian forces conducted offensive operations near Pokrovsk itself and across multiple areas east, southeast, south, and southwest of the town. Elements of the Russian 35th Motorized Rifle Brigade (41st CAA, CMD) are reportedly operating near Pokrovsk.[6]
 
+Russian forces recently advanced in the Pokrovsk direction on January 9. Geolocated footage published on January 8 indicates that Russian forces recently advanced east of Yasenove (south of Pokrovsk). Russian milbloggers claimed that Russian forces advanced southeast of Kotlyne (west of Pokrovsk), to Yasenove, near Vovkove, on the outskirts of Zvirove (all southwest of Pokrovsk), two kilometers wide and 500 meters deep south of Baranivka, within Baranivka, 700 meters near Vozdvyzhenka (both east of Pokrovsk), and 500 meters within Novoyelyzavetivka (southwest of Pokrovsk) — though ISW has not observed confirmation of these claims. Russian forces conducted offensive operations near Pokrovsk itself and across a wide area east, southeast, south, southwest, and west of the town on January 8 and 9. Russian sources claimed that Russian forces are attempting to bypass central Pishchane from the north and that one of the main goals is to advance to Udachne (southwest of Pokrovsk), from which a milblogger claimed Russian forces are 1.5 kilometers — ISW assesses Russian forces are roughly four kilometers from Udachne based on geolocated evidence. An acting spokesperson of a Ukrainian brigade operating in the Pokrovsk direction stated that Russian forces are attacking almost all day and night but do not have sufficient forces for head-on frontal assaults and are attempting to bypass the town.[7]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -32,3 +34,4 @@ Russian forces recently advanced in the Pokrovsk direction on January 7. Geoloca
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [5] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
+[7] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
