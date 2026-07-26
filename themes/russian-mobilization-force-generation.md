@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Current Situation
@@ -86,10 +86,15 @@ Russian federal subjects continue increasing financial incentives to recruit Rus
 
 Russian milbloggers continue to complain about frontline Russian commanders sending wounded servicemembers on infantry assaults instead of providing adequate medical care. A Russian milblogger and former Storm-Z instructor defended circulating footage of wounded servicemembers of the 20th Combined Arms Army (Moscow Military District) attacking Ukrainian positions near the Serebryanske forested area in the Lyman direction. The milblogger amplified additional footage of wounded servicemembers of the 1st "Slovyansk" Motorized Rifle Brigade (51st CAA) and the 109th Rifle Regiment (132nd Motorized Rifle Brigade, 51st CAA) attacking in an unspecified frontline area, likely near Toretsk. The milblogger noted this is a widespread issue.[17]
 
+The Russian Ministry of Defense (MoD) announced on January 25 that the Russian government will allow veterans of volunteer formations (_dobrovolcheskie formirovaniya_) to receive "combat veteran status" without submitting a formal application. The decision applies to veterans who served in volunteer formations that Russian authorities created to support the Russian military in the war in Ukraine and requires that the formations submit paperwork and documentation to military registration and enlistment offices on behalf of the veterans. The Russian government previously required veterans of volunteer formations to submit their own paperwork.[18]
+
+Russian milbloggers continue to complain about Russia's insufficient quantities of drones and inefficient use of drone strikes. A Russian milblogger claimed on January 20 that Russian forces need "fighter drones" to destroy Ukrainian strike and reconnaissance drones. Another Russian milblogger and former Storm-Z instructor responded on January 25 that Russian forces have an insufficient quantity of material resources and trained personnel to counter Ukraine's quantitatively superior drones, and complained that the Russian military leadership is not making efforts to fix these issues. The milblogger called for Russian forces to focus on striking priority targets, such as Ukrainian reconnaissance drones that guide drone and artillery strikes, instead of striking Ukrainian infantry.[18]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 [17] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
+[18] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 
 [15] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

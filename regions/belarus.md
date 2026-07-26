@@ -5,7 +5,7 @@ parent: Regions
 description: The Republic of Belarus, a Russian ally providing staging grounds and supporting the war effort.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Current Situation
@@ -50,6 +50,8 @@ Nothing significant to report from the January 22 assessment regarding Belarus.[
 
 The Kremlin is framing the new 2025 Union State Security Concept as completely superseding the original 1999 Security Concept, indicating that this new agreement may be more expansive and further the Kremlin's effort to annex Belarus. Russian Security Council Secretary Sergei Shoigu stated on January 24 that the original concept "has lost its relevance" and described the new concept as a "completely new" strategic planning document. Shoigu gave the interview two days before the January 26 Belarusian presidential election, likely to frame Belarus as an undeniable part of the Russian-dominated Union State. The Kremlin will likely frame any pro-democratic protests against the upcoming election as part of a Western-backed hybrid war against Russia and Belarus.[10]
 
+Belarusian officials are likely restricting internet access in Belarus as early voting for the January 26 Belarusian presidential election is currently underway. Belarus's largest internet provider, Hoster, reported on January 25 that Belarusian authorities will restrict access to Belarusian sites from abroad from January 25 to 27 due to "threats to information infrastructure facilities." Russian and Belarusian opposition outlets reported that Belarusian users reported issues using VPN services.[11]
+
 # Citations
 
 [10] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -66,3 +68,4 @@ The Kremlin is framing the new 2025 Union State Security Concept as completely s
 [6] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [7] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [8] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)
+[11] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

@@ -5,7 +5,7 @@ parent: Themes
 description: Russian innovations in drone technology, electronic warfare, and armored vehicle modifications for the Ukraine war.
 tags: [military, technology, drone-warfare]
 status: ongoing
-timestamp: 2025-01-17T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Current Situation
@@ -32,6 +32,8 @@ Russian forces are increasingly using drones attached to fiber optic cables that
 
 Russian state defense corporation Rostec stated on January 16 that it successfully tested the "Sfera" drone detection and suppression system to protect civilian areas from drone strikes. Rostec stated that the "Polet" Chelyabinsk Radio Plant produces the Sfera electronic warfare (EW) system, which Rostec claimed has a range of "several" square kilometers. Rostec claimed that it has successfully tested the Sfera both in areas of mass civilian gatherings and on the frontlines.[8]
 
+Russian defense manufacturer Kalashnikov Concern announced on January 21 that it will unveil its new "Kub-2-E" reconnaissance and strike drone equipped with guided munitions at the IDEX-2025 exhibition in Abu Dhabi in late February 2025. Russian forces will reportedly use launchers attached to armored vehicles to launch the "Kub-2-E" drones, and Kalashnikov reportedly designed the drones to destroy lightly armored military equipment, air defense systems, helicopter basing sites, and additional military equipment.[9]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
@@ -42,3 +44,4 @@ Russian state defense corporation Rostec stated on January 16 that it successful
 [6] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [7] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [8] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
+[9] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

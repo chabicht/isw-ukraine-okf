@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Current Situation
@@ -58,6 +58,8 @@ Russian forces are intensifying offensive operations aimed at seizing Velyka Nov
 
 Russian forces recently advanced within Velyka Novosilka amid continued fighting in the area on January 24. Geolocated footage published January 24 shows that Russian forces, reportedly of the 5th Tank Brigade (36th CAA, Eastern Military District), recently advanced in eastern and central Velyka Novosilka along Fontanna and Yuriia Haharina streets. The Russian MoD claimed on January 24 that Russian forces bisected Velyka Novosilka. A Russian source claimed that Russian forces advanced north of Rozdolne (northeast of Velyka Novosilka) and southwest of Novyi Komar (north of Velyka Novosilka). Russian forces also conducted offensive operations southwest of Velyka Novosilka near Novodarivka on January 23 and 24.[20]
 
+Russian forces recently advanced within Velyka Novosilka amid continued fighting in the area on January 25. Geolocated footage published on January 25 shows elements of the Russian 40th Naval Infantry Brigade (Pacific Fleet, EMD) raising a flag in eastern Velyka Novosilka, indicating that Russian forces recently advanced to Zarichna Street in northeastern Velyka Novosilka and seized the fields north and northeast of the settlement. Russian milbloggers claimed that elements of the 40th Naval Infantry Brigade are advancing towards central Velyka Novosilka from the north and northeast and that Russian forces have seized over 65 percent of the settlement. ISW has observed geolocated footage to assess that Russian forces have seized 72 percent of Velyka Novosilka. A Russian milblogger claimed that Russian forces marginally advanced southwest of Rozdolne (northeast of Velyka Novosilka), but ISW has not observed confirmation of this claim. A source reportedly affiliated with Ukrainian military intelligence stated that Russian forces are publishing manipulated footage to create the false impression that Russian forces have seized all of Velyka Novosilka. Russian forces continued ground attacks near Velyka Novosilka itself, southwest of Velyka Novosilka near Novodarivka, and west of Velyka Novosilka near Novosilka on January 24 and 25. Snipers and drone operators of the Russian 5th Tank Brigade (36th CAA, EMD) reportedly continue operating and clearing Ukrainian positions in the southern part of Velyka Novosilka.[21]
+
 # Citations
 
 [20] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -84,3 +86,4 @@ Russian forces recently advanced within Velyka Novosilka amid continued fighting
 [14] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [15] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [16] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
+[21] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

@@ -4,6 +4,28 @@ nav_order: 8
 permalink: /log/
 ---
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Transnistria energy crisis (Zelensky-Sandu meeting, coal-for-electricity offer, 30% price reduction), Rybar in Iraq (Kremlin influence cultivation, meeting with PM Sudani, Assad fall implications);
+  [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with Sandu meeting, Transnistria coal offer;
+  [Russia]({{ site.baseurl }}/actors/countries/russia.html) with Rybar Telegram channel Iraq visit, Russian influence cultivation, possible supplanting US as security partner;
+  [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) with Transnistria coal and electricity offer;
+  [Moldova]({{ site.baseurl }}/actors/countries/moldova.html) with Sandu-Zelensky meeting Jan 25, coal-for-electricity offer, 30% price reduction potential, disruption of Russian energy crisis narrative;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with continued ops no confirmed advances, unclaimed claims southeast of Nikolayevo-Darino and north of Cherkasskoye Porechnoye, Ukrainian counterattack near Pogrebki, 155th Naval Infantry and 34th MRB dispositions;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued attacks Vovchansk/Tykhe no advance, repelled armored attack near Tykhe (4 IFVs destroyed), Vakha Battalion and 245th MRR;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk envelopment analysis (Mashovets 6th CAA bridgehead near Dvorichna, 12th Tank/272nd MRR east of Kupyansk, redeployment speculation from Vovchansk to Dvorichna), Borova 400m claim near Zahryzove unconfirmed, 1st GTA/20th CAA 80% staffing, Lyman continued ops no advance;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Vasyukivka no advance;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with reinforced platoon-sized mechanized assault repelled (4 BMDs destroyed, 8 total), foggy weather tactics, 98th VDV including 5th Anti-Aircraft Missile Regiment dispositions;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with advance (geolocated Jan 25);
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with geolocated advance east of Sukhyi Yar, unconfirmed Novoandriivka/Nadiivka/Novooleksandrivka claims, small assault squad tactics, fiber optic drone issue;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with geolocated advances east/south of Slovyanka and to northeastern Andriivka, Ukrainian counterattack along Zelenivka-Ulakly line, 33rd MRR/39th MRB/Vizantiya/103rd MRR dispositions;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with 40th Naval Infantry flag raised in eastern Velyka Novosilka (Zarichna Street), ISW assesses 72% seized, DeepState manipulated footage claim, 5th Tank Brigade clearing southern part;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with continued assaults near Mala Tokmachka/Novodanylivka no advance, 7th VDV/Sharman/Batyr dispositions;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Zabych/Kozatskyi island assaults no advance;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 24-25 overnight strike (2 Kh-59/69, 61 Shahed, 46 downed, 15 EW-lost), energy infrastructure damage in Cherkasy, Zelensky domestically-produced Shahed report;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with MoD combat veteran status for volunteer formations without formal application, milblogger complaints about insufficient drones and fighter drone need;
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with Kalashnikov Concern Kub-2-E reconnaissance/strike drone at IDEX-2025;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with internet restrictions during Jan 25 election early voting, VPN issues reported.
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Putin negotiations obfuscation (2022 decree strawman, Zelensky willingness to negotiate), Putin-Trump equal positioning, oil price concern, Kremlin info op on Western aid (Shoigu), Union State Security Concept (Shoigu supersedes 1999);
   [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with negotiation stance post-2022 decree, willingness to compromise for peace;

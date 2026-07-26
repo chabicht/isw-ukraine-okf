@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Current Situation
@@ -78,6 +78,10 @@ On the night of January 22 to 23, Russian forces conducted a series of drone and
 
 On the night of January 23 to 24, Russian forces conducted a series of drone strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched 58 Shahed and decoy drones from Primorsko-Akhtarsk, Krasnodar Krai and Oryol, Kursk, and Bryansk oblasts. Ukrainian forces downed 25 drones over Sumy, Kyiv, Chernihiv, Cherkasy, Zhytomyr, Khmelnytskyi, and Lviv oblasts; 27 decoy drones were "lost," likely due to Ukrainian electronic warfare (EW) interference. Russian drones damaged apartment buildings and homes and killed civilians in Kyiv and Chernihiv oblasts. Ukrainian officials reported that a Russian drone struck an unspecified target in Osnovyanskyi Raion, Kharkiv City; that a Russian drone strike killed two civilians in Kyiv Oblast; and that falling drone debris damaged buildings in Fastivskyi Raion and Brovary, Kyiv Oblast and Pidbirtsi, Lviv Oblast.[22]
 
+On the night of January 24 to 25, Russian forces conducted a series of drone and missile strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched two Kh-59/69 cruise missiles from the airspace over the Black Sea and 61 Shahed and decoy drones from Oryol and Kursk oblasts; Millerovo, Rostov Oblast; and Primorsko-Akhtarsk, Krasnodar Krai. Ukrainian forces downed both Kh-59/69 missiles and 46 drones over Odesa, Kharkiv, Poltava, Sumy, Kyiv, Cherkasy, Donetsk, Zaporizhia, Dnipropetrovsk, Khmelnytskyi, and Kirovohrad oblasts; 15 decoy drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; and debris from Russian drones damaged buildings in Kyiv, Cherkasy, and Khmelnytskyi oblasts. Ukrainian officials reported that Russian drones also damaged energy infrastructure in Cherkasy Oblast and buildings in Kharkiv Oblast.[23]
+
+Ukrainian President Volodymyr Zelensky reported on January 24 that Russian forces used domestically produced Shahed drones during the drone strike against Ukraine on the night of January 23 to 24.[24]
+
 # Citations
 
 [22] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -105,3 +109,5 @@ On the night of January 23 to 24, Russian forces conducted a series of drone str
 [17] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [18] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [19] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
+[23] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[24] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

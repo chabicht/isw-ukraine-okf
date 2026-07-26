@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Chasiv Yar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Current Situation
@@ -42,6 +42,8 @@ Russian forces continued ground attacks near and within Chasiv Yar on January 22
 
 Russian forces recently advanced in the Chasiv Yar direction amid continued offensive operations on January 24. Geolocated footage published on January 24 indicated that Russian forces recently advanced south of Chasiv Yar. A Russian milblogger claimed on January 24 that Russian forces advanced to the western outskirts of Chasiv Yar. Russian forces continued attacking near Chasiv Yar itself; northeast of Chasiv Yar near Vasyukivka and towards Novomarkove; and south of Chasiv Yar near Bila Hora on January 23 and 24. A Ukrainian brigade operating in the Chasiv Yar direction published footage on January 23 showing the brigade repelling a reduced company-sized Russian mechanized assault near Chasiv Yar and destroying four armored vehicles. The Ukrainian Khortytsia Group of Forces reported on January 24 that Russian forces are using motorcycles and other vehicles to transport personnel in Chasiv Yar. Elements of the Russian "Rodnya" Battalion are reportedly operating in Chasiv Yar, and elements of the Russian "Sever-V" Brigade (Russian Volunteer Corps) are reportedly operating near Chasiv Yar.[15]
 
+Russian forces continued ground attacks in the Chasiv Yar direction on January 25 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces advanced in southern Chasiv Yar and are clearing Novopivnichnyi Microraion in western Chasiv Yar. A Ukrainian brigade operating in the Chasiv Yar direction reported that Ukrainian forces destroyed four Russian BMDs during a reinforced platoon-sized mechanized assault in Chasiv Yar. The spokesperson of the Ukrainian brigade added that Russian forces are taking advantage of foggy weather and decreased Ukrainian drone operations to conduct assaults. The Ukrainian Khortytsia Group of Forces reported that Ukrainian forces recently damaged and destroyed a total of eight Russian BMDs in Chasiv Yar. Russian forces continued attacking near Chasiv Yar itself; northeast of Chasiv Yar near Orikhovo-Vasylivka and towards Novomarkove and Markove; and south of Chasiv Yar near Predtechyne, Stupochky, and Bila Hora on January 24 and 25. A Russian milblogger claimed that Ukrainian forces counterattacked in southern Chasiv Yar. Elements of the Russian 98th Airborne (VDV) Division, including its 5th Anti-Aircraft Missile Regiment, are reportedly operating near Chasiv Yar.[16]
+
 # Citations
 
 [15] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -63,3 +65,4 @@ Russian forces recently advanced in the Chasiv Yar direction amid continued offe
 [9] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [10] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [11] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
+[16] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

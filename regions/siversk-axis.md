@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations northeast of Siversk, centered on Bilohorivka, Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Current Situation
@@ -44,6 +44,8 @@ Russian forces continued limited ground attacks southeast of Siversk near Ivano-
 
 Russian forces continued offensive operations northeast of Siversk near Bilohorivka and southeast of Siversk near Ivano-Darivka on January 23 and 24 but did not advance. The Ukrainian Khortytsia Group of Forces reported on January 24 that Russian forces with armored vehicle support recently attacked near Ivano-Darivka. The spokesperson of a Ukrainian brigade operating in the Siversk direction stated on January 23 that Russian forces recently conducted a motorized assault in an unspecified area of the Siversk direction comprised of at least 40 motorcycles and civilian vehicles.[16]
 
+Russian forces continued offensive operations southwest of Siversk near Vasyukivka on January 25 but did not advance.[17]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -68,3 +70,4 @@ Russian forces continued offensive operations northeast of Siversk near Bilohori
 [10] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [11] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [12] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
+[17] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

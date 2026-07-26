@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Background
@@ -142,6 +142,10 @@ The Kremlin attempted to revive its information operation aimed at deterring the
 
 The Kremlin framed the new 2025 Union State Security Concept as completely superseding the original 1999 Security Concept, indicating that this new agreement may be more expansive and further the Kremlin's effort to annex Belarus. Shoigu stated that the original concept "has lost its relevance" and described the new concept as a "completely new" strategic planning document. Shoigu gave the interview two days before the January 26 Belarusian presidential election, likely to frame Belarus as an undeniable part of the Russian-dominated Union State.[22]
 
+Ukraine and Moldova continued to offer solutions to Transnistria's energy crisis as Moldovan President Maia Sandu met with Ukrainian President Volodymyr Zelensky in Kyiv on January 25. Zelensky stated that Ukraine can supply Transnistria with coal at low prices or even free of charge if Transnistria would supply Ukraine with electricity in return, and that Ukraine is ready to send specialists to help increase the Transnistrian power plant's output. Zelensky noted that Transnistria's cooperation would help reduce electricity prices throughout Moldova by 30 percent. Transnistrian authorities have previously refused Moldovan and Ukrainian offers of help, instead turning to schemes involving Moscow providing gas to cover only domestic electricity needs. Transnistria's possible acceptance of these offers would disrupt Russian efforts to use the energy crisis to strengthen Transnistria's economic dependence on Moscow and leverage Chisinau's turn to higher-priced European electricity as part of Moscow's anti-EU narratives.[23]
+
+The Kremlin continued to leverage the prominent Kremlin-linked _Rybar_ Telegram channel to cultivate increased Russian influence in Iraq. The _Rybar_ channel claimed on January 25 that members of the _Rybar_ team, including founder Mikhail Zvinchuk, visited Iraq over the last week and met with Iraqi officials including Prime Minister Mohammad Shia Al Sudani. Iraqi officials noted their openness to increasing trade and foreign investments with Russian partners and interest in further developing Russian-Iraqi relations. The recent fall of the Bashar Al-Assad regime in Syria may be prompting the Kremlin to reconsider the contours of its relations with Iraq.[23]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -174,3 +178,4 @@ Moscow's military integration with Belarus already provides operational benefits
 [20] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 [21] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 [22] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
+[23] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

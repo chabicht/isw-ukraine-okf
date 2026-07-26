@@ -5,7 +5,7 @@ parent: Regions
 description: The Dnipro River delta and Kherson Oblast frontline area.
 tags: [military, eastern-europe, kinetic, black-sea]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Current Situation
@@ -50,6 +50,8 @@ Russian forces continued limited ground attacks in the Dnipro direction in Khers
 
 Russian forces continued limited ground attacks in the Dnipro direction and on the islands of the Dnipro River Delta on January 23 and 24.[19]
 
+Russian forces continued assaults in the Kherson direction, including on Zabych and Kozatskyi islands (southwest and east of Kherson City, respectively) in the Dnipro River Delta, on January 24 and 25 but did not advance.[20]
+
 # Citations
 
 [19] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -77,3 +79,4 @@ Russian forces continued limited ground attacks in the Dnipro direction and on t
 [13] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [14] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [15] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
+[20] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

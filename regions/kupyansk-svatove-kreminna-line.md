@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Current Situation
@@ -108,6 +108,12 @@ Russian forces continued offensive operations in the Borova direction on January
 
 Russian forces continued offensive operations in the Lyman direction on January 24 but did not make any confirmed advances. A Russian milblogger claimed that Russian forces advanced west of Ivanivka (northeast of Lyman). Russian forces continued ground attacks northeast of Lyman near Yampolivka and east of Lyman near Torske on January 23 and 24. The spokesperson of a Ukrainian brigade operating in the Lyman direction stated on January 24 that Russian forces are constantly attacking with small infantry teams of up to four soldiers in the area, which is resulting in costly Russian manpower losses.[16]
 
+Ukrainian sources speculated on Russian offensive operations in the Kupyansk direction amid ongoing Russian assaults in this direction on January 25. The commander of a Ukrainian anti-tank battalion operating in the Kupyansk and Borova directions stated that Russian forces are attempting to envelop Kupyansk and Kupyansk-Vuzhlovyi (just south of Kupyansk) from the north and south. Ukrainian military observer Kostyantyn Mashovets stated that elements of the Russian 69th Motorized Rifle Division (6th CAA, Leningrad Military District [LMD]), 9th Artillery Brigade (6th CAA), 45th Engineer-Camouflage Regiment, and other elements mainly of the 6th CAA are currently operating near Dvorichna (north of Kupyansk) and are attempting to expand their bridgehead on the west bank of the Oskil River. Mashovets stated that elements of the Russian 12th Tank Regiment (4th Tank Division, 1st Guards Tank Army [GTA], Moscow Military District [MMD]) and 272nd Motorized Rifle Regiment (47th Tank Division, 1st GTA) are unsuccessfully attacking east of Kupyansk near Kotlyarivka. Mashovets suggested that the Russian military command may redeploy elements of the 6th CAA from the Vovchansk area to Dvorichna if Russian forces begin to make substantial advances north of Kupyansk, to expand the Russian salient as part of efforts to envelop Kupyansk to avoid a frontal assault. Russian milbloggers claimed that Russian forces advanced near Zapadne (north of Kupyansk and south of Dvorichna), but ISW has not observed confirmation. Russian forces continued assaults north of Kupyansk near Dvorichna and Hlushkivka, northeast of Kupyansk near Petropavlivka, and east of Kupyansk near Pishchane on January 24 and 25.[17]
+
+Russian forces continued offensive operations in the Borova direction on January 25 but did not advance. Russian milbloggers claimed that Russian forces advanced 400 meters near Zahryzove (north of Borova), but ISW has not observed confirmation. The commander of the Ukrainian anti-tank battalion operating in the Kupyansk and Borova directions stated that Russian forces are attempting to seize Kopanky (east of Borova) and are attacking with a large number of infantry. The commander estimated that the Russian military command has staffed the 1st GTA and 20th CAA (MMD) to 80 percent of their doctrinal end strength. Mashovets stated that elements of the Russian 3rd Motorized Rifle Division (20th CAA) are attacking towards Borova from the north and northeast near Lozova, Zelenyi Hai, and Pershotravneve. Russian forces continued assaults north of Borova near Nova Kruhlyakivka and Zahryzove; northeast of Borova near Lozova and Zelenyi Hai; east of Borova near Kopanky and Pershotravneve; and southeast of Borova near Novoserhiivka, Tverdokhlibove, Novoyehorivka, Hrekivka, and Makiivka and towards Shiykivka and Druzhelyubivka on January 24 and 25. Russian milbloggers claimed that Ukrainian forces counterattacked near Zahryzove and Zelenyi Hai.[17]
+
+Russian forces continued offensive operations northeast of Lyman near Novolyubivka and Torske and in the direction of Zelena Dolyna on January 24 and 25 but did not advance.[17]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -130,3 +136,4 @@ Russian forces continued offensive operations in the Lyman direction on January 
 [10] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [11] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [12] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
+[17] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

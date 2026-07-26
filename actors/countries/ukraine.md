@@ -5,7 +5,7 @@ parent: Countries
 description: Ukraine, the defending nation in the full-scale war with Russia.
 tags: [country, military, energy, europe, eastern-europe, black-sea]
 status: ongoing
-timestamp: 2025-01-17T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Current Situation
@@ -20,7 +20,10 @@ The GUR specified new details about the December 31 naval drone strike in the Bl
 
 Recently declassified US documents highlight the integral role of US monetary and technical assistance in expanding Ukraine's domestic drone production capabilities. The US began investing in Ukraine's drone production initiative in Fall 2022 and accelerated these efforts in Summer 2023, enabling Kyiv to rapidly expand its domestic drone production capabilities. US officials stated that US aid helped Ukraine develop a new generation of drones and revolutionize how wars are fought. US support for Ukraine's drone production has yielded insights for American defense industrial companies.[2]
 
+Ukraine continued to offer solutions to Transnistria's energy crisis on January 25. President Zelensky stated during a press conference with Moldovan President Maia Sandu that Ukraine can supply Transnistria with coal at low prices or even free of charge if Transnistria would supply Ukraine with electricity in return, and offered to send specialists to increase the Transnistrian power plant's output.[3]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
+[3] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

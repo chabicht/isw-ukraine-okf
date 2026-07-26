@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-25T00:00:00Z
 ---
 
 # Current Situation
@@ -72,10 +72,13 @@ A Ukrainian drone battalion posted footage on January 22 of the battalion striki
 
 Russian forces recently advanced northwest and south of Sudzha amid continued offensive operations on January 24. Geolocated footage published on January 23 shows that Russian forces reached the northern outskirts of Sverdlikovo (northwest of Sudzha) and advanced within southern Makhnovka (south of Sudzha). Russian milbloggers claimed that Russian forces also seized Maryevka (northwest of Sudzha) and advanced northwest of Sudzha near Malaya Loknya, Nikolskiy, and Viktorovka and south of Sudzha near Kurilovka. One milblogger claimed that Russian forces operating northwest of Sudzha are attempting to reach the Malaya Loknya-Loknya River line and seize Sverdlikovo and Lebedevka as part of a broader effort to obtain fire control over Ukrainian logistics lines. Another milblogger claimed that Ukrainian forces continued counterattacking throughout the salient.[15]
 
+Russian forces continued offensive operations in the Ukrainian salient in Kursk Oblast on January 25 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces advanced southeast of Nikolayevo-Darino (southeast of Korenevo), north of Cherkasskoye Porechnoye (north of Sudzha), and south of Sudzha, but ISW has not observed confirmation of these claims. Russian forces continued attacks near Kurilovka (south of Sudzha), Cherkasskoye Porechnoye, and Sverdlikovo (northwest of Sudzha). Russian sources claimed that Ukrainian forces counterattacked with armored vehicle support near Pogrebki (north of Sudzha). Elements of the Russian 155th Naval Infantry Brigade (Pacific Fleet, Eastern Military District [EMD]) are reportedly operating in Kursk Oblast, and elements of the 34th Motorized Rifle Brigade (49th Combined Arms Army [CAA], Southern Military District [SMD]) are reportedly operating near Pogrebki.[16]
+
 # Citations
 
 [14] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 [15] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
+[16] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 
 [13] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
