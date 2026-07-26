@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-26T00:00:00Z
 ---
 
 # Current Situation
@@ -90,11 +90,14 @@ The Russian Ministry of Defense (MoD) announced on January 25 that the Russian g
 
 Russian milbloggers continue to complain about Russia's insufficient quantities of drones and inefficient use of drone strikes. A Russian milblogger claimed on January 20 that Russian forces need "fighter drones" to destroy Ukrainian strike and reconnaissance drones. Another Russian milblogger and former Storm-Z instructor responded on January 25 that Russian forces have an insufficient quantity of material resources and trained personnel to counter Ukraine's quantitatively superior drones, and complained that the Russian military leadership is not making efforts to fix these issues. The milblogger called for Russian forces to focus on striking priority targets, such as Ukrainian reconnaissance drones that guide drone and artillery strikes, instead of striking Ukrainian infantry.[18]
 
+Russian milbloggers criticized the Russian government on Jan 25 for failing to prioritize recruitment and training of the next generation of military officers. One milblogger claimed current Russian youth are more patriotic than previous generations, but another countered that the government is not capitalizing on this trend and criticized youth for highlighting military issues without enlisting or developing solutions. The second milblogger criticized military academies for prioritizing state awards over proper training and claimed the military expelled many 2024 contract servicemembers due to behavioral or training issues. A third milblogger noted cadet wages are not livable and accused the military command of carelessness toward the future officer corps. A Kremlin-affiliated milblogger called for adjustments to youth policies and propaganda.[19]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 [17] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 [18] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[19] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 
 [15] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

@@ -5,7 +5,7 @@ parent: Regions
 description: The Republic of Belarus, a Russian ally providing staging grounds and supporting the war effort.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-26T00:00:00Z
 ---
 
 # Current Situation
@@ -52,7 +52,13 @@ The Kremlin is framing the new 2025 Union State Security Concept as completely s
 
 Belarusian officials are likely restricting internet access in Belarus as early voting for the January 26 Belarusian presidential election is currently underway. Belarus's largest internet provider, Hoster, reported on January 25 that Belarusian authorities will restrict access to Belarusian sites from abroad from January 25 to 27 due to "threats to information infrastructure facilities." Russian and Belarusian opposition outlets reported that Belarusian users reported issues using VPN services.[11]
 
+Belarusian President Alexander Lukashenko won the January 26 Belarusian presidential election with a purported 87.6 percent of the vote in an election that was neither free nor fair. Belarusians did not participate in widespread mass protests — a departure from the mass unrest that followed Lukashenko's rigged electoral victory in the 2020 presidential election. Exiled Belarusian opposition leader Sviatlana Tsikhanouskaya called on Belarusians to refrain from protesting ahead of the election, citing the heightened risk of severe repercussions. Lukashenko's regime has attempted to minimize the risk of widespread protests in recent years, including by rescheduling the presidential election to the winter, restricting internet access during voting, and introducing increasingly repressive policies since 2020.
+
+The Russian government continues to erode Belarusian sovereignty by increasing its permanent military presence and deploying missile systems in Belarus. Lukashenko claimed on January 26 that Russian Oreshnik ballistic missiles would arrive in Belarus "any day now." Lukashenko claimed that Russia may deploy the Oreshniks to a Belarusian city, such as Orsha close to Smolensk City. Lukashenko asserted that Russia's deployment is a direct response to US missile deployments in Europe and claimed that the Oreshnik missiles will protect Belarus. Lukashenko likely hopes to assert some form of control over Russia's use of the Oreshnik missiles deployed to Belarus to buttress Belarus' waning sovereignty, but Moscow will likely retain operational control. ISW continues to assess that the deployment of Oreshnik medium-range ballistic missiles to Belarus does not fundamentally alter Russian military capabilities vis-à-vis Europe and Ukraine, as Russia has long maintained weapons systems with similar payloads and longer ranges in Kaliningrad and elsewhere in mainland Russia.[12]
+
 # Citations
+
+[12] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 
 [10] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 

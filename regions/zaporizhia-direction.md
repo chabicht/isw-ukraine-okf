@@ -5,7 +5,7 @@ parent: Regions
 description: The southern axis in Zaporizhia Oblast, including the Robotyne area.
 tags: [military, eastern-europe, kinetic, crimea]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-26T00:00:00Z
 ---
 
 # Current Situation
@@ -68,7 +68,11 @@ Russian forces continued limited ground attacks in the Dnipro direction and on t
 
 Russian forces continued ground assaults in western Zaporizhia Oblast, including northeast of Robotyne near Mala Tokmachka and north of Robotyne near Novodanylivka, on January 24 and 25 but did not make any confirmed advances. Elements of the Russian 7th Airborne (VDV) Division, the "Sharman" Detachment of the 1455th Motorized Rifle Regiment (reportedly of the 42nd Motorized Rifle Division, 58th Combined Arms Army [CAA], Southern Military District [SMD]), and the "Batyr" Detachment of the 291st Motorized Rifle Regiment (42nd Motorized Rifle Division) are reportedly operating in the Orikhiv direction.[20]
 
+Neither Ukrainian nor Russian sources reported Russian offensive operations in the Zaporizhia direction on January 26. A spokesperson for a Ukrainian brigade operating in the Zaporizhia direction stated that Russian forces are using fiber optic drones more frequently.[21]
+
 # Citations
+
+[21] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 
 [19] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 

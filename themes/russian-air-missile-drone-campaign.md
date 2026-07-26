@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-26T00:00:00Z
 ---
 
 # Current Situation
@@ -81,6 +81,10 @@ On the night of January 23 to 24, Russian forces conducted a series of drone str
 On the night of January 24 to 25, Russian forces conducted a series of drone and missile strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched two Kh-59/69 cruise missiles from the airspace over the Black Sea and 61 Shahed and decoy drones from Oryol and Kursk oblasts; Millerovo, Rostov Oblast; and Primorsko-Akhtarsk, Krasnodar Krai. Ukrainian forces downed both Kh-59/69 missiles and 46 drones over Odesa, Kharkiv, Poltava, Sumy, Kyiv, Cherkasy, Donetsk, Zaporizhia, Dnipropetrovsk, Khmelnytskyi, and Kirovohrad oblasts; 15 decoy drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; and debris from Russian drones damaged buildings in Kyiv, Cherkasy, and Khmelnytskyi oblasts. Ukrainian officials reported that Russian drones also damaged energy infrastructure in Cherkasy Oblast and buildings in Kharkiv Oblast.[23]
 
 Ukrainian President Volodymyr Zelensky reported on January 24 that Russian forces used domestically produced Shahed drones during the drone strike against Ukraine on the night of January 23 to 24.[24]
+
+On the night of Jan 25 to 26, Russian forces launched 72 Shahed and decoy drones from Oryol, Kursk, and Bryansk oblasts; Millerovo, Rostov Oblast; and Primorsko-Akhtarsk, Krasnodar Krai. Ukrainian forces downed 50 drones over Kyiv, Odesa, Kharkiv, Poltava, Sumy, Donetsk, Dnipropetrovsk, and Khmelnytskyi oblasts; nine decoy drones were lost to EW interference; and one drone remained airborne as of 0900 local time. Russian drones damaged civilian infrastructure in Sumy City and damaged residential buildings and vehicles in four raions of Kharkiv City overnight and on Jan 26.[24]
+
+Ukrainian President Zelensky reported on Jan 26 that Russian forces launched 1,250 glide bombs, over 750 FPV drones, and over 220 missiles against Ukraine from Jan 20 to 26. The Ukrainian Air Force reported downing two guided aircraft missiles, 375 Shaheds, 71 reconnaissance drones, and 59 other drones during that period.[24]
 
 # Citations
 

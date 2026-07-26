@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Chasiv Yar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-26T00:00:00Z
 ---
 
 # Current Situation
@@ -44,6 +44,8 @@ Russian forces recently advanced in the Chasiv Yar direction amid continued offe
 
 Russian forces continued ground attacks in the Chasiv Yar direction on January 25 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces advanced in southern Chasiv Yar and are clearing Novopivnichnyi Microraion in western Chasiv Yar. A Ukrainian brigade operating in the Chasiv Yar direction reported that Ukrainian forces destroyed four Russian BMDs during a reinforced platoon-sized mechanized assault in Chasiv Yar. The spokesperson of the Ukrainian brigade added that Russian forces are taking advantage of foggy weather and decreased Ukrainian drone operations to conduct assaults. The Ukrainian Khortytsia Group of Forces reported that Ukrainian forces recently damaged and destroyed a total of eight Russian BMDs in Chasiv Yar. Russian forces continued attacking near Chasiv Yar itself; northeast of Chasiv Yar near Orikhovo-Vasylivka and towards Novomarkove and Markove; and south of Chasiv Yar near Predtechyne, Stupochky, and Bila Hora on January 24 and 25. A Russian milblogger claimed that Ukrainian forces counterattacked in southern Chasiv Yar. Elements of the Russian 98th Airborne (VDV) Division, including its 5th Anti-Aircraft Missile Regiment, are reportedly operating near Chasiv Yar.[16]
 
+Russian forces continued offensive operations in the Chasiv Yar direction on Jan 26 but did not make any confirmed advances. A Russian milblogger claimed that Russian forces advanced to Tsentralna Street in western Chasiv Yar and on the southern outskirts of the settlement, but ISW has not observed confirmation. Russian forces continued ground attacks near Chasiv Yar itself; north of Chasiv Yar near Orikhovo-Vasylivka and towards Novomarkove; and south of Chasiv Yar near Stupochky, Bila Hora, and Predtechyne on Jan 25 and 26. A spokesperson for a Ukrainian brigade operating in the Chasiv Yar direction stated on Jan 26 that elements of the Russian 98th Airborne (VDV) Division operating in and near Chasiv Yar are well trained and that Chechen "Akhmat" Spetsnaz elements that include former Wagner Group and "Rusich" soldiers are reinforcing airborne elements. The Ukrainian spokesperson stated that Russian forces are conducting small group infantry assaults daily and taking advantage of times when Ukrainian forces decrease drone use due to fog and precipitation. Ukraine's Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated that Russian forces are hiding and moving around in pipes near the Siverskyi Donets Donbas Canal. Elements of the Russian 27th Artillery Regiment (6th MRD, 3rd AC) are reportedly operating in the Chasiv Yar direction.[17]
+
 # Citations
 
 [15] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -65,4 +67,6 @@ Russian forces continued ground attacks in the Chasiv Yar direction on January 2
 [9] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [10] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [11] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
+[17] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
+
 [16] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)

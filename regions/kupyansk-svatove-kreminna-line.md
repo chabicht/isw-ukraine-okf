@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-26T00:00:00Z
 ---
 
 # Current Situation
@@ -114,6 +114,12 @@ Russian forces continued offensive operations in the Borova direction on January
 
 Russian forces continued offensive operations northeast of Lyman near Novolyubivka and Torske and in the direction of Zelena Dolyna on January 24 and 25 but did not advance.[17]
 
+Russian forces continued offensive operations in the Kupyansk direction on January 26 but did not make any confirmed advances. Ukrainian units posted footage of repelling a reinforced platoon-sized mechanized assault near Pishchane (southeast of Kupyansk) towards Kupyansk-Vuzlovyi, destroying all four APCs. A Ukrainian battalion commander stated that Russian forces are trying to cross the Oskil River near Dvorichna in small groups of five to eight people in small boats at night or in foggy weather. Russian forces conducted offensive operations east of Kupyansk near Stepova Novoselivka and Petropavlivka, southeast of Kupyansk near Pishchane, and south of Kupyansk near Hlushkivka on January 25 and 26.[18]
+
+Russian forces recently advanced in the Borova direction. Geolocated footage published on January 26 shows Russian soldiers raising a flag in eastern Tverdokhlibove (southeast of Borova), indicating that Russian forces recently advanced to the eastern part of the settlement and seized Novoyehorivka. Russian milbloggers claimed advances northwest of Novoyehorivka, northwest and west of Makiivka, and 400 meters from Makiivka towards Hrekivka, though ISW has not observed confirmation of these claims. Russian forces continued ground attacks in multiple areas on January 25 and 26. A Ukrainian battalion commander stated that Ukrainian forces repelled Russian advances near Kolisnykivka and towards Zahryzove and destroyed almost all equipment used in four mechanized assaults between January 23 and 26.[18]
+
+Russian forces continued offensive operations in the Lyman direction on January 26 but did not advance. Russian milbloggers claimed that Russian forces advanced to the outskirts of Kolodyazi after repelling Ukrainian counterattacks, though another milblogger claimed that Russian forces are unsuccessfully trying to enter Kolodyazi in small groups. Russian forces conducted offensive operations northeast of Lyman near Kolodyazi, Yampolivka, Terny, Ivanivka, and Novolyubivka and east of Lyman near Torske on January 25 and 26. A Ukrainian brigade spokesperson stated that Russian forces rarely conduct mechanized assaults but are almost constantly attacking in teams of two to three people, using a tactic where an unarmed soldier first storms positions to identify firing positions, followed by well-trained soldiers. Drone operators of the Russian 16th Spetsnaz Brigade (GRU) are reportedly operating near Zarichne.[18]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -137,3 +143,4 @@ Russian forces continued offensive operations northeast of Lyman near Novolyubiv
 [11] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [12] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [17] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[18] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)

@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-26T00:00:00Z
 ---
 
 # Background
@@ -154,6 +154,14 @@ ISW assesses that the Kremlin is in the endgame of a decades-long effort to de f
 
 Moscow's military integration with Belarus already provides operational benefits for the war, including staging grounds for Russian forces, launch territory for missile and drone strikes against Ukraine, and joint command structures that free Russian military resources for employment in Ukraine. The Kremlin's pursuit of full operational control over Belarus's armed forces and permanent basing would further augment Russia's ability to sustain its war effort.[14]
 
+Russian forces recently made further advances within Velyka Novosilka amid official Russian claims the entire settlement was seized on Jan 26. Geolocated footage shows Russian forces advanced northward along Tsentralana Street in northern Velyka Novosilka. ISW assesses Russian forces occupy 89 percent of the settlement. The Russian MoD's abnormal fanfare over the claimed seizure is likely part of informational efforts to shape Western perceptions and degrade international support for Ukraine. Russian gains in western Donetsk Oblast remain gradual and far below mechanized warfare norms. The seizure presents a decision point on whether to redeploy EMD elements from the area to other priority sectors. Any redeployment over coming weeks will indicate Russian operational priorities for Spring and Summer 2025. EMD elements have been the primary force in the Vuhledar and Velyka Novosilka directions since early 2023. The Russian command may retain EMD forces in western Donetsk Oblast advancing toward the Donetsk-Dnipropetrovsk administrative boundary, or redeploy them to the Toretsk direction to reinforce operations toward Kostyantynivka, or elsewhere.[24]
+
+Russian forces are poised to seize Toretsk in the coming days. A redeployment of EMD elements to reinforce the Toretsk grouping would indicate a new priority to resume attacks toward Kostyantynivka. Russian advances in Toretsk have historically been slow through urban areas, but forces may advance more quickly once breaking out into open fields west of the settlement. Russian forces may leverage gains within and near Toretsk and east of Pokrovsk to eliminate the Ukrainian salient southwest of Toretsk. A redeployment to Toretsk or Chasiv Yar would indicate an inflection in operational priorities, as seizing Pokrovsk has been the main objective in Donetsk Oblast since February 2024.[24]
+
+Ukrainian forces conducted a second strike on the Ryazan Oil Refinery in Ryazan Oblast on the night of Jan 25 to 26. The Ukrainian General Staff reported that GUR and Unmanned Systems Forces elements struck the refinery. Geolocated footage shows a fire at a refinery tank. Ukrainian officials noted the refinery is one of Russia's four largest, producing fuel for military equipment, jet fuel, diesel fuel, and other petroleum products.[24]
+
+Ukrainian President Zelensky reported on Jan 26 that Russian forces launched 1,250 glide bombs, over 750 FPV drones, and over 220 missiles against Ukraine from Jan 20 to 26. The Ukrainian Air Force reported downing two guided aircraft missiles, 375 Shaheds, 71 reconnaissance drones, and 59 other drones during that period.[24]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -179,3 +187,4 @@ Moscow's military integration with Belarus already provides operational benefits
 [21] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 [22] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 [23] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[24] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)

@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-24T00:00:00Z
+timestamp: 2025-01-26T00:00:00Z
 ---
 
 # Current Situation
@@ -76,6 +76,8 @@ The Ukrainian General Staff reported that Ukrainian forces struck the command po
 
 On the night of January 23 to 24, Ukrainian forces conducted a large series of drone strikes against Russian defense industrial enterprises and oil refineries. The Ukrainian General Staff reported that elements of the SBU, SSO, and other Ukrainian forces struck the production facilities of the Ryazan Oil Refinery and the Ryazan oil pump station in Ryazan City. The Ryazan refinery produces fuel for military equipment, jet fuel, diesel fuel, and other petroleum products. Ukrainian forces also struck the "Kremniy El" microelectronics plant in Bryansk City, which produces microcircuits and components for Topol-M and Bulava missile systems, S-300 and S-400 air defense systems, Pantsir air defense systems, Iskander missiles, radars, EW systems, and drones. The Kremniy El plant suspended operations after the strike — this was the second Ukrainian strike on the plant in January 2025. Ukrainian drones also damaged the 711th Aircraft Repair Plant in Borisoglebsk, Voronezh Oblast. The Russian MoD claimed Russian forces downed 121 Ukrainian drones in total.[18]
 
+On the night of Jan 25 to 26, Ukrainian forces struck the Ryazan Oil Refinery for the second time in three days. The Ukrainian General Staff confirmed that GUR and Unmanned Systems Forces elements conducted the strike, with geolocated footage showing a fire at a refinery tank. Russian MoD claimed eight drones were downed over Ryazan Oblast, while Governor Pavel Malkov reported air defense and EW systems destroyed Ukrainian drones with damage assessment ongoing. Ukrainian officials noted the refinery is one of Russia's four largest, producing fuel for military equipment, jet fuel, diesel, and other petroleum products for tanks, aircraft, and ships. The previous strike on the facility occurred on Jan 23 to 24.[19]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -96,3 +98,4 @@ On the night of January 23 to 24, Ukrainian forces conducted a large series of d
 [16] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [17] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 [18] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
+[19] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)

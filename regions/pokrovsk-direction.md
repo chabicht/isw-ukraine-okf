@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Pokrovsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-25T00:00:00Z
+timestamp: 2025-01-26T00:00:00Z
 ---
 
 # Current Situation
@@ -58,7 +58,11 @@ Russian forces recently advanced in the Pokrovsk direction amid continued fighti
 
 Russian forces recently advanced in the Pokrovsk direction amid continued fighting in the area on January 25. Geolocated footage published on January 25 indicates that Russian forces recently advanced east of Sukhyi Yar (southeast of Pokrovsk). Russian milbloggers claimed that Russian forces seized Novoandriivka and about half of Nadiivka (both southwest of Pokrovsk) and advanced to Novooleksandrivka (southwest of Pokrovsk); near Uspenivka, Udachne, Nadiivka, Novoyelyzavetivka (all southwest of Pokrovsk), Vozdvyzhenka, and Baranivka (both east of Pokrovsk); and on the outskirts of Kotlyne (west of Pokrovsk), Zelene Pole and Yelyzavetivka (both east of Pokrovsk). ISW has not observed confirmation of these claims. Russian forces conducted offensive operations near Pokrovsk itself; northeast of Pokrovsk near Vodyane Druhe; east of Pokrovsk near Baranivka, Promin, Yelyzavetivka, Myrolyubivka, and Myrnohrad; southeast of Pokrovsk near Lysivka; south of Pokrovsk near Shevchenko, Zelene, and Novoukrainka; west of Pokrovsk near Udachne and Kotlyne; and southwest of Pokrovsk near Zvirove, Novoyelyzavetivka, Uspenivka, Sribne, Nadiivka, and Bohdanivka on January 24 and 25. Russian milbloggers claimed that Russian forces have become more active near Kalynove (east of Pokrovsk) and will increase pressure on Oleksandropil (northwest of Kalynove) after Russian forces seize Toretsk. Russian sources claimed that Ukrainian forces unsuccessfully counterattacked near Kotlyne and that Ukrainian forces still hold positions in Kotlyne, Lysivka, and about half of Yelyzavetivka. A Russian milblogger claimed that the area near the T-0504 highway junction east of Malynivka (east of Pokrovsk) is a contested gray zone. The spokesperson of a Ukrainian brigade operating in the Pokrovsk direction stated that Russian forces are moving in small assault squads. The chief of staff of a Ukrainian battalion operating in the Pokrovsk direction stated that Russian fiber optic drones have become an increasingly serious issue.[21]
 
+Russian forces recently marginally advanced west of Pokrovsk amid ongoing offensive operations on Jan 26. Geolocated footage published on Jan 25 indicates that Russian forces recently marginally advanced in the fields north of Kotlyne (west of Pokrovsk). The spokesperson of a Ukrainian National Guard Brigade stated that Russian forces are transporting infantry on armored vehicles towards Ukrainian positions and using several tanks to provide fire support for each group of disembarking infantry. The Russian MoD claimed that Russian forces seized Zelene (south of Pokrovsk), which ISW assessed Russian forces seized as of Jan 21. Russian milbloggers claimed advances further west of Kotlyne with seizure of a nearby mineshaft, in fields south of Udachne, south of Novoyelyzavetivka, and gaining a foothold in eastern and southern Nadiivka — ISW has not observed confirmation. A Russian source claimed Russian forces are attempting to bypass and envelop Yelyzavetivka (east of Pokrovsk). Russian forces continued assaults in multiple areas on Jan 25 and 26. Elements of the Russian 35th Motorized Rifle Brigade (41st CAA, CMD) and drone operators of the Russian Rubicon Center for Advanced Unmanned Technologies and the "Vega" Spetsnaz Detachment (24th Guards Spetsnaz Brigade, GRU) are reportedly operating in the Pokrovsk direction.[22]
+
 # Citations
+
+[22] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 
 [20] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 

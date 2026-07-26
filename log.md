@@ -4,6 +4,24 @@ nav_order: 8
 permalink: /log/
 ---
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Velyka Novosilka 89% seizure assessment, MoD fanfare analysis, EMD decision point for Spring/Summer 2025, Toretsk poised seizure outlook, Ryazan Oil Refinery second strike, Zelensky weekly strike totals (1,250 glide bombs, 750+ FPV, 220+ missiles);
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with Velyka Novosilka advances to Tsentralana Street, 89% occupancy assessment, 5th Tank/40th Naval Infantry/37th MRB dispositions, Belousov congratulations, MoD informational effort assessment;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Ukrainian marginal advances in Pogrebki and northwest of Kositsa, Tetkino reconnaissance-in-force, 106th/76th VDV and 34th MRB/1427th MRR dispositions;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued Vovchansk attacks no advance, 4 IFVs destroyed;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk mechanized assault repelled (4 APCs destroyed), Oskil River crossing tactics, Borova advance to Tverdokhlibove/Novoyehorivka seized, Lyman Kolodyazi claims, 16th Spetsnaz near Zarichne;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Verkhnokamyanske ops, drone netting tactics, equipment parity assessment;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with no confirmed advances, 98th VDV/Akhmat Spetsnaz (former Wagner/Rusich) reinforcements, pipe tactics near canal, 27th Artillery Regiment dispositions;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with Ukrainian regained positions in northwestern Toretsk, Toretska Mine fighting, 132nd MRB dispositions;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with marginal advance north of Kotlyne, Zelene seizure claim (assessed Jan 21), 35th MRB/Rubicon/Vega Spetsnaz dispositions;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with advance to eastern Dachne outskirts, Ukrainian pocket closure efforts, 68th Recon/114th MRB/238th Artillery/200th Artillery/39th MRB dispositions;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with no offensive operations reported, increased fiber optic drone use;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Zabych/Kozatskyi island assaults no advance;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 25-26 overnight strike (72 Shahed, 50 downed, 9 EW-lost), Zelensky weekly toll (1,250 glide bombs, 750+ FPV, 220+ missiles);
+  [Ukraine's Strike Campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with second Ryazan Oil Refinery strike Jan 25-26 (GUR/Unmanned Systems Forces), fire at tank;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with milblogger criticism of officer recruitment/training failures, cadet wage issues, youth policy needs;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with Lukashenko election win (87.6%, neither free nor fair), no mass protests, Tsikhanouskaya call to refrain from protesting, Oreshnik missile deployment claim, sovereignty erosion.
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Transnistria energy crisis (Zelensky-Sandu meeting, coal-for-electricity offer, 30% price reduction), Rybar in Iraq (Kremlin influence cultivation, meeting with PM Sudani, Assad fall implications);
   [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with Sandu meeting, Transnistria coal offer;
