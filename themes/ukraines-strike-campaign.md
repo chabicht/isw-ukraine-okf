@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-17T00:00:00Z
+timestamp: 2025-01-18T00:00:00Z
 ---
 
 # Current Situation
@@ -58,6 +58,10 @@ On the night of January 15 to 16, Ukrainian forces struck the Lisinskaya Oil Ref
 
 Recently declassified US documents highlight the integral role of US monetary and technical assistance in expanding Ukraine's domestic drone production capabilities. US National Security Advisor Jake Sullivan stated that the United States began investing in Ukraine's drone production initiative in Fall 2022 and accelerated these efforts in Summer 2023. Unspecified US officials told the NYT that US aid helped "Ukraine develop a new generation of drones and revolutionize how wars are fought." Sullivan stated on January 16 that US support for Ukraine's drone production has yielded insights for American defense industrial companies and that the Biden Administration previously held a conference with US defense industrial and military leadership to assess domestic drone production innovation efforts. Ukrainian FPV and long-range drone capabilities continue to play a critical role in constraining Russian mechanized maneuver on the battlefield and undermining Russia's ability to pay for and stockpile weapons for its war in Ukraine.[14] The Ukrainian General Staff reported that Ukrainian Special Operation Forces (SSO) and other Ukrainian forces struck the Lisinskaya Oil Refinery with at least three drones, causing a fire. The Ukrainian General Staff noted that the oil refinery stored fuel for Russian military uses. Voronezh Oblast Governor Alexander Gusev claimed that Ukrainian forces launched over 10 drones against three raions in Voronezh Oblast and that most of the drones hit the oil depot in Liski Raion. Geolocated footage and footage posted by Russian milbloggers show a fire at the Lisinskaya Oil Refinery. Ukrainian Center for Countering Disinformation Head Lieutenant Andriy Kovalenko stated that Ukrainian forces also struck the Tambov Gunpowder Plant in Kuzmino-Gat, Tambov Oblast, noting that the plant produces gunpowder for various arms, artillery, and rocket systems; nitrocellulose used to produce explosives; and other specialized products.[13]
 
+On the night of January 17 to 18, Ukrainian forces struck two Russian oil depots in Kaluga and Tula oblasts. The Ukrainian General Staff reported that Ukrainian Special Operation Forces (SSO) and other Ukrainian forces struck an oil depot of the Kaluganeftprodukt joint-stock company near Lyudinovo, Kaluga Oblast, causing a fire. The Ukrainian General Staff also reported that units of Ukraine's Main Military Intelligence Directorate (GUR) and other Ukrainian forces struck the state-owned "March 8" oil depot in Tula Oblast, with reports of a fire at the facility. Geolocated footage showed a fire at an oil depot near Didilovo, Tula Oblast.
+
+On January 18, Ukrainian forces also struck a Russian "Nebo-SVU" long-range radar detection system in occupied Kherson Oblast, a Buk-M3 air defense system in occupied Donetsk Oblast, and a 9C32M radiolocation station of an S-300 air defense system in occupied Donetsk Oblast. The Ukrainian General Staff reported that battle damage assessments (BDA) of the strikes are ongoing.
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -74,3 +78,4 @@ Recently declassified US documents highlight the integral role of US monetary an
 [12] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [13] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [14] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
+[15] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)

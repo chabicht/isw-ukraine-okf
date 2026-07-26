@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-17T00:00:00Z
+timestamp: 2025-01-18T00:00:00Z
 ---
 
 # Current Situation
@@ -58,6 +58,10 @@ The Russian Ministry of Defense (MoD) claimed on January 15 that Russian forces 
 
 On the night of January 16 to 17, Russian forces conducted a series of drone and missile strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched two Iskander-M ballistic missiles from Rostov Oblast and 50 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol, Bryansk, and Kursk oblasts. Ukrainian forces downed 33 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Khmelnytskyi, Dnipropetrovsk, Zaporizhia, Mykolaiv, and Odesa oblasts; nine drones were "lost"; one drone flew into Romanian airspace; an unspecified number of drones struck several enterprises in Odesa Oblast; and debris from downed drones damaged institutions and residences in Kharkiv, Cherkasy, and Kyiv oblasts. Russian ballistic missile strikes damaged civilian infrastructure in Kryvyi Rih, Dnipropetrovsk Oblast. Russian forces targeted port infrastructure in Izmail Raion, Odesa Oblast.[15]
 
+On the night of January 17 to 18, Russian forces conducted a series of drone and missile strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched four Iskander-M/KN-23 ballistic missiles from Voronezh and Bryansk oblasts and 39 Shahed and other strike and decoy drones from Bryansk Oblast; Millerovo, Rostov Oblast; and Primorsko-Akhtarsk, Krasnodar Krai. Ukrainian forces downed two ballistic missiles over Kyiv Oblast; debris from the downed missiles damaged infrastructure in Kyiv City and killed three civilians. The Ukrainian Air Force reported that Ukrainian forces downed 24 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Khmelnytskyi, Zhytomyr, Kirovohrad, Dnipropetrovsk, Kherson, and Donetsk oblasts; that 14 drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; and that Russian ballistic missiles struck an enterprise and damaged houses in Zaporizhzhia City. Dnipropetrovsk Oblast Head Serhii Lysak reported that a Russian Shahed drone damaged an industrial enterprise in Pavlohrad, Dnipropetrovsk Oblast. Ukrainian President Volodymyr Zelensky and other Ukrainian officials reported that a Russian ballistic missile strike against Shevchenkivskyi Raion, Kyiv City damaged a non-residential building and the Lukyanivska metro station.
+
+The Romanian Ministry of Defense reported on January 18 that a Russian Shahed drone may have crashed near Plauru, Romania during a Russian drone strike against Ukraine on the morning of January 17.
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -75,3 +79,4 @@ On the night of January 16 to 17, Russian forces conducted a series of drone and
 [13] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [14] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [15] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
+[16] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)

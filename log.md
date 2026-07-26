@@ -6,6 +6,22 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Ukrainian strikes on Kaluga/Tula oil depots and Nebo-SVU/Buk-M3/S-300 AD systems, NATO-Georgia 2025 exercise planning, 2nd/41st CAA strike group assembly south of Pokrovsk, 110th MRB redeployment to east Pokrovsk, Velyka Novosilka GLOC interdiction and seizure forecast;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Kaluga and Tula oil depot strikes and AD system strikes;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 17-18 overnight strike (4 Iskander-M/KN-23, 39 Shahed, 24 downed, 14 EW-lost), Kyiv City ballistic missile damage (Lukyanivska metro station, 3 killed), Zaporizhzhia City damage, Romanian airspace incident;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with 2nd/41st CAA strike group consolidation south of Pokrovsk (30th/35th/55th/74th MRB, 243rd MRR, 239th Tank/87th Rifle), 110th MRB redeployment from Kurakhove to east Pokrovsk, 5th MRB/1195th/1438th MRR operations east of Pokrovsk, 15th/30th MRB and 348th MRR resting;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with advance west of Malaya Loknya (geolocated), foggy weather limiting drone ops, 34th MRB/56th VDV/106th VDV/83rd VDV/98th VDV dispositions, displaced residents protests in Kursk City;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with Ukrainian recapture of positions in southern Hlyboke (geolocated), 11th AC operations;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with advance to Dniprovska Street (geolocated), unconfirmed Refractory Plant seizure, Pivnichnyi Microraion foothold, 4th MRB/299th/331st VDV/200th MRB/Sever-V/Nevsky dispositions;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with advance to cemetery in eastern Velyka Novosilka (geolocated), all GLOCs interdicted, seizure forecast, 394th MRR/60th MRB dispositions;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with unconfirmed Topoli/Petropavlivka/Novomlysnk claims, Kupyansk armored vehicle shortage and Oskil River crossing challenges, Borova unconfirmed Zahryzove claim, Lyman continued ops no advance;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Bilohorivka ops no advance, shed tanks and motorized vehicle tactics;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with continued ops no advance, Krymske bypass analysis, kamikaze camel tactics, 1st and 9th MRB operations;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with limited Novodanylivka attacks no advance, 7th VDV/71st MRR/Penguin group dispositions, Dnipro direction continued ops;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Dnipro limited attacks no advance.
+* **Creation**: Event concept for [NATO-Georgia 2025 Exercise]({{ site.baseurl }}/events/nato-georgia-2025-exercise.html).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Russia-Iran Comprehensive Strategic Partnership Agreement signed Jan 17 (no mutual defense clause), Russia prioritizing NK manpower over Iran, Vremivka seizure (127th MRD/60th MRB), Armenia-Russia phone call (Kremlin concerns over Western ties), US declassified drone production docs;
   [Iran]({{ site.baseurl }}/actors/countries/iran.html) with actual signing details, aircraft refueling/naval basing potential, no mutual defense clause analysis;

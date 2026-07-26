@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-17T00:00:00Z
+timestamp: 2025-01-18T00:00:00Z
 ---
 
 # Background
@@ -104,6 +104,12 @@ Armenian Prime Minister Nikol Pashinyan and Russian President Vladimir Putin had
 
 Recently declassified US documents highlight the integral role of US monetary and technical assistance in expanding Ukraine's domestic drone production capabilities. US National Security Advisor Jake Sullivan stated that the United States began investing in Ukraine's drone production initiative in Fall 2022 and accelerated these efforts in Summer 2023. Unspecified US officials told the NYT that US aid helped "Ukraine develop a new generation of drones and revolutionize how wars are fought." Sullivan stated on January 16 that US support for Ukraine's drone production has yielded insights for American defense industrial companies. Ukrainian FPV and long-range drone capabilities continue to play a critical role in constraining Russian mechanized maneuver on the battlefield and undermining Russia's ability to pay for and stockpile weapons for its war in Ukraine.[15]
 
+Ukrainian forces struck two Russian oil depots in Kaluga and Tula oblasts on the night of January 17 to 18 and struck a Russian Nebo-SVU radar detection system, a Buk-M3 air defense system, and an S-300 radiolocation station in occupied Ukraine on January 18. The Ukrainian General Staff reported that Ukrainian Special Operation Forces and GUR units conducted the strikes, causing fires at the oil depots and reporting ongoing battle damage assessments for the air defense strikes.[16]
+
+NATO officials are reportedly preparing for a joint NATO-Georgia exercise scheduled for March 2025. The Georgian Ministry of Defense reported on January 18 that the Commander of the NATO-Georgia Joint Training and Evaluation Center (JTEC) Colonel David Gagua met with NATO Joint Forces Training Center Commander Major General Bogdan Rycerski and discussed plans for the upcoming exercise. Azerbaijan will participate in the exercise and Armenia will be an observer.[16]
+
+The Russian Central Grouping of Forces assembled a strike group comprised of units of the 2nd and 41st combined arms armies south of Pokrovsk, and the Russian military command redeployed elements of the 110th Motorized Rifle Brigade (51st CAA) from the Kurakhove direction to offensive operations east of Pokrovsk. ISW assesses that Russian forces will likely continue making gains as part of their intensified effort to envelop Pokrovsk from the northeast and southwest, though the rate of advance will remain slow as Russian forces have yet to demonstrate the ability to conduct the rapid mechanized maneuver necessary to quickly penetrate Ukrainian defensive lines.[16]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -129,4 +135,5 @@ Moscow's military integration with Belarus already provides operational benefits
 [13] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [14] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [15] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
-[16] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)
+[16] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
+[17] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)

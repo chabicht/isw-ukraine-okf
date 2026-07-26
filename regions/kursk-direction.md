@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-17T00:00:00Z
+timestamp: 2025-01-18T00:00:00Z
 ---
 
 # Current Situation
@@ -48,6 +48,10 @@ Russian forces continued offensive operations in the Ukrainian salient in Kursk 
 
 The Ukrainian General Staff reported on January 17 that Ukrainian missile forces and other Ukrainian forces conducted strikes with precision weapons against positions of the Russian 568th Anti-Aircraft Missile Regiment in Belgorod Oblast, a 92N6 radar station of an S-400 missile system battery, and the positions of a radio engineering battalion of the Russian 336th Radio-Technical Regiment on January 16.[8]
 
+Russian forces recently advanced in the Ukrainian salient in Kursk Oblast on January 18. Geolocated footage published on January 18 indicates that Russian forces recently advanced west of Malaya Loknya (northwest of Sudzha). A Russian milblogger claimed that frequent foggy weather conditions in Kursk Oblast are limiting both Russian and Ukrainian forces' ability to conduct aerial reconnaissance and drone strikes. Drone operators of the Russian 34th Separate Motorized Rifle Brigade (49th CAA, SMD) are reportedly operating near Pogrebki; drone operators of the 56th Airborne (VDV) Regiment (7th VDV Division) are reportedly operating fiber-optic FPV drones near Novoivanovka, Leonidovo, and Aleksandriya; elements of the 106th VDV Division are reportedly operating near Nikolayevo-Darino; and elements of the 83rd VDV Brigade and 98th VDV Division are reportedly operating in Kursk Oblast.
+
+Russian opposition media sources reported that displaced residents of Kursk Oblast's border areas continued protests in Kursk City calling for Russian authorities to issue housing certificates and expressed frustrations over the general lack of financial assistance from the Russian government. Kursk Oblast Governor Alexander Khinshtein promised to hold a meeting with the protestors the week of January 19 to 25.
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
@@ -58,3 +62,4 @@ The Ukrainian General Staff reported on January 17 that Ukrainian missile forces
 [6] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [7] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [8] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
+[9] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)

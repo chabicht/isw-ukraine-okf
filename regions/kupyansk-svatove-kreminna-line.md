@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-17T00:00:00Z
+timestamp: 2025-01-18T00:00:00Z
 ---
 
 # Current Situation
@@ -66,6 +66,12 @@ Russian forces recently advanced in the Borova direction amid continued offensiv
 
 Russian forces continued offensive operations in the Lyman direction on January 17 but did not advance. A Russian milblogger claimed that Russian forces advanced on the western bank of the Zherebets River near Makiivka and Ivanivka (northeast of Lyman) and in the fields west of Novosadove (northeast of Lyman). ISW has not observed evidence of these claims, however. Russian forces attacked north of Lyman near Zelena Dolyna, northeast of Lyman near Terny and Torske, and east of Lyman near Zarichne on January 16 and 17. A spokesperson of a Ukrainian brigade operating in the Lyman direction reported on January 17 that Russian forces typically attack in groups of two where one unarmed soldier advances to expose Ukrainian firing positions, and then the second well-armed soldier approaches and begins firing on Ukrainian positions. The spokesperson noted that Russian forces prefer to relegate convict recruits to the role of the unarmed soldier and noted that the Russian units in the area still possess a significant number of convict recruits for such attacks. A spokesperson of another Ukrainian brigade operating in the Lyman direction stated that Russian forces have not attacked the brigade's positions in the past few days, which is notably different from the near-constant infantry assaults that Russian forces conducted in the area in 2024.[10]
 
+Russian forces continued offensive operations in the Kupyansk direction on January 18 but did not make confirmed advances. A Russian milblogger claimed that Russian forces crossed the Russia-Ukraine international border and advanced north and south of Topoli (northeast of Kupyansk), and that Russian forces also advanced in central Petropavlivka (east of Kupyansk), west of Petropavlivka, and seized Novomlysnk (north of Kupyansk and Dvorichna) — ISW has not observed confirmation of these claims. Russian forces attacked north of Kupyansk near Holubivka, east of Kupyansk near Petropavlivka, and southeast of Kupyansk near Stepova Novoselivka on January 17 and 18. A servicemember in a Ukrainian brigade operating in the Kupyansk direction stated that Russian forces have "run out of" armored vehicles in this direction and are resorting to multi-wave infantry assaults after previously conducting company-sized mechanized assaults. The servicemember stated that Russian forces have not attempted to cross to the west (right) bank of the Oskil River due to difficult terrain and previous Ukrainian strikes against Russian boats and pontoon bridges.
+
+Russian forces continued offensive operations in the Borova direction on January 18 but did not make confirmed advances. A Russian milblogger claimed that Russian forces advanced southeast of Zahryzove (northeast of Borova), though ISW has not observed confirmation. Russian forces attacked northeast of Borova near Lozova, Pishchane, Zeleny Hai, and Kruhlyakivka; east of Borova near Pershotravneve, Kopanky, and Novoyehorivka; and southeast of Borova near Makiivka and Tverdokhlibove on January 17 and 18.
+
+Russian forces continued offensive operations in the Lyman direction on January 18 but did not advance. Russian forces attacked northeast of Lyman near Terny, Novolyubivka, and Novosadove and east of Lyman near Zarichne on January 17 and 18.
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
@@ -78,3 +84,4 @@ Russian forces continued offensive operations in the Lyman direction on January 
 [8] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [9] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [10] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
+[11] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)

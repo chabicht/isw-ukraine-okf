@@ -5,7 +5,7 @@ parent: Regions
 description: The northern axis of Russian offensive operations in Kharkiv Oblast, centered on Vovchansk.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-17T00:00:00Z
+timestamp: 2025-01-18T00:00:00Z
 ---
 
 # Current Situation
@@ -30,6 +30,8 @@ Russian forces continued offensive operations northeast of Kharkiv City near Vov
 
 Russian forces recently advanced northeast of Kharkiv City amid continued offensive operations on January 17. Geolocated footage published on January 15 and 16 indicates that Russian forces recently marginally advanced to Zernova Street in northern Vovchansk (northeast of Kharkiv City) and that elements of the Russian 136th Motorized Rifle Brigade (58th CAA, SMD) advanced along a road in southern Tykhe (northeast of Kharkiv City). Russian forces continued ground attacks near Vovchansk and Tykhe on January 16 and 17. Russian milbloggers claimed on January 17 that Ukrainian forces conducted three counterattacks in the Vovchansk area. Ukraine's Pivnich (Northern) Operational Command Spokesperson Colonel Vadym Mysnyk reported that Russian forces have changed drone tactics along Ukraine's northern border with Russia and are now primarily using reusable drones instead of single-use FPV drones to drop explosives on Ukrainian positions.[10]
 
+Ukrainian forces recently recaptured lost positions north of Kharkiv City on January 18. Geolocated footage published on January 18 shows that Ukrainian forces recently regained lost positions in southern Hlyboke (north of Kharkiv City). Russian forces continued offensive operations northeast of Kharkiv City near Vovchansk on January 17 and 18. Elements of the Russian 11th Army Corps (Leningrad Military District) are reportedly operating near Hlyboke.
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
@@ -42,3 +44,4 @@ Russian forces recently advanced northeast of Kharkiv City amid continued offens
 [8] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [9] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [10] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
+[11] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
