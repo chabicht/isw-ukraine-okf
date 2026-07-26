@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-16T00:00:00Z
+timestamp: 2025-01-17T00:00:00Z
 ---
 
 # Background
@@ -96,6 +96,14 @@ Ukrainian President Volodymyr Zelensky and UK Prime Minister Keir Starmer signed
 
 ISW assessed on January 16 that the entire North Korean contingent of roughly 12,000 personnel currently in Kursk Oblast may be killed or wounded in action by mid-April 2025 should North Korean forces continue to suffer from their current high loss rate. North Korean forces have likely suffered roughly 92 casualties per day since starting to participate in significant combat operations in early December 2024. At this rate, the entirety of the 12,000-strong North Korean contingent in Kursk Oblast may be killed or wounded in roughly 12 weeks. North Korean forces will likely continue to suffer a larger ratio of wounded to killed in action, and it is unclear if or when injured North Korean soldiers return to combat.[14]
 
+Russian President Vladimir Putin and Iranian President Masoud Pezeshkian signed the Russia-Iran Comprehensive Strategic Partnership Agreement on January 17, 2025. The agreement addresses enhanced defense cooperation, intelligence sharing, nuclear energy use and cooperation, transportation support and development of the International North-South Transport Corridor (INSTC), and a clause stipulating that neither party shall allow third parties to use their territory to threaten the security of the other. The agreement notably lacks a mutual defense clause, however, indicating that Russia likely lacks the bandwidth to support significant operations outside of Ukraine and is prioritizing its manpower needs through its mutual defense treaty with North Korea. Russia appears to be valuing its ability to mitigate its manpower constraints by leveraging the mutual defense clause within its Strategic Partnership agreement with North Korea to deploy North Korean forces to Kursk Oblast over further military-technical cooperation with Iran.[15]
+
+Russian forces seized Vremivka on January 17 as part of efforts to envelop Velyka Novosilka and force Ukrainian forces to withdraw from the settlement. Geolocated footage shows elements of the Russian 127th Motorized Rifle Division (5th CAA, Eastern Military District) planting a Russian flag in northwestern Vremivka. The spokesperson of a Ukrainian brigade operating in the Velyka Novosilka direction stated that Russian forces have a three-to-one personnel advantage in the area. Russian forces may intend to leverage this advantage to close the roughly three kilometers between the forwardmost points of assessed Russian forward positions north and west of Velyka Novosilka in the coming weeks.[15]
+
+Armenian Prime Minister Nikol Pashinyan and Russian President Vladimir Putin had a phone call on January 17 indicating the Kremlin's growing concerns over Armenia's deepening ties with the West. The Kremlin claimed that Pashinyan explained Armenia's "recent actions" regarding its relations with the European Union — likely referring to the Armenian government's January 9 approval of an EU accession bill. The call follows the January 14 launch of the Armenia-US Strategic Partnership. Putin's emphasis on EAEU cooperation and acknowledgment of EU-Armenia relations suggests the Kremlin is increasingly concerned over Armenia's growing ties with the West.[15]
+
+Recently declassified US documents highlight the integral role of US monetary and technical assistance in expanding Ukraine's domestic drone production capabilities. US National Security Advisor Jake Sullivan stated that the United States began investing in Ukraine's drone production initiative in Fall 2022 and accelerated these efforts in Summer 2023. Unspecified US officials told the NYT that US aid helped "Ukraine develop a new generation of drones and revolutionize how wars are fought." Sullivan stated on January 16 that US support for Ukraine's drone production has yielded insights for American defense industrial companies. Ukrainian FPV and long-range drone capabilities continue to play a critical role in constraining Russian mechanized maneuver on the battlefield and undermining Russia's ability to pay for and stockpile weapons for its war in Ukraine.[15]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -120,4 +128,5 @@ Moscow's military integration with Belarus already provides operational benefits
 [12] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [13] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [14] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
-[15] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)
+[15] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
+[16] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)

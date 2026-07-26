@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-16T00:00:00Z
+timestamp: 2025-01-17T00:00:00Z
 ---
 
 # Current Situation
@@ -44,6 +44,10 @@ Russian forces continued offensive operations in the Ukrainian salient in Kursk 
 
 Ukrainian forces recently advanced in their main salient in Kursk Oblast on January 16. Geolocated footage published on January 15 indicates that Ukrainian forces recently advanced from the international border to central Uspenovka (south of Korenevo and just across the Russian-Ukrainian border). A Russian milblogger claimed that Russian forces advanced north and northeast of Makhnovka (south of Sudzha), but ISW has not observed confirmation. A Russian source claimed that Ukrainian forces counterattacked near Makhnovka. Elements of the Russian "Smuglyanka" Detachment, 155th Naval Infantry Brigade (Pacific Fleet, Eastern Military District [EMD]), and Chechen Akhmat "Pressa" group are reportedly operating in Kursk Oblast; elements of the 83rd Airborne (VDV) Brigade are reportedly operating near Nikolayevo-Darino (northwest of Sudzha); drone operators of the 30th Motorized Rifle Regiment (72nd Motorized Rifle Division, 44th Army Corps [AC], Leningrad Military District [LMD]) are reportedly operating near Cherkasskoye Porechnoye (north of Sudzha); drone operators of the 106th VDV Division are reportedly operating near Uspenovka; and drone operators of the "Irlandtsy" and "Zarya" detachments and the "Dozor" reconnaissance detachment are reportedly operating near Malaya Loknya (north of Sudzha).[7]
 
+Russian forces continued offensive operations in the Ukrainian salient in Kursk Oblast on January 17. Geolocated footage published on January 16 indicates that Russian forces recently advanced southwest of Viktorivka (southeast of Korenevo). Fighting continued north of Sudzha near Pogrebki and Cherkasskoye Porechnoye; south of Sudzha near Makhnovka; and in the forest belts near Sudzha on January 17. The Russian MoD claimed on January 17 that Russian forces have retaken 63.2 percent of the Ukrainian salient in Kursk Oblast. ISW's assessment of currently available open-source data is that Russian forces have regained about 50 percent of the Ukrainian salient, however. The Russian MoD claimed that elements of the Chechen "Akhmat" Spetsnaz forces, Russian 42nd Motorized Rifle Division (58th CAA, SMD), and 106th VDV Division recently repelled a Ukrainian counterattack in the direction of Berdin (northeast of Sudzha). Ukrainian military observer Yuriy Butusov reported on January 17 that Russian forces apply "scorched earth" tactics in Kursk Oblast by leveling their settlements, such as Darino (northwest of Sudzha), to the ground. A Ukrainian soldier operating in Kursk Oblast stated that Russian forces are conducting infantry assaults and assaults on ATVs and motorcycles in the Kursk direction in order to conserve armored vehicles. The Russian MoD credited elements of the Russian 7th and 76th VDV divisions, 83rd VDV Brigade, 155th Naval Infantry Brigade (Pacific Fleet, EMD), 810th Naval Infantry Brigade (BSF, SMD), and 1427th Motorized Rifle Regiment with seizing settlements in Kursk Oblast during the first two weeks of January 2025. Elements of the Russian 106th VDV Division are reportedly operating near Berdin.[8]
+
+The Ukrainian General Staff reported on January 17 that Ukrainian missile forces and other Ukrainian forces conducted strikes with precision weapons against positions of the Russian 568th Anti-Aircraft Missile Regiment in Belgorod Oblast, a 92N6 radar station of an S-400 missile system battery, and the positions of a radio engineering battalion of the Russian 336th Radio-Technical Regiment on January 16.[8]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
@@ -53,3 +57,4 @@ Ukrainian forces recently advanced in their main salient in Kursk Oblast on Janu
 [5] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [6] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [7] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
+[8] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)

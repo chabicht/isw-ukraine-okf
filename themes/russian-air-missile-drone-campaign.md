@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-16T00:00:00Z
+timestamp: 2025-01-17T00:00:00Z
 ---
 
 # Current Situation
@@ -56,6 +56,8 @@ On the night of January 15 to 16, Russian forces conducted a series of drone str
 
 The Russian Ministry of Defense (MoD) claimed on January 15 that Russian forces launched the large series of drone and missile strikes against Ukraine overnight from January 14 to 15 in response to Ukrainian ATACMS and Storm Shadow strikes against targets in Russia and the purported January 11 Russkaya compressor station strike in Krasnodar Krai. ISW recently assessed that the Russian January 14-15 strikes were likely a continuation of ongoing Russian efforts to collapse Ukraine's energy grid, limit its defense industrial capacity, and degrade Ukrainians' will to fight.[14]
 
+On the night of January 16 to 17, Russian forces conducted a series of drone and missile strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched two Iskander-M ballistic missiles from Rostov Oblast and 50 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol, Bryansk, and Kursk oblasts. Ukrainian forces downed 33 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Khmelnytskyi, Dnipropetrovsk, Zaporizhia, Mykolaiv, and Odesa oblasts; nine drones were "lost"; one drone flew into Romanian airspace; an unspecified number of drones struck several enterprises in Odesa Oblast; and debris from downed drones damaged institutions and residences in Kharkiv, Cherkasy, and Kyiv oblasts. Russian ballistic missile strikes damaged civilian infrastructure in Kryvyi Rih, Dnipropetrovsk Oblast. Russian forces targeted port infrastructure in Izmail Raion, Odesa Oblast.[15]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -72,3 +74,4 @@ The Russian Ministry of Defense (MoD) claimed on January 15 that Russian forces 
 [12] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [13] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [14] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
+[15] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)

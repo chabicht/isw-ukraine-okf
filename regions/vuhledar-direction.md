@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-16T00:00:00Z
+timestamp: 2025-01-17T00:00:00Z
 ---
 
 # Current Situation
@@ -38,6 +38,10 @@ Russian forces continued offensive operations in the Velyka Novosilka direction 
 
 Russian forces recently marginally advanced in the Velyka Novosilka direction on January 16. Geolocated footage published on January 15 indicates that Russian forces recently entered Vremivka (immediately west of Velyka Novosilka) and marginally advanced along Shyroka and Heroia streets in southern Vremivka. A Russian milblogger claimed on January 16 that Russian forces advanced one kilometer deep and two kilometers wide west of Vremivka. Russian milbloggers claimed on January 15 and 16 that Russian forces also advanced into central Vremivka and near Velyka Novosilka — ISW has not observed confirmation. Russian forces continued attacking near Velyka Novosilka itself, north of Velyka Novosilka near Novyi Komar, west of Velyka Novosilka near Vremivka, and southwest of Velyka Novosilka near Neskuchne on January 15 and 16.[13]
 
+Russian forces seized Vremivka on January 17 as part of their efforts to envelop Velyka Novosilka and force Ukrainian forces to withdraw from the settlement. Geolocated footage published on January 17 shows elements of the Russian 127th Motorized Rifle Division (5th CAA, EMD) planting a Russian flag in northwestern Vremivka (just west of Velyka Novosilka), indicating that Russian forces recently seized the settlement. Russian milbloggers also credited elements of the 60th Motorized Rifle Brigade (5th CAA, EMD) with the seizure of Vremivka and claimed that Russian forces seized the settlement within three days (since January 14) and advanced northeast of Velyka Novosilka, further north of Vremivka, and southeast of Novosilka (west of Velyka Novosilka). Russian forces continued attacking near Velyka Novosilka and Vremivka on January 16 and 17. Russian forces have recently prioritized the interdiction of the Velyka Novosilka-Hulyaipole O-0510 highway and advances southwest of Velyka Novosilka, including into Vremivka, as Russian advances east and north of Velyka Novosilka stalled in December 2024. It remains unclear if Russian forces intend to attack directly into Velyka Novosilka itself or immediately west and northwest of Velyka Novosilka to envelop the settlement, but Ukrainian defensive operations will likely complicate Russian advances in either area.[14]
+
+The spokesperson of a Ukrainian brigade operating in the Velyka Novosilka direction stated on January 17 that Russian forces have a three-to-one personnel advantage in the area and are operating in teams of four to five personnel. Russian forces may intend to leverage their manpower advantage in the area to close the roughly three kilometers between the forwardmost points of the assessed Russian forward line of own troops north and west of Velyka Novosilka in the coming weeks.[14]
+
 Note: ISW is incorporating data previously reported as the Vuhledar direction as part of the Kurakhove direction moving forward, reflecting the shifting operational situation.
 
 # Citations
@@ -55,3 +59,4 @@ Note: ISW is incorporating data previously reported as the Vuhledar direction as
 [11] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [12] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [13] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
+[14] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)

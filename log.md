@@ -6,6 +6,29 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Russia-Iran Comprehensive Strategic Partnership Agreement signed Jan 17 (no mutual defense clause), Russia prioritizing NK manpower over Iran, Vremivka seizure (127th MRD/60th MRB), Armenia-Russia phone call (Kremlin concerns over Western ties), US declassified drone production docs;
+  [Iran]({{ site.baseurl }}/actors/countries/iran.html) with actual signing details, aircraft refueling/naval basing potential, no mutual defense clause analysis;
+  [Russia]({{ site.baseurl }}/actors/countries/russia.html) with agreement signing, reservist training decree (Jan 17);
+  [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) with US drone production investment details (Fall 2022 init, Summer 2023 acceleration);
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with US declassified documents on drone production assistance and defense industrial lessons learned;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 16-17 overnight strike (2 Iskander-M, 50 Shahed, 33 downed, Odesa port infrastructure, Kryvyi Rih ballistic damage);
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with Putin reservist callup decree for 2025, schoolchildren drone training (DOXA 540B rubles report);
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with Rostec Sfera drone detection/suppression system test;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with advance southwest of Viktorivka, MoD 63.2% vs ISW ~50% retaken, Butusov scorched earth report, Ukrainian strike on 568th Anti-Aircraft Missile Regiment in Belgorod, unit dispositions (7th/76th VDV, 83rd VDV, 155th/810th Naval Infantry, 106th VDV, 1427th MRR);
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with marginal advance to Zernova Street in Vovchansk, 136th MRB in southern Tykhe, reusable drone tactics change;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with advance along P-07 highway southwest of Stepova Novoselivka, Borova advance east of Zeleny Hai, Lyman convict-recruit unarmed-soldier tactics, reduced tempo report;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued ops no advance, car/motorcycle infantry transport;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with unconfirmed claims on mining area/Dniprovska/Dobroliubova streets, Refractory Plant fighting continues, 217th/331st VDV, Chechen Akhmat in southern Chasiv Yar;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with advance along Lesi Ukrainky Street in eastern Petrivka (geolocated);
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with likely seizure of Yasenove, Solona River bank advance, 300 Russian casualties/day claimed, 30th MRB and 110th MRB dispositions;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with 39th MRB advance northeast of Sukhi Yaly, 1km north of Yantarne claim, 33rd MRR/150th MRD/238th Artillery operations;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with Vremivka seizure (127th MRD, 60th MRB), 3:1 personnel advantage, envelopment analysis;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with continued limited attacks near Novodanylivka no advance;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Dnipro ops no advance;
+  [Russia-Iran Strategic Partnership Agreement (January 2025)]({{ site.baseurl }}/events/russia-iran-strategic-partnership-agreement-2025.html) updated from hypothetical to actual with signed agreement details.
+* **Creation**: Actor concept for [Armenia]({{ site.baseurl }}/actors/countries/armenia.html) with Pashinyan-Putin call analysis, EU accession bill, Armenia-US Strategic Partnership, Kremlin concern over Western ties.
+
 * **Incorporation**: Processed ISW special report [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/).
   Updated [Belarus]({{ site.baseurl }}/actors/countries/belarus.html) with Russia's de facto annexation analysis (political integration via Union State federated government, economic integration with common markets/currency union, geostrategic significance of 9.155M population and NATO-flank territory, existing threat assessment);
   [Belarus]({{ site.baseurl }}/regions/belarus.html) with military integration analysis (operational control of Belarusian armed forces, permanent basing, staging ground);

@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations northeast of Siversk, centered on Bilohorivka, Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-16T00:00:00Z
+timestamp: 2025-01-17T00:00:00Z
 ---
 
 # Current Situation
@@ -28,6 +28,8 @@ Russian forces continued attacking northeast of Siversk near Bilohorivka and Hry
 
 Russian forces continued offensive operations in the Siversk direction on January 16 but did not make any confirmed advances. Russian forces continued offensive operations northeast of Siversk near Hryhorivka, east of Siversk near Verkhnokamyanske, and southeast of Siversk near Ivano-Darivka on January 15 and 16. A Ukrainian brigade operating in the Siversk direction reported that Russian forces conducted five mechanized assaults of unspecified echelons in the area on January 14 and that Ukrainian forces destroyed two Russian infantry fighting vehicles, 39 motorcycles, and two all-terrain vehicles (ATVs).[9]
 
+Russian forces continued offensive operations in the Siversk direction on January 17 but did not advance. Russian forces continued operations northeast of Siversk near Bilohorivka, east of Siversk near Verkhnokamyanske, and southeast of Siversk near Ivano-Darivka on January 16 and 17. Ukraine's Khortytsia Group of Forces stated on January 17 that Russian forces used cars and motorcycles to transport soldiers to the frontline for infantry assaults in the Siversk direction.[10]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
@@ -39,3 +41,4 @@ Russian forces continued offensive operations in the Siversk direction on Januar
 [7] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [8] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [9] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
+[10] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)

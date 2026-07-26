@@ -5,7 +5,7 @@ parent: Regions
 description: The southern axis in Zaporizhia Oblast, including the Robotyne area.
 tags: [military, eastern-europe, kinetic, crimea]
 status: ongoing
-timestamp: 2025-01-16T00:00:00Z
+timestamp: 2025-01-17T00:00:00Z
 ---
 
 # Current Situation
@@ -36,6 +36,8 @@ Limited positional fighting continued in western Zaporizhia Oblast on January 12
 
 Russian forces continued offensive operations near Shcherbaky, Novoandriivka (both northwest of Robotyne), Novodanylivka (north of Robotyne), and Mala Tokmachka (northeast of Robotyne) in western Zaporizhia Oblast on January 15 and 16 but did not make any confirmed advances. Elements of the Russian 71st Motorized Rifle Regiment (42nd Motorized Rifle Division, 58th Combined Arms Army [CAA], Southern Military District [SMD]) are reportedly operating near Novodanylivka, and elements of the 417th Reconnaissance Battalion (42nd Motorized Rifle Division) are reportedly operating near Mala Tokmachka.[12]
 
+Russian forces continued limited ground attacks north of Robotyne near Novodanylivka on January 16 and 17 but did not advance.[13]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -50,3 +52,4 @@ Russian forces continued offensive operations near Shcherbaky, Novoandriivka (bo
 [10] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [11] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [12] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
+[13] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)

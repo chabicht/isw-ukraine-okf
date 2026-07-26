@@ -5,7 +5,7 @@ parent: Countries
 description: The Russian Federation, the primary belligerent in the Russia-Ukraine war.
 tags: [country, military, energy, nuclear, europe, eastern-europe, black-sea]
 status: ongoing
-timestamp: 2025-01-14T00:00:00Z
+timestamp: 2025-01-17T00:00:00Z
 ---
 
 # Current Situation
@@ -14,7 +14,9 @@ Russia faces mounting economic pressure from the cessation of gas transit throug
 
 Russia is advancing long-term occupation plans for the Zaporizhzhia Nuclear Power Plant, intending to obtain Russian licenses to operate all six reactors by 2028. Occupation authorities plan to replace foreign-sourced equipment with Russian-made components and use the plant to supply energy to occupied Ukraine and Russian regions west of the Urals.[1]
 
-Russia and Iran are expected to sign a Comprehensive Strategic Partnership Agreement on January 17, 2025, likely including provisions for Russia to supply Iran with Su-35 fighter jets, missile technology transfers, and advanced air defense systems. Iran may send upgraded strike drone models to Russia in return, and Iranian Fath-360 short-range ballistic missiles may be transferred via the Caspian Sea.[1]
+Russian President Vladimir Putin and Iranian President Masoud Pezeshkian signed the Russia-Iran Comprehensive Strategic Partnership Agreement on January 17, 2025. The agreement addresses enhanced defense cooperation, intelligence sharing, nuclear energy use and cooperation, transportation support and development of the International North-South Transport Corridor (INSTC), and unspecified "military-technical cooperation." The agreement could lay the groundwork for Russia to establish aircraft refueling hubs and a naval presence in Iran, particularly as the fall of Bashar al-Assad's regime threatens Russian bases in Syria. The agreement notably lacks a mutual defense clause, indicating that Russia likely lacks the bandwidth to support significant operations outside of Ukraine and is prioritizing its manpower needs through its mutual defense treaty with North Korea.[1]
+
+Russian President Vladimir Putin signed a decree on January 17 authorizing calling up Russian reservists for training in 2025. The decree applies to reservists in the Russian Armed Forces, Rosgvardia, Ministry of Emergency Situations, Federal Security Service (FSB), and other state security agencies for combat training.[1]
 
 The Russian Ministry of Defense continues to inadequately supply military personnel with basic equipment and ammunition, forcing soldiers to purchase their own materiel. Reports indicate widespread shortages of smoothbore small arms used to counter FPV drones.[1]
 
