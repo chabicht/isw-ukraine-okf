@@ -66,6 +66,12 @@ claims that were never confirmed, restatements of the same force composition, ro
 enumerations of unchanged attack locations. A period paragraph is a synthesis, not a
 concatenation.
 
+**Never launder a hedge.** ISW distinguishes sharply between what it confirmed and what
+a Russian milblogger claimed. Compression may drop an uncorroborated claim, but it must
+never restate one as established fact, and it must not assert a completeness it does not
+have ("the grouping did not change thereafter" is a claim, not a summary). Dropping
+detail is expected; upgrading its epistemic status is a defect.
+
 **One invariant is mechanical, not judgment:** every source that fed a period stays
 cited on that period paragraph even where its specific claim was compressed away.
 Provenance survives compaction even when detail does not.
@@ -76,8 +82,23 @@ Subagents cite by **source key** — `[isw:2025-01-18]` — and never touch numb
 ## Verify each concept
 
 Because the guidance above is principle-based, every rewritten concept gets a **fresh
-verifier subagent** that sees the original daily paragraphs and the new period text and
-answers one question: *name any ISW-confirmed fact present before and absent now.*
+verifier subagent** that sees the original daily paragraphs and the new period text. Give
+it the original via `git show HEAD:<path>` and ask for both failure directions:
+
+1. *Name any ISW-confirmed fact present before and absent now* — geolocated footage,
+   ISW's own assessment, confirmed advances or control changes, named-official
+   statements reported as fact. Dropped milblogger claims that ISW said it had not
+   confirmed are expected and are not findings.
+2. *Name anything whose epistemic status was upgraded* — a hedged or attributed claim
+   now stated as fact, or a summary asserting completeness the sources do not support.
+
+Loss is the obvious failure mode; laundering is the quiet one, and a verifier told to
+look only for loss will not report it. Also have it confirm mechanically: all expected
+source keys present, `# Citations` unchanged, in-window Tier-1 paragraphs unaltered,
+sections in order.
+
+Tell the verifier plainly not to manufacture findings, and to quote the original text for
+anything it claims was lost.
 
 Findings go back to the writing subagent for exactly **one** revision pass. Anything that
 survives that pass marks the concept blocked; restore it unmodified and report it. Do not

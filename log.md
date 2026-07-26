@@ -4,6 +4,25 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2026-07-26 — Compaction
+
+* **Compaction**: First temporal compaction run, on
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html).
+  Restructured from a 22-paragraph daily append log into the tier model of
+  [rules.md](rules/) §7: `# Current Situation` rewritten to present state as of
+  January 31; the fourteen days from January 18–31 carried unchanged into
+  `# Recent Developments` under per-day headings; the nine days from January 7–17
+  folded into one sealed `# Chronology` period, *The Refractory Plant Grind and the
+  Double Envelopment*; and a `# Analysis` subsection added on concealment as an
+  enabler of assault tempo. All nine contributing sources remain cited on the period.
+  An independent verifier pass caught one dropped confirmed fact (the January 12
+  Khortytsia armored-vehicle report) and two milblogger claims restated without
+  hedging; all were corrected before commit.
+* **Repair**: Citation entry `[1]` in that concept pointed at the January 20
+  assessment while the paragraph marked `[1]` narrated January 7. Citing by source
+  key surfaced the mismatch; the January 7 source is now cited correctly and the
+  January 20 entry retained.
+
 ## 2025-01-31
 
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/).
