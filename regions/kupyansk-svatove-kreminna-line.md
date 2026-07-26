@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -126,6 +126,12 @@ Russian forces continued offensive operations in the Borova direction on January
 
 Russian forces continued offensive operations in the Lyman direction on January 27 but did not make any confirmed advances. A Russian milblogger claimed that Russian forces advanced northwest of Novosadove and Ivanivka (both northeast of Lyman), but ISW has not observed confirmation of these claims. Russian forces conducted offensive operations northeast of Lyman near Terny, Kolodyazi, and Yampolivka and towards Zelene Dolyna and east of Lyman near Zarichne and Torske on January 26 and 27.[19]
 
+Russian forces continued offensive operations in the Kupyansk direction on January 28 but did not make any confirmed advances. The Russian MoD claimed that elements of the Russian 25th Motorized Rifle Brigade (6th CAA, LMD) seized Dvorichna, but Ukrainian Kharkiv Oblast Head Oleh Synehubov denied the claim and stated that fighting continues in the settlement. Russian forces continued attacks northeast of Kupyansk near Dvorichna, north of Kupyansk near Kutkivka and Kindrashivka, east of Kupyansk near Petropavlivka, southeast of Kupyansk near Pishchane, and south of Kupyansk near Hlushkivka. The commander of a Ukrainian drone battalion operating in the Kupyansk direction stated that Ukrainian forces have repelled four mechanized assaults since January 22, destroying over 15 Russian armored vehicles and tanks. Elements of the Russian 136th Reconnaissance Battalion (1st GTA, MMD) and 16th Spetsnaz Brigade (GRU) are reportedly operating in the Kupyansk direction.[20]
+
+Russian forces continued offensive operations in the Borova direction on January 28 but did not advance. Russian milbloggers continued to claim that Russian forces seized Novoyehorivka but have not seized Tverdokhlibove. Russian forces continued attacking northeast of Borova near Lozova, Bohuslavka, Zelenyi Hai, and Nova Kruhlyakivka; east of Borova near Kopanky; and southeast of Borova near Novoyehorivka, Makiivka, and Hrekivka. The spokesperson of a Ukrainian brigade operating in Kharkiv Oblast stated that Russian forces conduct assaults in groups of up to six personnel daily near the Oskil River and Borova, occasionally using motorcycles, and use tanks to fire from closed positions to conserve armored vehicles. Elements of the Russian 27th Motorized Rifle Brigade (1st GTA) were reportedly recently operating near Lozova.[20]
+
+Russian forces continued offensive operations in the Lyman direction on January 28 but did not make any confirmed advances. Russian forces attacked northeast of Lyman near Terny, Kolodyazi, and Yampolivka and towards Zelene Dolyna; east of Lyman near Zarichne; and southeast of Lyman in the Serebryanske forest area. Drone operators of the Chechen Akhmat Spetsnaz "Shram" Group are reportedly operating in the Lyman direction.[20]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -151,3 +157,4 @@ Russian forces continued offensive operations in the Lyman direction on January 
 [17] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [18] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 [19] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[20] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)

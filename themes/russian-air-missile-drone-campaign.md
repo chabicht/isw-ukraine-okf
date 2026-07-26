@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -88,6 +88,8 @@ Ukrainian President Zelensky reported on Jan 26 that Russian forces launched 1,2
 
 On the night of Jan 26 to 27, Russian forces conducted a series of drone strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched 104 Shahed and decoy drones from Oryol and Kursk oblasts; Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and occupied Cape Chauda, Crimea. Ukrainian forces downed 57 drones over Kyiv, Mykolaiv, Kharkiv, Poltava, Sumy, Dnipropetrovsk, Khmelnytskyi, Zhytomyr, Vinnytsia, and Ivano-Frankivsk oblasts; 39 decoy drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; and Russian drones struck infrastructure and residences in Dnipropetrovsk, Sumy, Ivano-Frankivsk, and Kyiv oblasts.[25]
 
+On the night of January 27 to 28, Russian forces conducted a series of drone strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched 100 Shahed and decoy drones from Oryol, Bryansk, and Kursk oblasts; Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and occupied Cape Chauda, Crimea. Ukrainian forces downed 65 drones over Kyiv, Kharkiv, Poltava, Sumy, Chernihiv, Cherkasy, Kirovohrad, Zhytomyr, Dnipropetrovsk, Zaporizhia, Mykolaiv, Odesa, and Kherson oblasts; 28 decoy drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; two drones flew toward Russian and Belarusian airspace; and one drone remained in the air as of 0930 local time. Ukrainian officials reported that Russian strikes damaged civilian infrastructure in Sumy, Poltava, Cherkasy, Chernihiv, Kharkiv, Kyiv, and Odesa oblasts. Ukrainian sources reported that Russian strikes damaged a critical infrastructure facility in Umanskyi Raion, Cherkasy Oblast, causing temporary power outages in 72 settlements. Odesa Oblast Head Oleh Kiper reported that Russian missile and drone strikes on the morning of January 28 damaged civilian infrastructure in Odesa Oblast.[26]
+
 # Citations
 
 [22] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -118,3 +120,4 @@ On the night of Jan 26 to 27, Russian forces conducted a series of drone strikes
 [23] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [24] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [25] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
+[26] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)

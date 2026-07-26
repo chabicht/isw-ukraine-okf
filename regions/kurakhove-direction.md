@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -56,6 +56,8 @@ Russian forces recently advanced in the Kurakhove direction on January 26. Geolo
 
 Russian forces recently advanced in the Kurakhove direction amid continued offensive operations in the area on January 27. Geolocated footage published on January 26 indicates that Russian forces recently advanced in northern Andriivka (northwest of Kurakhove). Russian milbloggers claimed that Russian forces advanced near Slovyansk (northeast of Andriivka) toward the T-0515 Pokrovsk-Andriivka highway, but ISW has not observed confirmation. Russian forces attacked northwest of Kurakhove near Shevchenko; west of Kurakhove near Andriivka, Dachne, Kostyantynopil, and Ulakly; and southwest of Kurakhove near Yantarne, Rozlyv, and Zelenivka on January 26 and 27. Elements of the Russian 114th Motorized Rifle Brigade (51st CAA) are reportedly operating near Andriivka; elements of the 103rd Motorized Rifle Regiment and 68th Tank Regiment (both of the 150th Motorized Rifle Division, 8th CAA, Southern Military District [SMD]) are reportedly operating near Dachne; and elements of the 33rd Motorized Rifle Regiment (20th Motorized Rifle Division, 8th CAA) are reportedly operating in the Kurakhove direction.[21]
 
+Russian forces continued offensive operations in the Kurakhove direction on January 28. The Ukrainian General Staff published a map indicating that Russian forces seized Slovyanka (northwest of Kurakhove) and advanced in the fields west of Slovyanka and south of Dachne (west of Kurakhove), though it is unclear when these gains were made. Russian milbloggers claimed that Russian forces advanced in central Andriivka (northwest of Kurakhove), but ISW has not observed confirmation. The spokesperson of a Ukrainian brigade operating in the Kurakhove direction stated that Russian forces are continuing to attack in small teams of one to three personnel and are using vehicles to disembark infantry near Ukrainian positions but not to conduct motorized assaults, trying to use their manpower advantage to exhaust Ukrainian forces. Russian milbloggers claimed that elements of the Russian 114th Motorized Rifle Brigade (51st CAA) are expanding their salient northeast of Andriivka and that Russian forces are trying to seize positions along the T-0515 Andriivka-Pokrovsk highway near Slovyanka. Russian forces continued assaults northwest of Kurakhove near Andriivka and Shevchenko; west of Kurakhove near Dachne, Ulakly, Kostyantynopil, Rozlyv, and towards Oleksiivka and Bahatyr; and southwest of Kurakhove near Yantarne and Zelenivka on January 27 and 28.[22]
+
 # Citations
 
 [20] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -83,3 +85,4 @@ Russian forces recently advanced in the Kurakhove direction amid continued offen
 [15] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [19] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [21] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[22] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)

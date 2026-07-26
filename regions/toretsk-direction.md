@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Toretsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -56,6 +56,8 @@ Ukrainian forces recently regained limited positions in Toretsk amid ongoing Rus
 
 Ukrainian and Russian forces recently advanced in the Toretsk direction amid continued Russian offensive operations in the area on January 27. Geolocated footage published on January 26 indicates that Ukrainian forces recently advanced in northwestern Toretsk. Additional geolocated footage published on January 27 indicates that Russian forces recently advanced near the Toretska Mine in northern Toretsk. Russian forces continued attacking near Toretsk itself; north of Toretsk near Dyliivka and Krymske; and west of Toretsk near Shcherbynivka on January 26 and 27. Elements of the Russian 132nd Motorized Rifle Brigade (51st CAA, formerly 1st DNR AC) reportedly continue to operate in Toretsk, and drone operators of the 56th Spetsnaz Battalion (51st CAA) are reportedly striking Ukrainian positions near Katerynivka (northeast of Toretsk).[18]
 
+Ukrainian forces recently advanced in northern Toretsk amid continued Russian offensive operations in the Toretsk direction on January 28. Geolocated footage published on January 28 indicates that Ukrainian forces recently advanced along Darhomyzhskoho Street in northern Toretsk. The Ukrainian General Staff published a map indicating that Russian forces seized Niu York (south of Toretsk) and Yurivka (west of Niu York), though it is unclear when Russian forces made these gains. Russian milbloggers claimed that Russian forces advanced in western Toretsk and west of Toretsk. Ukraine's Khortytsia Group of Forces reported that Ukrainian forces recently destroyed a column of five Russian vehicles attempting to disembark infantry near Shcherbynivka. Russian forces continued assaults in Toretsk itself; north of Toretsk near Krymske, Dachne, and Dyliivka; and west of Toretsk near Shcherbynivka on January 27 and 28.[19]
+
 # Citations
 
 [15] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -81,3 +83,4 @@ Ukrainian and Russian forces recently advanced in the Toretsk direction amid con
 
 [16] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [18] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[19] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)

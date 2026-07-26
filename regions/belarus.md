@@ -5,7 +5,7 @@ parent: Regions
 description: The Republic of Belarus, a Russian ally providing staging grounds and supporting the war effort.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-26T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -56,6 +56,8 @@ Belarusian President Alexander Lukashenko won the January 26 Belarusian presiden
 
 The Russian government continues to erode Belarusian sovereignty by increasing its permanent military presence and deploying missile systems in Belarus. Lukashenko claimed on January 26 that Russian Oreshnik ballistic missiles would arrive in Belarus "any day now." Lukashenko claimed that Russia may deploy the Oreshniks to a Belarusian city, such as Orsha close to Smolensk City. Lukashenko asserted that Russia's deployment is a direct response to US missile deployments in Europe and claimed that the Oreshnik missiles will protect Belarus. Lukashenko likely hopes to assert some form of control over Russia's use of the Oreshnik missiles deployed to Belarus to buttress Belarus' waning sovereignty, but Moscow will likely retain operational control. ISW continues to assess that the deployment of Oreshnik medium-range ballistic missiles to Belarus does not fundamentally alter Russian military capabilities vis-à-vis Europe and Ukraine, as Russia has long maintained weapons systems with similar payloads and longer ranges in Kaliningrad and elsewhere in mainland Russia.[12]
 
+Belarusian President Alexander Lukashenko approved on January 28 draft amendments to the 1998 Belarusian-Russian Treaty on Equal Rights of Citizens that would possibly allow Russian and Belarusian citizens who are permanent residents of the other state to vote or run in local elections in their resident state.[13]
+
 # Citations
 
 [12] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -75,3 +77,5 @@ The Russian government continues to erode Belarusian sovereignty by increasing i
 [7] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [8] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)
 [11] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[12] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
+[13] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)

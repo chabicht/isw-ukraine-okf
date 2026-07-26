@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -96,6 +96,10 @@ The Russian government continues to expand the federal "Time of Heroes" program 
 
 The Russian Cabinet of Ministers expressed support on January 27 for Russian State Duma Defense Committee Chairperson Andrei Kartapolov's draft bill that would allow the Russian military to call up conscripts, whom Russian authorities did not conscript during their conscription cycle, within one year following the announcement of their original conscription cycle. Kartapolov stated that the Duma may begin discussing the bill before the start of the Spring 2025 conscription cycle.[20]
 
+The Russian government continues to use its "Time of Heroes" program to appoint veterans of the war in Ukraine to federal government positions as part of wider Kremlin efforts to militarize Russian society. The program reported on January 28 that Russian authorities appointed Alexander Tikhnonov, a participant of the program and veteran of the war, to be Presidential Deputy Plenipotentiary Representative in the Volga Federal District.[21]
+
+Russian authorities continue to offer financial incentives to increase recruitment in occupied Crimea — a violation of the Geneva Convention. Crimea occupation head Sergey Aksyonov announced on January 28 that Russian authorities will pay those who sign Russian MoD contracts in 2025 in occupied Crimea a one-time payment of 500,000 rubles (about $5,100). Article 51 of the Geneva Convention explicitly prevents an occupying power from compelling the population it occupies to serve in the occupying power's military, including via "pressure or propaganda which aims at securing voluntary recruitment."[21]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
@@ -121,3 +125,9 @@ The Russian Cabinet of Ministers expressed support on January 27 for Russian Sta
 [13] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [14] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 [15] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
+[16] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
+[17] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
+[18] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[19] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
+[20] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[21] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)

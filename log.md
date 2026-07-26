@@ -4,6 +4,26 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2025-01-28
+
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Russian delegation to Syria for Hmeimim/Tartus negotiations, satellite imagery of Sparta/Sparta II loading at Tartus, NATO Appathurai on Russian sabotage campaign, 7th Separate Unmanned Systems Regiment formation in CMD;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with continued fighting no confirmed advances, NK troops temporarily withdrawing after significant losses;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued Vovchansk/Starytsya attacks no advance, convict recruits at Aggregate Plant;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk MoD Dvorichna claim (Synehubov denied), Borova unconfirmed Novoyehorivka claim, Lyman continued ops no advance;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Bilohorivka/Verkhnokamyanske/Novoselivka attacks;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with continued ops no confirmed advance, Bila Hora mechanized attack repelled;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with Ukrainian advance along Darhomyzhskoho Street in northern Toretsk (geolocated), Ukrainian General Staff map shows Russian seized Niu York and Yurivka;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with Ukrainian advance in SE Kotlyne and south of Zvirove (geolocated), Russian advance on SE Udachne outskirts, Uspenivka/Novoandriivka seizure map;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with Ukrainian General Staff map shows Russian seized Slovyanka, small team attrition tactics;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with advance NE of Rozdolne, continued Velyka Novosilka clearing;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with Ukrainian General Staff map shows Russian seized Stepove and advanced NE of Kopani;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Dnipro attacks no advance;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 27-28 overnight strike (100 Shahed, 65 downed, 28 EW-lost), Cherkasy critical infrastructure hit;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with Time of Heroes Tikhnonov appointment, Crimea recruitment payments 500K rubles;
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with Patrushev naval drone center for AI/ML-enabled drones;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with Lukashenko approved draft amendments to 1998 equal rights treaty.
+
 * **Creation**: Theme concept for [Russia-Iran Cooperation]({{ site.baseurl }}/themes/russia-iran-cooperation.html).
 
 * **Incorporation**: Processed ISW special report [The Russia-Iran Coalition Deepens](https://understandingwar.org/research/russia-ukraine/the-russia-iran-coalition-deepens/).

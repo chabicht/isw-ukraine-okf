@@ -5,7 +5,7 @@ parent: Regions
 description: The northern axis of Russian offensive operations in Kharkiv Oblast, centered on Vovchansk.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -52,6 +52,8 @@ Russian forces continued limited ground attacks northeast of Kharkiv City near V
 
 Russian forces continued ground attacks north of Kharkiv City near Lyptsi and northeast of Kharkiv City near Vovchansk on January 27 but did not advance. The Ukrainian Border Guard Service reported on January 27 that Ukrainian forces repelled a Russian assault with 10 pieces of equipment and an unspecified amount of infantry near Vovchansk. A Russian milblogger claimed that Russian forces also conducted limited ground attacks in Derhachi Raion north of Kharkiv City, potentially referring to the Kozacha Lopan direction (north of Kharkiv City and northwest of Lyptsi).[19]
 
+Russian forces continued ground attacks northeast of Kharkiv City near Vovchansk and Starytsya on January 27 and 28 but did not advance. The commander of a Ukrainian brigade operating in the Vovchansk direction stated on January 27 that Russian forces assault the Vovchansk Aggregate Plant daily in groups of three to 10 personnel, including male and female convict recruits.[20]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -77,3 +79,4 @@ Russian forces continued ground attacks north of Kharkiv City near Lyptsi and no
 [17] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [18] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 [19] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[20] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)

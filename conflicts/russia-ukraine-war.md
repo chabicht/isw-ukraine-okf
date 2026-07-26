@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Background
@@ -170,9 +170,16 @@ The European Union proposed an aid package on January 27 to Moldova and Transnis
 
 Ukrainian President Volodymyr Zelensky replaced Khortytsia Group of Forces Commander Brigadier General Andrii Hnatov with Ground Forces Commander Major General Mykhailo Drapatyi on January 26. Zelensky stated that Drapatyi will also remain Ground Forces Commander and that Hnatov will become Deputy Chief of the Ukrainian General Staff. Zelensky noted that Drapatyi's dual position will help combine combat operations with proper training of brigades, and that Hnatov will work to improve coordination between headquarters and the front.[25]
 
+The first official Russian delegation arrived in Syria on January 28 for talks with the new Syrian government following the fall of the Assad regime, discussing Russia's continued use of the Hmeimim Air Base and Port of Tartus. The Russian delegation includes Deputy Foreign Minister Mikhail Bogdanov and Presidential Special Representative to Syria Alexander Lavrentyev. Russian milbloggers expressed skepticism about the negotiations, with a Kremlin-affiliated milblogger assessing that the new Syrian government holds the upper hand and can extract greater concessions from Russia. Commercially available satellite imagery shows the Russian military continued evacuating equipment from the Port of Tartus, with the Sparta and Sparta II cargo ships loading equipment and the Sparta II departing.[26]
+
+NATO Deputy Assistant Secretary General James Appathurai stated on January 28 that NATO states have faced acts of sabotage in recent years — including train derailments, arson, attacks against politicians' property, and assassination plots — as part of a Kremlin sabotage and destabilization campaign against European NATO member states aimed at deterring further military assistance to Ukraine. Appathurai emphasized that the Kremlin aims to "create disquiet to undermine support for Ukraine" and called for NATO states to more assertively deter Russian sabotage. The Kremlin's sabotage and destabilization campaign directly targeting NATO states supports ISW's assessment that Russian President Vladimir Putin sees Russia as waging a hybrid war directly against NATO.[26]
+
+The Russian military likely formed a separate unmanned systems regiment at the military district level — the 7th Separate Unmanned Systems Reconnaissance Strike Regiment as part of the Central Military District (CMD) — to augment Russia's unmanned systems capabilities. The regiment has 1,342 servicemembers and was staffed at 94 percent as of April 2024, consisting of command elements, an unmanned systems strike battalion, three unmanned systems reconnaissance and strike battalions, and logistics support units. The creation of this regiment supports the Russian MoD's coordinated effort to establish the Unmanned Systems Forces within the Russian military and centralize control over informal drone detachments.[26]
+
 # Citations
 
 [25] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[26] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

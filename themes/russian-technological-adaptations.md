@@ -5,7 +5,7 @@ parent: Themes
 description: Russian innovations in drone technology, electronic warfare, and armored vehicle modifications for the Ukraine war.
 tags: [military, technology, drone-warfare]
 status: ongoing
-timestamp: 2025-01-26T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -34,7 +34,11 @@ Russian state defense corporation Rostec stated on January 16 that it successful
 
 Russian defense manufacturer Kalashnikov Concern announced on January 21 that it will unveil its new "Kub-2-E" reconnaissance and strike drone equipped with guided munitions at the IDEX-2025 exhibition in Abu Dhabi in late February 2025. Russian forces will reportedly use launchers attached to armored vehicles to launch the "Kub-2-E" drones, and Kalashnikov reportedly designed the drones to destroy lightly armored military equipment, air defense systems, helicopter basing sites, and additional military equipment.[9]
 
+Russian Presidential Aide and former Security Council Secretary Nikolai Patrushev stated on January 28 that an unspecified Russian Navy center will work to create new types of naval drones, including those that use artificial intelligence (AI) and machine learning.[10]
+
 # Citations
+
+[10] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [2] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)

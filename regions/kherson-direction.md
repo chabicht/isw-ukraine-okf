@@ -5,7 +5,7 @@ parent: Regions
 description: The Dnipro River delta and Kherson Oblast frontline area.
 tags: [military, eastern-europe, kinetic, black-sea]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -56,6 +56,8 @@ Russian forces continued assaults in the Kherson direction, including on Zabych 
 
 Russian forces continued limited ground attacks in the Dnipro direction on January 26 and 27 but did not advance.[22] A Russian milblogger claimed that poor weather is limiting Russian and Ukrainian drone usage in the Kherson direction.[22] Elements of the Russian 81st Artillery Regiment (70th Motorized Rifle Division, 18th CAA, SMD) are reportedly operating in the Kherson direction.[22]
 
+Russian forces continued attacking in the Dnipro direction on January 27 and 28 but did not advance.[23]
+
 # Citations
 
 [21] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -87,3 +89,4 @@ Russian forces continued limited ground attacks in the Dnipro direction on Janua
 [15] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [20] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [22] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[23] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)

@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations northeast of Siversk, centered on Bilohorivka, Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -50,6 +50,8 @@ Russian forces continued offensive operations east of Siversk near Verkhnokamyan
 
 Neither Russian nor Ukrainian sources reported Russian offensive operations in the Siversk direction on January 27.[19]
 
+Russian forces continued ground attacks northeast of Siversk near Bilohorivka and east of Siversk near Verknokamyanske and Novoselivka on January 27 and 28 but did not make any confirmed advances.[20]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -77,3 +79,4 @@ Neither Russian nor Ukrainian sources reported Russian offensive operations in t
 [17] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [18] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 [19] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[20] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)

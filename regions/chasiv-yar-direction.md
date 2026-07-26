@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Chasiv Yar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-28T00:00:00Z
 ---
 
 # Current Situation
@@ -48,6 +48,8 @@ Russian forces continued offensive operations in the Chasiv Yar direction on Jan
 
 Russian forces recently advanced within central Chasiv Yar amid continued offensive operations in the area on January 27. Geolocated footage published on January 26 indicates that Russian forces recently advanced along Myru and Horkoho streets in central Chasiv Yar. A Russian milblogger claimed that Russian forces also advanced north of Chasiv Yar near Hryhorivka and Orikhovo-Vasylivka, but ISW has not observed confirmation of this claim. Russian forces conducted ground attacks near Chasiv Yar itself and south of Chasiv Yar near Stupochky, Bila Hora, and Pretechyne on January 26 and 27. Ukrainian Luhansk Group of Forces Spokesperson Lieutenant Colonel Dmytro Zaporozhets stated on January 27 that Russian forces are increasing operating equipment, especially armored fighting vehicles, in the Chasiv Yar direction and recently blew up pipes of the Siverskyi Donets Donbas Canal in several places to create passages for armored vehicles, assaults, and logistics. Zaporozhets stated that elements of the Chechen Akhmat Spetsnaz and "Rusich" Russian Sabotage Assault Reconnaissance Group are operating on the southeast outskirts of Chasiv Yar and have likely undergone assault operations training. Elements of the Russian 98th Airborne (VDV) Division continue operating in Chasiv Yar, including its 215th Reconnaissance Battalion and 331st VDV Regiment.[18]
 
+Russian forces continued offensive operations near and within Chasiv Yar on January 28 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces advanced in central Chasiv Yar and west of Kalynivka (north of Chasiv Yar), but ISW has not observed confirmation. Ukraine's Khortytsia Group of Forces reported that Russian forces recently attacked with armored vehicle support near Bila Hora (south of Chasiv Yar) and that Ukrainian drones destroyed and damaged two Russian tanks and three armored vehicles during the attack. Russian forces continued assaults near Chasiv Yar itself and south of Chasiv Yar near Stupochky, Predtechyne, and Bila Hora. Elements of the Russian 98th VDV Division, including its 331st VDV Regiment and 215th Reconnaissance Battalion; 38th Separate Engineer-Sapper Battalion; and 200th Motorized Rifle Brigade (14th AC, LMD) are reportedly operating near and within Chasiv Yar.[19]
+
 # Citations
 
 [15] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
@@ -73,3 +75,4 @@ Russian forces recently advanced within central Chasiv Yar amid continued offens
 
 [16] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [18] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[19] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
