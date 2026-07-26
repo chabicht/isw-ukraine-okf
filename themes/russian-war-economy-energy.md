@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's war economy and energy exports, including sanctions effects and European energy dynamics.
 tags: [economics, energy, sanctions, europe, war-economy]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Current Situation
@@ -18,7 +18,10 @@ Ukraine's decision to not renew its contract to transport Russian gas through Uk
 
 Gazprom cut gas supplies to Transnistria on January 1, claiming Moldova owed $709 million, though an audit by British and Norwegian firms in 2022 found the actual debt was only $8.6 million. The Kremlin's posturing mirrors its efforts to coerce Europe into authorizing Nord Stream 2 in Winter 2021–2022, likely aiming to extract economic or diplomatic concessions and undermine EU unity.[1]
 
+Russian state-owned energy corporation Gazprom acknowledged on January 13 that it is considering reducing the size of its central office staff by 40 percent, from 4,100 to 2,500. Leningrad-based media outlet _47news_ reported that Gazprom's Deputy CEO Elena Ilyukhina sent a proposal to the company's CEO Alexei Miller on December 23 arguing for the staff cut. The proposal is likely an effort to address economic strains due to the reduction of Russian gas exports to Europe since 2022 and Ukraine's recent refusal to renew the gas transit contract. Gazprom official representative Sergei Kupriyanov confirmed the authenticity of the proposal during an interview with Kremlin newswire _TASS_ on January 13.[3]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
+[3] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

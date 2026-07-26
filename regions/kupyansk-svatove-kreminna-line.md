@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-12T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Current Situation
@@ -42,6 +42,12 @@ Russian forces recently conducted two reinforced company-sized mechanized assaul
 
 Russian forces continued offensive operations in the Lyman direction on January 12 but did not make any confirmed advances. A Russian milblogger claimed that Russian forces advanced southwest and west of Ivanivka and west of Novosadove (both northeast of Lyman), but ISW has not observed confirmation of this claim. Russian forces continued offensive operations northeast of Lyman near Terny, Zarichne, and the Serebryanske forest area on January 11 and 12. Elements of the Russian 144th Motorized Rifle Division (20th CAA, MMD) reportedly continue operating in the Lyman direction.[6]
 
+Russian forces continued offensive operations in the Kupyansk direction on January 13 but did not advance. Ukrainian military observer Kostyantyn Mashovets stated that elements of the Russian 69th Motorized Rifle Division (6th CAA, Leningrad Military District) significantly expanded their bridgehead along the Oskil River near Dvorichna (northwest of Kupyansk), hold positions in half of Dvorichna, and are likely attempting to advance along the Dvorichna-Kupyansk P-79 road toward Kindrashivka (northwest of Kupyansk) — ISW has not observed confirmation of these claims. The commander of a Ukrainian battalion operating in the Kupyansk direction noted on January 13 that Russian forces are attempting to leverage inclement weather conditions to cross the Oskil River on small boats and rafts and are accumulating forces in the direction of Dvorichna and Masyutivka (south of Dvorichna). The spokesperson of a Ukrainian brigade operating along the Kupyansk-Lyman line stated that Russian forces are using artillery, air, and drone strikes to support ground activity and are currently not using vehicles during assaults due to softened terrain, using up to 30 to 40 FPV drones to strike a single target in this area. Drone operators of the Russian 16th Spetsnaz Brigade (GRU) are reportedly operating in the Kupyansk direction.[7]
+
+Russian forces recently advanced in the Borova direction on January 13. Geolocated footage published on January 13 indicates that Russian forces advanced west of Makiivka (southeast of Borova). A Russian milblogger claimed that Russian forces are clearing Ukrainian forces from Zahryzove (northeast of Borova) and Zeleny Hai, and that Russian forces established an unspecified crossing over the Oskil River between Kruhlyakivka and Senkove (both northeast of Borova).[7]
+
+Russian forces continued offensive operations in the Lyman direction on January 13 but did not advance. Russian milbloggers claimed on January 13 that Russian forces marginally advanced toward Kolodyazi (northeast of Lyman) and are attempting to create a bridgehead on the west (right) bank of the Zherebets River — ISW has not observed confirmation. The commander of a Ukrainian brigade operating in the Kupyansk-Lyman direction reported that Russian forces typically use vehicles to transport personnel past Ukrainian forces' first line of defense and then deploy infantrymen to reinforce and consolidate forward positions. The commander assessed that there is a 1:1 artillery ratio in the brigade's AoR in the Lyman direction. Drone operators of the Russian 3rd Motorized Rifle Division (20th CAA, Moscow Military District) are reportedly operating in the Lyman direction.[7]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
@@ -50,3 +56,4 @@ Russian forces continued offensive operations in the Lyman direction on January 
 [4] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [5] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [6] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
+[7] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

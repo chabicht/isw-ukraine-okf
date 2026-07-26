@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Current Situation
@@ -38,6 +38,12 @@ Russian federal subjects continue offering financial incentives to encourage con
 
 Russian authorities continue to force Ukrainians living under occupation to serve in the Russian military. Ukraine's GUR reported that Russian occupation authorities forced 300 Ukrainian citizens living in occupied Zaporizhia and Kherson oblasts to serve in the Russian military between October 1 and December 31, 2024. Russian authorities are also attempting to coerce residents of occupied Luhansk Oblast into signing contracts, promising one-time payments of 2.5 million rubles (about $24,450).[6]
 
+South Korea's National Intelligence Service (NIS) reportedly announced on January 13 that North Korean casualties in Kursk Oblast total roughly 3,000 killed and wounded — approximately 300 killed in action (KIA) and roughly 2,700 wounded in action (WIA). The NIS reportedly attributed the high casualty rate to the way Russian forces utilize North Korean forces, conducting assaults without fire support, consistent with ISW's previous assessments about North Korean tactics and communication issues with Russian forces.[8]
+
+Russian authorities are reportedly walking back a promise to allocate federal budget funds to protect certain deep rear areas from Ukrainian strikes. Russian news organization _Vedomosti_ reported on January 13, citing sources close to the Russian Ministry of Transport, that Russian authorities will not fund anti-drone measures from the federal budget for Category 1 airports within Russia, including airports in Moscow, St. Petersburg, Sochi, Kazan, Omsk, Chelyabinsk, Krasnoyarsk, Yekaterinburg, and Novosibirsk. ISW has recently assessed that Russia is struggling with the increasingly high costs of maintaining its war effort, and reducing funding for air defenses to protect areas far from the battlefield may be part of a Kremlin effort to limit costs.[8]
+
+Russian authorities continue increasing social service benefits to Russian veterans of the war in Ukraine likely as part of efforts to increase military recruitment. The Russian Government announced on January 13 that it began allocating grants on January 1 of up to seven million rubles (about $68,126) to Russian veterans to start their own agricultural and livestock enterprises.[8]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -47,3 +53,4 @@ Russian authorities continue to force Ukrainians living under occupation to serv
 [5] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [6] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [7] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
+[8] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

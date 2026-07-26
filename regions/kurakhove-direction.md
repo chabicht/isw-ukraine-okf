@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-12T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Current Situation
@@ -32,6 +32,8 @@ Russian forces continued offensive operations in the Kurakhove direction on Janu
 
 Russian forces recently advanced in the Kurakhove direction on January 12. Geolocated footage published on January 11 indicates that Russian forces recently seized Yantarne (southwest of Kurakhove). The Russian Ministry of Defense (MoD) claimed on January 12 that Russian forces seized Yantarne, and Russian milbloggers claimed that elements of the 10th Tank Regiment and 33rd and 225th motorized rifle regiments (all 20th Motorized Rifle Division, 8th CAA, Southern Military District) participated in the seizure. A Russian milblogger claimed that Russian forces advanced west of Slovyanka (northwest of Kurakhove) — ISW has not observed confirmation. Russian forces continued attacking northwest of Kurakhove near Shevchenko; west of Kurakhove near Dachne; and southwest of Kurakhove near Yantarne, Kostyantynopolske, and Kostyantynopil on January 11 and 12. Elements of the Russian 68th Tank Regiment (150th Motorized Rifle Division, 8th CAA, SMD) are reportedly operating west of Kurakhove; elements of the 68th Reconnaissance Battalion (20th Motorized Rifle Division, 8th CAA, SMD) are reportedly operating in the Kurakhove direction; and elements of the 114th Motorized Rifle Brigade (51st CAA) are reportedly operating on the eastern outskirts of Andriivka (west of Kurakhove).[10]
 
+Russian forces recently advanced southeast of Dachne (west of Kurakhove) on January 13. Geolocated footage published on January 12 indicates that Russian forces recently advanced southeast of Dachne. Russian milbloggers claimed that Russian forces advanced northeast of Yantarne (southwest of Kurakhove), but ISW has not observed confirmation. Ukrainian military observer Kostyantyn Mashovets stated that elements of the 163rd Tank Regiment, 102nd and 103rd motorized rifle regiments (150th MRD, 8th CAA, SMD), and 33rd and 255th motorized rifle regiments (20th MRD, 8th CAA, SMD) are operating in the Kurakhove-Dachne-Dalne area. Mashovets stated that elements of the 242nd Motorized Rifle Regiment (20th MRD) are attempting to advance along the Sukhi Yaly River north of Kostyantnynolske (southwest of Kurakhove), and that elements of the 36th MRB (29th CAA, EMD), 39th MRB (68th AC, EMD), 57th MRB (5th CAA, EMD), and 114th MRB (51st CAA) are operating near Yantarne. Elements of the Russian 346th Spetsnaz Brigade (GRU) are reportedly operating near Kurakhove.[11]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -44,3 +46,4 @@ Russian forces recently advanced in the Kurakhove direction on January 12. Geolo
 [8] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [9] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
+[11] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

@@ -5,7 +5,7 @@ parent: Countries
 description: The Democratic People's Republic of Korea, a military partner of Russia providing troops and materiel for the war in Ukraine.
 tags: [country, military, asia, indo-pacific]
 status: ongoing
-timestamp: 2025-01-12T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Current Situation
@@ -20,7 +20,10 @@ South Korea's National Intelligence Service (NIS) confirmed on January 12 that U
 
 The high casualty rates among North Korean forces are likely to affect the lessons that the North Korean military command will learn from combat in the war. Ukrainian soldiers report that North Korean forces have outnumbered Ukrainian forces by ratios as high as six-to-one in some assaults. Significant Ukrainian-inflicted losses on Russia's 810th Naval Infantry Brigade may have pushed the Russian military command to deploy North Korean forces to Kursk Oblast sooner than planned.[1]
 
+South Korea's National Intelligence Service (NIS) reportedly announced at a closed-door meeting on January 13 that North Korean casualties in Kursk Oblast total roughly 3,000 killed and wounded — approximately 300 killed in action (KIA) and roughly 2,700 wounded in action (WIA). The NIS reportedly attributed the high casualty rate to the way Russian forces utilize North Korean forces and conduct assaults without fire support, consistent with ISW's previous assessments and observations about North Korean tactics and communication issues with Russian forces.[3]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [2] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
+[3] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

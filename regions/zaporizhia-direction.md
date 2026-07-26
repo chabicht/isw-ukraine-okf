@@ -5,7 +5,7 @@ parent: Regions
 description: The southern axis in Zaporizhia Oblast, including the Robotyne area.
 tags: [military, eastern-europe, kinetic, crimea]
 status: ongoing
-timestamp: 2025-01-12T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Current Situation
@@ -28,6 +28,10 @@ The Ukrainian General Staff reported on January 11 that Russian forces did not c
 
 Neither Russian nor Ukrainian sources reported fighting in western Zaporizhia Oblast on January 12. Elements of the Russian 71st Motorized Rifle Regiment (42nd Motorized Rifle Division, 58th Combined Arms Army, Southern Military District) are reportedly operating near Mala Tokmachka (northeast of Robotyne).[9]
 
+Positional fighting continued in western Zaporizhia Oblast on January 12 and 13 but there were no confirmed changes to the frontline. A Russian milblogger claimed on January 13 that Russian forces usually conduct reconnaissance-in-force operations in small groups in western Zaporizhia Oblast. Ukraine's Unmanned Systems Forces reported on January 11 that Ukrainian forces successfully struck a Russian Tor-M2 air defense system on an unknown date in the past week in the Zaporizhia direction. Drone operators of the Russian "Nemets" Group of the 291st Motorized Rifle Regiment (42nd MRD, 58th CAA, SMD) reportedly continue to operate in the Zaporizhia direction.[10]
+
+Russian forces continued limited ground attacks in the Dnipro direction on January 12 and 13 but did not make any advances.[10]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -39,3 +43,4 @@ Neither Russian nor Ukrainian sources reported fighting in western Zaporizhia Ob
 [7] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [8] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [9] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
+[10] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

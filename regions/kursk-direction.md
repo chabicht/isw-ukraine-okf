@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-12T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Current Situation
@@ -36,9 +36,14 @@ Russian forces continued offensive operations within the main Ukrainian salient 
 
 Saratov Oblast Governor Roman Busargin stated on January 12 that Russian authorities are continuing efforts to put out the fire at Russia's state-owned Kombinat Kristal oil storage facility near Engels, Saratov Oblast following the Ukrainian drone strike on the night of January 7 to 8. A Russian insider source claimed the fire has destroyed three fuel tanks holding 120,000 cubic meters of fuel and damaged six additional fuel tanks.[4]
 
+Russian forces continued offensive operations within the Ukrainian salient in Kursk Oblast on January 13 but did not make any confirmed advances. Russian milbloggers claimed that fighting continued northwest of Sudzha near Pogrebki and Kruglenkoye; northeast of Sudzha near Russkoye Porechnoye; and southeast of Sudzha near Makhnovka. Ukrainian Special Operations Forces (SSO) reported that they recently repelled a North Korean infantry assault in Kursk Oblast that lasted from morning until night.[5]
+
+The Russian MoD claimed on January 13 that Ukrainian drones attempted to strike the Russkaya compressor station in Gai-Kodzor, Krasnodar Krai, which is a part of the Russian-Turkish Turk Stream gas pipeline, on January 11. The Russian MoD claimed that Russian forces shot down all nine drones and that falling drone fragments damaged a building and equipment at a gas metering station, but that the strike did not disrupt the station's operations. ISW has not observed independent reporting about the purported strike.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [2] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [3] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [4] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
+[5] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

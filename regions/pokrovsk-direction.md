@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Pokrovsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-12T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Current Situation
@@ -32,6 +32,10 @@ Russian forces continued offensive operations in the Pokrovsk direction on Janua
 
 Russian forces recently advanced in the Pokrovsk direction on January 12. Geolocated footage published on January 11 indicates that Russian forces recently advanced west of Novovasylivka (southwest of Pokrovsk). Russian milbloggers claimed that Russian forces seized Zelene (south of Pokrovsk) and advanced south of Novovasylivka, to within one kilometer of Udachne, and northwest of Solone (all southwest of Pokrovsk) — ISW has not observed confirmation of these claims. Ukraine's Khortytsia Group of Forces reported on January 12 that Russian forces conducted a roughly platoon-sized mechanized assault near Yasenove (southwest of Pokrovsk) and that Ukrainian forces destroyed one tank and two armored vehicles. Russian forces continued offensive operations near Pokrovsk itself and across a wide area northeast, east, southeast, south, southwest, and west of Pokrovsk on January 11 and 12. Ukrainian Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated that Russian forces are attempting to bypass Pokrovsk by advancing through small settlements south of Pokrovsk and to interdict Ukrainian ground lines of communications (GLOCs).[10]
 
+Russian forces recently cut the T-0504 Pokrovsk-Kostyantynivka highway east of Pokrovsk and the T-0406 Pokrovsk-Mezhova highway southwest of Pokrovsk as part of efforts to envelop Pokrovsk and Myrnohrad. Geolocated footage published on January 12 indicates that Russian forces recently advanced east of Myrne (east of Pokrovsk) and seized positions along the T-0504 highway. Ukrainian military observer Kostyantyn Mashovets stated that elements of the 55th and 74th motorized rifle brigades (41st CAA, Central Military District) recently advanced to and cut the T-0406 highway between Kotlyne and Udachne (southwest of Pokrovsk). ISW assesses that Russian forces likely seized the remainder of Solone (southwest of Pokrovsk) as part of this advance. Geolocated footage published on January 13 confirms Russian forces seized Pishchane (southwest of Pokrovsk), and the Russian MoD credited the 55th, 35th, and 74th motorized rifle brigades (all 41st CAA, CMD) with the seizure. Mashovets reported that elements of the 239th Tank Regiment, 228th Motorized Rifle Regiment, and 67th Rifle Regiment (all 90th Tank Division, Central Military District) are operating in the Novovasylivka-Uspenivka-Novooleksandriivka area (southwest of Pokrovsk). The Russian military command recently redeployed elements of the 5th Motorized Rifle Brigade (51st CAA) from the Kurakhove direction to offensive operations near Vozdvyzhenka (east of Pokrovsk). Elements of the 5th Brigade may have participated in the interdiction of the T-0504 highway near Myrne.
+
+The T-0504 and T-0406 highways are two of the three main east-west GLOCs supporting the Ukrainian force grouping in the Pokrovsk-Myrnohrad area. Russian advances east and west of Pokrovsk may complicate Ukrainian logistics and Ukraine's ability to resupply and redeploy troops to defend Pokrovsk and Myrnohrad. The Russian military command may intend to make further advances north of the T-0504 and T-0406 highways to force Ukrainian forces to withdraw to the north, supporting Russia's envelopment of both settlements and further advances west towards the Donetsk-Dnipropetrovsk Oblast administrative border. The Russian military command likely also hopes to avoid conducting infantry-heavy frontal assaults through the urban areas of Pokrovsk and Myrnohrad and likely assesses that interdicting these GLOCs increases the likelihood that Ukrainian forces will withdraw from these towns.[11]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -44,3 +48,4 @@ Russian forces recently advanced in the Pokrovsk direction on January 12. Geoloc
 [8] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [9] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
+[11] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

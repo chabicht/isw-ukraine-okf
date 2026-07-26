@@ -5,7 +5,7 @@ parent: Regions
 description: The Dnipro River delta and Kherson Oblast frontline area.
 tags: [military, eastern-europe, kinetic, black-sea]
 status: ongoing
-timestamp: 2025-01-12T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Current Situation
@@ -28,6 +28,8 @@ Russian forces continued offensive operations in the Dnipro direction on January
 
 Russian forces continued offensive operations in the Dnipro direction on January 11 and 12 but did not make any confirmed advances. Ukrainian Volunteer Army's Southern Group of Forces Spokesperson Serhiy Bratchuk stated that Russian forces, including elements of the 61st Naval Infantry Brigade (Leningrad Military District), most often try to attack Kozatskyi, Velikiy Potemkin, and Zabych islands (east, south, and southwest of Kherson City, respectively) in order to establish bridgeheads for future attacks against right (west) bank Kherson Oblast.[9]
 
+Russian forces continued limited ground attacks in the Dnipro direction on January 12 and 13 but did not make any advances.[10]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -39,3 +41,4 @@ Russian forces continued offensive operations in the Dnipro direction on January
 [7] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [8] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [9] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
+[10] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

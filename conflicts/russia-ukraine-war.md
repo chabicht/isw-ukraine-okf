@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-12T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Background
@@ -74,6 +74,14 @@ The Ukrainian General Staff reported on January 12 that Ukrainian forces conduct
 
 South Korea's National Intelligence Service (NIS) confirmed that Ukrainian forces captured two North Korean soldiers during combat operations in Kursk Oblast on January 9. The NIS stated that one captured soldier initially believed he was being sent to Russia for training and that North Korean forces have suffered significant losses.[11]
 
+Russian forces recently cut the T-0504 Pokrovsk-Kostyantynivka highway east of Pokrovsk and the T-0406 Pokrovsk-Mezhova highway southwest of Pokrovsk as part of efforts to envelop Pokrovsk and Myrnohrad. The T-0504 and T-0406 highways are two of the three main east-west ground lines of communications (GLOCs) supporting the Ukrainian force grouping in the area. ISW assesses that Russian forces likely seized the remainder of Solone (southwest of Pokrovsk) and seized Pishchane (southwest of Pokrovsk). The Russian military command likely hopes to avoid conducting infantry-heavy frontal assaults through the urban areas of Pokrovsk and Myrnohrad by interdicting these GLOCs, increasing the likelihood that Ukrainian forces will withdraw from these towns.[12]
+
+Russian state-owned energy corporation Gazprom acknowledged that it is considering reducing its central office staff by 40 percent, from 4,100 to 2,500, indicating concern about the long-term effects of the war and the reduction in Russian gas exports to Europe. Deputy CEO Elena Ilyukhina sent a proposal to CEO Alexei Miller on December 23 arguing for the reduction. The proposal is likely an effort to address economic strains due to the reduction of Russian gas exports to Europe since 2022 and Ukraine's recent refusal to renew the gas transit contract.[12]
+
+South Korea's NIS reportedly announced on January 13 that North Korean casualties in Kursk Oblast total roughly 3,000 killed and wounded (300 KIA, 2,700 WIA). The NIS attributed the high casualty rate to Russian tactics of conducting assaults without fire support, consistent with ISW's previous assessments.[12]
+
+Russian authorities are reportedly walking back a promise to allocate federal budget funds to protect Category 1 airports from Ukrainian strikes, including airports in Moscow, St. Petersburg, Sochi, and other major cities. ISW has recently assessed that Russia is struggling with the increasingly high costs of maintaining its war effort, and reducing funding for air defenses to protect areas far from the battlefield may be part of a Kremlin effort to limit costs.[12]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -87,3 +95,4 @@ South Korea's National Intelligence Service (NIS) confirmed that Ukrainian force
 [9] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [10] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [11] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
+[12] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Toretsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-12T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Current Situation
@@ -28,6 +28,8 @@ Russian forces continued offensive operations in the Toretsk direction on Januar
 
 Russian forces recently advanced in Toretsk on January 12. Geolocated footage published on January 11 indicates that Russian forces recently advanced in northwestern Toretsk. Russian forces conducted offensive operations near Toretsk itself, northeast of Toretsk near Dyliivka, and west of Toretsk near Shcherbynivka on January 11 and 12. A Russian source claimed that Ukrainian forces unsuccessfully counterattacked in Shcherbynivka. A Russian milblogger claimed that fighting has shifted to western and northwestern Toretsk, where Russian forces are attacking in small infantry groups. The milblogger claimed that the Russian military command recently transferred reserves to Toretsk, doubling the number of Russian maneuver groups involved in assaults. A Ukrainian brigade operating near Toretsk posted pictures showing Russian forces dressed in civilian clothing in the settlement — a war crime if confirmed. Elements of the 3rd Battalion of the Russian 109th Motorized Rifle Regiment (1st "Slovyansk" Motorized Rifle Brigade, 51st CAA) are reportedly operating within Toretsk.[5]
 
+Russian forces continued offensive operations in the Toretsk direction on January 13 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces seized most of Toretsk and pushed Ukrainian forces to the northern outskirts, speculating that Russian forces will soon seize the remainder. One Russian milblogger claimed Russian forces occupy about 94 percent of Toretsk, although ISW assesses that Russian forces have occupied 81.4 percent of the settlement as of January 13. Ukrainian military observer Kostyantyn Mashovets stated on January 13 that elements of the 1st and 9th motorized rifle brigades (both of the 51st CAA) have seized most of central Toretsk but that Ukrainian forces still hold part of Toretsk and Krymske (northeast of Toretsk). Mashovets reported that elements of the 132nd Motorized Rifle Brigade (51st CAA) are operating in the Nelipivka-Leonidivka direction (south of Toretsk).[6]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
@@ -35,3 +37,4 @@ Russian forces recently advanced in Toretsk on January 12. Geolocated footage pu
 [3] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [4] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [5] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
+[6] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

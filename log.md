@@ -6,6 +6,28 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with GLOC interdict assessment for Pokrovsk/Myrnohrad, Gazprom 40% staff cut proposal, NIS ~3,000 NK casualties (300 KIA, 2,700 WIA), airport anti-drone funding walkback;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with T-0504 and T-0406 highway cuts east and southwest of Pokrovsk, Solone likely seized, Pishchane seized (MoD credited 55th/35th/74th MRB), 5th MRB redeployed from Kurakhove to Vozdvyzhenka, GLOC interdict analysis;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with continued ops no confirmed advances, NK infantry assault repelled by SSO, Russian MoD claim of Ukrainian drone strike on Turk Stream compressor station (unconfirmed);
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with marginal advance near Tykhe (geolocated), no armored vehicles due to drone threat, "disposable" soldier tactics, halved tempo;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with 69th MRD bridgehead claim near Dvorichna (unconfirmed), Borova advance west of Makiivka (geolocated), Oskil River crossing in small boats, Lyman Zherebets River bridgehead attempt, 1:1 artillery ratio, 16th Spetsnaz Brigade and 3rd MRD dispositions;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Bilohorivka ops no advance;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with continued ops no confirmed advances, 200th MRB Pivichnyi claim, 331st/299th VDV Refractory Plant claims unconfirmed, Ukrainian mechanized counterattack claim;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with continued ops no confirmed advances, ISW assesses 81.4% (milblogger claimed 94%), 1st and 9th MRB central Toretsk, 132nd MRB Nelipivka-Leonidivka direction;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with advance southeast of Dachne (geolocated), 346th Spetsnaz Brigade (GRU) near Kurakhove, 163rd Tank/102nd/103rd MRR in Kurakhove-Dachne-Dalne, 242nd MRR Sukhi Yaly River, 36th/39th/57th/114th MRB near Yantarne;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with advance to Mokri Yaly River east bank southwest of Novyi Komar, likely Neskuchne seizure, Mashovets near-complete envelopment of Vremivka/Velyka Novosilka, decisive operation forecast, 127th MRD and 37th MRB/336th Naval Infantry dispositions;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with positional fighting no changes, Ukrainian Tor-M2 AD strike;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Dnipro limited attacks no advances;
+  [Crimea]({{ site.baseurl }}/regions/crimea.html) with Kerch Strait Bridge drone claim (43 drones, January 10-11), S-400 deployment to Hvardiske Airfield;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 12-13 overnight strike (110 Shahed, 78 downed, 31 EW-lost), damage in Sumy/Kyiv/Zhytomyr/Zaporizhia oblasts including children's health center and medical facility;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with geolocated footage of 2nd CAA CP strike in Novohrodivka;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with NIS ~3,000 NK casualties update, airport anti-drone funding walkback, veteran agricultural grants (up to 7M rubles);
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with NK Tor analogue air defense system fielding claim;
+  [Russian war economy and energy]({{ site.baseurl }}/themes/russian-war-economy-energy.html) with Gazprom 40% staff reduction proposal;
+  [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) with NIS 3,000 casualty update;
+  [Gazprom]({{ site.baseurl }}/actors/organizations/gazprom.html) with 40% staff cut proposal.
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Ukrainian high-precision airstrike on 2nd CAA CP in Novohrodivka, broader series of strikes on Donetsk direction command posts, South Korean NIS confirmation of two North Korean POWs captured January 9;
   [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) with NIS confirmation, POW believed he was going to Russia for training, food/water shortages before capture, significant NK losses;

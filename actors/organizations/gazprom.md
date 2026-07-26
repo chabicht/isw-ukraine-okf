@@ -5,7 +5,7 @@ parent: Organizations
 description: Russian state-owned energy company, a key economic actor in the Russia-Ukraine war.
 tags: [organization, energy, russia]
 status: ongoing
-timestamp: 2025-01-02T00:00:00Z
+timestamp: 2025-01-13T00:00:00Z
 ---
 
 # Background
@@ -18,6 +18,9 @@ The cessation of Russian gas transit through Ukraine on January 1, 2025, deals a
 
 Gazprom cut gas supplies to Transnistria on January 1, claiming a $709 million debt from Moldova. An independent audit by British and Norwegian firms in 2022 found that Moldova owed only $8.6 million. ISW assesses that Gazprom is exploiting the transit cessation to manufacture an energy crisis intended to destabilize Moldova. Gazprom refused Moldovan requests to redirect gas via TurkStream by a December 16 deadline, instead leaving Transnistria reliant on coal reserves.[1]
 
+Gazprom acknowledged on January 13 that it is considering reducing its central office staff by 40 percent, from 4,100 to 2,500. Deputy CEO Elena Ilyukhina sent a proposal to CEO Alexei Miller on December 23 arguing for the reduction to address economic strains from reduced gas exports to Europe since 2022 and Ukraine's refusal to renew the gas transit contract. Gazprom representative Sergei Kupriyanov confirmed the proposal's authenticity on January 13.[2]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
+[2] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
