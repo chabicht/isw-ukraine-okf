@@ -5,7 +5,7 @@ parent: Regions
 description: The northern axis of Russian offensive operations in Kharkiv Oblast, centered on Vovchansk.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-18T00:00:00Z
+timestamp: 2025-01-19T00:00:00Z
 ---
 
 # Current Situation
@@ -32,6 +32,8 @@ Russian forces recently advanced northeast of Kharkiv City amid continued offens
 
 Ukrainian forces recently recaptured lost positions north of Kharkiv City on January 18. Geolocated footage published on January 18 shows that Ukrainian forces recently regained lost positions in southern Hlyboke (north of Kharkiv City). Russian forces continued offensive operations northeast of Kharkiv City near Vovchansk on January 17 and 18. Elements of the Russian 11th Army Corps (Leningrad Military District) are reportedly operating near Hlyboke.
 
+Russian forces continued offensive operations northeast of Kharkiv City near Vovchansk on January 18 and 19 but did not advance. Elements of the Russian 11th Army Corps (Leningrad Military District) are reportedly operating in Kharkiv Oblast.[12]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
@@ -45,3 +47,4 @@ Ukrainian forces recently recaptured lost positions north of Kharkiv City on Jan
 [9] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [10] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [11] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
+[12] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)

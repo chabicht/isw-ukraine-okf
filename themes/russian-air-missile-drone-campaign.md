@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-18T00:00:00Z
+timestamp: 2025-01-19T00:00:00Z
 ---
 
 # Current Situation
@@ -62,6 +62,10 @@ On the night of January 17 to 18, Russian forces conducted a series of drone and
 
 The Romanian Ministry of Defense reported on January 18 that a Russian Shahed drone may have crashed near Plauru, Romania during a Russian drone strike against Ukraine on the morning of January 17.
 
+On the night of January 18 to 19, Russian forces conducted a series of drone strikes against Ukraine. The Ukrainian Air Force reported on January 19 that Russian forces launched 61 Shahed and other strike and decoy drones from Bryansk and Oryol oblasts and Millerovo, Rostov Oblast. The Ukrainian Air Force reported that Ukrainian forces downed 43 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Zhytomyr, Dnipropetrovsk, and Mykolaiv oblasts, that 15 drones were "lost," likely due to Ukrainian electronic warfare (EW) interference, and that Ukrainian forces were continuing to engage Russian drones as of 0900 local time. Kharkiv Oblast Military Administration Head Oleh Synehubov reported on January 18 that a Russian Iskander-M ballistic missile struck Vysokyi (just southwest of Kharkiv City) and damaged buildings, houses, and cars in the area.[17]
+
+Independent Belarusian monitoring group Hajun Project reported on January 19 that at least 12 Russian Shahed-type drones entered Belarusian airspace during a Russian drone strike on Ukraine on the night of January 18 to 19.[17]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -80,3 +84,4 @@ The Romanian Ministry of Defense reported on January 18 that a Russian Shahed dr
 [14] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [15] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [16] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
+[17] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)

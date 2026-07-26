@@ -6,6 +6,22 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with CBRN report on 5,389 chemical agent uses since Feb 2023 (434 in Dec 2024 alone);
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Russian advance in eastern Kurilovka (geolocated), activity near Viktorovka/Novaya Sorochina/Nikolayeva, 56th VDV/Kashtan Spetsnaz/83rd/11th VDV/40th Naval Infantry dispositions;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued ops near Vovchansk no advance, 11th AC in Kharkiv Oblast;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Russian advance north of Topoli near Stroivka (confirmed by Ukrainian General Staff), Borova reduced strikes but intensified ground activity, Lyman seizure of Ivanivka and Terny (geolocated), Ukrainian counterattack claim, 144th MRD near Kolodyazi;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued ops near Bilohorivka/Verkhnokamyanske/Ivano-Darivka no advance;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with Ukrainian recapture of positions in Refractory Plant (geolocated), Russian advance along Tolstoho Street (geolocated), unconfirmed Novopivnichnyi/Desyata claims, 215th Recon/Terek Cossack/Sever-V/98th VDV/200th MRB;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with Ukrainian recapture in southern Shcherbynivka (geolocated), Russian advance at Toretska Mine and Stepana Razina Street (geolocated);
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with unconfirmed Kotlyne/Udachne claims, Vozdvyzhenka confirmed, Trehubov prioritization, Mashovets T-05-15 analysis;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with marginal advance southwest of Stary Terny (geolocated), 238th Artillery/150th MRD/14th Spetsnaz;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with marginal advance in eastern Velyka Novosilka (geolocated), reinforced company-sized mechanized assault from Shakhtarske (13 vehicles);
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with continued Novodanylivka ops no advance;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Dnipro ops no advance;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 18-19 overnight strike (61 Shahed, 43 downed, 15 EW-lost), Iskander-M on Vysokyi, 12 Shahed entered Belarus;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with BARS-Sarmat recruiting women, milblogger Iran arms trade speculation.
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Ukrainian strikes on Kaluga/Tula oil depots and Nebo-SVU/Buk-M3/S-300 AD systems, NATO-Georgia 2025 exercise planning, 2nd/41st CAA strike group assembly south of Pokrovsk, 110th MRB redeployment to east Pokrovsk, Velyka Novosilka GLOC interdiction and seizure forecast;
   [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Kaluga and Tula oil depot strikes and AD system strikes;

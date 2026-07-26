@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-17T00:00:00Z
+timestamp: 2025-01-19T00:00:00Z
 ---
 
 # Current Situation
@@ -56,7 +56,9 @@ Russian President Vladimir Putin signed a decree on January 17 authorizing calli
 
 Russia is training schoolchildren to design, manufacture, and operate strike drones, likely as part of Russia's long-term force generation efforts and broader efforts to militarize Russian society. Russian student opposition outlet DOXA reported that Russian authorities spent roughly 540 billion rubles ($5.29 billion) training Russian schoolchildren to control drones and perform combat missions in 2024. Russian schoolchildren reportedly used drone operation simulators to practice working with FPV strike drones and drones that drop munitions to identify and strike enemy targets and worked in drone production facilities. Putin stated in April 2023 that Russian schools should introduce drone courses, and the Kremlin launched the Unmanned Aerial Systems program in 2024, which includes drone training courses in schools. DOXA also reported that some Russian schools are opening clubs for children as young as 10 years old to learn to design and control drones, conduct training flights, and participate in drone operation competitions.[11]
 
-# Citations
+Russian volunteer military detachments continue efforts to boost manpower by recruiting women into the Russian Armed Forces. Former Roscosmos (Russian space agency) head and Zaporizhia Oblast occupation senator Dmitry Rogozin reported on January 19 that the Russian BARS-Sarmat Detachment (Russian Combat Army Reserve) is recruiting specialists and unskilled men and women from across Russia to participate in combat operations in Ukraine. The post follows recent Russian promotional activities highlighting the recruitment of Russian women to various combat units in the Russian Armed Forces.[12]
+
+A Russian milblogger suggested that the Russian government may continue to import new military equipment from Iran following the signing of the Russia-Iran Strategic Partnership Agreement on January 17. A Russian milblogger claimed on January 18 that Russia might sell Iran advanced Su-35S, Su-30SM, and Su-57 fighter jets and S-300 air defense systems in exchange for advanced Iranian stealth strike and reconnaissance drones, Fateh-110 and Zolfaghar ballistic missiles, and long-range rotary mounted .50 caliber "Moharram" machine guns. The milblogger postulated that the eventual arrival of Iranian "Moharram" machine guns might help Russian forces counter Ukrainian naval drones in the Black Sea.[12]
 
 # Citations
 
@@ -71,3 +73,4 @@ Russia is training schoolchildren to design, manufacture, and operate strike dro
 [9] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [10] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [11] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
+[12] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)

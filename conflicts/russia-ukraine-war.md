@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-18T00:00:00Z
+timestamp: 2025-01-19T00:00:00Z
 ---
 
 # Background
@@ -110,6 +110,8 @@ NATO officials are reportedly preparing for a joint NATO-Georgia exercise schedu
 
 The Russian Central Grouping of Forces assembled a strike group comprised of units of the 2nd and 41st combined arms armies south of Pokrovsk, and the Russian military command redeployed elements of the 110th Motorized Rifle Brigade (51st CAA) from the Kurakhove direction to offensive operations east of Pokrovsk. ISW assesses that Russian forces will likely continue making gains as part of their intensified effort to envelop Pokrovsk from the northeast and southwest, though the rate of advance will remain slow as Russian forces have yet to demonstrate the ability to conduct the rapid mechanized maneuver necessary to quickly penetrate Ukrainian defensive lines.[16]
 
+The Ukrainian General Staff reported on January 18 that Russian forces used ammunition equipped with chemical agents banned by the Chemical Weapons Convention (CWC) 434 times in Ukraine in December 2024, contributing to a total of 5,389 documented cases since February 2023. Ukraine's radiation, chemical, and biological intelligence units are monitoring Russia's use of banned chemical agents, which include using regulated K-51 and RG-VO grenade launchers to launch munitions containing chemical agents and ammunition containing unspecified hazardous chemicals that are banned in warfare under the 1925 Geneva Protocol and CWC. Ukrainian officials have previously reported on increasingly common instances of Russian forces using chemical substances in combat that are banned by the CWC, to which Russia is a signatory, and the Ukrainian General Staff noted that such violations have been systematic in the Russian military since February 2023.[17]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -136,4 +138,5 @@ Moscow's military integration with Belarus already provides operational benefits
 [14] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [15] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [16] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
-[17] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)
+[17] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
+[18] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)

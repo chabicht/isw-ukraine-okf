@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Toretsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-18T00:00:00Z
+timestamp: 2025-01-19T00:00:00Z
 ---
 
 # Current Situation
@@ -38,6 +38,8 @@ Russian forces recently advanced west of Toretsk amid continued offensive operat
 
 Russian forces continued offensive operations in the Toretsk direction on January 18 but did not advance. Russian forces attacked within Toretsk, northeast of Toretsk near Krymske, and southwest of Toretsk near Shcherbynivka on January 17 and 18. Ukraine's Khortytsia Group of Forces stated that Russian forces have seized a significant portion of the town's buildings, but noted that Ukrainian forces are holding positions and are working to exhaust advancing Russian forces. A Russian milblogger claimed that Russian forces advanced to the outskirts of Toretsk and attacked Krymske on January 17 in order to bypass the Toretska mine in northern Toretsk from the west, noting that the seizure of Krymske would aid Russian forces in seizing the remainder of Toretsk. A press officer of a Ukrainian brigade operating in the area stated that Russian forces are attacking in larger platoon-sized infantry units and continue to employ small infantry tactics with platoons of roughly 20 personnel. The Khortytsia Group of Forces reported that Russian forces are using "kamikaze camel" tactics in the Toretsk direction, forcing unarmed infantry ("camels") to advance close to Ukrainian positions to drop caches of ammunition, mines, or walkie-talkies for advancing Russian assault groups. Ukrainian military observer Kostyantyn Mashovets stated that elements of the Russian 1st and 9th motorized rifle brigades (51st CAA) are operating within and near Toretsk.
 
+Both Ukrainian and Russian forces recently advanced in the Toretsk direction on January 19. Geolocated footage published on January 19 indicates that Ukrainian forces recently recaptured lost positions in southern Shcherbynivka (southwest of Toretsk). Geolocated footage published on January 19 indicates that Russian forces recently advanced northward on the territory of the Toretska Mine in northern Toretsk and northwestward along Stepana Razina Street in western Toretsk. Russian milbloggers claimed on January 19 that Russian forces seized half of the Toretska Mine in northern Toretsk, advanced near Tsentralna Mine in central Toretsk, and advanced and are clearing Ukrainian forces in Krymske (north of Toretsk). ISW has not observed confirmation of these claims, however. Russian forces continued attacking within Toretsk, north of Toretsk near Dyliivka, and southwest of Toretsk near Shcherbynivka.[11]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
@@ -50,3 +52,4 @@ Russian forces continued offensive operations in the Toretsk direction on Januar
 [8] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [9] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [10] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
+[11] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)

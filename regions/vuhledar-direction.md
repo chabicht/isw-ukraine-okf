@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-18T00:00:00Z
+timestamp: 2025-01-19T00:00:00Z
 ---
 
 # Current Situation
@@ -46,6 +46,8 @@ Note: ISW is incorporating data previously reported as the Vuhledar direction as
 
 Russian forces recently advanced into eastern Velyka Novosilka on January 18. Geolocated footage published on January 18 indicates that Russian forces recently advanced westward to a cemetery in eastern Velyka Novosilka. Recent Russian advances east of Velyka Novosilka and the recent seizure of Vremivka indicate that Ukrainian forces likely no longer hold positions in the fields south of Velyka Novosilka. Russian forces recently physically interdicted all of Ukraine's ground lines of communication (GLOCs) into Velyka Novosilka as part of ongoing efforts to complicate Ukrainian logistics and force Ukrainian troops to withdraw from the settlement. ISW assesses that Russian forces will likely seize Velyka Novosilka in the coming weeks or months, although advances will likely remain at a slow pace. Velyka Novosilka is located next to several rivers which will likely complicate Russian movement; Russian forces have historically struggled with river crossings. Russian milbloggers claimed that Russian forces advanced to Andriya Sheptytskoho Street in western Velyka Novosilka after crossing a partially destroyed bridge connecting Velyka Novosilka and Vremivka, along Horishnia Street in eastern Velyka Novosilka, and in the northern outskirts. The Russian MoD claimed that elements of the Russian 394th Motorized Rifle Regiment (127th MRD, 5th CAA, EMD) participated in the seizure of Vremivka and are currently operating in Velyka Novosilka, and that elements of the Russian 60th Motorized Rifle Brigade (5th CAA) are operating near Neskuchne.
 
+Russian forces recently advanced farther in eastern Velyka Novosilka on January 19. Geolocated footage published on January 19 indicates that Russian forces recently marginally advanced in eastern Velyka Novosilka. A Russian milblogger claimed on January 18 that Russian forces advanced northeast of Velyka Novosilka. ISW has not observed confirmation of this claim, however. A Ukrainian source reported on January 18 that Russian forces recently conducted a reinforced company-sized mechanized assault comprised of 13 vehicles from Shakhtarske (northeast of Velyka Novosilka) towards Velyka Novosilka, and recent Russian advances in eastern Velyka Novosilka may be a result of this mechanized assault. Russian forces continued offensive operations in Velyka Novosilka on January 18 and 19. Russian sources claimed on January 19 that Russian forces are attacking and slowly advancing in southern, eastern, and western Velyka Novosilka. Ukraine's Khortytsia Group of Forces stated on January 19 that Russian forces are taking advantage of unfavorable weather conditions in the Novopavilvka direction (north of Velyka Novosilka) to conduct offensive operations and pressure Ukrainian forces in Velyka Novosilka from the north.[16]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -63,3 +65,4 @@ Russian forces recently advanced into eastern Velyka Novosilka on January 18. Ge
 [13] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [14] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [15] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
+[16] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)

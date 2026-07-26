@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Chasiv Yar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-18T00:00:00Z
+timestamp: 2025-01-19T00:00:00Z
 ---
 
 # Current Situation
@@ -30,6 +30,8 @@ Russian forces continued offensive operations in the Chasiv Yar direction on Jan
 
 Russian forces recently advanced in Chasiv Yar on January 18. Geolocated footage published on January 18 shows Ukrainian forces striking two Russian armored vehicles, likely of the Russian 98th Airborne (VDV) Division, near Dniprovska Street in central Chasiv Yar, indicating that Russian forces recently advanced in the settlement. Russian sources claimed that Russian forces seized the Chasiv Yar Refractory Plant, though ISW has not observed visual evidence of this claim. Ukrainian military observer Kostyantyn Mashovets stated that elements of the Russian 4th Motorized Rifle Brigade (3rd CAA, formerly 2nd LNR AC) with support from the 299th and 331st VDV regiments (both of the 98th VDV Division) and the 200th Motorized Rifle Brigade (14th AC, Leningrad Military District) are trying to seize northern Chasiv Yar and that Russian forces seized a foothold in Pivnichnyi Microraion. Drone operators of the Russian "Sever-V" Brigade (Russian Volunteer Corps) are reportedly operating near Chasiv Yar. Tank operators of the Russian "Nevsky" Volunteer Reconnaissance-Assault Brigade (Russian Volunteer Corps) are reportedly operating near Soledar.
 
+Both Russian and Ukrainian forces recently advanced in Chasiv Yar amid continued offensive operations on January 19. Geolocated footage published on January 18 indicates that Ukrainian forces recently regained lost positions in the Refractory Plant in central Chasiv Yar. Geolocated footage published on January 19 indicates that Russian forces recently advanced along Tolstoho Street in western Chasiv Yar. Russian milbloggers claimed on January 19 that Russian forces captured the Novopivnichnyi and Desyata microraions in Chasiv Yar, advanced in the workshop area of the Refractory Plant, and in northern Chasiv Yar. ISW has not observed confirmation of these claims, however. Russian forces continued ground attacks within Chasiv Yar itself and south of Chasiv Yar near Predtechyne, Stupochky, and Bila Hora on January 18 and 19. Ukraine's Luhansk Group of Forces Spokesperson Lieutenant Colonel Dmytro Zaporozhets reported on January 18 that Ukrainian forces repelled Russian small and medium-sized assaults on the grounds of the Refractory Plant in central Chasiv Yar. Elements of the Russian 215th Reconnaissance Battalion (98th VDV Division), drone operators of the Russian "Terek" Cossack Reconnaissance Brigade (reportedly of the volunteer Cossack Assault Corps), and drone operators of the Russian "Sever-V" Brigade (Russian Volunteer Corps) are all reportedly operating in the Chasiv Yar direction; additional elements of the Russian 98th VDV Division and elements of the 200th Motorized Rifle Brigade (14th Army Corps [AC], Leningrad Military District [LMD]) are reportedly operating in Chasiv Yar itself.[11]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
@@ -42,3 +44,4 @@ Russian forces recently advanced in Chasiv Yar on January 18. Geolocated footage
 [8] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [9] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [10] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
+[11] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)

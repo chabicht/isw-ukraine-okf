@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-18T00:00:00Z
+timestamp: 2025-01-19T00:00:00Z
 ---
 
 # Current Situation
@@ -52,6 +52,8 @@ Russian forces recently advanced in the Ukrainian salient in Kursk Oblast on Jan
 
 Russian opposition media sources reported that displaced residents of Kursk Oblast's border areas continued protests in Kursk City calling for Russian authorities to issue housing certificates and expressed frustrations over the general lack of financial assistance from the Russian government. Kursk Oblast Governor Alexander Khinshtein promised to hold a meeting with the protestors the week of January 19 to 25.
 
+Russian forces recently advanced south of Sudzha amid continued activity in the northwestern part of the Ukrainian salient on January 19. Geolocated footage published on January 18 indicates that Russian forces recently advanced in eastern Kurilovka (south of Sudzha). A Russian milblogger claimed that Russian forces advanced near Viktorovka (northwest of Sudzha). Another Russian milblogger claimed that Russian forces operating northwest of Sudzha are regrouping near Staraya and Novaya Sorochina and are attacking near Nikolayeva and Viktorovka. Russian milbloggers claimed that Ukrainian forces conducted reconnaissance-in-force operations near Malaya Loknya and Viktorovka (both northwest of Sudzha). Elements of the Russian 56th Airborne (VDV) Regiment (7th VDV Division) are reportedly operating near Novoivanovka (northwest of Sudzha); elements of the Chechen "Kashtan" Spetsnaz Detachment are reportedly operating in Berdin (northeast of Sudzha); and elements of the 83rd and 11th VDV brigades and 40th Naval Infantry Brigade (Pacific Fleet, Eastern Military District [EMD]) are reportedly operating in other unspecified areas of Kursk Oblast.[10]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
@@ -63,3 +65,4 @@ Russian opposition media sources reported that displaced residents of Kursk Obla
 [7] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [8] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [9] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
+[10] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
