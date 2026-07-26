@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-21T00:00:00Z
+timestamp: 2025-01-22T00:00:00Z
 ---
 
 # Current Situation
@@ -74,6 +74,12 @@ Russian authorities continue to use financial incentives to increase voluntary m
 
 The Russian government continues to expand the federal "Time of Heroes" program by creating similar programs at the regional level. Irkutsk Oblast Governor Igor Kobzev announced on January 20 the regional "Heroes of Priangarie" program that will operate similarly and begin in February 2025. A Russian insider source claimed on January 21 that the Russian Presidential Administration's domestic policy bloc instructed regional governments to increase efforts to integrate veterans into government positions. The insider source claimed that the Kremlin instructed regional authorities to begin their own training programs for Russian veterans by July 1, 2025, and that each region must enroll 30 to 70 candidates in the first round. Regional governments must reportedly employ 20 percent of participants in government positions by October 1, 2025, and 80 percent by 2026.[14]
 
+Russia continues long-term efforts to build out its manpower reserve with All-Russian Cossack Society organizations and create a willing and well-trained prioritized pool designed to buffer the Kremlin from potential blowback in the event of a possible future partial call up of Russian reservists. Radio Free Europe/Radio Liberty's northwestern Russia service Sever Realii reported on January 22 that Russian organizations have allocated a total of 11.4 million rubles (roughly $114,880) for territorial defense training for 100 officers within the "Great Don Army" branch of the All-Russian Cossack Society, including 5.6 million rubles (approximately $56,400) from the Russian Presidential Grant Fund and 5.7 million rubles (approximately $57,400) from the "Great Don Army" organization. The training will include drone piloting training and tactical, medical, and fire training. A separate portion of the training will be devoted to organizing defense and interacting with political authorities in "wartime conditions." The Kremlin's efforts to expand the All-Russian Cossack societies, following the March 2024 law enrolling members of the All-Russian Cossack Society into the Russian military's mobilization reserve, are likely an effort to expand the number of well-trained troops in Russia's active reserve pools that the Kremlin can call up to fight in Ukraine or elsewhere during a possible future partial call up of Russian reservists.[15]
+
+Russia continues efforts to improve state monitoring processes and streamline force generation mechanisms. Moscow City Military Recruitment Head Maxim Loktev announced on January 21 that regional officials will send text messages to boys turning 17 years old in 2025 regarding automatic registration for military service. The Kremlin adopted a law in 2023, implemented in Fall 2024, which authorized authorities to dispatch automatic summons via electronic methods, thereby boosting the state's visibility among recruitment pools and automating recruitment notices, and Loktev's announcement appears to be part of this effort.[15]
+
+The Russian Ministry of Defense (MoD) continues to grapple with unprofessionalism and abuse among Russian commanders. A Kremlin-affiliated Russian milblogger claimed on January 22 that Luhansk Oblast occupation authorities arrested the commander of a Russian assault company of the 55th Motorized Rifle Brigade (41st Combined Arms Army [CAA], Central Military District [CMD]) for crimes ranging from embezzlement to creating a private prison to punish his subordinates. The milblogger claimed that this is the second scandal in two days for the unit and that occupation officials recently arrested a military police officer for beating a contract soldier. The milblogger noted that such beatings are common and have a negative impact on Russian society and force generation efforts. The milblogger called on Russian military officials to make an example of such individuals.[15]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -90,3 +96,4 @@ The Russian government continues to expand the federal "Time of Heroes" program 
 [12] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [13] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [14] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
+[15] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)

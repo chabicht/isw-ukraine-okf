@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-21T00:00:00Z
+timestamp: 2025-01-22T00:00:00Z
 ---
 
 # Current Situation
@@ -90,7 +90,15 @@ Russian forces continued offensive operations in the Borova direction on January
 
 Russian forces continued offensive operations in the Lyman direction on January 21 but did not make any confirmed advances. A Russian milblogger claimed that Russian forces advanced near Terny (northeast of Lyman), but ISW has not observed confirmation. Russian forces continued attacking northeast of Lyman near Terny and Kolodyazi and east of Lyman toward Zarichne on January 20 and 21. Elements of the Russian 144th Motorized Rifle Division (20th Combined Arms Army [CAA], Moscow Military District [MMD]) reportedly continue operating in the Lyman direction.[13]
 
+Russian forces continued offensive operations in the Kupyansk direction on January 22 but did not make confirmed advances. The Russian Ministry of Defense (MoD) claimed on January 22 that Russian forces seized Zapadne (north of Kupyansk). Russian milbloggers claimed on January 22 that Russian forces advanced both north and south of Zapadne and south of and in central Dvorichna (northeast of Kupyansk). ISW has not observed confirmation of these claims, however. Russian forces continued ground attacks north of Kupyansk near Dvorichna and Kutkivka and east of Kupyansk near Petropavlivka on January 21 and 22. A Russian milblogger claimed on January 22 that Ukrainian forces are counterattacking near Vilshana (northeast of Kupyansk). Ukrainian Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated on January 22 that Russian forces are attempting to cross the Oskil River near Dvorichna with small vessels – particularly small rubber boats – under the cover of night. Trehubov noted that Ukrainian drones are targeting Russian forces attempting to cross the Oskil River and hiding in windbreaks. Trehubov also stated that Russian forces conduct assaults on the west (right) bank of the Oskil River, have accumulated an unspecified amount of personnel, and have not established logistics across the Oskil River as the water has not frozen. A Ukrainian drone battalion commander operating in the Kupyansk direction stated on January 22 that Russian commanders are forcing infantry to attack despite poor weather conditions preventing the proper use of drone or armored vehicle support. The Ukrainian Khortytsia Group of Forces reported on January 22 that Russian forces used an unspecified number of armored vehicles to conduct recent assaults in the Petropavlivka direction (east of Kupyansk) and near Lozova (northeast of Borova). Drone operators of the Russian Rubicon Center for Advanced Unmanned Technologies reportedly continue operating in the Kupyansk direction.[14]
+
+Russian forces continued offensive operations in the Borova direction on January 22 but did not make confirmed advances. A Russian milblogger claimed on January 22 that Russian forces advanced southwest of Lozova (northeast of Borova) and west of Nadiya (east of Borova). ISW has not observed confirmation of this claim, however. Russian forces continued ground attacks northeast of Borova near Lozova, Nova Kruhlyakivka, and Zahryzove; east of Borova near Kopanky; and southeast of Borova near Novoyehorivka and Novoserhiivka on January 21 and 22.[14]
+
+Russian forces continued offensive operations in the Lyman direction on January 22 but did not make confirmed advances. A Russian milblogger claimed on January 22 that Russian forces advanced southwest of Terny (northeast of Lyman), northwest and west of Ivanivka (northeast of Lyman), and north and east of Kolodyazi. ISW has not observed confirmation of these claims, however. Russian forces continued ground attacks north of Lyman near Zelena Dolyna; northeast of Lyman near Kuzmyne, Terny, and Kolodyazi; and east of Lyman near the Serebryanske forest area on January 21 and 22. Elements of the Russian 144th Motorized Rifle Division (20th Combined Arms Army [CAA], Moscow Military District [MMD]) reportedly continue operating in the Lyman direction.[14]
+
 # Citations
+
+[14] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
 [13] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 

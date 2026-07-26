@@ -5,7 +5,7 @@ parent: Regions
 description: The southern axis in Zaporizhia Oblast, including the Robotyne area.
 tags: [military, eastern-europe, kinetic, crimea]
 status: ongoing
-timestamp: 2025-01-21T00:00:00Z
+timestamp: 2025-01-22T00:00:00Z
 ---
 
 # Current Situation
@@ -52,7 +52,15 @@ Russian forces conducted a limited ground attack northwest of Robotyne near Kamy
 
 Russian forces continued limited ground attacks in the Dnipro direction, including near Kozatskyi Island (northeast of Kherson City), on January 20 and 21 but did not advance.[16]
 
+Russian forces continued limited ground attacks northwest of Robotyne near Kamyanske on January 21 and 22 but did not advance.[17] Drone operators of the Russian "Smuglyanka" Detachment are reportedly operating in the Zaporizhia direction.[17]
+
+A Ukrainian drone group operating in the Zaporizhia direction posted footage on January 22 showing a Ukrainian first-person view (FPV) drone strike against a Russian Buk-M3 air defense system likely in western Zaporizhia Oblast.[17]
+
+Russian forces continued limited ground attacks in the Dnipro direction on January 21 and 22 but did not advance. A Russian milblogger claimed that Ukrainian forces have intensified drone and HIMARS strikes against the Russian rear in occupied Kherson Oblast. Drone operators of the Russian 10th Spetsnaz Brigade (Russian Main Military Intelligence Directorate [GRU]) are reportedly operating in the Kherson direction.[17]
+
 # Citations
+
+[17] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
 [16] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 

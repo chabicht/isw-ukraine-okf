@@ -5,7 +5,7 @@ parent: Organizations
 description: Russian state-owned energy company, a key economic actor in the Russia-Ukraine war.
 tags: [organization, energy, russia]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-22T00:00:00Z
 ---
 
 # Background
@@ -20,7 +20,11 @@ Gazprom cut gas supplies to Transnistria on January 1, claiming a $709 million d
 
 Gazprom acknowledged on January 13 that it is considering reducing its central office staff by 40 percent, from 4,100 to 2,500. Deputy CEO Elena Ilyukhina sent a proposal to CEO Alexei Miller on December 23 arguing for the reduction to address economic strains from reduced gas exports to Europe since 2022 and Ukraine's refusal to renew the gas transit contract. Gazprom representative Sergei Kupriyanov confirmed the proposal's authenticity on January 13.[2]
 
+Russian business outlet Kommersant reported on January 22 that Russia may resume gas supplies to Transnistria via the TurkStream pipeline, using the Cyprus-based company Obzor Enterprises as an intermediary. Obzor Enterprises booked the TurkStream pipeline on January 20 to transit 3.1 million cubic meters of gas per day from February 1 to March 1. Authorities are discussing extending these supplies through mid-April, and Russia would pay roughly $160 million to purchase the gas. Russia is prioritizing efforts to transfer the gas to Transnistria through the Trans-Balkan pipeline, which runs through Bulgaria and Romania before reaching Transnistria.[3]
+
 # Citations
+
+[3] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)

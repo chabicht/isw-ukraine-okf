@@ -4,6 +4,28 @@ nav_order: 8
 permalink: /log/
 ---
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Syria/HTS Tartus port negotiations, Russia-Uzbekistan military cooperation (2025 plan, 2026-2030 strategic partnership), Putin economy info op (Bloomberg Dec 2024 record revenue data contradictory), Transnistria TurkStream gas via Obzor Enterprises ($160M);
+  [Russian war economy and energy]({{ site.baseurl }}/themes/russian-war-economy-energy.html) with Putin economy info op, Kommersant Transnistria TurkStream gas plan (Obzor Enterprises, 3.1M m3/day, Feb 1-Mar 1, $160M);
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with Cossack Society "Great Don Army" training (11.4M rubles, drone/tactical/medical), Moscow City text message auto-registration for 17-year-olds, 55th MRB commander arrested (embezzlement, private prison);
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 21-22 overnight strike (99 Shahed, 65 downed, 30 EW-lost), damage in Mykolaiv/Dnipropetrovsk/Kyiv/Cherkasy/Sumy/Khmelnytskyi oblasts;
+  [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) with NYT report of additional NK deployment by mid-March 2025, BBC ~1,000 KIA and ~3,000 missing/wounded (~33-40% of 11-12K), interoperability struggles (translator included but still ineffective), SSO footage 21 KIA 40 WIA in 8-hour engagement, Russia drone-striking wounded NK troops to prevent capture;
+  [Russia]({{ site.baseurl }}/actors/countries/russia.html) with Russia-Uzbekistan Belousov/Halmukhamedov meeting, military cooperation plans, Syria/HTS Tartus port negotiations (Sparta/Sparta II docked), Syrian Defense Minister no final solution statement;
+  [Moldova]({{ site.baseurl }}/actors/countries/moldova.html) with Kommersant Transnistria TurkStream gas plan via Obzor Enterprises;
+  [Gazprom]({{ site.baseurl }}/actors/organizations/gazprom.html) with Obzor Enterprises TurkStream booking for Transnistria;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with continued ops no confirmed advances, unconfirmed Guyevo claim, GUR FPV strike on satellite equipment near Tetkino (Jan 17), Zapad-Akhmat and 106th VDV dispositions;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued Vovchansk no advance, Zapad-Akhmat and 116th Stalhaya Brigade dispositions;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk MoD Zapadne claim (unconfirmed), Oskil River rubber boat crossings, Trehubov statement, Borova unconfirmed Lozova/Nadiya claims, Lyman unconfirmed Terny/Ivanivka/Kolodyazi claims, 144th MRD;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Ivano-Darivka no advance;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with advance along Zaliznychna Street NW Chasiv Yar and near Refractory Plant (geolocated), 299th VDV snipers, 215th Recon Battalion;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with Ukrainian regained positions in western Shcherbynivka (geolocated), Russian advance on Kachalova/Puzanova streets, battalion commander limited positions statement;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with advance NE of Kotlyne (geolocated), Mashovets 30th MRB introduced south of Pokrovsk, slowed advance assessment;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with marginal advance south of Dachne (geolocated), 110th MRB struggling toward Andriivka, Mashovets assessment;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with advance west of Rozdolne and along Horishnia Street NE Velyka Novosilka (geolocated), Mashovets 37th MRB/5th Tank/127th MRD/336th Naval Infantry dispositions, 40th Naval Infantry in Velyka Novosilka;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with limited Kamyanske attack no advance, Ukrainian FPV strike on Buk-M3 AD system;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with limited Dnipro attacks no advance, 10th Spetsnaz Brigade drone operators;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with nothing significant.
+
 ## 2025-01-21
 
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/).

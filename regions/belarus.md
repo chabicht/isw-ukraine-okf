@@ -46,7 +46,11 @@ The Belarusian Central Election Commission announced that early voting for the B
 
 Belarusian President Alexander Lukashenko stated on January 21 that he intends to talk with Russian President Vladimir Putin in the near future about Russia's construction of a second nuclear power plant in Belarus.[8]
 
+Nothing significant to report from the January 22 assessment regarding Belarus.[9]
+
 # Citations
+
+[9] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
 [8] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 

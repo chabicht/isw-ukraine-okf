@@ -5,7 +5,7 @@ parent: Countries
 description: The Republic of Moldova, affected by the Russia-Ukraine war through energy security and Transnistrian dynamics.
 tags: [country, energy, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-20T00:00:00Z
+timestamp: 2025-01-22T00:00:00Z
 ---
 
 # Current Situation
@@ -26,9 +26,12 @@ Russian and Transnistrian authorities are reportedly discussing Russian purchase
 
 Transnistrian President Vadim Krasnoselsky stated on January 20 that Transnistria will allow Moldovagaz to supply Transnistria with gas, presumably from Europe, despite initially refusing offers in early January 2025 from Moldovagaz to help Transnistria obtain gas from European platforms. Krasnoselsky claimed that Transnistria can guarantee payment – possibly referring to Moscow's reported proposal to use Russian budget funds to buy European gas for Transnistria's domestic consumption. Krasnoselsky claimed that Transnistrian gas company Tiraspoltransgaz sent a letter to Moldovagaz on January 18 requesting that Moldovagaz outline the procedure for supplying gas to Transnistria. Moldovan President Maia Sandu responded on January 20 that Krasnoselsky's proposal does not appear to be about Transnistria's purchase of gas through Moldovagaz but that Krasnoselsky rather is proposing that "someone else" buys the gas and delivers it to Moldovan territory, after which Moldovagaz transports it through Moldova to Transnistria.[4]
 
+Russian business outlet Kommersant reported on January 22 that Russia may resume gas supplies to Transnistria via the TurkStream pipeline, using the Cyprus-based company Obzor Enterprises as an intermediary. Kommersant reported that Obzor Enterprises booked the TurkStream pipeline on January 20 to transit 3.1 million cubic meters of gas per day to the Strandzha-2 entry point from February 1 to March 1. Kommersant reported that authorities are discussing extending these supplies through mid-April and that Russia would pay roughly $160 million to purchase the gas. Kommersant's sources noted that Russia is prioritizing efforts to transfer the gas to Transnistria through the Trans-Balkan pipeline, which runs through Bulgaria and Romania before reaching Transnistria. Ukrainian and Moldovan officials have noted how Russia is trying to leverage the manufactured gas crisis to affect Moldovan public opinion before the Summer 2025 Moldovan parliamentary elections.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [3] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [4] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+[5] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)

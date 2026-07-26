@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-21T00:00:00Z
+timestamp: 2025-01-22T00:00:00Z
 ---
 
 # Current Situation
@@ -72,7 +72,11 @@ Ukraine's Pivnich (Northern) Operational Command Spokesperson Colonel Vadym Mysn
 
 On the night of January 20 to 21, Russian forces conducted a series of drone and missile strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched four Iskander-M ballistic missiles from Voronezh Oblast and 131 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol Oblast. Ukrainian forces downed 72 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Zhytomyr, Khmelnytskyi, Vinnytsia, Kirovohrad, Dnipropetrovsk, Donetsk, Mykolaiv, Odesa, Zaporizhia, and Rivne oblasts; 59 drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; and the strikes damaged institutions, residential buildings, and other structures in Poltava and Cherkasy oblasts. Official Ukrainian sources reported that Russian drone strikes and falling drone debris damaged infrastructure, civilian property, and buildings in Cherkasy, Kharkiv, Kyiv, Poltava, and Mykolaiv oblasts. Dnipropetrovsk Oblast Head Serhii Lysak reported that Russian missiles damaged residential homes in Synelnykivskyi Raion and two enterprises in Dnipro City, Dnipropetrovsk Oblast.[19]
 
+On the night of January 21 to 22, Russian forces conducted a series of drone strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched 99 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Bryansk, Kursk, and Oryol oblasts; and occupied Cape Chauda, Crimea. The Ukrainian Air Force reported that Ukrainian forces downed 65 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Khmelnytskyi, Dnipropetrovsk, Mykolaiv, and Odesa oblasts; that 30 drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; and that drone strikes damaged institutions, industrial enterprises, farm buildings, residential homes, and apartment buildings in Mykolaiv, Dnipropetrovsk, Kyiv, Cherkasy, Sumy, and Khmelnytskyi oblasts. Ukrainian official sources reported that Russian drone strikes hit a residential home and an administrative building in Mykolaiv Oblast and a residential home in Sumy Oblast.[20]
+
 # Citations
+
+[20] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

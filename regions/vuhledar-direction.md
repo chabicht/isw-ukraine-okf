@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-21T00:00:00Z
+timestamp: 2025-01-22T00:00:00Z
 ---
 
 # Current Situation
@@ -52,7 +52,11 @@ Russian forces continued offensive operations in the Velyka Novosilka direction 
 
 Russian forces continued offensive operations near Velyka Novosilka on January 21 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces advanced 1.1 kilometers deep along Fontanna Street in eastern Velyka Novosilka, but ISW has not observed confirmation. Russian forces conducted offensive operations near Velyka Novosilka itself and west of Velyka Novosilka towards Pryvilne on January 20 and 21. A Russian milblogger claimed that Russian forces destroyed a Ukrainian infantry fighting vehicle with a fiber optic cable drone near Novyi Komar (north of Velyka Novosilka).[17]
 
+Russian forces recently advanced near and within Velyka Novosilka amid continued offensive operations on January 22. Geolocated footage published on January 21 and 22 indicates that Russian forces recently advanced along a road west of Rozdolne (northeast of Velyka Novosilka) and along Horizhnia Street in northeastern Velyka Novosilka. Russian milbloggers claimed that Russian forces advanced north of Vremivka (west of Velyka Novosilka) and further within eastern Velyka Novosilka and reiterated claims that Russian forces have partially enveloped Ukrainian forces in Velyka Novosilka from the north, east, and south. Mashovets stated that elements of the Russian 37th Motorized Rifle Brigade (36th CAA, Eastern Military District [EMD]) and 5th Tank Brigade (36th CAA) are attacking in southeastern Velyka Novosilka and that elements of the 127th Motorized Rifle Division (5th CAA, EMD) are attacking in the southwestern part of the settlement. Mashovets noted that elements of the Russian 336th Naval Infantry Brigade (Baltic Fleet, Leningrad Military District [LMD]) are advancing near the northern outskirts of Velyka Novosilka. Russian forces continued ground assaults near Velyka Novosilka and just west of Velyka Novosilka near Vremivka on January 21 and 22. Elements of the Russian 40th Naval Infantry Brigade (Pacific Fleet, EMD) are reportedly operating within Velyka Novosilka.[18]
+
 # Citations
+
+[18] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
 [17] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 

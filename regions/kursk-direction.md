@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-21T00:00:00Z
+timestamp: 2025-01-22T00:00:00Z
 ---
 
 # Current Situation
@@ -62,7 +62,13 @@ Russian opposition outlet Mobilization News reported on January 21 that Russian 
 
 Acting Kursk Oblast Governor Alexander Khinshtein's appointment has failed to solve or distract from Russia's failure to adequately respond to Ukraine's incursion. Residents of Sudzhansky, Korenevsky, Bolshesoldatsky, and Glushkovsky raions protested in front of the Kursk Oblast Administration building on January 18 and 21, demanding to meet with Khinshtein. The protestors asked him to address insufficient permanent housing for residents, issues with temporary accommodation centers, and his lack of dialogue. Khinshtein's advisor, Viktoria Penkova, met with the protestors, and the Kursk Oblast Administration Press Service stated that authorities informed the protestors of "necessary explanations and consultations." Putin likely appointed Khinshtein to appear dedicated to solving social issues and to quell local protests, and Khinshtein's failure to fulfill this role undermines this intended effect.[12]
 
+Russian forces continued offensive operations along the Ukrainian salient in Kursk Oblast on January 22 but did not make confirmed advances. A Russian milblogger claimed that Russian forces reached the outskirts of Guyevo (south of Sudzha), but ISW has not observed evidence of this claim. Russian forces continued ground attacks northwest of Sudzha near Pogrebki and south of Sudzha near Makhnovka and in and west of Kurilovka. Russian milbloggers claimed that Ukrainian forces counterattacked near Makhnovka and northwest of Sudzha near Kruglenkoye. Elements of the Chechen "Zapad-Akhmat" Battalion are reportedly conducting reconnaissance operations near Russia's international border with Sumy Oblast. Elements of the Russian 106th Airborne (VDV) Division are reportedly operating a TOS-1A thermobaric artillery system in Kursk Oblast.[13]
+
+Ukraine's Main Military Intelligence Directorate (GUR) reported on January 22 that GUR first person view (FPV) strike drones struck a piece of Russian satellite equipment near Tetkino, Kursk Oblast on January 17. The GUR reported that the equipment supported Russia's use of the Yamal-401, Yamal-402, and Yamal-300K communications satellites in the area.[13]
+
 # Citations
+
+[13] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
 [11] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 

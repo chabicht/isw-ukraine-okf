@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-21T00:00:00Z
+timestamp: 2025-01-22T00:00:00Z
 ---
 
 # Current Situation
@@ -46,7 +46,11 @@ Russian forces recently advanced in the Kurakhove direction amid continued offen
 
 Russian forces recently advanced northwest of Kurakhove amid continued offensive operations on January 21. Geolocated footage published on January 21 indicates that Russian forces recently advanced in fields west of Petropavlivka (northwest of Kurakhove) and northeast of Rozdolne (southwest of Kurakhove). Russian milbloggers claimed that Russian forces cleared the pocket between Petropavlivka and Shevchenko (south of Petropavlivka) and advanced towards the outskirts of Kostyantynopil (west of Kurakhove) and north of Sukhi Yaly (southwest of Kurakhove) — ISW has not observed confirmation. A Russian source claimed that Russian forces are bypassing the approaches to Andriivka (west of Kurakhove) from the north as part of efforts to advance to the T0515 Andriivka-Pokrovsk highway. Another milblogger claimed that the intensity of fighting in the Kurakhove direction has largely decreased and that Russian forces are focusing their offensive efforts on seizing Andriivka from the north. Russian forces continued ground attacks northwest of Kurakhove near Shevchenko; west of Kurakhove near Andriivka, Ulakly, Dachne, and Kostyantynopil; and southwest of Kurakhove near Yantarne and Rozlyv on January 20 and 21. A milblogger claimed that Ukrainian forces counterattacked near Dachne and Zelenivka (southwest of Kurakhove). Drone operators of the Russian 39th Motorized Rifle Brigade (68th AC, Eastern Military District [EMD]) are reportedly striking targets near Sukhi Yaly, and drone operators of the 68th Reconnaissance Battalion (20th Motorized Rifle Division, 8th CAA, Southern Military District [SMD]) are reportedly striking targets near Dachne. Elements of the Russian 242nd Motorized Rifle Regiment (20th Motorized Rifle Division), 381st Artillery Regiment (150th Motorized Rifle Division, 8th CAA), and 238th Artillery Brigade (8th CAA) reportedly continue to operate in the Kurakhove direction.[16]
 
+Russian forces recently advanced west of Kurakhove amid continued offensive operations in the Kurakhove direction on January 22. Geolocated footage published on January 21 indicates that Russian forces recently marginally advanced in the fields south of Dachne (west of Kurakhove). Russian milbloggers claimed that Russian forces advanced along windbreaks southwest of Slovyanka (northwest of Kurakhove) and two kilometers towards Kostyantynopil (west of Kurakhove) and that Russian forces are clearing Ukrainian forces from the area west of the Kurakhivske Reservoir (west of Kurakhove). ISW has not observed visual confirmation of these claims, however. Mashovets stated on January 22 that elements of the Russian 110th Motorized Rifle Brigade (51st CAA) have struggled to advance towards Andriivka (west of Kurakhove) from the south since their last advance as of January 12 despite being reinforced with elements of the 114th Motorized Rifle Brigade (51st CAA). Russian forces continued ground attacks northwest of Kurakhove near Slovyanka and Shevchenko; west of Kurakhove near Dachne, Andriivka, and Kostyantynopil; and southwest of Kurakhove near Ulakly and Yantarne on January 21 and 22. A Russian milblogger claimed that Ukrainian forces counterattacked near Andriivka and Zelenivka (southwest of Kurakhove).[17]
+
 # Citations
+
+[17] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
 [16] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 

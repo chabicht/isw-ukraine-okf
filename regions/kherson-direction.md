@@ -5,7 +5,7 @@ parent: Regions
 description: The Dnipro River delta and Kherson Oblast frontline area.
 tags: [military, eastern-europe, kinetic, black-sea]
 status: ongoing
-timestamp: 2025-01-21T00:00:00Z
+timestamp: 2025-01-22T00:00:00Z
 ---
 
 # Current Situation
@@ -44,7 +44,11 @@ Russian forces continued offensive operations in the Dnipro direction, including
 
 Russian forces continued limited ground attacks in the Dnipro direction, including near Kozatskyi Island (northeast of Kherson City), on January 20 and 21 but did not advance.[16]
 
+Russian forces continued limited ground attacks in the Dnipro direction on January 21 and 22 but did not advance.[17] A Russian milblogger claimed that Ukrainian forces have intensified drone and HIMARS strikes against the Russian rear in occupied Kherson Oblast. Drone operators of the Russian 10th Spetsnaz Brigade (Russian Main Military Intelligence Directorate [GRU]) are reportedly operating in the Kherson direction.[17]
+
 # Citations
+
+[17] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
 [16] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 
