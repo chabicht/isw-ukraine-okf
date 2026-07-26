@@ -4,6 +4,12 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2025-01-30
+
+* **Incorporation**: Processed ISW [Putin's Poison Pill for Peace Talks](https://understandingwar.org/research/russia-ukraine/putins-poison-pill-for-peace-talks) (Briefing Room Episode 49, George Barros).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with ISW assessment that Putin's objective is not only territory but destruction of Ukraine as a sovereign state, warning against negotiation frameworks that focus solely on territorial boundaries;
+  [Russia]({{ site.baseurl }}/actors/countries/russia.html) with Briefing Room assessment of Putin's sovereignty destruction goal.
+
 ## 2025-01-29
 
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/).

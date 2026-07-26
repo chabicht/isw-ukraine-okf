@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-29T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Background
@@ -150,6 +150,8 @@ The Kremlin continued to leverage the prominent Kremlin-linked _Rybar_ Telegram 
 
 Russian President Vladimir Putin stated on January 28 that Western military assistance remains vital to Ukraine's ability to maintain its defense against Russian aggression, claiming the war could end within two months if the West stops providing aid. Putin's theory of victory relies on the assumption that the West will abandon Ukraine. Putin indicated he will not view any peace agreement with Ukraine as binding by claiming the Ukrainian government is unwilling or unable to rescind the 2022 presidential decree banning negotiations with Putin. Putin's statements rejecting the legitimacy of the Ukrainian government set conditions for Russia to justify violating any future agreement with Ukraine. Putin continues efforts to coerce US President Donald Trump into bilateral negotiations that exclude Ukraine and impose his desired negotiation framework. The Russian Ministry of Defense confirmed on January 29 that Lieutenant General Alexander Sanchik is the commander of the Russian Southern Grouping of Forces.[27]
 
+ISW assessed in its January 30 Briefing Room episode that despite significant military setbacks and mounting economic challenges, Putin has not changed his demands for negotiations. ISW warned that Putin is not interested only in territory — he is interested in the destruction of Ukraine as a sovereign state. ISW assessed that accepting negotiations framed solely around territorial boundaries while losing sight of the implications for Ukrainian sovereignty would be a strategic mistake, and that the United States should reject any peace agreement that undermines Ukraine's sovereignty as a fundamental principle.[28]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -183,6 +185,7 @@ The Russian military likely formed a separate unmanned systems regiment at the m
 [25] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
 [26] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
 [27] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
+[28] [Putin's Poison Pill for Peace Talks](https://understandingwar.org/research/russia-ukraine/putins-poison-pill-for-peace-talks)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

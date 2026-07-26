@@ -5,7 +5,7 @@ parent: Countries
 description: The Russian Federation, the primary belligerent in the Russia-Ukraine war.
 tags: [country, military, energy, nuclear, europe, eastern-europe, black-sea, middle-east, ideology]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-30T00:00:00Z
 ---
 
 # Current Situation
@@ -44,6 +44,8 @@ The Kremlin is continuing to leverage the prominent Kremlin-linked _Rybar_ Teleg
 
 Putin continued to obfuscate his unwillingness to participate in good-faith negotiations during a January 24 interview, blaming Ukraine's September 2022 decree banning negotiations with him as a strawman obstacle. Putin claimed any peace agreements reached before Ukraine repeals the decree would be "illegitimate" and called on the West to force Zelensky to repeal it, while simultaneously questioning Zelensky's legitimacy as president. Putin attempted to position himself as US President Donald Trump's equal, suggesting the two leaders could bypass Ukraine and negotiate directly about Ukraine's fate. Putin also demonstrated concern about lower oil prices, responding to Trump's call for OPEC to reduce oil prices by claiming both the US and Russian economies would suffer from "too low prices." [6]
 
+ISW assessed in its January 30 Briefing Room episode that Putin's objective in any negotiations is not limited to territorial concessions — his aim remains the destruction of Ukraine as a sovereign state. ISW warned against accepting a negotiation framework that focuses solely on territorial boundaries while ignoring the implications for Ukrainian sovereignty.[9]
+
 # Citations
 
 [5] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
@@ -57,3 +59,4 @@ Putin continued to obfuscate his unwillingness to participate in good-faith nego
 [6] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 [7] [The Russia-Iran Coalition Deepens](https://understandingwar.org/research/russia-ukraine/the-russia-iran-coalition-deepens/)
 [8] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
+[9] [Putin's Poison Pill for Peace Talks](https://understandingwar.org/research/russia-ukraine/putins-poison-pill-for-peace-talks)
