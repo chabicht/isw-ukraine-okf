@@ -5,7 +5,7 @@ parent: Regions
 description: The Republic of Belarus, a Russian ally providing staging grounds and supporting the war effort.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-15T00:00:00Z
+timestamp: 2025-01-16T00:00:00Z
 ---
 
 # Current Situation
@@ -28,6 +28,8 @@ The Organization for Security and Cooperation in Europe's (OSCE) Office for Demo
 
 The Russian Ministry of Foreign Affairs announced on January 10 that foreigners will be able to travel between Russia and Belarus upon receipt of a visa from one of the two countries beginning on January 11, in another display of deeper Union State integration.[6]
 
+State Secretary of the Belarusian Security Council Alexander Volfovich accused unspecified Western actors on January 16 of planning to occupy Belarusian border regions with "peacekeeping forces" and implicitly threatened western states with the use of nuclear weapons, Iskander-M ballistic missiles, and Oreshnik missiles.[7]
+
 # Analysis
 
 ### Military Integration Through the Union State
@@ -46,4 +48,5 @@ ISW assesses that the Kremlin will leverage its military gains in Belarus to off
 [4] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
 [5] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [6] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
-[7] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)
+[7] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
+[8] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)

@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-14T00:00:00Z
+timestamp: 2025-01-16T00:00:00Z
 ---
 
 # Current Situation
@@ -36,6 +36,8 @@ Russian forces recently advanced southeast of Dachne (west of Kurakhove) on Janu
 
 Russian forces continued offensive operations in the Kurakhove direction on January 14 but did not make confirmed advances. Russian milbloggers claimed that Russian forces are advancing northwest of Kurakhove from Zorya towards Slovyanka and attacking the eastern outskirts of Andriivka. Russian forces continued attacking near Kurakhove itself; northwest of Kurakhove near Slovyanka and Petropavlivka; west of Kurakhove near Dachne, Andriivka, Ulakly, and Kostyantynopil; and southwest of Kurakhove near Rozlyv and Yantarne on January 13 and 14.[12]
 
+Russian forces recently marginally advanced southwest of Kurakhove on January 16. Geolocated footage published on January 16 indicates that Russian forces recently marginally advanced south and southeast of Rozlyv (southwest of Kurakhove) during an at least platoon-sized mechanized assault. Russian milbloggers claimed that Russian forces are attacking Ulakly (west of Kurakhove) from two sides and need to advance roughly three kilometers to Ulakly in order to eliminate the Ukrainian Dachne-Ulakly-Kostyantynopil pocket. ISW has only observed confirmation that Russian positions at the northern bound of the pocket near Shevchenko (northwest of Kurakhove) and the southern bound of the pocket near Zelenivka (southwest of Kurakhove) are roughly 6.3 kilometers apart. Russian forces continued attacking northwest of Kurakhove near Petropavlivka and Stari Terny; west of Kurakhove near Ulakly, Dachne, Andriivka, and Kostyantynopil; and southwest of Kurakhove near Zelenivka and Yantarne on January 15 and 16. The Russian Ministry of Defense (MoD) claimed that Russian forces struck a bridge near Kostyantynopil. Elements of the Russian 20th Motorized Rifle Division (8th CAA, SMD) are reportedly operating in Ulakly and near Dachne; drone operators of the "Grachi" Spetsnaz detachment and elements of the 238th Artillery Brigade (8th CAA) are reportedly operating near Ulakly; and elements of the 150th Motorized Rifle Division (8th CAA) are reportedly operating in the Kurakhove direction.[13]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -50,3 +52,4 @@ Russian forces continued offensive operations in the Kurakhove direction on Janu
 [10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [11] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [12] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
+[13] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)

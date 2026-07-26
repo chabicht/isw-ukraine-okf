@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-14T00:00:00Z
+timestamp: 2025-01-16T00:00:00Z
 ---
 
 # Current Situation
@@ -54,6 +54,8 @@ Ukrainian forces, including elements of the Unmanned Systems Forces, SSO, SBU, m
 
 The GUR and SBU struck the Kazanorgsintez Chemical Plant in Kazan, Republic of Tatarstan, causing a fire. The plant produces materials for military use including polyamides, synthetic rubber, chemical compounds for armored vehicles, tires for tanks and APCs, plastics for weapons, and explosives. Russian opposition outlet Astra reported that the strike may have hit a Gazprom liquified gas depot two kilometers from the plant and that three fuel tanks are burning. Ukrainian forces and the SBU also conducted a drone strike that started a fire at the Aleksinsky Chemical Plant in Tula Oblast, which produces polymer and composite materials.[12]
 
+On the night of January 15 to 16, Ukrainian forces struck the Lisinskaya Oil Refinery in Voronezh Oblast and the Tambov Gunpowder Plant in Tambov Oblast. The Ukrainian General Staff reported that Ukrainian Special Operation Forces (SSO) and other Ukrainian forces struck the Lisinskaya Oil Refinery with at least three drones, causing a fire. The Ukrainian General Staff noted that the oil refinery stored fuel for Russian military uses. Voronezh Oblast Governor Alexander Gusev claimed that Ukrainian forces launched over 10 drones against three raions in Voronezh Oblast and that most of the drones hit the oil depot in Liski Raion. Geolocated footage and footage posted by Russian milbloggers show a fire at the Lisinskaya Oil Refinery. Ukrainian Center for Countering Disinformation Head Lieutenant Andriy Kovalenko stated that Ukrainian forces also struck the Tambov Gunpowder Plant in Kuzmino-Gat, Tambov Oblast, noting that the plant produces gunpowder for various arms, artillery, and rocket systems; nitrocellulose used to produce explosives; and other specialized products.[13]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -68,3 +70,4 @@ The GUR and SBU struck the Kazanorgsintez Chemical Plant in Kazan, Republic of T
 [10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [11] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [12] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
+[13] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)

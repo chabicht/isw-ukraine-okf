@@ -5,7 +5,7 @@ parent: Countries
 description: The Democratic People's Republic of Korea, a military partner of Russia providing troops and materiel for the war in Ukraine.
 tags: [country, military, asia, indo-pacific]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-16T00:00:00Z
 ---
 
 # Current Situation
@@ -22,8 +22,11 @@ The high casualty rates among North Korean forces are likely to affect the lesso
 
 South Korea's National Intelligence Service (NIS) reportedly announced at a closed-door meeting on January 13 that North Korean casualties in Kursk Oblast total roughly 3,000 killed and wounded — approximately 300 killed in action (KIA) and roughly 2,700 wounded in action (WIA). The NIS reportedly attributed the high casualty rate to the way Russian forces utilize North Korean forces and conduct assaults without fire support, consistent with ISW's previous assessments and observations about North Korean tactics and communication issues with Russian forces.[3]
 
+ISW assessed on January 16 that the entire North Korean contingent of roughly 12,000 personnel currently in Kursk Oblast may be killed or wounded in action by mid-April 2025 should North Korean forces continue to suffer from their current high loss rate. Ukrainian President Zelensky stated in early January that 3,800 North Korean personnel had been killed or wounded in Kursk Oblast. Ukrainian Defense Minister Rustem Umerov stated on November 5, 2024 that North Korean forces were engaged in "small-scale" clashes in Kursk Oblast, but Russian milbloggers began claiming on December 6 that North Korean forces were participating in more significant combat operations. North Korean forces have therefore likely suffered roughly 92 casualties per day since starting to participate in significant fighting in early December 2024. At this rate, the entirety of the 12,000-strong North Korean contingent in Kursk Oblast may be killed or wounded in roughly 12 weeks (about mid-April 2025). North Korean forces will likely continue to suffer a larger ratio of wounded to killed in action — as is typical for armed conflict — and it is unclear if or when injured North Korean soldiers return to combat.[4]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [2] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [3] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
+[4] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)

@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-14T00:00:00Z
+timestamp: 2025-01-16T00:00:00Z
 ---
 
 # Current Situation
@@ -52,6 +52,10 @@ On the night of January 12 to 13, Russian forces launched 110 Shahed and other s
 
 On the night of January 13 to 14, Russian forces launched 80 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol and Kursk oblasts. The Ukrainian Air Force reported that Ukrainian forces downed 58 drones over Poltava, Sumy, Kharkiv, Cherkasy, Kyiv, Zhytomyr, Kirovohrad, Dnipropetrovsk, Mykolaiv, Odesa, and Kherson oblasts; 21 decoy drones were "lost," likely due to Ukrainian electronic warfare interference; and debris from downed drones damaged residential buildings and civilian vehicles in Sumy, Kyiv, Zhytomyr, Kharkiv, and Cherkasy oblasts. Ukrainian officials also reported that Russian drones struck a residential building in Chuhuiv, Kharkiv Oblast, and several commercial buildings in Cherkasy Oblast.[13]
 
+On the night of January 15 to 16, Russian forces conducted a series of drone strikes against Ukraine, launching 55 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol and Bryansk oblasts. The Ukrainian Air Force reported that Ukrainian forces downed 34 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Zhytomyr, Kirovohrad, Dnipropetrovsk, Zaporizhia, and Mykolaiv oblasts; that 18 decoy drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; that several drones struck a farm in Chernihiv Oblast; and that debris from downed drones damaged residential homes in Kharkiv and Poltava oblasts. Ukrainian officials reported on January 16 that debris from downed Russian drones also damaged civilian property and buildings in Solomyanskyi, Holosiivskyi, Darnytskyi, Dniprovskyi, and Pechersk raions of Kyiv City and that Russian forces launched a Molniya drone strike against civilians in Slobidskyi Raion of Kharkiv City. UK outlet The Guardian reported that a Russian drone flew near the Ukrainian Mariinskyi Palace near the president's office as British Prime Minister Keir Starmer arrived in Kyiv.[14]
+
+The Russian Ministry of Defense (MoD) claimed on January 15 that Russian forces launched the large series of drone and missile strikes against Ukraine overnight from January 14 to 15 in response to Ukrainian ATACMS and Storm Shadow strikes against targets in Russia and the purported January 11 Russkaya compressor station strike in Krasnodar Krai. ISW recently assessed that the Russian January 14-15 strikes were likely a continuation of ongoing Russian efforts to collapse Ukraine's energy grid, limit its defense industrial capacity, and degrade Ukrainians' will to fight.[14]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -67,3 +71,4 @@ On the night of January 13 to 14, Russian forces launched 80 Shahed and other st
 [11] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [12] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [13] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
+[14] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)

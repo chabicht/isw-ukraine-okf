@@ -5,7 +5,7 @@ parent: Actors
 description: President of Ukraine, the wartime leader of the nation's defense against Russian aggression.
 tags: [leader, ukraine, military]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-16T00:00:00Z
 ---
 
 # Current Situation
@@ -28,6 +28,8 @@ Zelensky stated on January 9 that 4,000 North Korean military personnel have bee
 
 Zelensky stated on January 11 that Russian or North Korean forces usually kill wounded North Korean personnel in order to conceal their participation in the war, following the capture of the first North Korean prisoners of war by Ukrainian forces.[5]
 
+Zelensky and UK Prime Minister Keir Starmer signed a landmark "Centennial Partnership Agreement" on January 16, outlining Ukrainian-British cooperation for the next 100 years and continued UK support for Ukraine. The agreement outlines the UK's commitment to Ukraine's possible future NATO membership as a means to guarantee Ukraine's security. Starmer highlighted that the UK intends to provide military aid to Ukraine annually, provide a loan backed by funds from frozen Russian assets, expand its training program for Ukrainian military personnel, and provide Ukraine with 150 artillery barrels and a new Danish-funded mobile air defense system.[6]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -35,3 +37,4 @@ Zelensky stated on January 11 that Russian or North Korean forces usually kill w
 [3] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [4] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [5] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
+[6] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)

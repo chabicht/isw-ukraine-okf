@@ -11,6 +11,30 @@ permalink: /log/
   [Belarus]({{ site.baseurl }}/regions/belarus.html) with military integration analysis (operational control of Belarusian armed forces, permanent basing, staging ground);
   [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with strategic enabler implications (offsets war costs, accelerates post-war recovery, prepares for future wars).
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Zelensky-Starmer Centennial Partnership Agreement, NK 12k contingent mid-April KIA/WIA projection;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Lisinskaya Oil Refinery and Tambov Gunpowder Plant strikes;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 15-16 overnight strike (55 Shahed, 34 downed, 18 EW-lost), Kyiv City debris damage, Mariinskyi Palace drone incident;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with milblogger complaints about infantry shortages and high loss rates;
+  [Russian war economy and energy]({{ site.baseurl }}/themes/russian-war-economy-energy.html) with Russia-Transnistria European gas purchase discussions;
+  [Ukraine]({{ site.baseurl }}/actors/countries/ukraine.html) with Centennial Partnership Agreement;
+  [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with Centennial Partnership Agreement signing;
+  [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) with ISW mid-April KIA/WIA projection;
+  [Moldova]({{ site.baseurl }}/actors/countries/moldova.html) with Russia-Transnistria gas purchase discussions;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Ukrainian advance to central Uspenovka, 83rd VDV/30th MRR/106th VDV/Irlandtsy/Zarya/Dozor dispositions;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued ops near Vovchansk and Tykhe no advances;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Petropavlivka unconfirmed claim, Borova mechanized assault 16/20 vehicles destroyed, Lyman artillery preparations on Yampolivka, 144th MRD operations;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with five mechanized assaults repelled (2 IFVs, 39 motorcycles, 2 ATVs destroyed);
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with Refractory Plant advance (geolocated), canal pipe tactics, Sever-Akhmat and 4th MRB;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with marginal advance northern Toretsk (geolocated), 132nd MRB drone operations;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with advance southwestern Zvirove, Yelyzavetivka mechanized assault, fiber-optic drone use, Vega Spetsnaz and Atlant Battalion;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with Rozlyv marginal advance, Ulakly pocket analysis, 20th MRD and 238th Artillery operations;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with Vremivka entry, advance on Shyroka/Heroia streets, 1km deep 2km wide claim;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with continued positional fighting near Shcherbaky/Novoandriivka/Novodanylivka/Mala Tokmachka, 71st MRR and 417th Recon;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Dnipro ops no advances;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with Volfovich nuclear/Iskander/Oreshnik threats against Western states.
+* **Creation**: Event concept for [Ukraine-UK Centennial Partnership Agreement]({{ site.baseurl }}/events/ukraine-uk-centennial-partnership-agreement-2025.html).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Kremlin unchanged goals (Patrushev rejected territorial concessions, identity denial info op, US-only negotiations frame), Dnipropetrovsk Oblast info op assessment, Roskomnadzor Sovereign Internet outage;
   [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with large-scale Jan 13-14 combined drone/missile strike on Kristal oil facility (secondary strike, Engels), Saratov Refinery, Bryansk Chemical Plant, Kremniy El microelectronics plant, Kazanorgsintez Chemical Plant, Aleksinsky Chemical Plant;

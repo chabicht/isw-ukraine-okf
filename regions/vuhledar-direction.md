@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-14T00:00:00Z
+timestamp: 2025-01-16T00:00:00Z
 ---
 
 # Current Situation
@@ -36,6 +36,8 @@ Russian forces recently advanced in the Velyka Novosilka direction on January 13
 
 Russian forces continued offensive operations in the Velyka Novosilka direction on January 14 but did not make confirmed advances. The Russian MoD claimed on January 14 that Russian forces seized Neskuchne (southwest of Velyka Novosilka), which ISW assessed Russian forces had seized as of January 13. Russian milbloggers credited elements of the Russian 394th Motorized Rifle Regiment and 218th Tank Regiment (both of the 127th MRD, 5th CAA, EMD) with the seizure of Neskuchne and claimed that Russian forces entered the southern outskirts of Vremivka (immediately west of Velyka Novosilka) and advanced in the area south of Velyka Novosilka — ISW has not observed visual confirmation. A Russian milblogger speculated that Russian forces may seek to interdict the Velyka Novosilka-Hulyaipole road after seizing Vremivka in order to complicate a future Ukrainian withdrawal. Russian forces continued attacking near Velyka Novosilka itself, north of Velyka Novosilka near Novyi Komar, northeast of Velyka Novosilka near Rozdolne, southwest of Velyka Novosilka near Neskuchne, and west of Velyka Novosilka near Vremivka on January 13 and 14.[12]
 
+Russian forces recently marginally advanced in the Velyka Novosilka direction on January 16. Geolocated footage published on January 15 indicates that Russian forces recently entered Vremivka (immediately west of Velyka Novosilka) and marginally advanced along Shyroka and Heroia streets in southern Vremivka. A Russian milblogger claimed on January 16 that Russian forces advanced one kilometer deep and two kilometers wide west of Vremivka. Russian milbloggers claimed on January 15 and 16 that Russian forces also advanced into central Vremivka and near Velyka Novosilka — ISW has not observed confirmation. Russian forces continued attacking near Velyka Novosilka itself, north of Velyka Novosilka near Novyi Komar, west of Velyka Novosilka near Vremivka, and southwest of Velyka Novosilka near Neskuchne on January 15 and 16.[13]
+
 Note: ISW is incorporating data previously reported as the Vuhledar direction as part of the Kurakhove direction moving forward, reflecting the shifting operational situation.
 
 # Citations
@@ -52,3 +54,4 @@ Note: ISW is incorporating data previously reported as the Vuhledar direction as
 [10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [11] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [12] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
+[13] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)

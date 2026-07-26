@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-15T00:00:00Z
+timestamp: 2025-01-16T00:00:00Z
 ---
 
 # Background
@@ -92,6 +92,10 @@ ISW assesses that the Kremlin will likely attempt to seize on potential future R
 
 Russian federal censor Roskomnadzor reportedly caused a brief but widespread internet outage in Russia on January 14 while operating restriction systems of its Sovereign Internet. Russian state media reported widespread outages of major Russian internet domains and online services affecting subscribers of all Russian telecommunications companies, attributed to Roskomnadzor's technical means of countering threats (TSPU) used to restrict access to blocked domains.[13]
 
+Ukrainian President Volodymyr Zelensky and UK Prime Minister Keir Starmer signed a landmark "Centennial Partnership Agreement" on January 16, outlining Ukrainian-British cooperation for the next 100 years and continued UK support to Ukraine. The agreement outlines the UK's commitment to Ukraine's possible future NATO membership as a means to guarantee Ukraine's security. Starmer highlighted that the UK will provide military aid to Ukraine annually, provide a loan backed by funds from frozen Russian assets, expand its training program for Ukrainian military personnel, and provide 150 artillery barrels and a new Danish-funded mobile air defense system. The Guardian reported that a Russian drone flew near the Ukrainian Mariinskyi Palace near the president's office as Starmer arrived in Kyiv.[14]
+
+ISW assessed on January 16 that the entire North Korean contingent of roughly 12,000 personnel currently in Kursk Oblast may be killed or wounded in action by mid-April 2025 should North Korean forces continue to suffer from their current high loss rate. North Korean forces have likely suffered roughly 92 casualties per day since starting to participate in significant combat operations in early December 2024. At this rate, the entirety of the 12,000-strong North Korean contingent in Kursk Oblast may be killed or wounded in roughly 12 weeks. North Korean forces will likely continue to suffer a larger ratio of wounded to killed in action, and it is unclear if or when injured North Korean soldiers return to combat.[14]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -115,4 +119,5 @@ Moscow's military integration with Belarus already provides operational benefits
 [11] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [12] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [13] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
-[14] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)
+[14] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
+[15] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)

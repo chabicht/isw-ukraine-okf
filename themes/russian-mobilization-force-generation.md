@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-14T00:00:00Z
+timestamp: 2025-01-16T00:00:00Z
 ---
 
 # Current Situation
@@ -50,6 +50,8 @@ Russian State Duma Chairperson Vyacheslav Volodin stated on January 14 that the 
 
 Former Roscosmos head and Zaporizhia Oblast occupation senator Dmitry Rogozin stated on January 14 that he has recruited over 50 percent of the personnel for the BARS-Sarmat Detachment and that 30 to 40 new volunteers join each week. Rogozin claimed that the Russian defense industrial base is suffering from "unacceptable" bureaucratic delays but acknowledged that Russia's DIB has generally restructured itself to support the military's needs.[9]
 
+A Russian milblogger and former Storm-Z instructor continued to complain on January 16 about Russian infantry shortages and high loss rates. The milblogger claimed that the Russian military's current shortage of infantry soldiers initially stemmed from heavy losses in Spring and Summer 2022 and delays in announcing the partial reserve callup in September 2022. The milblogger complained that Russian forces were able to regain the initiative in Fall 2023 but then there was no significant force buildup in 2024, so Russia's current offensive operations are "eating up reinforcements like crazy." The milblogger attributed Russia's high casualty rates to poor combat planning and organization, including problems in interbranch cooperation, due to insufficient communication and aerial reconnaissance assets and incompetency among parts of the Russian command staff. The milblogger complained that the Russian military command is not withdrawing units to the rear for rest and replenishment and to integrate new reinforcements, causing "erosion" within Russia's experienced units.[10]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -61,3 +63,4 @@ Former Roscosmos head and Zaporizhia Oblast occupation senator Dmitry Rogozin st
 [7] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [8] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [9] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
+[10] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
