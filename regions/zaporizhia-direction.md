@@ -5,7 +5,7 @@ parent: Regions
 description: The southern axis in Zaporizhia Oblast, including the Robotyne area.
 tags: [military, eastern-europe, kinetic, crimea]
 status: ongoing
-timestamp: 2025-01-09T00:00:00Z
+timestamp: 2025-01-10T00:00:00Z
 ---
 
 # Current Situation
@@ -22,6 +22,8 @@ Russian forces continued offensive operations in western Zaporizhia Oblast on Ja
 
 Russian forces continued offensive operations in western Zaporizhia Oblast including near Mala Tokmachka (northeast of Robotyne) on January 9 but did not make any confirmed advances. A Russian milblogger claimed that Ukrainian forces counterattacked in western Zaporizhia Oblast. Elements of the Russian 291st Motorized Rifle Regiment (42nd MRD, 58th CAA, SMD) reportedly continue to operate in the Zaporizhia direction.[6]
 
+Russian and Ukrainian forces continued limited positional fighting in western Zaporizhia Oblast on January 9 and 10 but did not make any confirmed advances. Drone operators of the Russian "Nemets" Group of the 291st Motorized Rifle Regiment (42nd MRD, 58th CAA, SMD) reportedly continue to strike Ukrainian targets near Novodanylivka (north of Robotyne).[7]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -30,3 +32,4 @@ Russian forces continued offensive operations in western Zaporizhia Oblast inclu
 [4] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [5] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
 [6] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
+[7] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)

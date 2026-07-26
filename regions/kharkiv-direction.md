@@ -5,7 +5,7 @@ parent: Regions
 description: The northern axis of Russian offensive operations in Kharkiv Oblast, centered on Vovchansk.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-09T00:00:00Z
+timestamp: 2025-01-10T00:00:00Z
 ---
 
 # Current Situation
@@ -16,8 +16,11 @@ Kharkiv Oblast Military Administration Head Oleh Synehubov stated on January 6 t
 
 Russian forces continued limited ground attacks northeast of Kharkiv City near Starytsya and Vovchansk on January 8 and 9 but did not make any confirmed advances. Drone operators of the Russian 69th Motorized Rifle Division (6th CAA, Leningrad Military District) are reportedly operating in the Vovchansk direction.[3]
 
+Russian forces continued limited ground attacks northeast of Kharkiv City near Starytsya and Vovchansk on January 9 and 10 but did not make any confirmed advances. A Russian milblogger claimed on January 10 that Russian forces marginally advanced near Vovchansk, but ISW has not observed confirmation. Drone operators of the "Canada" Group of the Chechen 204th "Akhmat" Spetsnaz Regiment reportedly operating north of Kharkiv City near Alisivka and Strilecha.[4]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [2] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [3] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
+[4] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)

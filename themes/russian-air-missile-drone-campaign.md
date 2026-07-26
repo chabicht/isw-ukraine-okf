@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-09T00:00:00Z
+timestamp: 2025-01-10T00:00:00Z
 ---
 
 # Current Situation
@@ -40,6 +40,8 @@ On January 8, Russian forces conducted a glide bomb strike against an industrial
 
 On the night of January 8 to 9, Russian forces launched 70 Shahed and decoy drones from the directions of Oryol, Kursk, and Bryansk oblasts; Millerovo, Rostov Oblast; and Primorsko-Akhtarsk, Krasnodar Krai. The Ukrainian Air Force reported that Ukrainian forces downed 46 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Dnipropetrovsk, Kherson, and Mykolaiv oblasts; 24 drones were "lost," likely due to Ukrainian electronic warfare interference. Falling debris from downed Russian drones damaged residential homes in Kharkiv, Sumy, and Cherkasy oblasts. On the afternoon of January 9, the Ukrainian Air Force reported that Ukrainian forces downed three Russian Iskander-K cruise missiles targeting Kryvyi Rih, Dnipropetrovsk Oblast. Kharkiv Oblast Administration Head Oleh Synehubov reported that Russian forces conducted drone strikes against a civilian enterprise in Nemyshlianskyi Urban Raion, Kharkiv City during the afternoon of January 9.[8]
 
+On the night of January 9 to 10, Russian forces launched 72 Shahed and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol and Bryansk oblasts. The Ukrainian Air Force reported that Ukrainian forces downed 33 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Dnipropetrovsk, Zaporizhia, Khmelnytskyi, Vinnytsia, and Kherson oblasts; 34 drones were "lost," likely due to Ukrainian electronic warfare interference; and one drone flew towards Russian airspace. The Mayor of Semenivka, Chernihiv Oblast, Serhiy Dedenko, reported that Russian forces struck the border settlement of Semenivka with five Shahed drones. Kyiv City Military Administration Head Timur Tkachenko reported that debris from a downed Russian drone damaged a high-rise building in Solomyanskyi Urban Raion, Kyiv City.[9]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -50,3 +52,4 @@ On the night of January 8 to 9, Russian forces launched 70 Shahed and decoy dron
 [6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [7] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
 [8] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
+[9] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)

@@ -5,7 +5,7 @@ parent: Themes
 description: Naval dynamics in the Black Sea, including Ukraine's naval drone campaign and Russian fleet operations.
 tags: [military, naval, black-sea, crimea, strike-campaign]
 status: ongoing
-timestamp: 2025-01-07T00:00:00Z
+timestamp: 2025-01-10T00:00:00Z
 ---
 
 # Current Situation
@@ -24,9 +24,12 @@ Ukrainian drone strikes continue to affect Russian operations in the Black Sea. 
 
 Ukraine's Southern Defense Force reported on January 7 that Ukrainian forces destroyed two Osa air defense systems in unspecified areas in southern Ukraine. Geolocated footage published by the Ukrainian Navy on January 6 indicates Ukrainian forces recently destroyed Russian air defense systems, including at least one Pantsir-S1 system, near occupied Pryvillya, Kherson Oblast.[4]
 
+Ukrainian Navy Spokesperson Captain Third Rank Dmytro Pletenchuk reported on January 10 that recent Ukrainian naval drone operations may have prompted Russian forces to reduce rotary-wing aviation operations over the Black Sea. Pletenchuk noted that Russian forces decreased helicopter operations in the Black Sea, especially on January 9, and noted that this decrease may be due to poor weather conditions, but that the weather has not been bad enough to force Russian forces to cease flying helicopters altogether.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [4] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
+[5] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)

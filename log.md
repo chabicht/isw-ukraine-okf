@@ -6,6 +6,28 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Kremlin talks stance (no preconditions but unchanged maximalist demands), US/UK/Japan sanctions on Gazprom Neft/Surgutneftegas/shadow fleet, EU EUR 3B frozen-asset transfer, BBC Russian Service 88,055 confirmed Russian soldiers killed;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with marginal advances in Makhnovka, Russkoye Porechnoye, Kositsa, refuted encirclement claims for Pogrebki/Malaya Loknya/Sudzha, Ukrainian counterattacks near Berdin/Kruglenkoye, 810th Naval Infantry Brigade drone elements;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued limited attacks near Starytsya/Vovchansk no advances, Chechen Canada Group drone operators;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with marginal advance NW of Orlyanka, Dvorichna/Zapadne infantry crossing Oskil River in inflatables, Borova unconfirmed claims and Ukrainian counterattack in Kolisnykivka, Lyman no armored vehicles claim and 144th MRD drone support;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Bilohorivka ops no advance;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with advance in fields east of Stupochky, unconfirmed Refractory Plant workshop claim, EW interference and friendly fire, 331st VDV Regiment and 215th Reconnaissance Battalion;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with advances on Murmanska/Korolenka/Dovzhenka/Anharska streets, unconfirmed Sukha Balka/Petrivka claims, Ukrainian strike on 3rd Army Corps CP in Svitlodarsk, confirmed 8th CAA CP strike in Khartsyzk;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with Solone advance, Yelyzavetivka mechanized assault, intensified shelling/glide bombs, 5th MRB near Solone;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with advance NE of Slovyanka, 114th MRB attacking Andriivka, 20th MRD on Yantarne outskirts, 238th Artillery Brigade near Ulakly;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with unconfirmed Velyka Novosilka outskirts and Neskuchne seizure claims;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with continued Novodanylivka positional fighting, 291st MRR Nemets Group;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with Kozatskyi/Zabych island attacks, Ukrainian strikes on Buk-M2, Zu-23-2, Starlink terminals;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with Zapad-2025 exercise (13,000 personnel), internet blocking (YouTube/Telegram/TikTok), OSCE ODIHR observer exclusion, Russia-Belarus visa-free travel;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 9-10 overnight strike (72 Shahed, 33 downed, 34 EW-lost), Semenivka Shahed strike, Solomyanskyi Raion debris damage;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Neptune and drone strike on Rostov Oblast ammunition/drone warehouse near Chaltyr;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with BBC/Medizona 88,055 confirmed killed (6,083 elite), Chelyabinsk airport and Krasnoyarsk migrant raids;
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with milblogger claim that MoD refuses to fund naval drone development;
+  [Russian war economy and energy]({{ site.baseurl }}/themes/russian-war-economy-energy.html) with US/UK/Japan sanctions and EU EUR 3B ERA transfer;
+  [Black Sea naval operations]({{ site.baseurl }}/themes/black-sea-naval-operations.html) with Pletenchuk report of reduced Russian helicopter operations over Black Sea.
+* **Creation**: Event concept for [Ukrainian Neptune and Drone Strike on Rostov Oblast Ammunition Warehouse]({{ site.baseurl }}/events/ukrainian-neptune-drone-strike-rostov-2025-01-09.html).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with 25th UDCG Ramstein meeting, $500M US PDA package, IRIS-T, drone coalition 30,000 drones, eight roadmap documents through 2027, Russian elite frustration and maneuver analysis, Taganrog SIZO torture center, UN condemnation of POW executions, Zaporizhzhia City revised casualty count (116 injured);
   [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Russian reinforced BN-sized mechanized assault northwest of Sudzha (50+ vehicles, 6 waves), seizure of Leonidovo/Aleksandriya, advances in Pogrebki/Makhnovka, Ukrainian advance in Nikolayevka, 4,000 NK casualties, 106th VDV Division and 30th MRR dispositions;

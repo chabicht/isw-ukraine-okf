@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-09T00:00:00Z
+timestamp: 2025-01-10T00:00:00Z
 ---
 
 # Background
@@ -15,6 +15,14 @@ On February 24, 2022, Russia launched a full-scale invasion of Ukraine, dramatic
 # Current Situation
 
 As of January 2025, the war remains a grinding war of attrition across a heavily fortified frontline stretching from northeastern Ukraine southward. Russia holds roughly 18 percent of Ukrainian territory and continues offensive operations across multiple axes, particularly in eastern Ukraine. Ukraine maintains a salient in Kursk Oblast following its August 2024 incursion into Russian territory.
+
+The Kremlin reiterated on January 10 that it is ready to hold talks with US President-elect Donald Trump without any "preconditions" but noted that its negotiating position remains unchanged. Kremlin Spokesperson Dmitry Peskov responded to a Trump statement about arranging a meeting with Russian President Vladimir Putin and stated that Putin is open to contact with international leaders. Peskov reiterated that the Kremlin maintains its position that Putin defined in June 2024, demanding that Ukraine replace President Volodymyr Zelensky under the guise of "denazification," demilitarize, and cede significant swaths of territory in eastern and southern Ukraine to Russia -- effectively amounting to Ukraine's full capitulation. ISW assesses that no negotiations will result in a meaningful or sustainable peace as long as Putin remains committed to these demands, regardless of the Kremlin's "willingness" to hold talks with Western leaders.[9]
+
+The United States, United Kingdom, and Japan announced new sanctions against Russia on January 10. The US Treasury Department imposed sanctions against Russian state-owned Gazprom Neft and Surgutneftegas, 183 Russian-connected vessels, and dozens of oil traders, oilfield service providers, insurance companies, and Russian energy officials. The United Kingdom also sanctioned Gazprom Neft and Surgutneftegas. Japan announced additional sanctions including asset freeze measures against 33 organizations and 12 individuals and export bans against 53 organizations in response to North Korean support for Russia's war.[9]
+
+The EU recently transferred three billion euros (about $3.07 billion) to Ukraine, the first tranche of EU funding from the profits of frozen Russian assets. Ukrainian Prime Minister Denys Shmyhal announced the transfer on January 10. The G7 Extraordinary Revenue Acceleration (ERA) Loans initiative will provide a total of $50 billion to Ukraine from the profits of seized Russian assets, including $20 billion from the EU.[9]
+
+The BBC Russian Service reported on January 10 that a joint investigation conducted with Russian opposition outlet Medizona using open-source data has confirmed that at least 88,055 Russian soldiers have been killed in Ukraine since February 2022, including a minimum of 6,083 elite personnel. ISW has previously noted that the quality of personnel within many elite Russian units has decreased as the Russian military command has increasingly used elite VDV and naval infantry units to conduct the same type of attritional, infantry-led assaults as regular Russian units.[9]
 
 A major energy and economic development occurred on January 1, 2025, when Ukraine declined to renew its contract to transport Russian gas through its territory, ending five decades of Russian gas transit via Ukraine. The cessation will cost Gazprom an estimated $6 billion annually in lost revenue, leaving TurkStream as Russia's sole pipeline route to Europe.[1]
 
@@ -66,3 +74,4 @@ Russian opposition outlet Mediazone reported that Russian authorities have turne
 [6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [7] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
 [8] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
+[9] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)

@@ -5,10 +5,14 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-09T00:00:00Z
+timestamp: 2025-01-10T00:00:00Z
 ---
 
 # Current Situation
+
+The BBC Russian Service reported on January 10 that a joint investigation conducted with Russian opposition outlet Medizona using open-source data has confirmed that at least 88,055 Russian soldiers have been killed in Ukraine since February 2022. The BBC Russian Service reported that a minimum of 6,083 elite Russian military personnel, who were either members of the Russian Airborne Forces (VDV) or underwent lengthy training at military universities or specialized military centers, have been killed in Ukraine since February 2022. The BBC Russian Service estimated that the Russian military spent millions of dollars and years training these elite personnel. ISW has previously noted that the quality of personnel within many elite Russian units has decreased over the course of the war as the Russian military command has increasingly used elite VDV and naval infantry units to conduct the same type of attritional, infantry-led assaults as regular Russian units.[7]
+
+Russian opposition media outlet Mobilization News reported on January 10 that Russian law enforcement authorities raided the Chelyabinsk airport and unspecified commerce centers in Krasnoyarsk, Krasnoyarsk Krai over the holidays and issued military summons to migrants who entered Russia illegally and to naturalized Russian citizens. Russian President Vladimir Putin signed a decree in late December 2024 stating that migrants who entered Russia illegally must apply for legal status, leave Russia, or sign a military service contract with the Russian Ministry of Defense. ISW previously assessed that a decision to enforce this decree would indicate that the Russian government is prioritizing Russia's force generation requirements over efforts to mitigate economic pressure and labor shortages.[7]
 
 The Russian Ministry of Defense continues to inadequately supply military personnel with basic equipment and ammunition, forcing soldiers to provide their own materiel. Russian forces face a widespread shortage of smoothbore small arms (such as 12-gauge shotguns) used to defend against FPV drones. Evacuation teams regularly have only one or no smoothbore guns when evacuating wounded personnel.
 
@@ -42,3 +46,4 @@ Russian authorities continue to force Ukrainians living under occupation to serv
 [4] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [5] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [6] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
+[7] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)

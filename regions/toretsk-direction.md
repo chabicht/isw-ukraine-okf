@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Toretsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-09T00:00:00Z
+timestamp: 2025-01-10T00:00:00Z
 ---
 
 # Current Situation
@@ -20,7 +20,12 @@ Russian forces may also attempt to leverage gains within and near Toretsk with r
 
 Russian forces continued offensive operations in the Toretsk direction on January 9 but did not make confirmed advances. Russian forces attacked near Toretsk, north of Toretsk near Dyliivka, and west of Toretsk near Shcherbynivka on January 8 and 9. A Russian milblogger claimed on January 8 that Russian forces have almost fully pushed Ukrainian forces to the outskirts of Toretsk. Drone elements of the Russian 80th "Sparta" Separate Reconnaissance Battalion and 132nd Motorized Rifle Brigade (both of the 51st CAA) reportedly continue to operate in the Toretsk direction.[2]
 
+Russian forces recently advanced in the Toretsk direction amid continued offensive operations on January 10. Geolocated footage published on January 10 indicates that Russian forces recently advanced along Murmanska and Korolenka streets in northwestern Toretsk and along Oleksandra Dovzhenka and Anharska streets in northern Toretsk. Russian milbloggers claimed that Russian forces advanced east of Niu York up to Sukha Balka (both south of Toretsk) and further along Berehova Street in southern Petrivka (west of Toretsk). Russian forces attacked near Toretsk, west of Toretsk near Shcherbynivka, and south of Toretsk near Sukha Balka on January 9 and 10. Drone operators of the Russian 132nd Motorized Rifle Brigade (51st CAA) are reportedly striking Ukrainian forces in Petrivka and providing drone support for Russian forces assaulting Toretsk and west of Krymske (northeast of Toretsk). Drone operators of the Russian 80th "Sparta" Separate Reconnaissance Battalion (51st CAA) reportedly continue striking Ukrainian forces near Toretsk.[3]
+
+The Ukrainian General Staff reported that Ukrainian forces struck a Russian 3rd Army Corps command post in occupied Svitlodarsk (east of Toretsk and southeast of Bakhmut) on January 10. Geolocated footage confirmed that Ukrainian forces struck a command post of the Russian 8th CAA (Southern Military District) in occupied Khartsyzk, Donetsk Oblast on January 8.[3]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [2] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
+[3] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
