@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-14T00:00:00Z
 ---
 
 # Current Situation
@@ -34,6 +34,8 @@ Russian forces recently advanced in the Kurakhove direction on January 12. Geolo
 
 Russian forces recently advanced southeast of Dachne (west of Kurakhove) on January 13. Geolocated footage published on January 12 indicates that Russian forces recently advanced southeast of Dachne. Russian milbloggers claimed that Russian forces advanced northeast of Yantarne (southwest of Kurakhove), but ISW has not observed confirmation. Ukrainian military observer Kostyantyn Mashovets stated that elements of the 163rd Tank Regiment, 102nd and 103rd motorized rifle regiments (150th MRD, 8th CAA, SMD), and 33rd and 255th motorized rifle regiments (20th MRD, 8th CAA, SMD) are operating in the Kurakhove-Dachne-Dalne area. Mashovets stated that elements of the 242nd Motorized Rifle Regiment (20th MRD) are attempting to advance along the Sukhi Yaly River north of Kostyantnynolske (southwest of Kurakhove), and that elements of the 36th MRB (29th CAA, EMD), 39th MRB (68th AC, EMD), 57th MRB (5th CAA, EMD), and 114th MRB (51st CAA) are operating near Yantarne. Elements of the Russian 346th Spetsnaz Brigade (GRU) are reportedly operating near Kurakhove.[11]
 
+Russian forces continued offensive operations in the Kurakhove direction on January 14 but did not make confirmed advances. Russian milbloggers claimed that Russian forces are advancing northwest of Kurakhove from Zorya towards Slovyanka and attacking the eastern outskirts of Andriivka. Russian forces continued attacking near Kurakhove itself; northwest of Kurakhove near Slovyanka and Petropavlivka; west of Kurakhove near Dachne, Andriivka, Ulakly, and Kostyantynopil; and southwest of Kurakhove near Rozlyv and Yantarne on January 13 and 14.[12]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -47,3 +49,4 @@ Russian forces recently advanced southeast of Dachne (west of Kurakhove) on Janu
 [9] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [11] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
+[12] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)

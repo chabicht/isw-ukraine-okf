@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Pokrovsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-14T00:00:00Z
 ---
 
 # Current Situation
@@ -36,6 +36,8 @@ Russian forces recently cut the T-0504 Pokrovsk-Kostyantynivka highway east of P
 
 The T-0504 and T-0406 highways are two of the three main east-west GLOCs supporting the Ukrainian force grouping in the Pokrovsk-Myrnohrad area. Russian advances east and west of Pokrovsk may complicate Ukrainian logistics and Ukraine's ability to resupply and redeploy troops to defend Pokrovsk and Myrnohrad. The Russian military command may intend to make further advances north of the T-0504 and T-0406 highways to force Ukrainian forces to withdraw to the north, supporting Russia's envelopment of both settlements and further advances west towards the Donetsk-Dnipropetrovsk Oblast administrative border. The Russian military command likely also hopes to avoid conducting infantry-heavy frontal assaults through the urban areas of Pokrovsk and Myrnohrad and likely assesses that interdicting these GLOCs increases the likelihood that Ukrainian forces will withdraw from these towns.[11]
 
+Russian forces recently advanced in the Pokrovsk direction amid continued offensive operations on January 14. Geolocated footage published on January 9 indicates that Russian forces recently advanced to the southwestern outskirts of Zvirove (southwest of Pokrovsk). Additional geolocated footage published on January 13 indicates that Russian forces recently advanced west of Novoyelyzavetivka (southwest of Pokrovsk). A Russian milblogger claimed that Russian forces advanced to the southern outskirts of Novoukrainka (south of Pokrovsk), to eastern Udachne (southwest of Pokrovsk), and towards Novoserhiivka along the northern bank of the Solona River — ISW has not observed confirmation. A Russian milblogger claimed on January 14 that Ukrainian forces counterattacked southeast of Pokrovsk near Lysivka and Sukhyi Yar, south of Pokrovsk near Shevchenko, and southwest of Pokrovsk near Novovasylivka. Russian forces continued offensive operations near Pokrovsk itself and across a wide area northeast, east, southeast, south, southwest, and west of Pokrovsk on January 13 and 14. Ukrainian Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated that Russian forces are trying to advance in small settlements near Pokrovsk such as Yelyzavetivka, Promin, Lysivka, and Novyi Trud but are not attacking into Pokrovsk itself. The acting spokesperson of a Ukrainian brigade operating in the Pokrovsk direction stated that Russian infantry assaults are becoming more intense and that Russian forces are conducting five to ten assault waves per day.[12]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -49,3 +51,4 @@ The T-0504 and T-0406 highways are two of the three main east-west GLOCs support
 [9] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [11] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
+[12] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)

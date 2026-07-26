@@ -5,7 +5,7 @@ parent: Countries
 description: The Russian Federation, the primary belligerent in the Russia-Ukraine war.
 tags: [country, military, energy, nuclear, europe, eastern-europe, black-sea]
 status: ongoing
-timestamp: 2025-01-02T00:00:00Z
+timestamp: 2025-01-14T00:00:00Z
 ---
 
 # Current Situation
@@ -22,6 +22,11 @@ Open-source intelligence has confirmed over 90,000 Russian soldiers killed since
 
 Russian forces continue offensive operations across eastern Ukraine, applying pressure near Siversk, Toretsk, Pokrovsk, Kurakhove, Vuhledar, and in western Zaporizhia Oblast.
 
+Russian Presidential Aide Nikolai Patrushev reiterated on January 14 that Russia's goals in Ukraine remain unchanged and rejected any suggestion of ceding occupied territory, claiming that sham referendums legitimized Russia's annexation of four occupied oblasts and Crimea. Patrushev also stated that only Russia and the United States should negotiate an end to the war, excluding Ukraine and European countries.[2]
+
+Russian federal censor Roskomnadzor caused a widespread internet outage on January 14 while operating restriction systems of its Sovereign Internet. The outage affected major Russian internet domains and online services across all telecommunications companies. Sources in the Russian telecommunications industry attributed the outage to technical means of countering threats (TSPU) used to restrict access to blocked domains.[2]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
+[2] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)

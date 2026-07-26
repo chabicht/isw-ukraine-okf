@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-14T00:00:00Z
 ---
 
 # Current Situation
@@ -48,6 +48,12 @@ Saratov Oblast Governor Roman Busargin stated on January 12 that Russian authori
 
 Geolocated footage published on January 12 shows Ukrainian forces striking a Russian occupied building in southeastern Novohrodivka (southeast of Pokrovsk), likely a command post of the Russian 2nd Combined Arms Army (Central Military District). The Ukrainian General Staff reported on January 12 that Ukrainian forces conducted a high-precision airstrike on a 2nd CAA command post in Novohrodivka.[11]
 
+On the night of January 13 to 14, Ukrainian forces conducted a large-scale series of drone and missile strikes against military and defense industrial targets in Russia between 200 and 1,110 kilometers deep in the Russian rear. The Ukrainian General Staff reported that Ukraine's Unmanned Systems Forces and GUR struck the state-owned Kombinat Kristal oil storage facility near Engels, Saratov Oblast a second time — the facility provides fuel for strategic bombers at Engels-2 Air Base and Russian authorities only extinguished the previous fire on January 13, likely hours before the secondary strike. Ukrainian forces also struck the Saratov Oil Refinery. SBU sources told Ukrainian outlet Suspilne that Ukrainian forces struck glide bomb and cruise missile warehouses at Engels-2 Air Base. The Unmanned Systems Forces' 14th Drone Regiment reported that Ukrainian drones struck tanks with aviation fuel for Tu-160 bomber aircraft at the Kristal oil facility.[12]
+
+Ukrainian forces, including elements of the Unmanned Systems Forces, SSO, SBU, missile troops, and GUR, struck the Bryansk Chemical Plant in Seltso, Bryansk Oblast, which produces components for Kh-59 cruise missiles and ammunition for tube artillery, MLRS, and TOS thermobaric artillery systems and repairs Russian MLRS systems. Ukrainian sources reported secondary explosions at the plant and that Ukrainian forces destroyed a Tor and a Buk air defense system during the strike. Ukrainian forces also struck the "Kremniy El" microelectronics plant in Bryansk City, which produces microelectronics for missile systems, Pantsir air defense systems, Iskander missiles, radars, EW systems, and drones. The Ukrainian Unmanned Systems Forces reported that drones overwhelmed Russian air defense systems, allowing missiles to strike their targets, and that Ukrainian drones hit substations and other infrastructure after the missile strike.[12]
+
+The GUR and SBU struck the Kazanorgsintez Chemical Plant in Kazan, Republic of Tatarstan, causing a fire. The plant produces materials for military use including polyamides, synthetic rubber, chemical compounds for armored vehicles, tires for tanks and APCs, plastics for weapons, and explosives. Russian opposition outlet Astra reported that the strike may have hit a Gazprom liquified gas depot two kilometers from the plant and that three fuel tanks are burning. Ukrainian forces and the SBU also conducted a drone strike that started a fire at the Aleksinsky Chemical Plant in Tula Oblast, which produces polymer and composite materials.[12]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -61,3 +67,4 @@ Geolocated footage published on January 12 shows Ukrainian forces striking a Rus
 [9] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [11] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
+[12] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)

@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-14T00:00:00Z
 ---
 
 # Current Situation
@@ -44,6 +44,12 @@ Russian authorities are reportedly walking back a promise to allocate federal bu
 
 Russian authorities continue increasing social service benefits to Russian veterans of the war in Ukraine likely as part of efforts to increase military recruitment. The Russian Government announced on January 13 that it began allocating grants on January 1 of up to seven million rubles (about $68,126) to Russian veterans to start their own agricultural and livestock enterprises.[8]
 
+Russia continues efforts to bolster military recruitment by offering financial incentives to those who sign military service contracts with the Russian MoD. BBC's Russia service reported on January 14 that at least 12 Russian federal subjects increased one-time payments at the end of 2024 and start of 2025. More than 60 percent of all Russian regions offer volunteers a one-time payment exceeding one million rubles (approximately $9,670), and 25 percent offer payments exceeding two million rubles (approximately $19,350). Samara Oblast is reportedly offering recruits a one-time signing bonus of four million rubles (approximately $38,690) until February 1. Saratov Oblast's Yabloko Party Deputy Chairperson Kirill Rumyantsev reported on January 14 that local officials are offering to suspend legal proceedings against debtors in exchange for the debtor signing military service contracts.[9]
+
+Russian State Duma Chairperson Vyacheslav Volodin stated on January 14 that the State Duma will "immediately" consider the draft law extending combat veteran status to veterans who fought in Kursk Oblast as soon as the Russian government submits the document. Russian President Vladimir Putin stated on December 19, 2024 that he would remedy this classification error, but legislators have thus far failed to pass a law addressing this issue. Putin is likely to approve this draft law in the future.[9]
+
+Former Roscosmos head and Zaporizhia Oblast occupation senator Dmitry Rogozin stated on January 14 that he has recruited over 50 percent of the personnel for the BARS-Sarmat Detachment and that 30 to 40 new volunteers join each week. Rogozin claimed that the Russian defense industrial base is suffering from "unacceptable" bureaucratic delays but acknowledged that Russia's DIB has generally restructured itself to support the military's needs.[9]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -54,3 +60,4 @@ Russian authorities continue increasing social service benefits to Russian veter
 [6] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [7] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [8] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
+[9] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)

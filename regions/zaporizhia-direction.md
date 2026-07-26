@@ -5,7 +5,7 @@ parent: Regions
 description: The southern axis in Zaporizhia Oblast, including the Robotyne area.
 tags: [military, eastern-europe, kinetic, crimea]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-14T00:00:00Z
 ---
 
 # Current Situation
@@ -32,6 +32,8 @@ Positional fighting continued in western Zaporizhia Oblast on January 12 and 13 
 
 Russian forces continued limited ground attacks in the Dnipro direction on January 12 and 13 but did not make any advances.[10]
 
+Limited positional fighting continued in western Zaporizhia Oblast on January 12 and 13 but there were no confirmed changes to the frontline. Drone operators of the Russian 7th Airborne (VDV) Division reportedly continue to strike targets near Novodanylivka (north of Robotyne). Ukrainian officials reported on January 14 that locals reported hearing explosions, possibly from Ukrainian strikes, near port facilities and the AZMOL petrochemicals plant in occupied Berdyansk.[11]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -44,3 +46,4 @@ Russian forces continued limited ground attacks in the Dnipro direction on Janua
 [8] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [9] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [10] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
+[11] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)

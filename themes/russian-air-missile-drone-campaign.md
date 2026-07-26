@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-14T00:00:00Z
 ---
 
 # Current Situation
@@ -50,6 +50,8 @@ Ukrainian President Volodymyr Zelensky stated on January 12 that Russian forces 
 
 On the night of January 12 to 13, Russian forces launched 110 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol and Bryansk oblasts. The Ukrainian Air Force reported that Ukrainian forces downed 78 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Dnipropetrovsk, Mykolaiv, Zaporizhia, Zhytomyr, Khmelnytskyi, and Donetsk oblasts; 31 decoy drones were "lost," likely due to Ukrainian electronic warfare interference; and debris from downed drones damaged enterprises, homes, and state buildings in Sumy, Kyiv, Zhytomyr, and Zaporizhia oblasts. Ukrainian officials reported that debris from downed Russian drones also damaged a children's health center in Sumy City, a critical infrastructure facility in Putyvlskyi Hromada, Sumy Oblast, and a medical facility in Kyiv Oblast.[12]
 
+On the night of January 13 to 14, Russian forces launched 80 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol and Kursk oblasts. The Ukrainian Air Force reported that Ukrainian forces downed 58 drones over Poltava, Sumy, Kharkiv, Cherkasy, Kyiv, Zhytomyr, Kirovohrad, Dnipropetrovsk, Mykolaiv, Odesa, and Kherson oblasts; 21 decoy drones were "lost," likely due to Ukrainian electronic warfare interference; and debris from downed drones damaged residential buildings and civilian vehicles in Sumy, Kyiv, Zhytomyr, Kharkiv, and Cherkasy oblasts. Ukrainian officials also reported that Russian drones struck a residential building in Chuhuiv, Kharkiv Oblast, and several commercial buildings in Cherkasy Oblast.[13]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -64,3 +66,4 @@ On the night of January 12 to 13, Russian forces launched 110 Shahed and other s
 [10] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [11] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [12] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
+[13] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)

@@ -6,6 +6,26 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Kremlin unchanged goals (Patrushev rejected territorial concessions, identity denial info op, US-only negotiations frame), Dnipropetrovsk Oblast info op assessment, Roskomnadzor Sovereign Internet outage;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with large-scale Jan 13-14 combined drone/missile strike on Kristal oil facility (secondary strike, Engels), Saratov Refinery, Bryansk Chemical Plant, Kremniy El microelectronics plant, Kazanorgsintez Chemical Plant, Aleksinsky Chemical Plant;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 13-14 overnight strike (80 Shahed, 58 downed, 21 EW-lost), damage in Sumy/Kyiv/Zhytomyr/Kharkiv/Cherkasy oblasts including residential building in Chuhuiv;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with 12+ regions increasing one-time payments, debt suspension for contracts in Saratov, Volodin on Kursk combat veteran status law, Rogozin BARS-Sarmat 50% recruitment;
+  [Russia]({{ site.baseurl }}/actors/countries/russia.html) with Patrushev statement and Roskomnadzor outage;
+  [Moldova]({{ site.baseurl }}/actors/countries/moldova.html) with Zelensky coal offer, Transnistria refusal, Sandu medical care offer, Patrushev aggression conditions, Popsoi destabilization statement;
+  [Belarus]({{ site.baseurl }}/actors/countries/belarus.html) with joint Russian-Belarusian command-staff exercises Jan 14-16;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with continued ops no confirmed advances, NK large-group assaults (20-100 personnel), Rubicon Center drone operations, Smuglyanka and 34th MRB dispositions;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued ops near Vovchansk no advances;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk unconfirmed P-79 highway claim (assessed 3.5km not 1km), Borova continued ops no advances, Lyman MoD claimed Terny seized (unconfirmed), Akhmat "Shram" Group operations;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued attacks near Bilohorivka, Hryhorivka, Verkhnokamyanske, Ivano-Darivka, Vyimka no advance;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with Refractory Plant claims unconfirmed (milblogger dispute), 98th VDV Division ground assaults;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with marginal advance in northern Toretsk (geolocated);
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with advances to southwestern Zvirove outskirts, west of Novoyelyzavetivka, 5-10 assault waves per day;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with continued ops no advances, Slovyanka and Andriivka claims;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with MoD Neskuchne seizure claim (assessed seized Jan 13), Vremivka southern outskirts claims, Velyka Novosilka-Hulyaipole road interdiction speculation;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with limited positional fighting no changes, 7th VDV Division drone operations, Berdyansk port/petrochemical explosions;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Dnipro assaults no advances, 205th MRB and 81st Artillery Regiment operations.
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with GLOC interdict assessment for Pokrovsk/Myrnohrad, Gazprom 40% staff cut proposal, NIS ~3,000 NK casualties (300 KIA, 2,700 WIA), airport anti-drone funding walkback;
   [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with T-0504 and T-0406 highway cuts east and southwest of Pokrovsk, Solone likely seized, Pishchane seized (MoD credited 55th/35th/74th MRB), 5th MRB redeployed from Kurakhove to Vozdvyzhenka, GLOC interdict analysis;

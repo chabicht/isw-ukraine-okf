@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-14T00:00:00Z
 ---
 
 # Current Situation
@@ -40,6 +40,8 @@ Russian forces continued offensive operations within the Ukrainian salient in Ku
 
 The Russian MoD claimed on January 13 that Ukrainian drones attempted to strike the Russkaya compressor station in Gai-Kodzor, Krasnodar Krai, which is a part of the Russian-Turkish Turk Stream gas pipeline, on January 11. The Russian MoD claimed that Russian forces shot down all nine drones and that falling drone fragments damaged a building and equipment at a gas metering station, but that the strike did not disrupt the station's operations. ISW has not observed independent reporting about the purported strike.[5]
 
+Russian forces continued offensive operations in the Ukrainian salient in Kursk Oblast on January 14 but did not make confirmed advances. Russian milbloggers claimed that Russian naval infantry are clearing Nikolaevka (northwest of Sudzha) and that Russian VDV forces are advancing within Makhovka (south of Sudzha) from the north and southeast — ISW has not observed confirmation. The commander of a Ukrainian platoon operating in Kursk Oblast stated that North Korean forces conduct infantry assaults in large groups comprised of between 20 and 100 people and attack across open terrain during the day and at night. A Russian milblogger claimed that Russian forces are attacking throughout the salient and that Ukrainian counterattacks are slowing the pace of Russian advance. Ukrainian forces counterattacked near Sudzha, northwest of Sudzha near Nikolaevo-Darino and Pogrebki, and south of Sudzha near Makhnovka. The Russian MoD claimed that drone operators of the Rubicon Center for Advanced Unmanned Technologies are operating in Kursk Oblast. Elements of the Russian "Smuglyanka" Detachment and 34th Motorized Rifle Brigade (49th CAA, SMD) are reportedly operating in the Kursk direction.[6]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
@@ -47,3 +49,4 @@ The Russian MoD claimed on January 13 that Ukrainian drones attempted to strike 
 [3] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [4] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [5] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
+[6] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)

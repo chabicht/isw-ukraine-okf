@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-14T00:00:00Z
 ---
 
 # Current Situation
@@ -34,6 +34,8 @@ Russian forces continued offensive operations in the Velyka Novosilka direction 
 
 Russian forces recently advanced in the Velyka Novosilka direction on January 13. Geolocated footage published on January 12 and 13 indicates that Russian forces operating north of Velyka Novosilka advanced to the east (left) bank of the Mokri Yaly River southwest of Novyi Komar and that Russian forces likely seized Neskuchne (southwest of Velyka Novosilka) — some Russian sources claimed Russian forces have not yet seized Neskuchne and that Ukrainian forces maintain positions in northern Neskuchne. A Russian milblogger claimed on January 12 Russian forces are one kilometer from the final Ukrainian logistics lines near Velyka Novosilka. Ukrainian military observer Kostyantyn Mashovets stated on January 13 that Russian forces have nearly completed their envelopment of Vremivka and Velyka Novosilka from the north, south, and southeast and forecast that Russian forces may conduct a "decisive" operation to seize the settlements in the coming days. Mashovets reported that elements of the 127th Motorized Rifle Division (5th CAA, EMD) continue fighting for the Velyka Novosilka-Uspenivka road between Novosilka and Vremivka, and that elements of the 37th Motorized Rifle Brigade (36th CAA, EMD) with support from elements of the 336th Naval Infantry Brigade (Baltic Fleet, LMD) are fighting near Novyi Komar.[11]
 
+Russian forces continued offensive operations in the Velyka Novosilka direction on January 14 but did not make confirmed advances. The Russian MoD claimed on January 14 that Russian forces seized Neskuchne (southwest of Velyka Novosilka), which ISW assessed Russian forces had seized as of January 13. Russian milbloggers credited elements of the Russian 394th Motorized Rifle Regiment and 218th Tank Regiment (both of the 127th MRD, 5th CAA, EMD) with the seizure of Neskuchne and claimed that Russian forces entered the southern outskirts of Vremivka (immediately west of Velyka Novosilka) and advanced in the area south of Velyka Novosilka — ISW has not observed visual confirmation. A Russian milblogger speculated that Russian forces may seek to interdict the Velyka Novosilka-Hulyaipole road after seizing Vremivka in order to complicate a future Ukrainian withdrawal. Russian forces continued attacking near Velyka Novosilka itself, north of Velyka Novosilka near Novyi Komar, northeast of Velyka Novosilka near Rozdolne, southwest of Velyka Novosilka near Neskuchne, and west of Velyka Novosilka near Vremivka on January 13 and 14.[12]
+
 Note: ISW is incorporating data previously reported as the Vuhledar direction as part of the Kurakhove direction moving forward, reflecting the shifting operational situation.
 
 # Citations
@@ -49,3 +51,4 @@ Note: ISW is incorporating data previously reported as the Vuhledar direction as
 [9] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [11] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
+[12] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)

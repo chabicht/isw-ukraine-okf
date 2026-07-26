@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-14T00:00:00Z
 ---
 
 # Current Situation
@@ -48,6 +48,12 @@ Russian forces recently advanced in the Borova direction on January 13. Geolocat
 
 Russian forces continued offensive operations in the Lyman direction on January 13 but did not advance. Russian milbloggers claimed on January 13 that Russian forces marginally advanced toward Kolodyazi (northeast of Lyman) and are attempting to create a bridgehead on the west (right) bank of the Zherebets River — ISW has not observed confirmation. The commander of a Ukrainian brigade operating in the Kupyansk-Lyman direction reported that Russian forces typically use vehicles to transport personnel past Ukrainian forces' first line of defense and then deploy infantrymen to reinforce and consolidate forward positions. The commander assessed that there is a 1:1 artillery ratio in the brigade's AoR in the Lyman direction. Drone operators of the Russian 3rd Motorized Rifle Division (20th CAA, Moscow Military District) are reportedly operating in the Lyman direction.[7]
 
+Russian forces continued offensive operations in the Kupyansk direction on January 14 but did not advance. A Russian milblogger claimed that Russian forces are about a kilometer from the P-79 Dvorichna-Kupyansk highway south of Zapadne (north of Kupyansk), but ISW assesses Russian forces' closest point of advance is roughly 3.5 kilometers from the highway. The milblogger claimed Russian forces are more active near Holubivka (north of Kupyansk). Russian forces attacked northeast of Kupyansk near Dvorichna and Zapadne and southeast of Kupyansk near Tabaivka on January 13 and 14. Drone operators of the Chechen Akhmat Spetsnaz "Shram" Group are reportedly operating in the Kupyansk-Lyman direction.[8]
+
+Russian forces continued offensive operations in the Borova direction on January 14 but did not make any confirmed advances. Russian forces attacked northeast of Borova near Nova Kruhlyakivka, Lozova, Zeleny Hai, and Zahryzove; east of Borova near Pershotravneve, Shyikivka, Raihorodka, and Kopanky; and southeast of Borova near Novoserhiivka, Hrekivka, Makiivka, and Novoyehorivka on January 13 and 14.[8]
+
+Russian forces continued offensive operations in the Lyman direction on January 14 but did not make any confirmed advances. The Russian MoD claimed on January 14 that Russian forces, including elements of the 144th Motorized Rifle Division (20th CAA, MMD), seized Terny (northeast of Lyman), but ISW has not observed confirmation. A Russian milblogger claimed Terny had a population of roughly 30 before the full-scale invasion. Russian forces continued attacking northeast of Lyman near Terny and east of Lyman near Zarichne on January 13 and 14.[8]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
@@ -57,3 +63,4 @@ Russian forces continued offensive operations in the Lyman direction on January 
 [5] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [6] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [7] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
+[8] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)

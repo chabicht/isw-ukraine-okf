@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-13T00:00:00Z
+timestamp: 2025-01-14T00:00:00Z
 ---
 
 # Background
@@ -82,6 +82,16 @@ South Korea's NIS reportedly announced on January 13 that North Korean casualtie
 
 Russian authorities are reportedly walking back a promise to allocate federal budget funds to protect Category 1 airports from Ukrainian strikes, including airports in Moscow, St. Petersburg, Sochi, and other major cities. ISW has recently assessed that Russia is struggling with the increasingly high costs of maintaining its war effort, and reducing funding for air defenses to protect areas far from the battlefield may be part of a Kremlin effort to limit costs.[12]
 
+The Kremlin reiterated on January 14 that it remains committed to achieving the original goals of its full-scale invasion — the destruction of the Ukrainian state, dissolution of the current Ukrainian government, demilitarization of Ukraine, and a permanent ban on Ukraine's NATO membership. Russian Presidential Aide and former Security Council Secretary Nikolai Patrushev rejected any suggestion of ceding occupied territory in future negotiations and claimed that sham referendums in September 2022 legitimized Russia's annexation of Donetsk, Luhansk, Zaporizhia, and Kherson oblasts and Crimea. Patrushev stated that Russia's goals in Ukraine remain unchanged and that Russia remains committed to achieving all the goals Putin used to justify the full-scale invasion — which ISW assesses amount to breaking up NATO and seizing full control over Ukraine.[13]
+
+Russian officials continue to deny the existence of a Ukrainian identity independent of Russia as part of ongoing efforts to justify the destruction of the Ukrainian state. Russian Foreign Minister Sergei Lavrov referred in a January 14 press conference to "the country that is now called Ukraine." Patrushev emphasized the "fraternal" connection between Russia and Ukraine and rejected any suggestion of distinct cultural and historical identities. The Kremlin's information operation portraying Russians and Ukrainians as one unified nation is one of its most significant efforts to undermine Western support for Ukraine.[13]
+
+Patrushev stated that only Russia and the United States should engage in negotiations to end the war, excluding the European Union, United Kingdom, and Ukraine itself. Lavrov similarly questioned what role European countries could play in resolving the war. These statements revive a Kremlin information operation that rejects Ukraine's right to participate in discussions about its sovereignty and territorial integrity and seeks to place Russia on equal footing with the United States.[13]
+
+ISW assesses that the Kremlin will likely attempt to seize on potential future Russian advances into Dnipropetrovsk Oblast for informational purposes, but these advances, if they occur, are unlikely to have significant operational impact. Russian forces are seven kilometers from the Donetsk-Dnipropetrovsk administrative border at their closest point. Russian forces may be attempting to seize any territory — regardless of tactical significance — to strengthen Russia's negotiating position before potential talks.[13]
+
+Russian federal censor Roskomnadzor reportedly caused a brief but widespread internet outage in Russia on January 14 while operating restriction systems of its Sovereign Internet. Russian state media reported widespread outages of major Russian internet domains and online services affecting subscribers of all Russian telecommunications companies, attributed to Roskomnadzor's technical means of countering threats (TSPU) used to restrict access to blocked domains.[13]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -96,3 +106,4 @@ Russian authorities are reportedly walking back a promise to allocate federal bu
 [10] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [11] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [12] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
+[13] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
