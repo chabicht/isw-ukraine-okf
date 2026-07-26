@@ -54,10 +54,28 @@ Each brief must state, and must be limited to:
 - the one file, and the eligible days from `compact-scan`;
 - the sealed period headings, named explicitly, as off limits;
 - period boundaries within `period_min_days`–`period_max_days`, contiguous,
-  non-overlapping, covering every eligible day exactly once, named for the operational
-  character of the period (`### January 7–18, 2025 — The Refractory Plant Fight`);
-- rewrite `# Current Situation` to the present state as of the newest Tier-1 day;
+  non-overlapping, covering every eligible day exactly once;
+- rewrite `# Current Situation` to the present state as of the newest Tier-1 day,
+  built from the **most recent three to five assessments only** (see below);
 - leave Tier-1 days inside the window exactly as they are.
+
+**Name periods descriptively, not interpretively.** Name them for what was contested,
+not for what it meant.
+
+    good: ### January 7–17, 2025 — Refractory Plant and Northern Microraions
+    bad:  ### January 7–17, 2025 — The Refractory Plant Grind and the Double Envelopment
+
+The second asserts an operational design ISW never assessed — it came from two Russian
+milblogger claims. A heading cannot carry a hedge and is the most-read text in the file,
+so it must contain no claim that could be wrong. Interpretation belongs in prose, where
+it can be attributed and qualified.
+
+**Build `# Current Situation` from the newest assessments, not from the whole history.**
+The latest ISW reports already describe current positions; re-deriving the present state
+by synthesizing a month of dailies is unnecessary and is where staleness and geographic
+drift enter. Reuse the sources' own directional and place wording verbatim — if ISW
+writes "Novopivnichnyi Microraion (western Chasiv Yar)", do not paraphrase it to
+"northern". Relabelling a district silently moves the front line.
 
 **Compaction guidance is by principle, not checklist.** Preserve what a reader needs in
 order to understand how the sector evolved — confirmed terrain change, the shape and
@@ -72,30 +90,69 @@ never restate one as established fact, and it must not assert a completeness it 
 have ("the grouping did not change thereafter" is a claim, not a summary). Dropping
 detail is expected; upgrading its epistemic status is a defect.
 
-**One invariant is mechanical, not judgment:** every source that fed a period stays
-cited on that period paragraph even where its specific claim was compressed away.
-Provenance survives compaction even when detail does not.
+**Cite per claim, then state provenance once.** Each sentence carries only the sources
+that actually support *it*. The period then ends with a single provenance line naming
+every source that fed it:
+
+    Sources for this period: [isw:2025-01-07] [isw:2025-01-09] [isw:2025-01-10] …
+
+That line is the mechanical guarantee — no contributing source is ever dropped, even
+where its specific claim was compressed away. Attaching the whole set to every paragraph
+instead is a **defect, not compliance**: it makes a citation stop meaning "this source
+supports this sentence", and lets an unsupported assertion inherit apparent support from
+sources that say nothing about it. If a synthesized sentence has no source that supports
+it directly, that is a signal to soften or cut the sentence, not to borrow a citation.
 
 Subagents cite by **source key** — `[isw:2025-01-18]` — and never touch numbers or the
 `# Citations` block. `log.md` and indexes stay exclusively coordinator-owned.
 
+**Enforce write scope after every subagent returns.** Do not trust the brief to hold:
+
+```bash
+git status --porcelain
+```
+
+Anything modified outside that subagent's one assigned file gets `git checkout --`'d
+immediately, before the next subagent runs. A subagent told "this file only" has been
+observed to compact seventeen other concepts unasked — plausible-looking work that no
+verifier had scoped and that silently performed a backlog the run had deliberately
+deferred. Unrequested edits are reverted on sight, not reviewed on merit.
+
 ## Verify each concept
 
 Because the guidance above is principle-based, every rewritten concept gets a **fresh
-verifier subagent** that sees the original daily paragraphs and the new period text. Give
-it the original via `git show HEAD:<path>` and ask for both failure directions:
+verifier subagent**. Give it the original via `git show HEAD:<path>`.
 
-1. *Name any ISW-confirmed fact present before and absent now* — geolocated footage,
-   ISW's own assessment, confirmed advances or control changes, named-official
-   statements reported as fact. Dropped milblogger claims that ISW said it had not
-   confirmed are expected and are not findings.
-2. *Name anything whose epistemic status was upgraded* — a hedged or attributed claim
-   now stated as fact, or a summary asserting completeness the sources do not support.
+**Scope the verifier to everything the run rewrote — the period text AND
+`# Current Situation` AND `# Analysis`.** Scoping it to the compacted period alone is how
+the first run shipped a `# Current Situation` that misplaced the front line: it was the
+most interpretive text in the file and nothing looked at it.
 
-Loss is the obvious failure mode; laundering is the quiet one, and a verifier told to
-look only for loss will not report it. Also have it confirm mechanically: all expected
-source keys present, `# Citations` unchanged, in-window Tier-1 paragraphs unaltered,
-sections in order.
+Ask for all four:
+
+1. *Any ISW-confirmed fact present before and absent now* — geolocated footage, ISW's
+   own assessment, confirmed advances or control changes, named-official statements
+   reported as fact. Dropped milblogger claims that ISW said it had not confirmed are
+   expected and are not findings.
+2. *Anything whose epistemic status was upgraded* — a hedged or attributed claim now
+   stated as fact; a named official reduced to an anonymous institution; a single
+   speaker pluralized into "sources" or "milbloggers", which manufactures corroboration;
+   a summary asserting completeness the sources do not support.
+3. *Any control or terrain assertion that is wrong as of the newest day* — including one
+   that was true earlier in the period and is presented as current, and **any place or
+   direction relabelled** relative to the sources.
+4. *Any thesis, period name, or Analysis conclusion asserting an interpretation the
+   sources do not make, or carrying citations that do not support it.*
+
+Loss is the obvious failure mode. The quieter ones are laundering and framing, and the
+first run demonstrated they are not caught for free: that writer improved hedging on
+individual claims while, in the same pass, hardening the overall interpretation into the
+section's thesis and its heading. A verifier scoped to claims alone will pass a section
+whose thesis is wrong.
+
+Also have it confirm mechanically: per-claim citations actually support their sentences,
+the provenance line lists every contributing source, `# Citations` unchanged, in-window
+Tier-1 paragraphs unaltered, sections in order.
 
 Tell the verifier plainly not to manufacture findings, and to quote the original text for
 anything it claims was lost.

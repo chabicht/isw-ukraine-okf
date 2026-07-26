@@ -224,6 +224,14 @@ cadence:
   the present state. Concentrating all destructive edits in one gated run keeps
   every daily commit a clean pure-add diff, and keeps concept files bounded in
   size however long the bundle runs.
+- **`# Current Situation` is built from the newest assessments.** Derive it from the
+  most recent three to five reports, not by synthesizing the concept's whole
+  history — the latest reports already describe current positions, and the
+  wider synthesis is where staleness and geographic drift enter. Reuse the
+  sources' own directional and place wording verbatim; silently relabelling a
+  district moves the front line. `# Chronology` period headings are named
+  descriptively for what was contested, never for an interpretation of what it
+  meant, because a heading cannot carry a hedge.
 - **A written `# Chronology` period is sealed.** Routine runs must not re-cut,
   rename, reword or merge it. Sealed text is re-summarized only by the
   deliberate rollup step, which prevents repeated lossy re-summarization from
@@ -337,6 +345,12 @@ python3 .opencode/okf/citations.py index                  # rebuild the key regi
 python3 .opencode/okf/citations.py check  <paths…>        # report, never write
 python3 .opencode/okf/citations.py normalize <paths…>     # keys -> numbers, rebuild list
 ```
+
+**Cite per claim.** A citation marker means "this source supports this sentence". Where
+a compacted `# Chronology` period must also record the full set of sources that fed it,
+it does so once, in a closing provenance line — `Sources for this period: [13]–[21]` —
+not by attaching every source to every paragraph. Spraying the full set inline destroys
+the meaning of a citation and lets unsupported assertions inherit apparent support.
 
 `normalize` assigns numbers in order of first appearance in the body and regenerates
 `# Citations` from the markers actually present, so orphaned, gapped and duplicated
