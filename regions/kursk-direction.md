@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-12T00:00:00Z
 ---
 
 # Current Situation
@@ -28,8 +28,17 @@ Ukrainian forces recently advanced in the Kursk salient on January 11. Geolocate
 
 The Washington Post reported on January 11 that a Ukrainian soldier operating in Kursk Oblast stated that Russian forces attacked from different directions simultaneously and advanced in some areas after Ukrainian forces intensified offensive operations in the salient. The soldier stated that Russian forces also crossed the international border into Ukraine in a "few" unspecified areas, but Ukrainian forces retook these positions.[3]
 
+Russian forces crossed into northern Sumy Oblast on January 10 as part of ongoing efforts to eliminate the Ukrainian salient in Kursk Oblast. Geolocated footage published on January 10 indicates Russian forces advanced west of Zhuravka (north of Sumy City along the international border). A Russian milblogger claimed Russian forces crossed into Sumy Oblast to bypass Nikolayevo-Darino (east of Sudzha) from the south. Another milblogger claimed Russian forces also advanced into northern Sumy Oblast near Prokhody (northeast of Sumy City), but ISW has not observed confirmation of this second claim.[4]
+
+South Korea's National Intelligence Service (NIS) confirmed on January 12 that Ukrainian forces captured two North Korean soldiers during combat in Kursk Oblast on January 9. The NIS stated that one captured soldier initially believed North Korean authorities had sent him to Russia for training but realized upon arrival he would be engaged in combat. The soldier also stated that North Korean forces suffered food and water shortages for several days before capture and have suffered significant losses.[4]
+
+Russian forces continued offensive operations within the main Ukrainian salient on January 12 but did not make any confirmed advances. Geolocated footage published on January 11 indicates that Ukrainian forces maintain positions in Pogrebki (northwest of Sudzha) despite recent claims that Russian forces seized the settlement. Russian milbloggers claimed Russian forces advanced northeast of Sudzha near Nikolskiy, Novaya Sorochina, Kruglenkoye, and Malaya Loknya; north of Sudzha near Kositsa, Russkoye Porechnoye, and Cherkasskoye Porechnoye; and south of Sudzha near Kurilovka — ISW has not observed confirmation of these claims. Elements of the Russian 1427th Motorized Rifle Regiment (formed during the 2022 partial reserve call up) reportedly repelled a Ukrainian attack near Russkoye Porechnoye. Elements of the Russian 34th Motorized Rifle Brigade (49th CAA, Southern Military District) are reportedly operating near Pogrebki, and elements of the 11th Airborne (VDV) Brigade reportedly continue to operate in Kursk Oblast.[4]
+
+Saratov Oblast Governor Roman Busargin stated on January 12 that Russian authorities are continuing efforts to put out the fire at Russia's state-owned Kombinat Kristal oil storage facility near Engels, Saratov Oblast following the Ukrainian drone strike on the night of January 7 to 8. A Russian insider source claimed the fire has destroyed three fuel tanks holding 120,000 cubic meters of fuel and damaged six additional fuel tanks.[4]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [2] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [3] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
+[4] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)

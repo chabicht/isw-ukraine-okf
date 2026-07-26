@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-12T00:00:00Z
 ---
 
 # Background
@@ -70,6 +70,10 @@ Russian elites and high-ranking security officials are reportedly frustrated wit
 
 Russian opposition outlet Mediazone reported that Russian authorities have turned the SIZO-2 pretrial detention center in Taganrog, Rostov Oblast into a torture center for Ukrainian POWs and civilians, with accounts of physical and sexual abuse to coerce guilty pleas in sham trials. The UN Memorial Center for Human Rights reported the FSB assumed control of the facility. The UN condemned the recent surge in Russian executions of Ukrainian POWs — Deputy Human Rights Chief Nada Al-Nashif called on Russian authorities on January 8 to halt summary executions, noting the UN has verified 68 cases since the start of the war. ISW continues to assess that Russian military commanders are either complicit in or enabling these executions.[8]
 
+The Ukrainian General Staff reported on January 12 that Ukrainian forces conducted a high-precision airstrike on the command post of Russia's 2nd Combined Arms Army (Central Military District) in Novohrodivka, Donetsk Oblast. The strike is part of a broader series of Ukrainian strikes targeting Russian command posts in the Donetsk direction, following the January 8 strike on the 8th CAA command post in Khartsyzk and the January 10 strike on the 3rd Army Corps command post in Svitlodarsk. The 2nd CAA is currently leading Russian operations south of Pokrovsk; the 3rd AC is operating near Chasiv Yar; and the 8th CAA is leading efforts near Kurakhove. Strikes on tactical command posts near the frontline are likely intended to disrupt Russian tactical activity, while strikes on rear command posts degrade broader logistics and operational planning.[11]
+
+South Korea's National Intelligence Service (NIS) confirmed that Ukrainian forces captured two North Korean soldiers during combat operations in Kursk Oblast on January 9. The NIS stated that one captured soldier initially believed he was being sent to Russia for training and that North Korean forces have suffered significant losses.[11]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -82,3 +86,4 @@ Russian opposition outlet Mediazone reported that Russian authorities have turne
 [8] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [9] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [10] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
+[11] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)

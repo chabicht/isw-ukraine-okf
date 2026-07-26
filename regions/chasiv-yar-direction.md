@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Chasiv Yar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-12T00:00:00Z
 ---
 
 # Current Situation
@@ -18,9 +18,12 @@ Russian forces continued offensive operations in the Chasiv Yar direction on Jan
 
 Russian forces continued offensive operations in the Chasiv Yar direction on January 11 and recently advanced. Ukrainian military observer Kostyantyn Mashovets stated on January 11 that Russian forces seized Hryhorivka. A Russian milblogger claimed on January 11 that Russian forces advanced along Dobroliubova Street in northwestern Chasiv Yar, but ISW has not observed confirmation. Russian forces attacked within Chasiv Yar and south of Chasiv Yar near Bila Hora, Stupochky, and Predtechyne on January 10 and 11. A Russian milblogger claimed on January 11 that Russian forces occupy about 20 percent of the Refractory Plant in central Chasiv Yar but that it is difficult to advance as Ukrainian forces have fortified their defensive positions. The milblogger claimed that Russian forces are bypassing the Refractory Plant, occupying the Pivnichnyi Microraion (northern Chasiv Yar) and the railway station to disrupt Ukrainian GLOCs. Another Russian milblogger claimed that Russian forces continue attacks in southern Chasiv Yar in order to bypass the central part of the settlement in an attempt to encircle it. Elements of the Russian Sever-V Brigade (Russian Volunteer Corps) and 98th VDV Division are reportedly operating near Chasiv Yar; elements of the 200th Motorized Rifle Brigade (14th AC, Leningrad Military District), 4th Motorized Rifle Brigade (3rd CAA, formerly 2nd LNR AC), and 215th Reconnaissance Battalion (98th VDV Division) are reportedly operating in Chasiv Yar.[4]
 
+Russian forces continued offensive operations in the Chasiv Yar direction on January 12 but did not make any confirmed advances. Russian forces conducted offensive operations within and near Chasiv Yar itself and south of Chasiv Yar near Bila Hora and Stupochky on January 11 and 12. A Russian milblogger claimed that Ukrainian forces are counterattacking in Chasiv Yar. Russian sources claimed Russian forces advanced in Pivnichnyi Microraion (eastern Chasiv Yar) and occupy about 20 percent of the refractory plant in central Chasiv Yar — ISW has not observed confirmation of these claims. Ukraine's Khortytsia Group of Forces stated that Russian forces used an unspecified number of armored vehicles to support offensive operations in Chasiv Yar and that Ukrainian forces destroyed one armored vehicle.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [2] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [3] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [4] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
+[5] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)

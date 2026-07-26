@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-12T00:00:00Z
 ---
 
 # Current Situation
@@ -44,6 +44,10 @@ On the night of January 9 to 10, Russian forces launched 72 Shahed and decoy dro
 
 On the night of January 10 to 11, Russian forces launched 74 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol and Bryansk oblasts. The Ukrainian Air Force reported that Ukrainian forces downed 47 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Dnipropetrovsk, Zaporizhia, Kirovohrad, Kherson, and Mykolaiv oblasts and that 27 decoy drones were "lost," likely due to Ukrainian electronic warfare interference. Dnipropetrovsk Oblast Head Serhii Lysak reported that Russian forces damaged farm and residential buildings in Samarivskyi Raion, Dnipropetrovsk Oblast. Chernihiv Oblast authorities reported Russian forces struck a residential building in Prylutskyi Raion, Chernihiv Oblast, likely with a Shahed drone. Zaporizhia Oblast Administration Head Ivan Fedorov reported that Russian Shaheds damaged civilian infrastructure in Zaporizhzhia City.[10]
 
+On the night of January 11 to 12, Russian forces launched 94 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast and Oryol, Bryansk, and Kursk oblasts. The Ukrainian Air Force reported that Ukrainian forces downed 60 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Zaporizhia, Kirovohrad, Zhytomyr, Khmelnytskyi, and Donetsk oblasts and that 34 drones were "lost," likely due to Ukrainian electronic warfare interference. Kharkiv Oblast Administration Head Oleh Synehubov reported on January 12 that a Russian Shahed drone struck a residence in Vlasivka, Kharkiv Oblast.[11]
+
+Ukrainian President Volodymyr Zelensky stated on January 12 that Russian forces launched almost 700 glide bombs and over 600 strike drones against Ukraine during the week of January 6 to 12.[11]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -56,3 +60,4 @@ On the night of January 10 to 11, Russian forces launched 74 Shahed and other st
 [8] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [9] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [10] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
+[11] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)

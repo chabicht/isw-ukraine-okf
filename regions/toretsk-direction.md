@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Toretsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-12T00:00:00Z
 ---
 
 # Current Situation
@@ -26,9 +26,12 @@ The Ukrainian General Staff reported that Ukrainian forces struck a Russian 3rd 
 
 Russian forces continued offensive operations in the Toretsk direction on January 11 but did not advance. Russian security agencies claimed on January 11 that Russian forces cleared Toretsk and that only isolated pockets of Ukrainian forces remain — an unconfirmed claim. A Russian milblogger claimed on January 10 that Russian forces advanced in southern Petrivka — ISW has not observed confirmation. Russian forces continued offensive operations within and near Toretsk, north of Toretsk near Dyliivka, and west of Toretsk near Shcherbynivka on January 10 and 11. Drone operators of the Russian 80th "Sparta" Separate Reconnaissance Battalion (51st CAA) reportedly continue striking Ukrainian forces near Toretsk, and elements of the 109th Motorized Rifle Regiment (1st "Slovyansk" MRB, 51st CAA) are reportedly operating in northwestern Toretsk.[4]
 
+Russian forces recently advanced in Toretsk on January 12. Geolocated footage published on January 11 indicates that Russian forces recently advanced in northwestern Toretsk. Russian forces conducted offensive operations near Toretsk itself, northeast of Toretsk near Dyliivka, and west of Toretsk near Shcherbynivka on January 11 and 12. A Russian source claimed that Ukrainian forces unsuccessfully counterattacked in Shcherbynivka. A Russian milblogger claimed that fighting has shifted to western and northwestern Toretsk, where Russian forces are attacking in small infantry groups. The milblogger claimed that the Russian military command recently transferred reserves to Toretsk, doubling the number of Russian maneuver groups involved in assaults. A Ukrainian brigade operating near Toretsk posted pictures showing Russian forces dressed in civilian clothing in the settlement — a war crime if confirmed. Elements of the 3rd Battalion of the Russian 109th Motorized Rifle Regiment (1st "Slovyansk" Motorized Rifle Brigade, 51st CAA) are reportedly operating within Toretsk.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [2] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [3] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [4] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
+[5] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)

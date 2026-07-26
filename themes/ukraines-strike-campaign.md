@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-12T00:00:00Z
 ---
 
 # Current Situation
@@ -42,6 +42,10 @@ On the night of January 9 to 10, Ukrainian forces struck a Russian ammunition an
 
 Ukrainian forces may have conducted a drone strike against an oil refinery in the Republic of Tatarstan on January 11, though details remain unclear. Russian opposition outlet Astra reported that authorities at the Tanevo plant at the Tatarstan Oil Refinery Complex in Nizhnekamsk evacuated the facility due to the risk of drone strikes and that locals reported smoke coming from the plant. Russian sources published footage purportedly showing a fire near the facility, though one source later claimed there was no fire and that evacuations were part of exercises. Republic of Tatarstan Head Rustam Minnikhanov's press service refuted reports of a fire, attributing the glow to a flare from planned equipment changes. Russian authorities issued a drone threat warning in the Republic of Tatarstan and stopped operations at Nizhnekamsk Airport citing unspecified safety concerns.[9]
 
+The Ukrainian General Staff reported on January 12 that Ukrainian forces conducted a high-precision airstrike on the command post of Russia's 2nd Combined Arms Army (CAA, Central Military District) in Novohrodivka, Donetsk Oblast. The strike is part of a broader series of Ukrainian strikes targeting Russian command posts in the Donetsk direction — following the January 8 strike on the 8th CAA command post in Khartsyzk and the January 10 strike on the 3rd Army Corps command post in Svitlodarsk. Strikes on tactical command posts near the frontline, such as Novohrodivka, are likely intended to disrupt Russian tactical activity and complicate command and control. Strikes against main command posts further in the rear, such as the 8th CAA strike, are likely aimed at degrading broader logistics and operational planning efforts, which could affect Russia's ability to conduct operations in western Donetsk Oblast.[10]
+
+Saratov Oblast Governor Roman Busargin stated on January 12 that Russian authorities are continuing efforts to put out the fire at the Kombinat Kristal oil storage facility near Engels following the January 7-8 Ukrainian strike. A Russian insider source claimed the fire has destroyed three fuel tanks holding 120,000 cubic meters of fuel and damaged six additional fuel tanks.[10]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -53,3 +57,4 @@ Ukrainian forces may have conducted a drone strike against an oil refinery in th
 [7] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
 [8] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [9] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
+[10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)

@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-12T00:00:00Z
 ---
 
 # Current Situation
@@ -30,6 +30,8 @@ Russian forces recently advanced northwest of Kurakhove amid ongoing offensive o
 
 Russian forces continued offensive operations in the Kurakhove direction on January 11 but did not make any confirmed advances. Russian milbloggers claimed Russian forces advanced west of Slovyanka (northwest of Kurakhove) and east of Andriivka (west of Kurakhove) — ISW has not observed confirmation. Russian forces continued assaults west of Kurakhove near Dachne and southwest of Kurakhove near Zelenivka, Rozlyv, Yantarne, and Kostyantynopil on January 10 and 11. Elements of the Russian 114th Motorized Rifle Brigade (51st CAA) are reportedly operating near Petropavlivka, and elements of the 238th Artillery Brigade (8th CAA, SMD) are reportedly operating near Ulakly (west of Kurakhove). Mashovets stated that elements of the 5th and 110th motorized rifle regiments (51st CAA) are operating in the Kurakhove-Dachne-Andriivka area, and that elements of the Russian 20th and 150th motorized rifle divisions (8th CAA, SMD) are resting and reconstituting in the rear.[9]
 
+Russian forces recently advanced in the Kurakhove direction on January 12. Geolocated footage published on January 11 indicates that Russian forces recently seized Yantarne (southwest of Kurakhove). The Russian Ministry of Defense (MoD) claimed on January 12 that Russian forces seized Yantarne, and Russian milbloggers claimed that elements of the 10th Tank Regiment and 33rd and 225th motorized rifle regiments (all 20th Motorized Rifle Division, 8th CAA, Southern Military District) participated in the seizure. A Russian milblogger claimed that Russian forces advanced west of Slovyanka (northwest of Kurakhove) — ISW has not observed confirmation. Russian forces continued attacking northwest of Kurakhove near Shevchenko; west of Kurakhove near Dachne; and southwest of Kurakhove near Yantarne, Kostyantynopolske, and Kostyantynopil on January 11 and 12. Elements of the Russian 68th Tank Regiment (150th Motorized Rifle Division, 8th CAA, SMD) are reportedly operating west of Kurakhove; elements of the 68th Reconnaissance Battalion (20th Motorized Rifle Division, 8th CAA, SMD) are reportedly operating in the Kurakhove direction; and elements of the 114th Motorized Rifle Brigade (51st CAA) are reportedly operating on the eastern outskirts of Andriivka (west of Kurakhove).[10]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -41,3 +43,4 @@ Russian forces continued offensive operations in the Kurakhove direction on Janu
 [7] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [8] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [9] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
+[10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)

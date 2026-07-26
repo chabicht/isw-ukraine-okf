@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-12T00:00:00Z
 ---
 
 # Current Situation
@@ -36,6 +36,12 @@ Russian forces continued offensive operations in the Borova direction on January
 
 Russian forces continued offensive operations in the Lyman direction on January 11 but did not make any confirmed advances. Russian forces attacked northeast of Lyman near Terny, east of Lyman near Zarichne, and southeast of Lyman in the Serebryanske forest area on January 10 and 11. Ukrainian military observer Kostyantyn Mashovets stated that elements of the Russian 488th and 283rd motorized rifle regiments (both 144th MRD, 20th CAA, MMD) are operating near Ivanivka (northeast of Lyman) but have been unable to break through to Kolodyazi (southwest of Ivanivka).[5]
 
+Russian forces recently marginally advanced in the Kupyansk direction on January 12. Geolocated footage published on January 11 indicates that Russian forces recently marginally advanced in northwestern Petropavlivka (east of Kupyansk). The Russian Ministry of Defense (MoD) claimed on January 12 that Russian forces seized Kalynove (north of Kupyansk), which a Russian milblogger noted had a population of fewer than 10 people before the 2022 full-scale invasion. Russian forces continued attacking north of Kupyansk near Holubivka and Dvorichna; northeast of Kupyansk near Synkivka; east of Kupyansk near Petropavlivka; and southeast of Kupyansk near Pishchane and Stepova Novoselivka on January 11 and 12.[6]
+
+Russian forces recently conducted two reinforced company-sized mechanized assaults northeast of Borova but did not make any confirmed advances. Geolocated footage published on January 11 indicates that Ukrainian forces recently repelled a reinforced company-sized Russian mechanized assault west of Vyshneve (northeast of Borova). The Ukrainian brigade that repelled the attack reported that elements of the Russian 4th Tank Division (1st Guards Tank Army, Moscow Military District) attacked Ukrainian positions twice from four directions on January 8 and 9 and that Ukrainian artillery, anti-tank mines, and drones repelled the attack. The brigade reported destroying 20 Russian tanks and armored vehicles. The brigade's spokesperson stated that Russian forces have not conducted a large mechanized assault in the area for several months and noted that Russian forces used T-72 and T-80 tanks during the assault. Russian forces attempted to protect the vehicles with electronic warfare (EW) systems, but Ukrainian forces used anti-tank guided missile (ATGM) systems and unspecified other "solutions" to bypass Russian EW interference. Russian forces continued assaults north of Borova near Zahryzove; northeast of Borova near Zelenyi Hai; east of Borova near Pershotravneve, Kopanky, and Novoyehorivka; and southeast of Borova near Makiivka on January 11 and 12.[6]
+
+Russian forces continued offensive operations in the Lyman direction on January 12 but did not make any confirmed advances. A Russian milblogger claimed that Russian forces advanced southwest and west of Ivanivka and west of Novosadove (both northeast of Lyman), but ISW has not observed confirmation of this claim. Russian forces continued offensive operations northeast of Lyman near Terny, Zarichne, and the Serebryanske forest area on January 11 and 12. Elements of the Russian 144th Motorized Rifle Division (20th CAA, MMD) reportedly continue operating in the Lyman direction.[6]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
@@ -43,3 +49,4 @@ Russian forces continued offensive operations in the Lyman direction on January 
 [3] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [4] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [5] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
+[6] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)

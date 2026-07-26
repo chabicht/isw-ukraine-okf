@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-12T00:00:00Z
 ---
 
 # Current Situation
@@ -30,6 +30,8 @@ Russian forces continued offensive operations in the Velyka Novosilka direction 
 
 Russian forces continued offensive operations in the Velyka Novosilka direction on January 11 but did not make any confirmed advances. Russian milbloggers claimed on January 10 and 11 that elements of the Russian 394th Motorized Rifle Regiment and 218th Tank Regiment (both of the 127th MRD, 5th CAA, EMD), supported by elements of the 60th Motorized Rifle Brigade (5th CAA), seized Neskuchne (southwest of Velyka Novosilka) and are threatening to form a tactical encirclement around Ukrainian forces in the area — though some milbloggers called this claim premature. Russian milbloggers claimed Russian forces also seized heights west of Neskuchne and that elements of the 5th CAA advanced along windbreaks and a ravine towards Novosilka (west of Velyka Novosilka) — ISW has not observed visual confirmation. Mashovets reported that elements of the Russian 127th MRD (5th CAA, EMD) are striking Ukrainian forces on the Vremivka-Novoselivka road and that elements of the 37th Motorized Rifle Brigade, 50th Tank Brigade (36th CAA, EMD), 40th Naval Infantry Brigade (Pacific Fleet, EMD), and 336th Naval Infantry Brigade (Baltic Fleet, LMD) conducted unsuccessful assaults north of Velyka Novosilka in the Novyi Komar-Novoocheretuvate direction and on the eastern and southern outskirts of Velyka Novosilka. Russian forces also continued ground attacks northeast of Velyka Novosilka near Rozdolne and southwest of Velyka Novosilka near Vremivka on January 10 and 11. The spokesperson of a Ukrainian brigade reported that Russian forces are conducting infantry assaults in the Velyka Novosilka direction because poor weather makes it difficult to field armored vehicles and operate strike and reconnaissance drones. A Ukrainian battalion commander reported that Russian forces are more actively operating fiber-optic drones in the Velyka Novosilka direction.[9]
 
+Russian forces continued offensive operations in the Velyka Novosilka direction on January 12 but did not make any confirmed advances. Russian forces continued attacking near Velyka Novosilka itself; southwest of Velyka Novosilka near Neskuchne; and west of Velyka Novosilka near Novosilka on January 11 and 12. A Russian milblogger claimed that Ukrainian forces counterattacked in Novyi Komar (north of Velyka Novosilka).[10]
+
 Note: ISW is incorporating data previously reported as the Vuhledar direction as part of the Kurakhove direction moving forward, reflecting the shifting operational situation.
 
 # Citations
@@ -43,3 +45,4 @@ Note: ISW is incorporating data previously reported as the Vuhledar direction as
 [7] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [8] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [9] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
+[10] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)

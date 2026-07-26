@@ -6,6 +6,25 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Ukrainian high-precision airstrike on 2nd CAA CP in Novohrodivka, broader series of strikes on Donetsk direction command posts, South Korean NIS confirmation of two North Korean POWs captured January 9;
+  [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) with NIS confirmation, POW believed he was going to Russia for training, food/water shortages before capture, significant NK losses;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Russian forces crossing into Sumy Oblast near Zhuravka, continued fighting in salient no confirmed advances, Ukrainian positions in Pogrebki confirmed, Russian milblogger claims unconfirmed, 1427th MRR, 34th MRB, 11th VDV Brigade dispositions, Engels fire update (3 tanks destroyed, 6 damaged);
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued ops near Kozacha Lopan and Vovchansk no confirmed advances, Ukrainian counterattack claim near Lyptsi, replenishment statement;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with marginal advance in northwestern Petropavlivka, MoD claim of Kalynove seizure (fewer than 10 pre-war residents), Borova direction two reinforced company-sized mechanized assaults repelled (20 vehicles destroyed, 4th Tank Division, T-72/T-80, EW protection attempted), Lyman unconfirmed claims, 144th MRD;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Hryhorivka/Bilohorivka attacks no advance;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with continued ops no confirmed advances, Ukrainian counterattack claim, Pivnichnyi Microraion and Refractory Plant claims unconfirmed, Khortytsia reported armored vehicle support destroyed one vehicle;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with advance in northwestern Toretsk (geolocated), reserves transferred doubling maneuver groups, Russian soldiers in civilian clothing (war crime if confirmed), 3rd Battalion 109th MRR;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with advance west of Novovasylivka, unconfirmed Zelene/Udachne/Solone claims, platoon-sized mechanized assault near Yasenove (1 tank, 2 APCs destroyed), Trehubov bypass statement;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with seizure of Yantarne (geolocated, MoD confirmed, 10th Tank Regiment, 33rd and 225th MRR), 68th Tank Regiment, 68th Reconnaissance Battalion, 114th MRB on Andriivka outskirts;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with continued Velyka Novosilka ops no advances, Ukrainian counterattack in Novyi Komar;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with no fighting reported, 71st MRR near Mala Tokmachka;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued island assaults (Kozatskyi, Velikiy Potemkin, Zabych), 61st Naval Infantry Brigade bridgehead attempt;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 11-12 overnight strike (94 Shahed, 60 downed, 34 EW-lost), Vlasivka residence strike, Zelensky weekly totals (700 glide bombs, 600+ strike drones Jan 6-12);
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with 2nd CAA CP strike in Novohrodivka, Engels fire update (three tanks 120,000m3 destroyed, six damaged);
+* **Creation**: Event concept for [Ukrainian Strike on 2nd CAA Command Post in Novohrodivka]({{ site.baseurl }}/events/ukrainian-strike-novohrodivka-2025-01-12.html).
+* **Update**: Event concept for [Ukrainian Drone Strike on Engels Oil Storage Facility]({{ site.baseurl }}/events/ukrainian-drone-strike-engels-2025-01-07.html) with fire status update (3 tanks destroyed, 6 damaged, still burning on day 5).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with first North Korean POWs captured (SSO/VDV), Putin maximalist pre-war demands (FT report on Dec 2021 ultimatum), forced child deportation (3,310 from Kherson, 400 Donetsk excursion, 449 returned in 2024);
   [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) created with NK troop deployments in Kursk, large assault group tactics (400-500 personnel), high casualties (~1,000/week), POW capture details, registration card from Tuva, limited training, Russian 810th Brigade losses;
