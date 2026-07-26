@@ -5,7 +5,7 @@ parent: Regions
 description: The Dnipro River delta and Kherson Oblast frontline area.
 tags: [military, eastern-europe, kinetic, black-sea]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Current Situation
@@ -58,6 +58,8 @@ Russian forces continued limited ground attacks in the Dnipro direction on Janua
 
 Russian forces continued attacking in the Dnipro direction on January 27 and 28 but did not advance.[23]
 
+Russian forces recently advanced in the Dnipro direction on January 29. Geolocated footage published on January 29 indicates that Russian forces recently advanced northward in the Dnipro River Delta and seized Nestryha Island (southwest of Kherson City).[24]
+
 # Citations
 
 [21] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -90,3 +92,4 @@ Russian forces continued attacking in the Dnipro direction on January 27 and 28 
 [20] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [22] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
 [23] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
+[24] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)

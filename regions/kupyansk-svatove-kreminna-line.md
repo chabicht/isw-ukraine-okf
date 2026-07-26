@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Current Situation
@@ -132,7 +132,13 @@ Russian forces continued offensive operations in the Borova direction on January
 
 Russian forces continued offensive operations in the Lyman direction on January 28 but did not make any confirmed advances. Russian forces attacked northeast of Lyman near Terny, Kolodyazi, and Yampolivka and towards Zelene Dolyna; east of Lyman near Zarichne; and southeast of Lyman in the Serebryanske forest area. Drone operators of the Chechen Akhmat Spetsnaz "Shram" Group are reportedly operating in the Lyman direction.[20]
 
+Russian forces continued offensive operations in the Kupyansk direction on January 29 but did not advance. Russian forces attacked north of Kupyansk near Kutkivka, Dvorichna, and Kindrashivka, and northeast of Kupyansk near Novomlynsk and Petropavlivka. Ukraine's Khortytsia Group of Forces reported that Russian forces are using armored vehicles to support infantry assaults near Pishchane (southeast of Kupyansk). Russian milbloggers claimed Russian forces advanced up to 3 kilometers after seizing Dvorichna, but ISW has not observed confirmation. Russian milbloggers claimed Russian forces have reinforced positions on the right bank of the Oskil River. Elements of the Russian 25th Motorized Rifle Brigade (6th CAA, LMD) are reportedly operating near Dvorichna and Zapadne. Russian forces continued offensive operations in the Borova direction on January 29 but did not advance. Russian milbloggers claimed that the Russian military command is forcing elements of the 20th CAA to attempt to advance near Novoyehorivka. Another Russian milblogger claimed Russian forces seized Novoyehorivka on January 29. Drone operators of the 16th Spetsnaz Brigade (GRU) are reportedly operating fiber-optic FPV drones near Hrekivka. In the Lyman direction, the Ukrainian General Staff published a map indicating Russian forces recently advanced northwest of Novosadove and Novolyubivka (both northeast of Lyman).[20]
+
 # Citations
+
+[20] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
+
+
 
 [16] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 

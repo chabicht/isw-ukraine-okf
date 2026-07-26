@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Pokrovsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Current Situation
@@ -64,6 +64,8 @@ Russian forces continued offensive operations in the Pokrovsk direction on Janua
 
 Ukrainian and Russian forces recently advanced in the Pokrovsk direction amid continued Russian offensive operations in the area on January 28. Geolocated footage published on January 27 and 28 indicates that Ukrainian forces recently advanced in southeastern Kotlyne (west of Pokrovsk) and south of Zvirove (southwest of Pokrovsk). Additional geolocated footage published on January 27 indicates that Russian forces recently advanced along the Donetska Railway on the southeastern outskirts of Udachne (west of Kotlyne). The Ukrainian General Staff published a map indicating that Russian forces have seized Uspenivka and Novoandriivka (both southwest of Pokrovsk), though it is unclear when these gains were made. Russian milbloggers claimed advances to Chunyshyne (south of Pokrovsk), south of Udachne, towards Kotlyarivka, north and south of Nadiivka, and in Novooleksandrivka. Russian forces conducted offensive operations near Pokrovsk itself and across a wide area east, southeast, south, west, and southwest of Pokrovsk on January 27 and 28. Russian milbloggers claimed that Russian forces are attacking Sribne from three directions as part of efforts to envelop the settlement along a wide front. A Russian source claimed that Ukrainian forces unsuccessfully counterattacked in Udachne and near Kotlyne.[24]
 
+Russian forces recently marginally advanced southwest of Pokrovsk on January 29. Geolocated footage indicates Russian forces marginally advanced west of Kotlyne (southwest of Pokrovsk). Russian milbloggers claimed advances south of Zvirove, along the railway line from Kotlyne towards Pokrovsk, into southeastern Sribne, and consolidation of positions in central and eastern Udachne, though ISW has not observed confirmation. The Russian MoD claimed Russian forces seized Novoyelyzavetivka (southwest of Pokrovsk), but ISW assesses Russian forces seized the settlement as of January 14. A Russian milblogger claimed Ukrainian forces are counterattacking near Uspenivka and Novooleksandriivka. Ukrainian military observer Mashovets stated that elements of the Russian 74th and 55th motorized rifle brigades (41st CAA, CMD) advanced between Novovasylivka and Pishchane.[25]
+
 # Citations
 
 [22] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -95,3 +97,4 @@ Ukrainian and Russian forces recently advanced in the Pokrovsk direction amid co
 [21] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [23] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
 [24] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
+[25] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)

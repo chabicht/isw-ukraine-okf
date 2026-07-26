@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-27T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Current Situation
@@ -80,6 +80,8 @@ On the night of Jan 25 to 26, Ukrainian forces struck the Ryazan Oil Refinery fo
 
 Ukrainian forces struck Russian long-range drone storage facilities in Oryol Oblast again on January 26. The Ukrainian General Staff reported that Ukrainian forces struck drone and thermobaric warhead storage warehouses, causing secondary detonations and destroying over 200 Shahed drones. Ukrainian Center for Countering Disinformation Head Lieutenant Andriy Kovalenko stated that Ukrainian forces struck the same drone storage facility at the end of December 2024. Oryol Oblast Governor Andrei Klychkov claimed that Ukrainian forces repeatedly attempted to strike Oryol Oblast and that Russian electronic warfare (EW) interference downed a Ukrainian drone in Oryol Oblast.[20]
 
+On the night of January 28 to 29, Ukrainian forces conducted a drone strike at the Lukoil-Nizhegorodnefteorgsintez oil refinery in Kstovo, Nizhny Novgorod Oblast. The Ukrainian General Staff reported that elements of the GUR and Unmanned Systems Forces struck the refinery, causing a fire. Ukrainian Center for Countering Disinformation Head Lieutenant Andriy Kovalenko reported that the refinery produces gasoline, diesel, aviation kerosene, and bitumen; processes 15 to 17 million tons of oil per year; and supports the Russian military. Ukrainian drones also reportedly struck the Russian Main Missile and Artillery Directorate of the Russian MoD's 23rd Arsenal near Oktyabrsky, Tver Oblast, damaging an empty weapons storage building and three other buildings. Ukrainian forces previously struck the 23rd Arsenal in September 2024.[21]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -102,3 +104,4 @@ Ukrainian forces struck Russian long-range drone storage facilities in Oryol Obl
 [18] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 [19] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 [20] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[21] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)

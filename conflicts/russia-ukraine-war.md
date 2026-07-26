@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Background
@@ -148,6 +148,8 @@ Ukraine and Moldova continued to offer solutions to Transnistria's energy crisis
 
 The Kremlin continued to leverage the prominent Kremlin-linked _Rybar_ Telegram channel to cultivate increased Russian influence in Iraq. The _Rybar_ channel claimed on January 25 that members of the _Rybar_ team, including founder Mikhail Zvinchuk, visited Iraq over the last week and met with Iraqi officials including Prime Minister Mohammad Shia Al Sudani. Iraqi officials noted their openness to increasing trade and foreign investments with Russian partners and interest in further developing Russian-Iraqi relations. The recent fall of the Bashar Al-Assad regime in Syria may be prompting the Kremlin to reconsider the contours of its relations with Iraq.[23]
 
+Russian President Vladimir Putin stated on January 28 that Western military assistance remains vital to Ukraine's ability to maintain its defense against Russian aggression, claiming the war could end within two months if the West stops providing aid. Putin's theory of victory relies on the assumption that the West will abandon Ukraine. Putin indicated he will not view any peace agreement with Ukraine as binding by claiming the Ukrainian government is unwilling or unable to rescind the 2022 presidential decree banning negotiations with Putin. Putin's statements rejecting the legitimacy of the Ukrainian government set conditions for Russia to justify violating any future agreement with Ukraine. Putin continues efforts to coerce US President Donald Trump into bilateral negotiations that exclude Ukraine and impose his desired negotiation framework. The Russian Ministry of Defense confirmed on January 29 that Lieutenant General Alexander Sanchik is the commander of the Russian Southern Grouping of Forces.[27]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -180,6 +182,7 @@ The Russian military likely formed a separate unmanned systems regiment at the m
 
 [25] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
 [26] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
+[27] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

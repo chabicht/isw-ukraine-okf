@@ -5,7 +5,7 @@ parent: Regions
 description: The Republic of Belarus, a Russian ally providing staging grounds and supporting the war effort.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Current Situation
@@ -58,6 +58,8 @@ The Russian government continues to erode Belarusian sovereignty by increasing i
 
 Belarusian President Alexander Lukashenko approved on January 28 draft amendments to the 1998 Belarusian-Russian Treaty on Equal Rights of Citizens that would possibly allow Russian and Belarusian citizens who are permanent residents of the other state to vote or run in local elections in their resident state.[13]
 
+Nothing significant to report from the January 29 assessment regarding Belarus.[14]
+
 # Citations
 
 [12] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -79,3 +81,4 @@ Belarusian President Alexander Lukashenko approved on January 28 draft amendment
 [11] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [12] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 [13] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
+[14] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)

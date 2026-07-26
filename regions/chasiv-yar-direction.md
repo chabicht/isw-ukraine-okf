@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Chasiv Yar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Current Situation
@@ -50,7 +50,13 @@ Russian forces recently advanced within central Chasiv Yar amid continued offens
 
 Russian forces continued offensive operations near and within Chasiv Yar on January 28 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces advanced in central Chasiv Yar and west of Kalynivka (north of Chasiv Yar), but ISW has not observed confirmation. Ukraine's Khortytsia Group of Forces reported that Russian forces recently attacked with armored vehicle support near Bila Hora (south of Chasiv Yar) and that Ukrainian drones destroyed and damaged two Russian tanks and three armored vehicles during the attack. Russian forces continued assaults near Chasiv Yar itself and south of Chasiv Yar near Stupochky, Predtechyne, and Bila Hora. Elements of the Russian 98th VDV Division, including its 331st VDV Regiment and 215th Reconnaissance Battalion; 38th Separate Engineer-Sapper Battalion; and 200th Motorized Rifle Brigade (14th AC, LMD) are reportedly operating near and within Chasiv Yar.[19]
 
+Russian forces recently advanced in the Chasiv Yar direction on January 29. Geolocated footage published on January 28 shows Chechen Akhmat Spetsnaz forces assaulting Ukrainian positions near a waste heap south of Chasiv Yar, indicating Russian forces advanced along the T-0504 Bakhmut-Kostyantynivka highway and westward over part of the waste heap. The Ukrainian General Staff published a map indicating Russian forces also likely advanced along the O-0508 highway in southeastern Orikhovo-Vasylivka (north of Chasiv Yar). Russian milbloggers claimed the Russian Hispaniola Volunteer Brigade seized most or all of Pivnichnyi Microraion and Novopivnichnyi Microraion and advanced in fields south of Tsentralnyi Pond. Assault elements of the Russian 13th Rusich Detachment (4th MRB, 3rd CAA) are reportedly operating southeast of Chasiv Yar, and elements of the 98th VDV Division and 200th MRB (14th AC, LMD) are reportedly fighting in Chasiv Yar.[20]
+
 # Citations
+
+[20] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
+
+
 
 [15] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 

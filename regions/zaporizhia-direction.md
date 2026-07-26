@@ -5,7 +5,7 @@ parent: Regions
 description: The southern axis in Zaporizhia Oblast, including the Robotyne area.
 tags: [military, eastern-europe, kinetic, crimea]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Current Situation
@@ -76,6 +76,8 @@ Russian forces continued limited ground attacks in the Zaporizhia direction on J
 
 Russian forces conducted limited ground attacks in the Zaporizhia direction near Novodanylivka (north of Robotyne) on January 27 and 28. The Ukrainian General Staff published a map indicating that Russian forces seized Stepove (northwest of Robotyne) and advanced northeast of Kopani (west of Robotyne) and south of Maly Shcherbaky (northwest of Robotyne), though it is unclear when these advances occurred. Russian forces continued attacking in the Dnipro direction on January 27 and 28 but did not advance.[23]
 
+Russian forces recently advanced north of Robotyne on January 29. The Ukrainian General Staff published a map indicating Russian forces likely advanced southwest of Novodanylivka (north of Robotyne). Russian forces continued ground assaults in the Polohy direction but did not advance. Elements of the Russian 247th VDV Regiment (7th VDV Division) are reportedly operating near Kamyanske; drone operators of the 1455th Motorized Rifle Regiment are reportedly striking Ukrainian positions near Orikhiv; and elements of the 136th Motorized Rifle Brigade (58th CAA, SMD) are reportedly operating in the Zaporizhia direction.[24]
+
 # Citations
 
 [21] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
@@ -108,3 +110,4 @@ Russian forces conducted limited ground attacks in the Zaporizhia direction near
 [20] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [22] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
 [23] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
+[24] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)

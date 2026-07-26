@@ -4,6 +4,26 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2025-01-29
+
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Putin statements on Western aid, theory of victory, 2022 decree strawman, legitimacy claims, coercion of Trump, Sanchik confirmed Southern Grouping of Forces commander;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Ukrainian marginal advance in NW Pogrebki, repelled platoon-sized mechanized assault west of Nikolskiy;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued Vovchansk/Starytsya attacks no advance, Ukrainian Buk-M3 strike;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Dvorichna unconfirmed claim, Kupyansk continued no advance, Borova Novoyehorivka claim, Lyman confirmed advance NW of Novosadove/Novolyubivka;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued ops no advance, Ukrainian destroyed 2 tanks/10 AFVs/6 motorcycles;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with Akhmat advance at waste heap south of Chasiv Yar, advance along O-0508 in Orikhovo-Vasylivka;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with Ukrainian advance along Klymenka Street in NW Leonidivka and Darhomyzhskoho Street in N Toretsk, Russian marginal advance in NW Pivnichne, ISW assesses ~88% Russian control;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with Russian marginal advance west of Kotlyne, MoD Novoyelyzavetivka claim (assessed Jan 14);
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with Russian advance in southern Dachne, 102nd/103rd MRR participation;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with Russian advance NE of Rozdolne, SE of Novodarivka, E of Olhivske;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with Russian advance SW of Novodanylivka, 247th VDV/1455th MRR/136th MRB operations;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with Russian advance seized Nestryha Island in Dnipro Delta;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Kstovo oil refinery strike, 23rd Arsenal strike in Tver;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 28-29 overnight strike (Iskander-M, 57 Shahed, 29 downed, 14 EW-lost);
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with Moscow volunteer rates drop to ~40/day, Time of Heroes Kuzminchuk Kamchatka appointment;
+  [Russian technological adaptations]({{ site.baseurl }}/themes/russian-technological-adaptations.html) with MT-LB armored cage industry, Tiger-M armored vehicle adaptations.
+
 ## 2025-01-28
 
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/).

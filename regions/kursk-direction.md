@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Current Situation
@@ -80,7 +80,11 @@ Fighting continued in the Ukrainian salient in Kursk Oblast on January 27 but th
 
 Russian forces continued offensive operations within the Ukrainian salient in Kursk Oblast on January 28 but did not make any confirmed advances. A Ukrainian brigade operating in Kursk Oblast posted footage showing Ukrainian drones repelling a reinforced platoon-sized Russian mechanized assault in an unspecified area. The Russian MoD claimed that elements of the Russian 83rd VDV Brigade advanced along the Snagost River and participated in the seizure of Nikolayevo-Darino. Russian milbloggers claimed that Russian forces advanced north of Guyevo and near Sverdlikovo. Ukrainian Center for Countering Disinformation Head Lieutenant Andriy Kovalenko stated that North Korean forces have not learned to counter Ukrainian drone and artillery strikes and have suffered significant losses. A Ukrainian special operations commander told Sky News that North Korean troops appear to have temporarily withdrawn from the frontline after suffering significant losses and may be tending to wounded or waiting for reinforcements, but will likely return to combat soon. Ukrainian servicemembers reported that North Korean forces often operate in easily identifiable groups of 20 to 60 personnel, have higher quality small arms and uniforms than Russian forces, but lack access to armored vehicles and must attack and transport supplies on foot. Elements of the Russian 34th Motorized Rifle Brigade (49th CAA, SMD) are reportedly operating near Pogrebki, and elements of the 5th Anti-Aircraft Missile Regiment (98th VDV Division), 106th VDV Division, and 56th VDV Regiment (7th VDV Division) are reportedly operating in Kursk Oblast.[19]
 
+Ukrainian forces recently marginally advanced along Novoselovka Street in northwestern Pogrebki (northwest of Sudzha) on January 29. Russian milbloggers claimed Russian forces recently advanced west of Plekhovo and north of Guyevo (both south of Sudhza), but ISW has not observed confirmation. Fighting continued near Russkoye Porechnoye and Sverdlikovo. Ukrainian forces counterattacked near Nikolskiy. Geolocated footage from January 28 shows Ukrainian forces repelled a roughly platoon-sized Russian mechanized assault involving at least four armored vehicles west of Nikolskiy. Drone operators of the Russian Rubikon Center for Advanced Unmanned Technologies, 83rd VDV Brigade, elements of the 7th VDV Division, and 34th Motorized Rifle Brigade are reportedly operating in Kursk Oblast.[20]
+
 # Citations
+
+[20] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 
 [14] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 [15] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)

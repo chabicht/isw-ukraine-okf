@@ -5,7 +5,7 @@ parent: Regions
 description: The northern axis of Russian offensive operations in Kharkiv Oblast, centered on Vovchansk.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Current Situation
@@ -54,7 +54,13 @@ Russian forces continued ground attacks north of Kharkiv City near Lyptsi and no
 
 Russian forces continued ground attacks northeast of Kharkiv City near Vovchansk and Starytsya on January 27 and 28 but did not advance. The commander of a Ukrainian brigade operating in the Vovchansk direction stated on January 27 that Russian forces assault the Vovchansk Aggregate Plant daily in groups of three to 10 personnel, including male and female convict recruits.[20]
 
+Russian forces continued ground attacks northeast of Kharkiv City near Vovchansk and Starytsya on January 28 and 29 but did not advance. A Ukrainian drone battalion operating in Kharkiv Oblast published footage on January 29 showing a Ukrainian strike on a Russian Buk-M3 air defense system in occupied Kharkiv Oblast.[21]
+
 # Citations
+
+[21] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
+
+
 
 [16] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 

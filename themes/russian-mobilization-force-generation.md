@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Current Situation
@@ -100,6 +100,8 @@ The Russian government continues to use its "Time of Heroes" program to appoint 
 
 Russian authorities continue to offer financial incentives to increase recruitment in occupied Crimea — a violation of the Geneva Convention. Crimea occupation head Sergey Aksyonov announced on January 28 that Russian authorities will pay those who sign Russian MoD contracts in 2025 in occupied Crimea a one-time payment of 500,000 rubles (about $5,100). Article 51 of the Geneva Convention explicitly prevents an occupying power from compelling the population it occupies to serve in the occupying power's military, including via "pressure or propaganda which aims at securing voluntary recruitment."[21]
 
+Volunteer recruitment rates in Moscow have dropped sharply as Russian citizens grow increasingly unwilling to serve in Ukraine. Russian opposition outlet Verstka reported on January 29 that the number of Russian citizens willing to volunteer to fight in Moscow City has dropped from a peak daily rate of 200 to 250 people in August 2024 to about 40 people currently. The demographic makeup has shifted: ordinary Russian citizens now comprise only half of the volunteers, while the other half are largely foreigners and individuals facing criminal or administrative charges. Verstka noted that more citizens from China, African countries, and post-Soviet countries are signing contracts, drawn by one-time payments of 1.9 million rubles (about $19,140). The Russian government continues to use its Time of Heroes program to appoint veterans to federal government positions. The program reported on January 29 that Russian authorities appointed Sergey Kuzminchuk to be the federal inspector for the Kamchatka Krai Office of the Plenipotentiary Representative of the Russian President in the Far Eastern Federal District.[22]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
@@ -131,3 +133,4 @@ Russian authorities continue to offer financial incentives to increase recruitme
 [19] [Russian Offensive Campaign Assessment, January 26, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-26-2025/)
 [20] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
 [21] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
+[22] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)

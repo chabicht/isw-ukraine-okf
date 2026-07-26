@@ -5,7 +5,7 @@ parent: Themes
 description: Russian innovations in drone technology, electronic warfare, and armored vehicle modifications for the Ukraine war.
 tags: [military, technology, drone-warfare]
 status: ongoing
-timestamp: 2025-01-28T00:00:00Z
+timestamp: 2025-01-29T00:00:00Z
 ---
 
 # Current Situation
@@ -36,9 +36,12 @@ Russian defense manufacturer Kalashnikov Concern announced on January 21 that it
 
 Russian Presidential Aide and former Security Council Secretary Nikolai Patrushev stated on January 28 that an unspecified Russian Navy center will work to create new types of naval drones, including those that use artificial intelligence (AI) and machine learning.[10]
 
+The Russian defense industrial base continues to develop armored vehicle adaptations to offset its inability to produce a sufficient number of armored vehicles. A Russian milblogger noted on January 28 that the Russian DIB has developed an industry focused on welding armored protective cages onto MT-LB armored fighting vehicles to protect troop compartments from drone strikes, created as a result of Russia's inability to sustain a replenishment production rate for armored vehicles. The milblogger also claimed that Russian authorities have applied adaptations to the ASN-233115 Tiger-M special purpose armored vehicle, including additional armored plating in the engine compartment, on all four doors, and rear wheels, as well as an armored screen for the windshield.[11]
+
 # Citations
 
 [10] [Russian Offensive Campaign Assessment, January 28, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-28-2025/)
+[11] [Russian Offensive Campaign Assessment, January 29, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-29-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
 [2] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
