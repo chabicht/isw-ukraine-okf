@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-20T00:00:00Z
+timestamp: 2025-01-21T00:00:00Z
 ---
 
 # Current Situation
@@ -56,9 +56,17 @@ Russian forces recently advanced south of Sudzha amid continued activity in the 
 
 Russian forces continued offensive operations in the Ukrainian salient in Kursk Oblast on January 20 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces attacked northwest of Sudzha near Nikolskiy and towards Viktorovka from Novoivanovka and south of Sudzha near Kurilovka. A Russian milblogger claimed that Ukrainian forces counterattacked north of Sudzha near Staraya Sorochina and Novaya Sorochina and south of Sudzha in Makhnovka. Elements of the Russian 56th Airborne (VDV) Regiment (7th VDV Division), 83rd VDV Brigade, 40th Naval Infantry Brigade (Pacific Fleet, Eastern Military District [EMD]), and the "Kashtan" unit of Chechen Akhmat Spetsnaz reportedly continue operating in Kursk Oblast. Drone operators of the Russian 155th Naval Infantry Brigade (Pacific Fleet) are reportedly striking targets north of Sudzha near Nikolayevka.
 
+Russian forces recently advanced in the Ukrainian salient in Kursk Oblast amid continued fighting on January 21. Geolocated footage published on January 20 indicates that Russian forces recently advanced to the western outskirts of Viktorovka (northwest of Sudzha) and southwest and northwest of Nikolskiy (south of Viktorovka) during an at least company-sized mechanized assault. One of the Ukrainian brigades that repelled the mechanized assault reported on January 20 that Ukrainian forces destroyed three tanks and seven infantry fighting vehicles. Russian milbloggers claimed that elements of the Russian 810th Naval Infantry Brigade (Black Sea Fleet, Southern Military District [SMD]) advanced towards Guyevo (south of Sudzha) from the north and that elements of the 83rd Airborne (VDV) Brigade completely seized Nikolayevo-Darino (southeast of Korenevo) — ISW has not observed confirmation of these claims. A Russian milblogger claimed that the current warmer weather and expected upcoming snow and rain in Kursk Oblast are not conducive to large offensive operations. Elements of the Russian 5th Anti-Aircraft Missile Regiment (98th VDV Division) are reportedly operating in Kursk Oblast.[12]
+
+Russian opposition outlet Mobilization News reported on January 21 that Russian authorities are currently searching for three North Korean personnel who killed five Russian soldiers of the 810th Naval Infantry Brigade near Bolshoye Soldatskoye (northeast of Sudzha).[12]
+
+Acting Kursk Oblast Governor Alexander Khinshtein's appointment has failed to solve or distract from Russia's failure to adequately respond to Ukraine's incursion. Residents of Sudzhansky, Korenevsky, Bolshesoldatsky, and Glushkovsky raions protested in front of the Kursk Oblast Administration building on January 18 and 21, demanding to meet with Khinshtein. The protestors asked him to address insufficient permanent housing for residents, issues with temporary accommodation centers, and his lack of dialogue. Khinshtein's advisor, Viktoria Penkova, met with the protestors, and the Kursk Oblast Administration Press Service stated that authorities informed the protestors of "necessary explanations and consultations." Putin likely appointed Khinshtein to appear dedicated to solving social issues and to quell local protests, and Khinshtein's failure to fulfill this role undermines this intended effect.[12]
+
 # Citations
 
 [11] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+
+[12] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [2] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)

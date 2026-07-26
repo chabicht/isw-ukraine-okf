@@ -4,6 +4,28 @@ nav_order: 8
 permalink: /log/
 ---
 
+## 2025-01-21
+
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Putin-Xi phone call on deepening cooperation, Khinshtein failure to address Kursk protests, Gerasimov visit to Pokrovsk direction command post;
+  [Ukraine's Strike Campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with second strike on Lisinskaya Oil Refinery (Voronezh), Smolensk Aviation Plant, Saratovorgsintez Chemical Plant, 29th CAA command post in Volnovakha;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 20-21 overnight strike (4 Iskander-M, 131 Shahed, 72 downed, 59 EW-lost), damage in Poltava/Cherkasy/Kharkiv/Kyiv/Mykolaiv/Dnipro oblasts;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with milblogger complaints about MoD accountability (Vuhledar/Kharkiv/Kursk failures), Popov prosecution criticism, Mari El payment increase to 1.8M rubles, Africa Corps recruitment, Time of Heroes regional expansion (Heroes of Priangarie);
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with advance to western Viktorovka and Nikolskiy (geolocated, company-sized mechanized assault), unconfirmed Guyevo and Nikolayevo-Darino claims, 5th Anti-Aircraft Missile Regiment (98th VDV), NK personnel killed 5 Russian soldiers of 810th Brigade, Khinshtein protest escalation;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued Vovchansk ops no advance;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk no advance Rubicon Center drone ops, Borova unconfirmed Zelenyi Hai/Bohuslavka/Makiivka claims MoD Novoyehorivka claim inaccurate, Lyman unconfirmed Terny claim 144th MRD operations;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Verkhnokamyanske/Ivano-Darivka no advance;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with advance within central Chasiv Yar (geolocated), Shustry Detachment (Chechen Akhmat) south of Chasiv Yar, Refractory Plant clearing claims, 299th VDV/Hispaniola/200th MRB;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with unconfirmed Fomikha Mine waste heap and all-of-Toretsk claims;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with Ukrainian regained positions in southern Kotlyne, Russian seizure of Zelene and Novyi Trud (geolocated), Gerasimov/Mordvichev visit, 110th MRB/Vega Spetsnaz;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with advance west of Petropavlivka and northeast of Rozdolne (geolocated), decreased intensity, bypassing Andriivka from north, 39th MRB/68th Recon/242nd MRR/381st Artillery/238th Artillery;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with unconfirmed Fontanna Street advance, fiber optic drone destroyed IFV near Novyi Komar;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with limited Kamyanske attack no advance, Ukrainian Tor-M2 AD system strike southeast of Novomykolaivka (geolocated);
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Kozatskyi Island attacks no advance;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with presidential election early voting (Jan 21-25), Lukashenko-Putin second nuclear plant discussion;
+  [Crimea]({{ site.baseurl }}/regions/crimea.html) with Belbek Airfield protective structures (satellite imagery);
+  [Russia]({{ site.baseurl }}/actors/countries/russia.html) with Putin-Xi phone call, Gerasimov visit to Pokrovsk front command post.
+
 ## 2026-07-26
 
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/).

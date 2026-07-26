@@ -5,7 +5,7 @@ parent: Regions
 description: The Republic of Belarus, a Russian ally providing staging grounds and supporting the war effort.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-20T00:00:00Z
+timestamp: 2025-01-21T00:00:00Z
 ---
 
 # Current Situation
@@ -42,11 +42,15 @@ ISW assesses that the Kremlin will leverage its military gains in Belarus to off
 
 North Korea may be setting conditions to increase its cooperation with Belarus. North Korean dictator Kim Jong Un's sister and Vice Chair of the Workers' Party of Korea's Central Committee Kim Yo Jong stated on January 20 that North Korea is receptive to developing bilateral relations with Belarus, but that Belarus needs to more explicitly clarify its intentions.
 
+The Belarusian Central Election Commission announced that early voting for the Belarusian presidential election began on January 21 and will end on January 25 ahead of the official election day on January 26. Radio Free Europe/Radio Liberty's Russian-language service stated that human rights activists noted that the Belarusian government uses early voting as a mechanism to commit voter fraud and force a certain number of Belarusians to vote early.[8]
+
+Belarusian President Alexander Lukashenko stated on January 21 that he intends to talk with Russian President Vladimir Putin in the near future about Russia's construction of a second nuclear power plant in Belarus.[8]
+
 # Citations
 
-[8] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+[8] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 
-[1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
+[1] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [2] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [3] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [4] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)

@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-20T00:00:00Z
+timestamp: 2025-01-21T00:00:00Z
 ---
 
 # Background
@@ -118,6 +118,12 @@ Russian President Vladimir Putin reiterated on January 20 that the Kremlin is wi
 
 Ukrainian strikes against Russian defense industrial base (DIB) targets are reportedly affecting Russian forces' combat capabilities. Syrskyi stated on January 20 that Ukrainian strikes on Russia's military facilities, including oil refineries and those that produce ammunition, missile components, and dual-use products, have significantly disrupted Russian forces' combat capabilities and ability to maintain a high intensity of combat operations. Syrskyi noted that Russian forces are using half as many artillery shells per day than they were an unspecified period of time ago.[19]
 
+Russian President Vladimir Putin and People's Republic of China (PRC) President Xi Jinping held a phone call on January 21 and emphasized deepening cooperation. Putin and Xi reiterated boilerplate narratives emphasizing increasing Russian-PRC foreign policy, energy, and economic cooperation. Russian Presidential Aide Yuri Ushakov claimed that Putin and Xi discussed Russia's war in Ukraine and their relations with the United States, although the official Kremlin readout did not mention these topics. Ushakov also claimed that Xi gave Putin an overview of Xi's recent call with US President Donald Trump.[20]
+
+Acting Kursk Oblast Governor Alexander Khinshtein's recent appointment has thus far failed to solve or distract from Russia's failure to adequately respond to Ukraine's incursion into Kursk Oblast. Russian opposition media reported that residents of Sudzhansky, Korenevsky, Bolshesoldatsky, and Glushkovsky raions protested in front of the Kursk Oblast Administration building on January 18 and 21, demanding to meet with Khinshtein. The protestors asked him to address insufficient permanent housing for residents, issues with temporary accommodation centers, and his lack of dialogue with Kursk Oblast residents. Putin likely appointed Khinshtein to appear dedicated to solving social issues in Kursk Oblast and to quell local protests, and his failure to fulfill this role undermines this intended effect.[20]
+
+Russian Chief of the General Staff Army General Valery Gerasimov visited a forward command post of an unspecified Russian tank division and motorized rifle brigade in the Pokrovsk direction on January 21, hearing reports from Russian Central Grouping of Forces Commander Colonel General Andrei Mordvichev and other unspecified commanders.[20]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -147,3 +153,4 @@ Moscow's military integration with Belarus already provides operational benefits
 [17] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [18] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)
 [19] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+[20] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)

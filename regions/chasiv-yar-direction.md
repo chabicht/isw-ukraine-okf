@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Chasiv Yar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-20T00:00:00Z
+timestamp: 2025-01-21T00:00:00Z
 ---
 
 # Current Situation
@@ -34,11 +34,13 @@ Both Russian and Ukrainian forces recently advanced in Chasiv Yar amid continued
 
 Russian forces continued offensive operations in the Chasiv Yar direction on January 20 but did not make any confirmed advances. Russian milbloggers claimed that elements of the Russian 200th Motorized Rifle Brigade (14th Army Corps [AC], Leningrad Military District [LMD]) seized Desyatnyi Microraion in northern Chasiv Yar and that elements of the 331st Airborne (VDV) Regiment (98th VDV Division) advanced west of the Refractory Plant in central Chasiv Yar, but ISW has not observed confirmation. Russian forces continued ground attacks within Chasiv Yar itself and south of Chasiv Yar near Stupochky and Bila Hora on January 19 and 20. Elements of the Russian 98th VDV Division are reportedly operating in southern Chasiv Yar, and elements of the BARS-31 (Russian Combat Army Reserve) unit are reportedly operating near Orikhovo-Vasylivka (northeast of Chasiv Yar).
 
+Russian forces recently advanced in the Chasiv Yar direction amid continued offensive operations on January 21. Geolocated footage published on January 21 indicates that Russian forces recently advanced within central Chasiv Yar. Additional geolocated footage published on January 21 shows elements of the "Shustry" Detachment of Chechen Akhmat Spetsnaz operating south of Chasiv Yar, indicating that Russian forces recently advanced in the area. Russian milbloggers claimed that Russian forces cleared the Refractory Plant in central Chasiv Yar and advanced in northwestern and southwestern Chasiv Yar, but ISW has not observed confirmation. Ukraine's Luhansk Group of Forces Spokesperson Colonel Dmytro Zaporozhets stated on January 21 that Russian forces are leveraging the limited visibility during poor weather conditions to accumulate in northern Chasiv Yar and assault the Refractory Plant. Russian forces continued attacking near Chasiv Yar itself, south of Chasiv Yar toward Stupochky, and northwest of Chasiv Yar toward Fedorivka on January 20 and 21. Elements of the Russian 299th Airborne (VDV) Regiment (98th VDV Division) and "Hispaniola" Volunteer Brigade (Russian Volunteer Corps) reportedly continue operating near Chasiv Yar. Elements of the Russian 200th Motorized Rifle Brigade (14th Army Corps [AC], Leningrad Military District [LMD]) are reportedly operating near Orikhovo-Vasylivka (northeast of Chasiv Yar).[12]
+
 # Citations
 
-[12] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+[12] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 
-[1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
+[1] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [2] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [3] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [4] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)

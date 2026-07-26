@@ -5,7 +5,7 @@ parent: Regions
 description: The southern axis in Zaporizhia Oblast, including the Robotyne area.
 tags: [military, eastern-europe, kinetic, crimea]
 status: ongoing
-timestamp: 2025-01-20T00:00:00Z
+timestamp: 2025-01-21T00:00:00Z
 ---
 
 # Current Situation
@@ -48,9 +48,13 @@ Russian forces continued offensive operations in the Dnipro direction on January
 
 Russian forces continued offensive operations northwest of Robotyne near Novoandriivka on January 19 and 20 but did not advance.
 
+Russian forces conducted a limited ground attack northwest of Robotyne near Kamyanske on January 21 but did not advance. Sappers of the Russian 7th Airborne (VDV) Division and elements of the 42nd Motorized Rifle Division (58th Combined Arms Army [CAA], Southern Military District [SMD]) are reportedly operating in the Zaporizhia direction. Geolocated footage published on January 20 shows that Ukrainian forces struck a Russian Tor-M2 air defense system southeast of Novomykolaivka (south of Tokmak).[16]
+
+Russian forces continued limited ground attacks in the Dnipro direction, including near Kozatskyi Island (northeast of Kherson City), on January 20 and 21 but did not advance.[16]
+
 # Citations
 
-[16] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+[16] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

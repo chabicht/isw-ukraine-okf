@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-20T00:00:00Z
+timestamp: 2025-01-21T00:00:00Z
 ---
 
 # Current Situation
@@ -66,6 +66,14 @@ On January 20, Ukrainian forces reportedly struck the Gorbunov Aircraft Plant in
 
 Ukrainian strikes against Russian DIB targets are reportedly affecting Russian forces' combat capabilities. Syrskyi stated on January 20 that Ukrainian strikes on Russia's military facilities, including oil refineries and those that produce ammunition, missile components, and dual-use products, have significantly disrupted Russian forces' combat capabilities. Syrskyi noted that Russian forces are using half as many artillery shells per day than they were an unspecified period of time ago.[16]
 
+On the night of January 20 to 21, Ukrainian forces conducted a second strike on Rosneft's Lisinskaya Oil Refinery in Voronezh Oblast within a week, causing a fire at fuel and lubricant tanks. The Ukrainian General Staff reported that Ukrainian Special Operation Forces (SSO) and other Ukrainian forces conducted the strike and noted that the refinery supplies the Russian military. Voronezh Oblast Governor Alexander Gusev claimed that Russian forces destroyed several drones but that one fell on an oil depot in Liskinsky Raion. A Kremlin-affiliated milblogger noted the oil depot was still burning from the January 15-16 strike and the second strike started another fire.[17]
+
+On the same night, Ukraine's Unmanned Systems Forces and SSO struck the Smolensk Aviation Plant in Smolensk Oblast. Geolocated footage shows fires at the production building of the plant, which produces and modernizes Su-25 attack aircraft and maintains aviation equipment. Ukrainian Center for Countering Disinformation Head Lieutenant Andriy Kovalenko stated the plant produces and modernizes Su-25 attack aircraft. Smolensk Oblast Governor Vasily Anokhin claimed that falling drone debris caused fires.[17]
+
+Ukrainian forces also struck Lukoil's Saratovorgsintez Chemical Plant in Saratov City overnight, which produces acrylonitrile, acetonitrile, and sodium cyanide.[17]
+
+The Ukrainian General Staff reported that Ukrainian forces struck the command post of the Russian 29th Combined Arms Army (Eastern Military District) in occupied Volnovakha, Donetsk Oblast on the night of January 20 to 21. The Ukrainian General Staff stated there are reports of explosions and smoke after the strike and that Ukrainian authorities are clarifying results. ISW continues to assess that Ukrainian strikes against main command posts further in the Russian rear are likely aimed at degrading broader Russian logistics and operational planning efforts, which could impact Russia's ability to conduct operations in western Donetsk Oblast.[17]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -84,3 +92,4 @@ Ukrainian strikes against Russian DIB targets are reportedly affecting Russian f
 [14] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [15] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [16] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+[17] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)

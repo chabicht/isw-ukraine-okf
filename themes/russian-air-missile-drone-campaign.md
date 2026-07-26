@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-20T00:00:00Z
+timestamp: 2025-01-21T00:00:00Z
 ---
 
 # Current Situation
@@ -70,6 +70,8 @@ On the night of January 19 to 20, Russian forces conducted a series of drone and
 
 Ukraine's Pivnich (Northern) Operational Command Spokesperson Colonel Vadym Mysnyk reported on January 20 that Russian forces have intensified strikes, including with guided and unguided glide bombs, against Sumy and Chernihiv oblasts in order to force Ukrainian forces to defend the entire border area.[18]
 
+On the night of January 20 to 21, Russian forces conducted a series of drone and missile strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched four Iskander-M ballistic missiles from Voronezh Oblast and 131 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol Oblast. Ukrainian forces downed 72 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Zhytomyr, Khmelnytskyi, Vinnytsia, Kirovohrad, Dnipropetrovsk, Donetsk, Mykolaiv, Odesa, Zaporizhia, and Rivne oblasts; 59 drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; and the strikes damaged institutions, residential buildings, and other structures in Poltava and Cherkasy oblasts. Official Ukrainian sources reported that Russian drone strikes and falling drone debris damaged infrastructure, civilian property, and buildings in Cherkasy, Kharkiv, Kyiv, Poltava, and Mykolaiv oblasts. Dnipropetrovsk Oblast Head Serhii Lysak reported that Russian missiles damaged residential homes in Synelnykivskyi Raion and two enterprises in Dnipro City, Dnipropetrovsk Oblast.[19]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -90,3 +92,4 @@ Ukraine's Pivnich (Northern) Operational Command Spokesperson Colonel Vadym Mysn
 [16] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [17] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [18] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+[19] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)

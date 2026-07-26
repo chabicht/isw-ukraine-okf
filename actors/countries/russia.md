@@ -5,7 +5,7 @@ parent: Countries
 description: The Russian Federation, the primary belligerent in the Russia-Ukraine war.
 tags: [country, military, energy, nuclear, europe, eastern-europe, black-sea]
 status: ongoing
-timestamp: 2025-01-20T00:00:00Z
+timestamp: 2025-01-21T00:00:00Z
 ---
 
 # Current Situation
@@ -30,8 +30,13 @@ Russian federal censor Roskomnadzor caused a widespread internet outage on Janua
 
 Russian President Vladimir Putin reiterated on January 20 that the Kremlin is willing to negotiate with the United States about the war but indicated that he maintains his demands for Ukraine's full capitulation. Putin convened a meeting of the Russian Security Council on January 20 reiterating Russia's willingness to engage in peace negotiations with the new US presidential administration. Putin caveated that any peace settlement should "eliminate the root causes" of the war in Ukraine.[3]
 
+Russian President Vladimir Putin and People's Republic of China (PRC) President Xi Jinping held a phone call on January 21 and emphasized deepening cooperation. Putin and Xi reiterated boilerplate narratives emphasizing increasing Russian-PRC foreign policy, energy, and economic cooperation. Russian Presidential Aide Yuri Ushakov claimed that Putin and Xi discussed Russia's war in Ukraine and their relations with the United States, although the official Kremlin readout did not mention these topics. Ushakov also claimed that Xi gave Putin an overview of Xi's recent call with US President Donald Trump.[4]
+
+Russian Chief of the General Staff Army General Valery Gerasimov visited a forward command post of an unspecified Russian tank division and motorized rifle brigade in the Pokrovsk direction on January 21, hearing reports from Russian Central Grouping of Forces Commander Colonel General Andrei Mordvichev and other unspecified commanders.[4]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [3] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+[4] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)

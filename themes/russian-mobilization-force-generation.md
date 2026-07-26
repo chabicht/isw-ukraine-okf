@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-20T00:00:00Z
+timestamp: 2025-01-21T00:00:00Z
 ---
 
 # Current Situation
@@ -68,6 +68,12 @@ Zaporizhia Oblast occupation deputy head Anton Titsky announced on January 20 th
 
 Ukrainian President Volodymyr Zelensky published a video on January 20 showing an interrogation of a North Korean prisoner of war (POW), who states that he served in a reconnaissance battalion and that some North Korean underwent training with Russian heavy military equipment. The North Korean POW claimed that he did not know that he would fight for Russia before arriving in Russia.[13]
 
+Russian ultranationalist milbloggers renewed complaints against the Russian MoD for failing to hold the Russian military command accountable for military failures. The milbloggers complained that the Russian MoD sends Russian generals to Syria "in exile" but that the generals do not have to answer for major battlefield failures, including the failed offensive against Vuhledar in Winter 2022 that suffered extremely high casualties; the failed defense against the Ukrainian counteroffensive in Kharkiv Oblast in Fall 2022; and failures to defend against Ukraine's incursion into Kursk Oblast starting in August 2024. One milblogger complained about Russian air defenses failing to defend against Ukrainian drone and missile strikes deep in the Russian rear. Another milblogger specifically criticized Russian authorities for prosecuting Major General Ivan Popov — arrested in May 2024 on fraud charges after publicly criticizing Gerasimov — while other Russian generals remain free. Russian command failures have periodically prompted backlash in the ultranationalist information space, but less so following Kremlin efforts throughout 2024 to encourage self-censorship. A revival of complaints directed specifically against the military command and invoking Popov is notable.[14]
+
+Russian authorities continue to use financial incentives to increase voluntary military recruitment. Mari El Republic Head Yuri Zaitsev stated on January 20 that he is raising the one-time regional payment to volunteer recruits from 1.4 million rubles (about $14,000) to 1.8 million rubles (about $18,000). Zaitsev stated that conscripts who choose to sign a contract will receive a one-time payment of one million rubles (about $10,000). The Russian MoD's Africa Corps posted a recruitment ad on January 20 offering one-time payments of 1.9 million rubles (about $19,000) to those who sign in Moscow City and Oblast and 1.7 million rubles (about $17,000) to those who sign in St. Petersburg.[14]
+
+The Russian government continues to expand the federal "Time of Heroes" program by creating similar programs at the regional level. Irkutsk Oblast Governor Igor Kobzev announced on January 20 the regional "Heroes of Priangarie" program that will operate similarly and begin in February 2025. A Russian insider source claimed on January 21 that the Russian Presidential Administration's domestic policy bloc instructed regional governments to increase efforts to integrate veterans into government positions. The insider source claimed that the Kremlin instructed regional authorities to begin their own training programs for Russian veterans by July 1, 2025, and that each region must enroll 30 to 70 candidates in the first round. Regional governments must reportedly employ 20 percent of participants in government positions by October 1, 2025, and 80 percent by 2026.[14]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -83,3 +89,4 @@ Ukrainian President Volodymyr Zelensky published a video on January 20 showing a
 [11] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [12] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [13] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+[14] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)

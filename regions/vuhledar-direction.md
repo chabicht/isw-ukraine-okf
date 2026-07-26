@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-20T00:00:00Z
+timestamp: 2025-01-21T00:00:00Z
 ---
 
 # Current Situation
@@ -50,11 +50,13 @@ Russian forces recently advanced farther in eastern Velyka Novosilka on January 
 
 Russian forces continued offensive operations in the Velyka Novosilka direction on January 20 but did not make any confirmed advances. A Russian milblogger claimed on January 19 that Russian forces advanced in northeastern Velyka Novosilka. One milblogger claimed on January 20 that Russian forces seized the entirety of Velyka Novosilka, but other Russian sources claimed that Russian forces have not yet seized the rest of the settlement. ISW has not observed confirmation. Russian forces continued attacking near Velyka Novosilka itself and northwest of Velyka Novosilka towards Pryvilne on January 19 and 20. Drone operators of the Russian 57th Motorized Rifle Brigade (5th CAA, Eastern Military District [EMD]) are reportedly striking targets near Velyka Novosilka.
 
+Russian forces continued offensive operations near Velyka Novosilka on January 21 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces advanced 1.1 kilometers deep along Fontanna Street in eastern Velyka Novosilka, but ISW has not observed confirmation. Russian forces conducted offensive operations near Velyka Novosilka itself and west of Velyka Novosilka towards Pryvilne on January 20 and 21. A Russian milblogger claimed that Russian forces destroyed a Ukrainian infantry fighting vehicle with a fiber optic cable drone near Novyi Komar (north of Velyka Novosilka).[17]
+
 # Citations
 
-[17] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+[17] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 
-[1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
+[1] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 4, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-4-2025/)
 [4] [Russian Offensive Campaign Assessment, January 5, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-5-2025/)
