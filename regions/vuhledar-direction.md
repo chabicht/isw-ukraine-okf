@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -56,7 +56,11 @@ Russian forces recently advanced near and within Velyka Novosilka amid continued
 
 Russian forces are intensifying offensive operations aimed at seizing Velyka Novosilka. Ukraine's Khortytsia Group of Forces reported that Russian forces have launched over 80 attacks on Velyka Novosilka within the past day. Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated on January 23 that Russian forces have not completely encircled Ukrainian forces in the Velyka Novosilka area but noted there is a risk of encirclement. Trehubov also noted that the rivers near Velyka Novosilka — the Mokri Yaly, Kashlahach, and Shaitanka — are complicating Ukrainian maneuver. Russian milbloggers, including a Kremlin-affiliated milblogger, claimed that Russian forces advanced along the T-0518 Pavlivka-Velyka Novosilka highway in central Velyka Novosilka, cut the settlement in half, and encircled a small Ukrainian group in southern Velyka Novosilka. Russian milbloggers claimed that Russian forces are advancing further in northeastern and eastern Velyka Novosilka and in several forested areas south of the settlement and hold positions along the Mokri Yaly and Kashlahach rivers. ISW cannot independently confirm any of these claims. Likely elements of the Russian 5th Tank Brigade (36th CAA, EMD) are reportedly operating in Velyka Novosilka, and elements of the 37th Motorized Rifle Brigade (36th CAA) are reportedly operating north of Novyi Komar.[19]
 
+Russian forces recently advanced within Velyka Novosilka amid continued fighting in the area on January 24. Geolocated footage published January 24 shows that Russian forces, reportedly of the 5th Tank Brigade (36th CAA, Eastern Military District), recently advanced in eastern and central Velyka Novosilka along Fontanna and Yuriia Haharina streets. The Russian MoD claimed on January 24 that Russian forces bisected Velyka Novosilka. A Russian source claimed that Russian forces advanced north of Rozdolne (northeast of Velyka Novosilka) and southwest of Novyi Komar (north of Velyka Novosilka). Russian forces also conducted offensive operations southwest of Velyka Novosilka near Novodarivka on January 23 and 24.[20]
+
 # Citations
+
+[20] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 
 [19] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 

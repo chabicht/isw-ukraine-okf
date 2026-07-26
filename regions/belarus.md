@@ -5,7 +5,7 @@ parent: Regions
 description: The Republic of Belarus, a Russian ally providing staging grounds and supporting the war effort.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-21T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -48,7 +48,11 @@ Belarusian President Alexander Lukashenko stated on January 21 that he intends t
 
 Nothing significant to report from the January 22 assessment regarding Belarus.[9]
 
+The Kremlin is framing the new 2025 Union State Security Concept as completely superseding the original 1999 Security Concept, indicating that this new agreement may be more expansive and further the Kremlin's effort to annex Belarus. Russian Security Council Secretary Sergei Shoigu stated on January 24 that the original concept "has lost its relevance" and described the new concept as a "completely new" strategic planning document. Shoigu gave the interview two days before the January 26 Belarusian presidential election, likely to frame Belarus as an undeniable part of the Russian-dominated Union State. The Kremlin will likely frame any pro-democratic protests against the upcoming election as part of a Western-backed hybrid war against Russia and Belarus.[10]
+
 # Citations
+
+[10] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 
 [9] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

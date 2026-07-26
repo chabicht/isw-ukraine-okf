@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -48,7 +48,11 @@ Russian forces recently advanced northwest of Kurakhove amid continued offensive
 
 Russian forces recently advanced west of Kurakhove amid continued offensive operations in the Kurakhove direction on January 22. Geolocated footage published on January 21 indicates that Russian forces recently marginally advanced in the fields south of Dachne (west of Kurakhove). Russian milbloggers claimed that Russian forces advanced along windbreaks southwest of Slovyanka (northwest of Kurakhove) and two kilometers towards Kostyantynopil (west of Kurakhove) and that Russian forces are clearing Ukrainian forces from the area west of the Kurakhivske Reservoir (west of Kurakhove). ISW has not observed visual confirmation of these claims, however. Mashovets stated on January 22 that elements of the Russian 110th Motorized Rifle Brigade (51st CAA) have struggled to advance towards Andriivka (west of Kurakhove) from the south since their last advance as of January 12 despite being reinforced with elements of the 114th Motorized Rifle Brigade (51st CAA). Russian forces continued ground attacks northwest of Kurakhove near Slovyanka and Shevchenko; west of Kurakhove near Dachne, Andriivka, and Kostyantynopil; and southwest of Kurakhove near Ulakly and Yantarne on January 21 and 22. A Russian milblogger claimed that Ukrainian forces counterattacked near Andriivka and Zelenivka (southwest of Kurakhove).[17]
 
+Russian forces recently advanced in the Kurakhove direction amid continued fighting in the area on January 24. Geolocated footage published on January 24 indicates that Russian forces recently advanced southeast of Rozlyv (southwest of Kurakhove). Russian milbloggers claimed that Russian forces entered eastern Andriivka and Dachne (both west of Kurakhove) and advanced on the eastern and southern outskirts of Dachne, in the area south of Dachne, in an area 2.15 kilometers wide between Petropavlivka and Shevchenko (both northwest of Kurakhove), and northwest of Shevchenko. Russian forces conducted offensive operations northwest of Kurakhove near Slovyanka; west of Kurakhove near Dachne, Kostyantynopil, Ulakly, and Andriivka; and southwest of Kurakhove near Zelenivka and Yantarne on January 23 and 24. Ukraine's Khortytsia Group of Forces reported on January 24 that Russian forces unsuccessfully attacked with armored vehicle support near Zelenivka (southwest of Kurakhove). A Russian milblogger claimed that Russian forces recently reintensified assaults near Dachne and Andriivka.[18]
+
 # Citations
+
+[18] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 
 [17] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

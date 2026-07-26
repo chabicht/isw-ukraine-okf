@@ -5,7 +5,7 @@ parent: Regions
 description: The southern axis in Zaporizhia Oblast, including the Robotyne area.
 tags: [military, eastern-europe, kinetic, crimea]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -62,7 +62,13 @@ Neither Russian nor Ukrainian sources reported ground activity in western Zapori
 
 Russian forces continued limited ground attacks in the Dnipro direction in Kherson Oblast on January 22 and 23.[18]
 
+Russian forces continued ground attacks north of Robotyne near Mala Tokmachka and Novodanylivka on January 23 and 24. Ukraine's GUR reported on January 24 that GUR units destroyed a Russian 1L122 "Garmon" radar station in an unspecified location in occupied Zaporizhia Oblast. Drone operators of the Russian 7th Airborne (VDV) Division are reportedly striking Ukrainian forces near Mala Tokmachka, and elements of the Russian BARS-32 detachment are reportedly operating in the Zaporizhia direction.[19]
+
+Russian forces continued limited ground attacks in the Dnipro direction and on the islands of the Dnipro River Delta on January 23 and 24.[19]
+
 # Citations
+
+[19] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 
 [18] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 

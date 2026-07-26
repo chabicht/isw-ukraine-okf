@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's war economy and energy exports, including sanctions effects and European energy dynamics.
 tags: [economics, energy, sanctions, europe, war-economy]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -30,9 +30,13 @@ A Russian state media outlet reported that Russia may resume direct gas deliveri
 
 The Kremlin appears to be growing increasingly concerned about perceptions of Russia's economic instability. Reuters, citing five sources with knowledge of the situation, reported on January 23 that Russian President Vladimir Putin is growing increasingly concerned about "distortions" in the Russian economy due to the war. Two sources familiar with "thinking in the Kremlin" told Reuters that there is a camp within the Russian elite that views a negotiated end to the war as desirable and key to addressing Russia's economic issues. One source claimed that Putin recognizes the strain that the war is placing on the Russian economy and assesses that he has achieved his "key war goals" in Ukraine. The source did not speculate on Putin's willingness to end the war, however. Russian opposition outlet Meduza reported on January 9 that Russian elites are growing increasingly dissatisfied with the impact of the war on the economy. The Kremlin recently launched an information operation seeking to create the false impression that the Russian economy is performing well despite numerous continued indicators of macroeconomic distress.[7]
 
+Putin demonstrated concern about lower oil prices during a January 24 interview, responding to Trump's call for OPEC states to "bring down the cost of oil" to decrease Russia's ability to wage war. Putin claimed that "too high prices are bad" for both the US and Russian economies, attempting to portray the diversified US economy as operating similarly to Russia's petrostate economy. Falling oil prices would decrease Russia's federal budget revenues and risk destabilizing the Russian regime while reducing Russia's share of the global oil market. Putin's focus on his inner circle's interests in the energy sector contrasts with US leaders' focus on the general voting population, which benefits from lower energy prices.[8]
+
 # Citations
 
 [7] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
+
+[8] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 
 [6] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

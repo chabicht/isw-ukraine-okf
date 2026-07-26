@@ -5,7 +5,7 @@ parent: Regions
 description: The Dnipro River delta and Kherson Oblast frontline area.
 tags: [military, eastern-europe, kinetic, black-sea]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -48,7 +48,11 @@ Russian forces continued limited ground attacks in the Dnipro direction on Janua
 
 Russian forces continued limited ground attacks in the Dnipro direction in Kherson Oblast on January 22 and 23.[18]
 
+Russian forces continued limited ground attacks in the Dnipro direction and on the islands of the Dnipro River Delta on January 23 and 24.[19]
+
 # Citations
+
+[19] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 
 [18] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 

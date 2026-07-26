@@ -5,7 +5,7 @@ parent: Countries
 description: The Republic of Belarus, a Russian ally that has hosted Russian forces and supported the invasion.
 tags: [country, europe, eastern-europe, military]
 status: ongoing
-timestamp: 2025-01-15T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -15,6 +15,8 @@ Belarus assumed the presidency of the Eurasian Economic Union (EAEU) on January 
 Belarus continues to host Russian forces and support Russian military operations against Ukraine. The country has served as a staging ground for Russian troops and equipment throughout the war, including during the initial invasion in February 2022 and subsequent force generation efforts. Russian missile and drone strikes against Ukraine have been launched from Belarusian territory.
 
 The Belarusian Ministry of Defense announced the start of joint Russian-Belarusian command-staff exercises within the framework of the Union State on January 14, ahead of the anticipated "Zapad-2025" joint military exercises. The exercises will focus on determining when to deploy the Union State Regional Grouping of Forces and will conclude on January 16.[2]
+
+The Kremlin is framing the new 2025 Union State Security Concept as completely superseding the original 1999 Security Concept, indicating that this new agreement may be more expansive and further the Kremlin's effort to annex Belarus. Russian Security Council Secretary Sergei Shoigu stated on January 24 that the April 1999 Union State Security Concept "has lost its relevance" and described the new concept as a "completely new" strategic planning document drawing from the Russian and Belarusian constitutions, the December 1999 Union State Treaty, the Russian National Security Strategy, and the Belarusian National Security Concept. Putin and Lukashenko signed an agreement in December 2024 to implement the new concept in 2025. Shoigu gave the interview two days before the January 26 Belarusian presidential election, likely to frame Belarus as an undeniable part of the Russian-dominated Union State. The Kremlin will likely frame any pro-democratic protests against the upcoming election as part of a Western-backed hybrid war.[4]
 
 # Analysis
 
@@ -39,3 +41,4 @@ ISW assesses that Russia does not need to make any additional integration gains 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [3] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)
+[4] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)

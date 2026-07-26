@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -84,9 +84,12 @@ The Kremlin is reportedly taking measures to protect industrial facilities in Ru
 
 Russian federal subjects continue increasing financial incentives to recruit Russians into signing military service contracts. Republic of Tatarstan Head's Spokesperson Liliya Galimova stated on January 23 that Tatarstan increased one-time payments from 2.2 million rubles (around $22,000) to 2.8 million rubles (around $28,000) to those who sign contracts with the Russian Ministry of Defense (MoD).[16]
 
+Russian milbloggers continue to complain about frontline Russian commanders sending wounded servicemembers on infantry assaults instead of providing adequate medical care. A Russian milblogger and former Storm-Z instructor defended circulating footage of wounded servicemembers of the 20th Combined Arms Army (Moscow Military District) attacking Ukrainian positions near the Serebryanske forested area in the Lyman direction. The milblogger amplified additional footage of wounded servicemembers of the 1st "Slovyansk" Motorized Rifle Brigade (51st CAA) and the 109th Rifle Regiment (132nd Motorized Rifle Brigade, 51st CAA) attacking in an unspecified frontline area, likely near Toretsk. The milblogger noted this is a widespread issue.[17]
+
 # Citations
 
 [16] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
+[17] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 
 [15] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

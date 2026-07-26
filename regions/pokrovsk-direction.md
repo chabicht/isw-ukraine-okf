@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Pokrovsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -54,7 +54,11 @@ Russian forces recently advanced southwest of Pokrovsk amid ongoing offensive op
 
 Russian forces recently advanced southwest of Pokrovsk amid continued offensive operations in the area on January 23. Geolocated footage published on January 22 indicates that Russian forces recently advanced north of Novoyelyzavetivka (southwest of Pokrovsk). Russian milbloggers claimed that Russian forces advanced near Novoandriivka, Nadiivka (both southwest of Pokrovsk), Kotlyne (west of Pokrovsk), and Leontovychi (south of Pokrovsk), but ISW has not observed confirmation of these claims. The Russian MoD claimed on January 23 that Russian forces seized Solone (southwest of Pokrovsk), but ISW assesses that Russian forces likely seized the settlement as of January 13. Russian forces continued attacking near Pokrovsk itself; east of Pokrovsk near Vodyane Druhe, Zelene Pole, Myrolyubivka, Yelyzavetivka, Promin, and Myrnohrad; southeast of Pokrovsk near Lysivka; south of Pokrovsk near Novyi Trud, Zvirove, Leontovychi, and Petropavlivka; and southwest of Pokrovsk near Novoserhiivka, Kotlyne, Uspenivka, and Sribne and in the direction of Hryshyne on January 22 and 23.[19]
 
+Russian forces recently advanced in the Pokrovsk direction amid continued fighting in the area on January 24. Geolocated footage published on January 23 indicates that Russian forces recently seized Kotlyne (west of Pokrovsk). The Russian MoD claimed on January 24 that Russian forces seized Tymofiivka (east of Pokrovsk) in the past week (January 17 to 23), but ISW assessed that Russian forces seized the settlement as of January 5. Russian milbloggers claimed that Russian forces advanced within and south of Udachne (west of Kotlyne), in southern Nadiivka, in southern Novoandriivka (both southwest of Pokrovsk), southwest and north of Novoandriivka, up to three kilometers wide and two kilometers deep south of Ukrainka (south of Pokrovsk), one kilometer north of Vozdvyzhenka, north of Novokalynove, north of Arkhanhelske (all east of Pokrovsk), and up to the outskirts of Zelene Pole (northeast of Pokrovsk). Ukraine's Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated that Russian forces are trying to bypass Pokrovsk from the north and south and have started to strike the town with long-range weapons, various types of missiles, and FPV drones. A Russian source claimed that Ukrainian forces counterattacked near Udachne and Kotlyne. Elements of the Russian 5th Motorized Rifle Brigade (51st CAA, formerly 1st DNR AC) are reportedly operating in Tymofiivka, and elements of the "Sarmat" UAV detachment are reportedly operating in the Pokrovsk direction.[20]
+
 # Citations
+
+[20] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 
 [19] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 

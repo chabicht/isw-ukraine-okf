@@ -5,7 +5,7 @@ parent: Countries
 description: The Russian Federation, the primary belligerent in the Russia-Ukraine war.
 tags: [country, military, energy, nuclear, europe, eastern-europe, black-sea]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -38,6 +38,8 @@ Reuters reported on January 23 that Putin is growing increasingly concerned abou
 
 The Kremlin is reportedly taking measures to protect industrial facilities in Russian border regions from Ukrainian strikes. Russian Security Council Chairperson Dmitry Medvedev met with a group representing the Bryansk Oblast Military Industrial Commission on January 23 and discussed increasing Russian air defense system production and protecting industrial and state storage facilities in the oblast. Medvedev also visited the Bryansk Chemical Plant to assess the situation after previous Ukrainian strikes against the plant. Ukrainian strikes in the Russian rear have largely targeted defense industrial base (DIB) facilities, and the Kremlin may be increasingly interested in bolstering air defense capabilities to protect DIB facilities as the Russian economy continues to deteriorate.[5]
 
+Putin continued to obfuscate his unwillingness to participate in good-faith negotiations during a January 24 interview, blaming Ukraine's September 2022 decree banning negotiations with him as a strawman obstacle. Putin claimed any peace agreements reached before Ukraine repeals the decree would be "illegitimate" and called on the West to force Zelensky to repeal it, while simultaneously questioning Zelensky's legitimacy as president. Putin attempted to position himself as US President Donald Trump's equal, suggesting the two leaders could bypass Ukraine and negotiate directly about Ukraine's fate. Putin also demonstrated concern about lower oil prices, responding to Trump's call for OPEC to reduce oil prices by claiming both the US and Russian economies would suffer from "too low prices." [6]
+
 # Citations
 
 [5] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
@@ -48,3 +50,4 @@ The Kremlin is reportedly taking measures to protect industrial facilities in Ru
 [2] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [3] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [4] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
+[6] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)

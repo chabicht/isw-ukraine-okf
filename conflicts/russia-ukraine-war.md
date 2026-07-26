@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Background
@@ -132,6 +132,16 @@ Russian forces recently executed at least six unarmed Ukrainian POWs in Donetsk 
 
 The Kremlin is reportedly taking measures to protect industrial facilities in Russian border regions from Ukrainian strikes. Russian Security Council Chairperson Dmitry Medvedev visited the Bryansk Chemical Plant on January 23, discussing increasing Russian air defense system production and protecting industrial and state storage facilities in Bryansk Oblast. Ukrainian strikes have largely targeted DIB facilities, and the Kremlin may be increasingly interested in bolstering air defense capabilities to protect DIB facilities as the Russian economy continues to deteriorate.[21]
 
+Russian President Vladimir Putin continued to obfuscate his unwillingness to participate in good-faith negotiations by blaming Ukraine for defending itself against Russia's invasion and illegal annexation of Ukrainian territory. Putin claimed during a January 24 interview that he is willing to negotiate but that Zelensky's September 2022 decree banning negotiations with Putin is a significant impediment.[22] Putin falsely claimed that Ukraine is not interested in peace and that any agreements reached before Ukraine repeals the decree would be "illegitimate," calling on the West to force Zelensky to repeal it. Putin also questioned Zelensky's legitimacy and insinuated that US President Donald Trump should negotiate exclusively with Putin about Ukraine's fate.[22] The 2022 decree was signed in response to Putin's illegal annexation of four Ukrainian oblasts and after months of Russian demands for Ukraine's full capitulation during Spring 2022 Istanbul talks — terms that would have restricted Ukraine's Armed Forces to 85,000 soldiers unable to defend against a third Russian invasion.[22] Zelensky has consistently signaled willingness to negotiate and make certain compromises in pursuit of peace despite the decree, outlining conditions including preserving Ukraine's sovereignty and territorial integrity, developing Ukraine's DIB, and securing security guarantees from Western allies.[22]
+
+Putin attempted to position himself as Trump's equal during the January 24 interview, reinforcing his long-held belief that Russia is the great-power heir to the Soviet Union. Putin emphasized that Russia shares interests with the United States and suggested the two leaders could engage in "calm, pragmatic" discussions, bypassing direct negotiations with Ukraine. Ukrainian Presidential Administration Chief of Staff Andriy Yermak highlighted that Putin aims to negotiate "the fate of Europe without Europe" and "Ukraine without Ukraine."[22]
+
+Putin demonstrated concern about the effect that lower oil prices would have on his domestic stability and ability to wage war. Trump stated on January 23 that oil prices are "high enough" that Russia can continue its war effort and called for OPEC states to "bring down the cost of oil." Putin responded, claiming that "too high prices are bad" for both the US and Russian economies, attempting to portray the diversified US economy as operating similarly to Russia's petrostate economy.[22]
+
+The Kremlin attempted to revive its information operation aimed at deterring the United States and other Western states from providing further military assistance to Ukraine. Russian Security Council Secretary Sergei Shoigu claimed in a January 24 interview that the West failed to change the course of the war despite "comprehensive assistance." Western military assistance has consistently provided Ukraine with decisive capabilities — including HIMARS that forced Russian withdrawal from the west bank of the Dnipro in November 2022, Western armored vehicles in the Fall 2022 Kharkiv counteroffensive, and ATACMS and Storm Shadow that have deprived Russian forces of sanctuary within Russia.[22]
+
+The Kremlin framed the new 2025 Union State Security Concept as completely superseding the original 1999 Security Concept, indicating that this new agreement may be more expansive and further the Kremlin's effort to annex Belarus. Shoigu stated that the original concept "has lost its relevance" and described the new concept as a "completely new" strategic planning document. Shoigu gave the interview two days before the January 26 Belarusian presidential election, likely to frame Belarus as an undeniable part of the Russian-dominated Union State.[22]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -163,3 +173,4 @@ Moscow's military integration with Belarus already provides operational benefits
 [19] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [20] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 [21] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
+[22] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)

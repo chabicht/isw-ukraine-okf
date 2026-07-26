@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-21T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -74,6 +74,8 @@ Ukrainian forces also struck Lukoil's Saratovorgsintez Chemical Plant in Saratov
 
 The Ukrainian General Staff reported that Ukrainian forces struck the command post of the Russian 29th Combined Arms Army (Eastern Military District) in occupied Volnovakha, Donetsk Oblast on the night of January 20 to 21. The Ukrainian General Staff stated there are reports of explosions and smoke after the strike and that Ukrainian authorities are clarifying results. ISW continues to assess that Ukrainian strikes against main command posts further in the Russian rear are likely aimed at degrading broader Russian logistics and operational planning efforts, which could impact Russia's ability to conduct operations in western Donetsk Oblast.[17]
 
+On the night of January 23 to 24, Ukrainian forces conducted a large series of drone strikes against Russian defense industrial enterprises and oil refineries. The Ukrainian General Staff reported that elements of the SBU, SSO, and other Ukrainian forces struck the production facilities of the Ryazan Oil Refinery and the Ryazan oil pump station in Ryazan City. The Ryazan refinery produces fuel for military equipment, jet fuel, diesel fuel, and other petroleum products. Ukrainian forces also struck the "Kremniy El" microelectronics plant in Bryansk City, which produces microcircuits and components for Topol-M and Bulava missile systems, S-300 and S-400 air defense systems, Pantsir air defense systems, Iskander missiles, radars, EW systems, and drones. The Kremniy El plant suspended operations after the strike — this was the second Ukrainian strike on the plant in January 2025. Ukrainian drones also damaged the 711th Aircraft Repair Plant in Borisoglebsk, Voronezh Oblast. The Russian MoD claimed Russian forces downed 121 Ukrainian drones in total.[18]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -93,3 +95,4 @@ The Ukrainian General Staff reported that Ukrainian forces struck the command po
 [15] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [16] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [17] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
+[18] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)

@@ -5,7 +5,7 @@ parent: Regions
 description: The eastern axis along the Kupyansk-Svatove-Kreminna line in Luhansk and Kharkiv oblasts.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -102,7 +102,15 @@ Russian forces continued offensive operations in the Borova direction on January
 
 Russian forces continued offensive operations in the Lyman direction on January 23 but did not advance. Russian forces continued ground attacks north of Lyman near Zelena Dolyna; northeast of Lyman near Novolyubivka and Yampolivka; and east of Lyman near Zarichne and Kuzmyne and in the Serebryanske forest area on January 22 and 23. A Russian milblogger claimed on January 23 that Ukrainian forces counterattacked northeast of Lyman near Terny and Torske.[15]
 
+Russian forces continued offensive operations in the Kupyansk direction on January 24 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces advanced near Dvorichna, west of Zapadne (both north of Kupyansk), and up to southern Topoli (northeast of Kupyansk along the international border). Russian forces continued ground attacks northeast of Kupyansk near Topoli, north of Kupyansk near Dvorichna, east of Kupyansk near Petropavlivka, and southeast of Kupyansk near Pishchane and Hlushkivka on January 23 and 24. A Russian milblogger claimed that Russian forces destroyed a Ukrainian armored personnel carrier near Kupyansk with a fiber optic cable drone.[16]
+
+Russian forces continued offensive operations in the Borova direction on January 24 but did not make any confirmed advances. A Russian milblogger claimed that Russian forces advanced west of Zahryzove (northeast of Borova) and north of Makiivka (southeast of Makiivka). Russian forces continued ground attacks northeast of Borova near Zahryzove, Nova Kruhlyakivka, and Zelenyi Hai; east of Borova near Kopanky; and southeast of Borova near Novoyehorivka on January 23 and 24. A Russian milblogger claimed on January 24 that Ukrainian forces are counterattacking near Zahryzove.[16]
+
+Russian forces continued offensive operations in the Lyman direction on January 24 but did not make any confirmed advances. A Russian milblogger claimed that Russian forces advanced west of Ivanivka (northeast of Lyman). Russian forces continued ground attacks northeast of Lyman near Yampolivka and east of Lyman near Torske on January 23 and 24. The spokesperson of a Ukrainian brigade operating in the Lyman direction stated on January 24 that Russian forces are constantly attacking with small infantry teams of up to four soldiers in the area, which is resulting in costly Russian manpower losses.[16]
+
 # Citations
+
+[16] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 
 [15] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 

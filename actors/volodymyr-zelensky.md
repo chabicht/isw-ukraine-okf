@@ -5,7 +5,7 @@ parent: Actors
 description: President of Ukraine, the wartime leader of the nation's defense against Russian aggression.
 tags: [leader, ukraine, military]
 status: ongoing
-timestamp: 2025-01-16T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -30,6 +30,8 @@ Zelensky stated on January 11 that Russian or North Korean forces usually kill w
 
 Zelensky and UK Prime Minister Keir Starmer signed a landmark "Centennial Partnership Agreement" on January 16, outlining Ukrainian-British cooperation for the next 100 years and continued UK support for Ukraine. The agreement outlines the UK's commitment to Ukraine's possible future NATO membership as a means to guarantee Ukraine's security. Starmer highlighted that the UK intends to provide military aid to Ukraine annually, provide a loan backed by funds from frozen Russian assets, expand its training program for Ukrainian military personnel, and provide Ukraine with 150 artillery barrels and a new Danish-funded mobile air defense system.[6]
 
+Putin claimed during a January 24 interview that the September 2022 Ukrainian decree banning negotiations with Putin is a significant impediment to peace, calling on the West to force Zelensky to repeal it. Zelensky signed the decree on the day of Putin's illegal annexation of four Ukrainian oblasts and after months of Russian demands for Ukraine's full capitulation during Spring 2022 Istanbul talks. Zelensky has consistently signaled his willingness to negotiate with Russia and make certain compromises in pursuit of peace despite the decree. He has outlined clear conditions for potential talks — preserving Ukraine's sovereignty and territorial integrity, developing Ukraine's DIB, and securing security guarantees from Western allies — and has repeatedly advocated for a diplomatic solution from a "position of strength." Zelensky has also invited Russian representatives to attend Ukraine's second Global Peace Summit.[7]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -38,3 +40,4 @@ Zelensky and UK Prime Minister Keir Starmer signed a landmark "Centennial Partne
 [4] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [5] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [6] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
+[7] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)

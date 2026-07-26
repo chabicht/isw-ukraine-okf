@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Chasiv Yar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -40,7 +40,11 @@ Russian forces recently advanced in the Chasiv Yar direction amid continued offe
 
 Russian forces continued ground attacks near and within Chasiv Yar on January 22 and 23 but did not make confirmed advances. Russian milbloggers claimed on January 23 that Russian forces cleared Ukrainian forces from the Refractory Plant's workshops in central Chasiv Yar and are now fighting west of the first workshop. One milblogger claimed that Russian forces struck a Ukrainian pontoon crossing in Kostyantynivka (southwest of Chasiv Yar). Ukrainian Luhansk Group of Forces Spokesperson Colonel Dmytro Zaporozhets reported on January 23 that Ukrainian forces struck a concentration of 100 Russian military personnel in Kalynivka (north of Chasiv Yar) on January 9 after Russian forces transferred personnel to Kalynivka through the Siverskyi Donets Donbas Canal pipe south of Chasiv Yar.[14]
 
+Russian forces recently advanced in the Chasiv Yar direction amid continued offensive operations on January 24. Geolocated footage published on January 24 indicated that Russian forces recently advanced south of Chasiv Yar. A Russian milblogger claimed on January 24 that Russian forces advanced to the western outskirts of Chasiv Yar. Russian forces continued attacking near Chasiv Yar itself; northeast of Chasiv Yar near Vasyukivka and towards Novomarkove; and south of Chasiv Yar near Bila Hora on January 23 and 24. A Ukrainian brigade operating in the Chasiv Yar direction published footage on January 23 showing the brigade repelling a reduced company-sized Russian mechanized assault near Chasiv Yar and destroying four armored vehicles. The Ukrainian Khortytsia Group of Forces reported on January 24 that Russian forces are using motorcycles and other vehicles to transport personnel in Chasiv Yar. Elements of the Russian "Rodnya" Battalion are reportedly operating in Chasiv Yar, and elements of the Russian "Sever-V" Brigade (Russian Volunteer Corps) are reportedly operating near Chasiv Yar.[15]
+
 # Citations
+
+[15] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 
 [14] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 

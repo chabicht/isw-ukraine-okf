@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-23T00:00:00Z
+timestamp: 2025-01-24T00:00:00Z
 ---
 
 # Current Situation
@@ -70,9 +70,12 @@ Russian forces recently advanced in the Ukrainian salient in Kursk Oblast amid c
 
 A Ukrainian drone battalion posted footage on January 22 of the battalion striking a Russian Tor air defense system in Belgorod Oblast.[14]
 
+Russian forces recently advanced northwest and south of Sudzha amid continued offensive operations on January 24. Geolocated footage published on January 23 shows that Russian forces reached the northern outskirts of Sverdlikovo (northwest of Sudzha) and advanced within southern Makhnovka (south of Sudzha). Russian milbloggers claimed that Russian forces also seized Maryevka (northwest of Sudzha) and advanced northwest of Sudzha near Malaya Loknya, Nikolskiy, and Viktorovka and south of Sudzha near Kurilovka. One milblogger claimed that Russian forces operating northwest of Sudzha are attempting to reach the Malaya Loknya-Loknya River line and seize Sverdlikovo and Lebedevka as part of a broader effort to obtain fire control over Ukrainian logistics lines. Another milblogger claimed that Ukrainian forces continued counterattacking throughout the salient.[15]
+
 # Citations
 
 [14] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
+[15] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)
 
 [13] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

@@ -4,6 +4,28 @@ nav_order: 8
 permalink: /log/
 ---
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Putin negotiations obfuscation (2022 decree strawman, Zelensky willingness to negotiate), Putin-Trump equal positioning, oil price concern, Kremlin info op on Western aid (Shoigu), Union State Security Concept (Shoigu supersedes 1999);
+  [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with negotiation stance post-2022 decree, willingness to compromise for peace;
+  [Russia]({{ site.baseurl }}/actors/countries/russia.html) with Putin negotiations obfuscation, Putin-Trump equal positioning, oil price concern;
+  [Belarus]({{ site.baseurl }}/actors/countries/belarus.html) with Union State Security Concept (new 2025, Shoigu Jan 24 interview, supersedes 1999);
+  [Ukraine's Strike Campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with large drone strike series on Jan 23-24 (Ryazan Oil Refinery, Kremniy El plant second strike with suspended operations, 711th Aircraft Repair Plant);
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 23-24 overnight strike (58 Shahed, 25 downed, 27 EW-lost), casualties in Kyiv and Chernihiv oblasts;
+  [Russian war economy and energy]({{ site.baseurl }}/themes/russian-war-economy-energy.html) with Putin oil price concern (Trump call to lower oil to hurt Russia);
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with wounded soldiers sent on assaults (20th CAA, 1st Slovyansk MRB, 109th Rifle Regiment milblogger complaints);
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with advance northwest and south of Sudzha (Sverdlikovo/Makhnovka geolocated), fire control on logistics lines;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with battalion-sized mechanized assault repelled (30+ vehicles, T-80s), continued Vovchansk/Lyptsi no advance;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk Dvorichna/Zapadne/Topoli claims, Borova Zahryzove/Makiivka claims, Lyman Ivanivka claim, fiber optic cable drone near Kupyansk, small infantry teams causing costly losses;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Bilohorivka/Ivano-Darivka no advance, motorized assault with 40+ motorcycles;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with advance south of Chasiv Yar (geolocated), company-sized mechanized assault repelled (4 vehicles destroyed), motorcycles/vehicle tactics, Rodnya Battalion and Sever-V Brigade dispositions;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with Ukrainian recapture in western Shcherbynivka (geolocated), Russian advance in southern Toretsk (geolocated), Toretska Mine/Krymske clearing;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with Kotlyne seized (geolocated), Tymofiivka MoD claim (assessed Jan 5), Trehubov bypass north/south statement, 5th MRB and Sarmat UAV detachment;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with advance southeast of Rozlyv (geolocated), Andriivka/Dachne claims, unsuccessful armored assault near Zelenivka;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with advance in eastern/central Velyka Novosilka (geolocated, 5th Tank Brigade), MoD bisection claim, Novodarivka ops;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with limited ground attacks near Mala Tokmachka/Novodanylivka, GUR destroyed 1L122 Garmon radar, 7th VDV and BARS-32 dispositions;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with limited Dnipro/Delta island attacks no advance;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with Union State Security Concept framing (Shoigu, supersedes 1999, before Jan 26 election).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with NK additional deployment (Budanov: 120+ Koksan/MLRS, 150 KN-23 in 2025), Putin economy concern (Reuters), six Ukrainian POWs executed in Donetsk Oblast, Medvedev DIB protection at Bryansk Chemical Plant;
   [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) with Budanov report on additional missile/artillery troops, 120+ Koksan 170mm, 120+ M-1991 240mm MLRS, 150 KN-23 in 2025, NK troops training Russian forces;
