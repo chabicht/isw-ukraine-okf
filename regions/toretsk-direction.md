@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Toretsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-22T00:00:00Z
+timestamp: 2025-01-23T00:00:00Z
 ---
 
 # Current Situation
@@ -46,7 +46,11 @@ Russian forces continued offensive operations in the Toretsk direction on Januar
 
 Ukrainian and Russian forces recently advanced in the Toretsk direction amid continued offensive operations on January 22. Geolocated footage published on January 22 shows drone operators of the Russian 9th Motorized Rifle Brigade (51st Combined Arms Army [CAA], formerly the 1st Donetsk People's Republic Army Corps [DNR AC]) striking Ukrainian forces in western Shcherbynivka (west of Toretsk), indicating that Ukrainian forces recently regained lost positions in the area. Geolocated footage published on January 11 and geolocated on January 22 indicates that Russian forces advanced along Kachalova and Puzanova streets in northern Toretsk. The commander of a Ukrainian battalion operating in the Toretsk direction stated on January 22 that Ukrainian forces are defending in limited positions in Toretsk and trying to contain Russian forces in the settlement. Russian milbloggers claimed on January 21 and 22 that Russian forces advanced to a field between Toretsk and Petrivka (west of Toretsk) and that Russian forces advanced east of the Toretska Mine waste heap in northern Toretsk, but ISW has not observed confirmation of these claims. Russian forces continued ground attacks within Toretsk itself on January 21 and 22.[13]
 
+Russian forces recently advanced in northern Toretsk and southwest of the town amid ongoing offensive operations near Toretsk on January 23. Geolocated footage published on January 23 indicates that Russian forces recently marginally advanced at the Toretska Mine in northern Toretsk and advanced west of Nelipivka (southwest of Toretsk). Russian milbloggers claimed that Russian forces have seized at least half of the Toretska Mine and advanced in Krymske. Russian forces continued assaults in Toretsk itself and north of Toretsk near Dyliivka and Krymske on January 22 and 23. Elements of the Russian "Sparta" Battalion and the 132nd Motorized Rifle Brigade (both of the 51st CAA) are reportedly operating in Toretsk.[14]
+
 # Citations
+
+[14] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 
 [13] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

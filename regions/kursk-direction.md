@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-22T00:00:00Z
+timestamp: 2025-01-23T00:00:00Z
 ---
 
 # Current Situation
@@ -66,7 +66,13 @@ Russian forces continued offensive operations along the Ukrainian salient in Kur
 
 Ukraine's Main Military Intelligence Directorate (GUR) reported on January 22 that GUR first person view (FPV) strike drones struck a piece of Russian satellite equipment near Tetkino, Kursk Oblast on January 17. The GUR reported that the equipment supported Russia's use of the Yamal-401, Yamal-402, and Yamal-300K communications satellites in the area.[13]
 
+Russian forces recently advanced in the Ukrainian salient in Kursk Oblast amid continued fighting on January 23. Geolocated footage published on January 22 indicates that Russian forces recently advanced southeast of Tolstiy Lug (northwest of Sudzha). Russian milbloggers claimed on January 23 that Russian forces entered Guyevo (south of Sudzha) and Viktorovka (northwest of Sudzha), but ISW has not observed confirmation of these claims. Russian forces reportedly continued attacks northwest of Sudzha near Pogrebki, Nikolskiy, and Krugkenkoye; and south of Sudzha near Kurilovka and Guyevo. A Ukrainian reconnaissance group commander operating in Kursk Oblast reported that Russian forces only attack during the day in this direction and usually conduct infantry assaults without equipment. Elements of the Russian 34th Motorized Rifle Brigade (49th CAA, Southern Military District) are reportedly operating near Pogrebki, and elements of the Chechen "Khokhla" Detachment of the 204th "Akhmat" Spetsnaz Regiment are reportedly operating in the Sudzha direction.[14]
+
+A Ukrainian drone battalion posted footage on January 22 of the battalion striking a Russian Tor air defense system in Belgorod Oblast.[14]
+
 # Citations
+
+[14] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 
 [13] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

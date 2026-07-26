@@ -5,7 +5,7 @@ parent: Regions
 description: The northern axis of Russian offensive operations in Kharkiv Oblast, centered on Vovchansk.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-22T00:00:00Z
+timestamp: 2025-01-23T00:00:00Z
 ---
 
 # Current Situation
@@ -42,7 +42,11 @@ Russian forces continued ground attacks northeast of Kharkiv City near Vovchansk
 
 Russian forces continued limited ground attacks northeast of Kharkiv City near Vovchansk on January 21 and 22 but did not advance.[14] Elements of the Chechen "Zapad-Akhmat" Battalion and Rosgvardia's 116th Special Purpose "Stalhaya" Brigade are reportedly operating in Kharkiv Oblast.[14]
 
+Russian forces continued limited ground attacks in the Kharkiv direction on January 23 but did not advance. Russian milbloggers claimed on January 23 that positional fighting continues north of Kharkiv City near Lyptsi and northeast of Kharkiv City near Vovchansk.[15]
+
 # Citations
+
+[15] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 
 [14] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

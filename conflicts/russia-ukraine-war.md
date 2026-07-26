@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-21T00:00:00Z
+timestamp: 2025-01-23T00:00:00Z
 ---
 
 # Background
@@ -124,6 +124,14 @@ Acting Kursk Oblast Governor Alexander Khinshtein's recent appointment has thus 
 
 Russian Chief of the General Staff Army General Valery Gerasimov visited a forward command post of an unspecified Russian tank division and motorized rifle brigade in the Pokrovsk direction on January 21, hearing reports from Russian Central Grouping of Forces Commander Colonel General Andrei Mordvichev and other unspecified commanders.[20]
 
+Russia is reportedly planning to deploy additional North Korean forces, missiles, artillery systems, and MLRS to Kursk Oblast to support Russian long-range fire operations. Ukrainian GUR Head Lieutenant General Kyrylo Budanov told The War Zone on January 22 that North Korea will deploy additional missile and artillery troops to Kursk Oblast and will likely send at least 120 more M-1989 Koksan 170mm self-propelled artillery systems and 120 M-1991 240mm MLRS. Budanov stated that North Korea plans to provide Russia with 150 additional KN-23 short-range ballistic missiles in 2025, having sent 148 in 2024. A US senior defense official told the NYT that additional North Korean forces will arrive in Russia within the next two months.[21]
+
+The Kremlin appears to be growing increasingly concerned about perceptions of Russia's economic instability. Reuters, citing five sources, reported on January 23 that Putin is growing increasingly concerned about "distortions" in the Russian economy due to the war. Two sources said there is a camp within the Russian elite that views a negotiated end to the war as desirable to address Russia's economic issues. One source claimed that Putin recognizes the economic strain and assesses he has achieved his "key war goals" in Ukraine but did not speculate on Putin's willingness to end the war.[21]
+
+Russian forces recently executed at least six unarmed Ukrainian POWs in Donetsk Oblast. Ukrainian Human Rights Commissioner Dmytro Lyubinets and the Ukrainian Attorney General's Office reported on January 23 that Ukrainian officials are investigating footage of Russian forces executing six captured and unarmed Ukrainian servicemembers. Lyubinets noted a seventh POW is visible in the footage but it is unclear what happened to him. ISW continues to assess that Russian military commanders are either complicit in or enabling their subordinates to conduct frontline executions of Ukrainian POWs.[21]
+
+The Kremlin is reportedly taking measures to protect industrial facilities in Russian border regions from Ukrainian strikes. Russian Security Council Chairperson Dmitry Medvedev visited the Bryansk Chemical Plant on January 23, discussing increasing Russian air defense system production and protecting industrial and state storage facilities in Bryansk Oblast. Ukrainian strikes have largely targeted DIB facilities, and the Kremlin may be increasingly interested in bolstering air defense capabilities to protect DIB facilities as the Russian economy continues to deteriorate.[21]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -154,3 +162,4 @@ Moscow's military integration with Belarus already provides operational benefits
 [18] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)
 [19] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [20] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
+[21] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)

@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-22T00:00:00Z
+timestamp: 2025-01-23T00:00:00Z
 ---
 
 # Current Situation
@@ -80,7 +80,15 @@ Russia continues efforts to improve state monitoring processes and streamline fo
 
 The Russian Ministry of Defense (MoD) continues to grapple with unprofessionalism and abuse among Russian commanders. A Kremlin-affiliated Russian milblogger claimed on January 22 that Luhansk Oblast occupation authorities arrested the commander of a Russian assault company of the 55th Motorized Rifle Brigade (41st Combined Arms Army [CAA], Central Military District [CMD]) for crimes ranging from embezzlement to creating a private prison to punish his subordinates. The milblogger claimed that this is the second scandal in two days for the unit and that occupation officials recently arrested a military police officer for beating a contract soldier. The milblogger noted that such beatings are common and have a negative impact on Russian society and force generation efforts. The milblogger called on Russian military officials to make an example of such individuals.[15]
 
+The Kremlin is reportedly taking measures to protect industrial facilities in Russian border regions from Ukrainian strikes. Russian Security Council Chairperson Dmitry Medvedev met with a group representing the Bryansk Oblast Military Industrial Commission on January 23 and discussed increasing Russian air defense system production and protecting industrial and state storage facilities in the oblast. Medvedev also visited the Bryansk Chemical Plant to assess the situation after previous Ukrainian strikes. Ukrainian strikes in the Russian rear have largely targeted defense industrial base (DIB) and other facilities supporting Russia's war effort, including the Bryansk Chemical Plant. The Kremlin may be increasingly interested in bolstering air defense capabilities to protect DIB facilities as the state of the Russian domestic economy continues to deteriorate.[16]
+
+Russian federal subjects continue increasing financial incentives to recruit Russians into signing military service contracts. Republic of Tatarstan Head's Spokesperson Liliya Galimova stated on January 23 that Tatarstan increased one-time payments from 2.2 million rubles (around $22,000) to 2.8 million rubles (around $28,000) to those who sign contracts with the Russian Ministry of Defense (MoD).[16]
+
 # Citations
+
+[16] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
+
+[15] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

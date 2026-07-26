@@ -5,7 +5,7 @@ parent: Countries
 description: The Democratic People's Republic of Korea, a military partner of Russia providing troops and materiel for the war in Ukraine.
 tags: [country, military, asia, indo-pacific]
 status: ongoing
-timestamp: 2025-01-22T00:00:00Z
+timestamp: 2025-01-23T00:00:00Z
 ---
 
 # Current Situation
@@ -32,6 +32,8 @@ North Korea will reportedly deploy new military personnel to Russia by mid-March
 
 These fresh North Korean forces are unlikely to decisively improve Russian operations and will likely face the same high casualty rates and complications operating with Russian forces as the current North Korean contingent, provided the Russian command continues to use North Korean forces the same way as it has thus far. US officials and Ukrainian soldiers told the NYT that North Korean and Russian forces continue to struggle with communications and cohesion and that Russian and North Korean forces have "clashed" at least twice due to troop identification errors. A Ukrainian commander told the NYT that North Korean assault groups now include a translator who speaks Russian but that these groups are still not very effective. Ukrainian soldiers reported that North Korean forces continue conducting mass infantry assaults and that North Korean soldiers do not retreat even if injured. Ukraine's Special Operations Forces (SSO) published footage on January 22 of North Korean forces massing for an infantry assault and reported that Ukrainian forces killed 21 and wounded 40 North Korean soldiers during the eight-hour long combat engagement. Ukrainian soldiers told the NYT that Russian forces are still attempting to conceal the presence of North Koreans on the battlefield by conducting drone strikes against wounded North Korean troops as Ukrainian forces attempt to take them prisoner. ISW continues to assess that North Korea's high casualty rate and interoperability difficulties with Russian forces will affect the lessons that the North Korean military command will learn from fighting in Russia's war.[6]
 
+Ukrainian GUR Head Lieutenant General Kyrylo Budanov told The War Zone on January 22 that North Korea will deploy additional missile and artillery troops to Kursk Oblast at an unspecified future time, but is unlikely to deploy a large number of additional ground combat troops. Budanov stated that North Korea has provided Russia with roughly 120 M-1989 Koksan 170mm self-propelled artillery systems and 120 M-1991 240mm multiple launch rocket systems (MLRS) since November 2024 and will likely send at least 120 more of each system in the future. Budanov also stated that North Korea plans to provide Russia with 150 additional KN-23 short-range ballistic missiles in 2025, having already sent 148 KN-23 missiles in 2024. North Korean troops typically operate North Korean-provided weapons in Kursk Oblast and are training Russian forces on these systems.[7]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
@@ -40,3 +42,4 @@ These fresh North Korean forces are unlikely to decisively improve Russian opera
 [4] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [5] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [6] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
+[7] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)

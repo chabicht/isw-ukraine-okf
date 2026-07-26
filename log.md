@@ -4,6 +4,25 @@ nav_order: 8
 permalink: /log/
 ---
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with NK additional deployment (Budanov: 120+ Koksan/MLRS, 150 KN-23 in 2025), Putin economy concern (Reuters), six Ukrainian POWs executed in Donetsk Oblast, Medvedev DIB protection at Bryansk Chemical Plant;
+  [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) with Budanov report on additional missile/artillery troops, 120+ Koksan 170mm, 120+ M-1991 240mm MLRS, 150 KN-23 in 2025, NK troops training Russian forces;
+  [Russian war economy and energy]({{ site.baseurl }}/themes/russian-war-economy-energy.html) with Reuters Putin economy concern report, elite camp viewing negotiated end as desirable;
+  [Russia]({{ site.baseurl }}/actors/countries/russia.html) with Putin economy concern, Medvedev Bryansk Chemical Plant visit, DIB protection measures;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 22-23 overnight strike (4 Iskander-M/KN-23, 92 Shahed, 57 downed, 27 EW-lost), Zaporizhzhia City 1 killed 51 injured, Kharkiv infrastructure damage;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with Medvedev DIB protection (Bryansk Chemical Plant, AD production), Tatarstan payment increase to 2.8M rubles;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with advance southeast of Tolstiy Lug (geolocated), unconfirmed Guyevo/Viktorovka claims, 34th MRB and Khokhla Akhamt dispositions, Ukrainian drone strike on Tor AD system in Belgorod;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued Vovchansk/Lyptsi attacks no advance;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk Dvorichna/Kutkivka claims, Oskil River logistics challenge, Borova near Nova Kruhlyakivka with armor support, Lyman continued ops no advance;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Ivano-Darivka no advance;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with continued ops no confirmed advance, Refractory Plant workshop clearing claim, pontoon crossing strike claim, Ukrainian strike on 100 Russian personnel in Kalynivka;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with advance at Toretska Mine and west of Nelipivka (geolocated), Sparta Battalion and 132nd MRB dispositions;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with advance north of Novoyelyzavetivka (geolocated), MoD Solone claim (assessed Jan 13), attacks on Leontovychi/Hryshyne;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with continued ops no confirmed advance, Yantarne clearing and Ulakly claims, 68th Tank/57th Spetsnaz/381st Artillery dispositions;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with 80+ attacks on Velyka Novosilka, Trehubov no complete encirclement but risk, river complications (Mokri Yaly/Kashlahach/Shaitanka), unconfirmed highway cut/encirclement claims, 5th Tank and 37th MRB dispositions;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with no ground activity, 1455th MRR/429th MRR drone operations;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with limited Dnipro attacks no advance.
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Syria/HTS Tartus port negotiations, Russia-Uzbekistan military cooperation (2025 plan, 2026-2030 strategic partnership), Putin economy info op (Bloomberg Dec 2024 record revenue data contradictory), Transnistria TurkStream gas via Obzor Enterprises ($160M);
   [Russian war economy and energy]({{ site.baseurl }}/themes/russian-war-economy-energy.html) with Putin economy info op, Kommersant Transnistria TurkStream gas plan (Obzor Enterprises, 3.1M m3/day, Feb 1-Mar 1, $160M);

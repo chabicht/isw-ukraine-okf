@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Pokrovsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-22T00:00:00Z
+timestamp: 2025-01-23T00:00:00Z
 ---
 
 # Current Situation
@@ -52,7 +52,11 @@ Ukrainian and Russian forces recently advanced in the Pokrovsk direction amid co
 
 Russian forces recently advanced southwest of Pokrovsk amid ongoing offensive operations near Pokrovsk on January 22. Geolocated footage published on January 22 indicate that Russian forces recently advanced in the fields northeast of Kotlyne (southwest of Pokrovsk) and within the northeastern part of the settlement. Russian milbloggers reiterated claims that Russian forces advanced near Vozdvyzhenka (east of Pokrovsk), seized Baranivka (northeast of Pokrovsk and north of Vozdvyzhenka) and Kotlyne (southwest of Pokrovsk), advanced 3.6 kilometers in depth west of Vovkove (southwest of Pokrovsk), and within Nadiivka (southwest of Pokrovsk). A Russian milblogger claimed that the Russian military command recently introduced reserve forces into combat east of Pokrovsk and that these forces participated in the supposed seizure of Baranivka. Ukrainian military observer Kostyantyn Mashovets stated that Russian forces recently introduced elements of the 30th Motorized Rifle Brigade (2nd CAA, Central Military District [CMD]) to offensive operations south of Pokrovsk, indicating that Russian forces continue to prioritize the envelopment of Pokrovsk from the southwest. Mashovets assessed that Russian advances south and east of Pokrovsk have slowed in recent weeks. A Russian milblogger claimed that Ukrainian forces are counterattacking near Udachne (southwest of Pokrovsk). Russian forces continued offensive operations east of Pokrovsk near Vodyane Druhe, Zelene Pole, Myrolyubivka, Yelyzavetivka, Promin, and Myrnohrad; southeast of Pokrovsk near Lysivka; south of Pokrovsk near Novyi Trud, Zvirove, and Petropavlivka; and southwest of Pokrovsk near Novoserhiivka, Kotlyne, Uspenivka, and Sribne and in the direction of Hryshyne (northwest of Pokrovsk) on January 21 and 22.[18]
 
+Russian forces recently advanced southwest of Pokrovsk amid continued offensive operations in the area on January 23. Geolocated footage published on January 22 indicates that Russian forces recently advanced north of Novoyelyzavetivka (southwest of Pokrovsk). Russian milbloggers claimed that Russian forces advanced near Novoandriivka, Nadiivka (both southwest of Pokrovsk), Kotlyne (west of Pokrovsk), and Leontovychi (south of Pokrovsk), but ISW has not observed confirmation of these claims. The Russian MoD claimed on January 23 that Russian forces seized Solone (southwest of Pokrovsk), but ISW assesses that Russian forces likely seized the settlement as of January 13. Russian forces continued attacking near Pokrovsk itself; east of Pokrovsk near Vodyane Druhe, Zelene Pole, Myrolyubivka, Yelyzavetivka, Promin, and Myrnohrad; southeast of Pokrovsk near Lysivka; south of Pokrovsk near Novyi Trud, Zvirove, Leontovychi, and Petropavlivka; and southwest of Pokrovsk near Novoserhiivka, Kotlyne, Uspenivka, and Sribne and in the direction of Hryshyne on January 22 and 23.[19]
+
 # Citations
+
+[19] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 
 [18] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

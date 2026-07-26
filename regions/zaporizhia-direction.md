@@ -5,7 +5,7 @@ parent: Regions
 description: The southern axis in Zaporizhia Oblast, including the Robotyne area.
 tags: [military, eastern-europe, kinetic, crimea]
 status: ongoing
-timestamp: 2025-01-22T00:00:00Z
+timestamp: 2025-01-23T00:00:00Z
 ---
 
 # Current Situation
@@ -58,7 +58,15 @@ A Ukrainian drone group operating in the Zaporizhia direction posted footage on 
 
 Russian forces continued limited ground attacks in the Dnipro direction on January 21 and 22 but did not advance. A Russian milblogger claimed that Ukrainian forces have intensified drone and HIMARS strikes against the Russian rear in occupied Kherson Oblast. Drone operators of the Russian 10th Spetsnaz Brigade (Russian Main Military Intelligence Directorate [GRU]) are reportedly operating in the Kherson direction.[17]
 
+Neither Russian nor Ukrainian sources reported ground activity in western Zaporizhia Oblast on January 23. Drone operators of the Russian 1455th Motorized Rifle Regiment (reportedly of the 42nd Motorized Rifle Division, 58th CAA, SMD) are reportedly striking Ukrainian positions near Orikhiv, and drone operators of the 429th Motorized Rifle Regiment (19th Motorized Rifle Division, 58th CAA) are reportedly remotely mining Ukrainian logistics routes near Pyatykhatyky (northwest of Robotyne).[18]
+
+Russian forces continued limited ground attacks in the Dnipro direction in Kherson Oblast on January 22 and 23.[18]
+
 # Citations
+
+[18] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
+
+[17] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
 [17] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

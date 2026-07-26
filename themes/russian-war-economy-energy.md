@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's war economy and energy exports, including sanctions effects and European energy dynamics.
 tags: [economics, energy, sanctions, europe, war-economy]
 status: ongoing
-timestamp: 2025-01-22T00:00:00Z
+timestamp: 2025-01-23T00:00:00Z
 ---
 
 # Current Situation
@@ -28,7 +28,11 @@ Russian President Vladimir Putin claimed during a meeting on economic issues on 
 
 A Russian state media outlet reported that Russia may resume direct gas deliveries to Transnistria despite recent discussions about sourcing non-Russian gas to the region. Russian business outlet Kommersant, citing its own sources, reported on January 22 that Russia may resume gas supplies to Transnistria via the TurkStream pipeline, using the Cyprus-based company Obzor Enterprises as an intermediary. Kommersant, citing data from the European Union (EU)'s Regional Booking Platform (RBP) for natural gas transmission, reported that Obzor Enterprises booked the TurkStream pipeline on January 20 to transit 3.1 million cubic meters of gas per day to the Strandzha-2 entry point from February 1 to March 1, volumes which Kommersant assessed align with Transnistria's estimated humanitarian needs. Kommersant reported that authorities are discussing extending these supplies through mid-April and that Russia would pay roughly $160 million to purchase the gas. Kommersant's sources noted that Russia is prioritizing efforts to transfer the gas to Transnistria through the Trans-Balkan pipeline, which runs through Bulgaria and Romania before reaching Transnistria.[6]
 
+The Kremlin appears to be growing increasingly concerned about perceptions of Russia's economic instability. Reuters, citing five sources with knowledge of the situation, reported on January 23 that Russian President Vladimir Putin is growing increasingly concerned about "distortions" in the Russian economy due to the war. Two sources familiar with "thinking in the Kremlin" told Reuters that there is a camp within the Russian elite that views a negotiated end to the war as desirable and key to addressing Russia's economic issues. One source claimed that Putin recognizes the strain that the war is placing on the Russian economy and assesses that he has achieved his "key war goals" in Ukraine. The source did not speculate on Putin's willingness to end the war, however. Russian opposition outlet Meduza reported on January 9 that Russian elites are growing increasingly dissatisfied with the impact of the war on the economy. The Kremlin recently launched an information operation seeking to create the false impression that the Russian economy is performing well despite numerous continued indicators of macroeconomic distress.[7]
+
 # Citations
+
+[7] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 
 [6] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

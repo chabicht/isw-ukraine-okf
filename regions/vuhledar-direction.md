@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-22T00:00:00Z
+timestamp: 2025-01-23T00:00:00Z
 ---
 
 # Current Situation
@@ -54,7 +54,11 @@ Russian forces continued offensive operations near Velyka Novosilka on January 2
 
 Russian forces recently advanced near and within Velyka Novosilka amid continued offensive operations on January 22. Geolocated footage published on January 21 and 22 indicates that Russian forces recently advanced along a road west of Rozdolne (northeast of Velyka Novosilka) and along Horizhnia Street in northeastern Velyka Novosilka. Russian milbloggers claimed that Russian forces advanced north of Vremivka (west of Velyka Novosilka) and further within eastern Velyka Novosilka and reiterated claims that Russian forces have partially enveloped Ukrainian forces in Velyka Novosilka from the north, east, and south. Mashovets stated that elements of the Russian 37th Motorized Rifle Brigade (36th CAA, Eastern Military District [EMD]) and 5th Tank Brigade (36th CAA) are attacking in southeastern Velyka Novosilka and that elements of the 127th Motorized Rifle Division (5th CAA, EMD) are attacking in the southwestern part of the settlement. Mashovets noted that elements of the Russian 336th Naval Infantry Brigade (Baltic Fleet, Leningrad Military District [LMD]) are advancing near the northern outskirts of Velyka Novosilka. Russian forces continued ground assaults near Velyka Novosilka and just west of Velyka Novosilka near Vremivka on January 21 and 22. Elements of the Russian 40th Naval Infantry Brigade (Pacific Fleet, EMD) are reportedly operating within Velyka Novosilka.[18]
 
+Russian forces are intensifying offensive operations aimed at seizing Velyka Novosilka. Ukraine's Khortytsia Group of Forces reported that Russian forces have launched over 80 attacks on Velyka Novosilka within the past day. Khortytsia Group of Forces Spokesperson Major Viktor Trehubov stated on January 23 that Russian forces have not completely encircled Ukrainian forces in the Velyka Novosilka area but noted there is a risk of encirclement. Trehubov also noted that the rivers near Velyka Novosilka — the Mokri Yaly, Kashlahach, and Shaitanka — are complicating Ukrainian maneuver. Russian milbloggers, including a Kremlin-affiliated milblogger, claimed that Russian forces advanced along the T-0518 Pavlivka-Velyka Novosilka highway in central Velyka Novosilka, cut the settlement in half, and encircled a small Ukrainian group in southern Velyka Novosilka. Russian milbloggers claimed that Russian forces are advancing further in northeastern and eastern Velyka Novosilka and in several forested areas south of the settlement and hold positions along the Mokri Yaly and Kashlahach rivers. ISW cannot independently confirm any of these claims. Likely elements of the Russian 5th Tank Brigade (36th CAA, EMD) are reportedly operating in Velyka Novosilka, and elements of the 37th Motorized Rifle Brigade (36th CAA) are reportedly operating north of Novyi Komar.[19]
+
 # Citations
+
+[19] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 
 [18] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 

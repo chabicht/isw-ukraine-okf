@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's ongoing campaign of air, missile, and drone strikes against Ukrainian military and civilian infrastructure.
 tags: [military, missile, drone-warfare, air-defense]
 status: ongoing
-timestamp: 2025-01-22T00:00:00Z
+timestamp: 2025-01-23T00:00:00Z
 ---
 
 # Current Situation
@@ -74,7 +74,11 @@ On the night of January 20 to 21, Russian forces conducted a series of drone and
 
 On the night of January 21 to 22, Russian forces conducted a series of drone strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched 99 Shahed and other strike and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Bryansk, Kursk, and Oryol oblasts; and occupied Cape Chauda, Crimea. The Ukrainian Air Force reported that Ukrainian forces downed 65 drones over Poltava, Sumy, Kharkiv, Cherkasy, Chernihiv, Kyiv, Khmelnytskyi, Dnipropetrovsk, Mykolaiv, and Odesa oblasts; that 30 drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; and that drone strikes damaged institutions, industrial enterprises, farm buildings, residential homes, and apartment buildings in Mykolaiv, Dnipropetrovsk, Kyiv, Cherkasy, Sumy, and Khmelnytskyi oblasts. Ukrainian official sources reported that Russian drone strikes hit a residential home and an administrative building in Mykolaiv Oblast and a residential home in Sumy Oblast.[20]
 
+On the night of January 22 to 23, Russian forces conducted a series of drone and missile strikes against Ukraine. The Ukrainian Air Force reported that Russian forces launched four Iskander-M/KN-23 ballistic missiles from Voronezh Oblast against Zaporizhzhia City and 92 Shahed and decoy drones from Millerovo, Rostov Oblast; Primorsko-Akhtarsk, Krasnodar Krai; and Oryol, Kursk, and Bryansk oblasts. Ukrainian forces downed 57 drones over Poltava, Sumy, Kharkiv, Chernihiv, Mykolaiv, Kherson, Zaporizhia, and Dnipropetrovsk oblasts; 27 drones were "lost," likely due to Ukrainian electronic warfare (EW) interference; and three drones remained in Ukrainian airspace as of 0930. The Ukrainian Air Force reported that drone debris damaged infrastructure in Kharkiv Oblast. Ukrainian officials reported that Russian strikes killed one and injured 51 civilians in Zaporizhzhia City and that drone debris damaged residential buildings but no critical or residential infrastructure in Kyiv Oblast.[21]
+
 # Citations
+
+[21] [Russian Offensive Campaign Assessment, January 23, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-23-2025/)
 
 [20] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 
