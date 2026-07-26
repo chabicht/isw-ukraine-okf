@@ -32,6 +32,33 @@ INDEX_FILES = {"README.md", "index.md", "log.md"}
 REFERENCE_DOCS = {"okf.md", "rules.md"}
 TODAY_DEFAULT = None  # set by --today flag
 
+# Tiered body sections, in the order rules.md section 7 requires them to appear.
+SECTION_ORDER = [
+    "Background",
+    "Key Dynamics",
+    "Current Situation",
+    "Recent Developments",
+    "Chronology",
+    "Analysis",
+    "Citations",
+]
+# Headings that are legitimate but carry no ordering constraint.
+FREE_SECTIONS = {"Event", "Participants"}
+
+SOURCE_KEY = re.compile(r"\[((?:isw|ref):[A-Za-z0-9][A-Za-z0-9._-]*)\]")
+TOP_HEADING = re.compile(r"^#\s+(\S.*?)\s*$", re.MULTILINE)
+PERIOD_HEADING = re.compile(
+    r"^###\s+([A-Z][a-z]+)\s+(\d{1,2})\s*[–-]\s*(?:([A-Z][a-z]+)\s+)?(\d{1,2}),\s*(\d{4})\s+—\s+(\S.*)$"
+)
+MONTHS = {
+    name: number
+    for number, name in enumerate(
+        ["January", "February", "March", "April", "May", "June",
+         "July", "August", "September", "October", "November", "December"],
+        start=1,
+    )
+}
+
 # --- Frontmatter parser -------------------------------------------------
 
 def parse_frontmatter(filepath):
@@ -267,6 +294,100 @@ def check_orphaned_citations(filepath, body):
     return warnings
 
 
+def check_source_keys(filepath, body):
+    """Source keys must be resolved to numbers before commit.
+
+    Authors cite as [isw:2025-01-18]; citations.py rewrites those to [N] and
+    regenerates # Citations. A key surviving into a committed file means
+    normalize was never run, and the citation would render as literal text.
+    """
+    issues = []
+    if filepath.name == "log.md" or filepath.name in REFERENCE_DOCS:
+        return issues
+    keys = sorted(set(SOURCE_KEY.findall(body)))
+    if keys:
+        rel = str(filepath.relative_to(REPO_ROOT))
+        shown = ", ".join(keys[:5]) + (" …" if len(keys) > 5 else "")
+        issues.append(
+            f"{rel}: unresolved source keys ({shown}) — "
+            f"run: python3 .opencode/okf/citations.py normalize {rel}"
+        )
+    return issues
+
+
+def check_sections(filepath, body):
+    """Check the tiered section vocabulary and ordering from rules.md section 7."""
+    errors = []
+    warnings = []
+    rel = str(filepath.relative_to(REPO_ROOT))
+
+    if filepath.name in INDEX_FILES or filepath.name in REFERENCE_DOCS:
+        return errors, warnings
+
+    headings = TOP_HEADING.findall(body)
+    if not headings:
+        return errors, warnings
+
+    for heading in headings:
+        if heading not in SECTION_ORDER and heading not in FREE_SECTIONS:
+            warnings.append(f"{rel}: unrecognized top-level section '# {heading}'")
+
+    if "Citations" in headings and headings[-1] != "Citations":
+        errors.append(f"{rel}: '# Citations' must be the final top-level section")
+
+    ranked = [(SECTION_ORDER.index(h), h) for h in headings if h in SECTION_ORDER]
+    for (rank, name), (prev_rank, prev_name) in zip(ranked[1:], ranked):
+        if rank < prev_rank:
+            errors.append(
+                f"{rel}: section '# {name}' must come before '# {prev_name}' (see rules.md section 7)"
+            )
+
+    return errors, warnings
+
+
+def check_periods(filepath, body):
+    """Tier-2 period headings must be well-formed, ordered and non-overlapping."""
+    errors = []
+    rel = str(filepath.relative_to(REPO_ROOT))
+
+    match = re.search(r"^#\s+Chronology\s*$", body, re.MULTILINE)
+    if not match:
+        return errors
+    rest = body[match.end():]
+    nxt = re.search(r"^#\s+\S", rest, re.MULTILINE)
+    section = rest[: nxt.start()] if nxt else rest
+
+    spans = []
+    for line in section.split("\n"):
+        line = line.strip()
+        if not line.startswith("### "):
+            continue
+        period = PERIOD_HEADING.match(line)
+        if not period:
+            errors.append(
+                f"{rel}: malformed period heading '{line}' "
+                f"(expected '### January 7–18, 2025 — Name')"
+            )
+            continue
+        start_month, start_day, end_month, end_day, year, _name = period.groups()
+        end_month = end_month or start_month
+        if start_month not in MONTHS or end_month not in MONTHS:
+            errors.append(f"{rel}: unknown month in period heading '{line}'")
+            continue
+        start = (int(year), MONTHS[start_month], int(start_day))
+        end = (int(year), MONTHS[end_month], int(end_day))
+        if end < start:
+            errors.append(f"{rel}: period '{line}' ends before it starts")
+            continue
+        spans.append((start, end, line))
+
+    for (start, _end, line), (_prev_start, prev_end, prev_line) in zip(spans[1:], spans):
+        if start <= prev_end:
+            errors.append(f"{rel}: period '{line}' overlaps or precedes '{prev_line}'")
+
+    return errors
+
+
 def check_cross_links(filepath, body):
     """Check that {{ site.baseurl }}/path.html links point to existing .md files.
     Returns warnings (not errors) — OKF spec section 5.3 says broken links are tolerated."""
@@ -334,6 +455,11 @@ def main():
         all_warnings.extend(warns)
 
         all_errors.extend(check_citations(filepath, body))
+        all_errors.extend(check_source_keys(filepath, body))
+        all_errors.extend(check_periods(filepath, body))
+        sec_errs, sec_warns = check_sections(filepath, body)
+        all_errors.extend(sec_errs)
+        all_warnings.extend(sec_warns)
         all_warnings.extend(check_cross_links(filepath, body))
         all_warnings.extend(check_orphaned_citations(filepath, body))
 

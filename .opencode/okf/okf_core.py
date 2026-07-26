@@ -297,6 +297,179 @@ def source_capability(path: Path, vision: bool) -> tuple[bool, str]:
     return True, "text"
 
 
+# --- temporal compaction (okf-compact) ------------------------------------
+
+# Tunable in one place; okf-compact quotes these numbers in its subagent briefs.
+TIER1_WINDOW_DAYS = 14
+PERIOD_MIN_DAYS = 5
+PERIOD_MAX_DAYS = 15
+ROLLUP_AFTER_PERIODS = 8
+
+TIER1_HEADING = "# Recent Developments"
+TIER2_HEADING = "# Chronology"
+DAY_HEADING = re.compile(r"^###\s+([A-Z][a-z]+ \d{1,2}, \d{4})\s*$", re.MULTILINE)
+PERIOD_HEADING = re.compile(
+    r"^###\s+([A-Z][a-z]+ \d{1,2})\s*[–-]\s*([A-Z][a-z]+ )?(\d{1,2}), (\d{4})\s+—\s+(.+?)\s*$",
+    re.MULTILINE,
+)
+MONTH_DAY = re.compile(r"\b([A-Z][a-z]+) (\d{1,2})\b")
+MONTH_NAMES = {
+    name: number
+    for number, name in enumerate(
+        ["January", "February", "March", "April", "May", "June",
+         "July", "August", "September", "October", "November", "December"],
+        start=1,
+    )
+}
+
+
+def _to_iso(month_name: str, day: int, year: int) -> str | None:
+    month = MONTH_NAMES.get(month_name)
+    if not month or not 1 <= day <= 31:
+        return None
+    return f"{year:04d}-{month:02d}-{day:02d}"
+
+
+def _section(body: str, heading: str) -> str:
+    """Text under a top-level heading, up to the next top-level heading."""
+    match = re.search(rf"^{re.escape(heading)}\s*$", body, re.MULTILINE)
+    if not match:
+        return ""
+    rest = body[match.end():]
+    nxt = re.search(r"^#\s+\S", rest, re.MULTILINE)
+    return rest[: nxt.start()] if nxt else rest
+
+
+def _paragraphs(text: str) -> list[str]:
+    return [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+
+
+def _infer_day(paragraph: str, anchor: str | None) -> str | None:
+    """Heuristic assessment date for a legacy append-log paragraph.
+
+    Paragraphs name a month and day but not a year. Anchor on the concept's
+    timestamp and roll back a year for any date that would land in its future —
+    otherwise a December mention reads as eleven months ahead of a January file.
+    """
+    if not anchor:
+        return None
+    match = MONTH_DAY.search(paragraph)
+    if not match:
+        return None
+    year = int(anchor[:4])
+    iso = _to_iso(match.group(1), int(match.group(2)), year)
+    if iso and iso > anchor:
+        iso = _to_iso(match.group(1), int(match.group(2)), year - 1)
+    return iso
+
+
+def _frontmatter_date(text: str) -> str | None:
+    match = re.search(r"^timestamp:\s*(\d{4}-\d{2}-\d{2})", text, re.MULTILINE)
+    return match.group(1) if match else None
+
+
+def _days_between(earlier: str, later: str) -> int:
+    from datetime import date
+
+    a = date.fromisoformat(earlier)
+    b = date.fromisoformat(later)
+    return (b - a).days
+
+
+def compact_scan(paths: Iterable[str]) -> list[dict[str, Any]]:
+    """Per-concept worklist for temporal compaction.
+
+    Reports Tier-1 days, which of them have aged past the window and are therefore
+    eligible for demotion, the sealed Tier-2 period headings a subagent must not
+    touch, and whether the Tier-3 rollup threshold is breached.
+    """
+    report: list[dict[str, Any]] = []
+    for rel in concept_paths(paths):
+        path = ROOT / rel
+        if not path.exists() or path.name == "README.md":
+            continue
+        text = path.read_text(encoding="utf-8")
+        anchor = _frontmatter_date(text)
+
+        tier1 = _section(text, TIER1_HEADING)
+        tier2 = _section(text, TIER2_HEADING)
+        migrated = bool(tier1)
+
+        if migrated:
+            days = []
+            for match in DAY_HEADING.finditer(tier1):
+                parts = match.group(1).replace(",", "").split()
+                iso = _to_iso(parts[0], int(parts[1]), int(parts[2]))
+                if iso:
+                    days.append(iso)
+        else:
+            # Legacy shape: dailies still appended into # Current Situation.
+            legacy = _section(text, "# Current Situation")
+            days = []
+            for paragraph in _paragraphs(legacy):
+                iso = _infer_day(paragraph, anchor)
+                if iso:
+                    days.append(iso)
+
+        periods = [
+            {
+                "heading": match.group(0).lstrip("# ").strip(),
+                "name": match.group(5),
+            }
+            for match in PERIOD_HEADING.finditer(tier2)
+        ]
+
+        newest = max(days) if days else None
+        eligible = (
+            sorted({d for d in days if _days_between(d, newest) >= TIER1_WINDOW_DAYS})
+            if newest
+            else []
+        )
+
+        # An unmigrated file only needs compaction if it actually reads as an
+        # append log; a short event concept that happens to name a date does not.
+        backlog = not migrated and len(days) >= 3
+        rollup_due = len(periods) > ROLLUP_AFTER_PERIODS
+        if not (eligible or backlog or rollup_due):
+            continue
+
+        report.append({
+            "path": rel,
+            "migrated": migrated,
+            "day_count": len(days),
+            "newest_day": newest,
+            "eligible_days": eligible,
+            "sealed_periods": periods,
+            "rollup_due": rollup_due,
+            "reason": (
+                "unmigrated: dailies still in # Current Situation" if backlog
+                else "rollup: sealed period count over threshold" if rollup_due
+                else "demotion: Tier-1 days past the window"
+            ),
+        })
+    return sorted(report, key=lambda r: -r["day_count"])
+
+
+def command_compact_scan(args: argparse.Namespace) -> int:
+    paths = (
+        git_paths(args.base, args.head)
+        if args.base
+        else [str(p.relative_to(ROOT)) for p in ROOT.rglob("*.md")]
+    )
+    worklist = compact_scan(paths)
+    payload = {
+        "config": {
+            "tier1_window_days": TIER1_WINDOW_DAYS,
+            "period_min_days": PERIOD_MIN_DAYS,
+            "period_max_days": PERIOD_MAX_DAYS,
+            "rollup_after_periods": ROLLUP_AFTER_PERIODS,
+        },
+        "worklist": worklist,
+    }
+    print(dump_json(payload), end="")
+    return 0
+
+
 def command_analyze(args: argparse.Namespace) -> int:
     paths = git_paths(args.base, args.head) if args.base else [str(p.relative_to(ROOT)) for p in ROOT.rglob("*.md")]
     findings = analyze(paths, include_sources=args.include_sources)
@@ -354,6 +527,10 @@ def main() -> int:
     capability.add_argument("path")
     capability.add_argument("--vision", action="store_true")
     capability.set_defaults(func=command_capability)
+    compact = sub.add_parser("compact-scan")
+    compact.add_argument("--base")
+    compact.add_argument("--head", default="HEAD")
+    compact.set_defaults(func=command_compact_scan)
     args = parser.parse_args()
     return int(args.func(args))
 
