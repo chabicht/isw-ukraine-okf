@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-14T00:00:00Z
+timestamp: 2025-01-15T00:00:00Z
 ---
 
 # Background
@@ -92,6 +92,14 @@ ISW assesses that the Kremlin will likely attempt to seize on potential future R
 
 Russian federal censor Roskomnadzor reportedly caused a brief but widespread internet outage in Russia on January 14 while operating restriction systems of its Sovereign Internet. Russian state media reported widespread outages of major Russian internet domains and online services affecting subscribers of all Russian telecommunications companies, attributed to Roskomnadzor's technical means of countering threats (TSPU) used to restrict access to blocked domains.[13]
 
+# Analysis
+
+### Belarus as a Strategic Enabler for the War Effort
+
+ISW assesses that the Kremlin is in the endgame of a decades-long effort to de facto annex Belarus through the Union State framework, which will permanently augment Russia's military capabilities in the war against Ukraine.[14] Belarus serves not merely as a Russian-aligned ally but as a strategic enabler: the Kremlin will leverage its integration gains in Belarus to offset costs from the protracted war against Ukraine, accelerate Russia's post-war recovery, and prepare for future wars more rapidly than Russia could by itself.[14]
+
+Moscow's military integration with Belarus already provides operational benefits for the war, including staging grounds for Russian forces, launch territory for missile and drone strikes against Ukraine, and joint command structures that free Russian military resources for employment in Ukraine. The Kremlin's pursuit of full operational control over Belarus's armed forces and permanent basing would further augment Russia's ability to sustain its war effort.[14]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -107,3 +115,4 @@ Russian federal censor Roskomnadzor reportedly caused a brief but widespread int
 [11] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [12] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [13] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
+[14] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)

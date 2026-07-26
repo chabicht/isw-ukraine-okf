@@ -5,7 +5,7 @@ parent: Regions
 description: The Republic of Belarus, a Russian ally providing staging grounds and supporting the war effort.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-11T00:00:00Z
+timestamp: 2025-01-15T00:00:00Z
 ---
 
 # Current Situation
@@ -28,6 +28,16 @@ The Organization for Security and Cooperation in Europe's (OSCE) Office for Demo
 
 The Russian Ministry of Foreign Affairs announced on January 10 that foreigners will be able to travel between Russia and Belarus upon receipt of a visa from one of the two countries beginning on January 11, in another display of deeper Union State integration.[6]
 
+# Analysis
+
+### Military Integration Through the Union State
+
+ISW assesses that Russia's military integration with Belarus within the Union State framework is in an advanced stage and already poses significant security threats. The Kremlin seeks full operational and administrative control over Belarus's armed forces during peacetime and permanent Russian military basing in Belarus.[7] These military integration measures are part of a broader whole-of-government effort to de facto annex Belarus, alongside parallel political and economic lines of effort.[7]
+
+Belarus's geostrategic territory on NATO's eastern flank is a critical component of Russia's military calculus. The Kremlin plans to leverage Belarus's position to project power against NATO and Ukraine, using Belarusian territory as a staging ground for Russian forces and a launchpad for strike operations.[7] The existing joint command structures, including the Union State Regional Grouping of Forces and exercises such as Zapad-2025, provide the framework for deeper command integration.[7]
+
+ISW assesses that the Kremlin will leverage its military gains in Belarus to offset costs from Russia's protracted war against Ukraine, accelerate Russia's post-war recovery, and help Russia prepare for future wars more rapidly than Russia could by itself.[7]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -36,3 +46,4 @@ The Russian Ministry of Foreign Affairs announced on January 10 that foreigners 
 [4] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
 [5] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [6] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
+[7] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)

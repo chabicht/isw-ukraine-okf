@@ -6,6 +6,11 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW special report [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/).
+  Updated [Belarus]({{ site.baseurl }}/actors/countries/belarus.html) with Russia's de facto annexation analysis (political integration via Union State federated government, economic integration with common markets/currency union, geostrategic significance of 9.155M population and NATO-flank territory, existing threat assessment);
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with military integration analysis (operational control of Belarusian armed forces, permanent basing, staging ground);
+  [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with strategic enabler implications (offsets war costs, accelerates post-war recovery, prepares for future wars).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Kremlin unchanged goals (Patrushev rejected territorial concessions, identity denial info op, US-only negotiations frame), Dnipropetrovsk Oblast info op assessment, Roskomnadzor Sovereign Internet outage;
   [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with large-scale Jan 13-14 combined drone/missile strike on Kristal oil facility (secondary strike, Engels), Saratov Refinery, Bryansk Chemical Plant, Kremniy El microelectronics plant, Kazanorgsintez Chemical Plant, Aleksinsky Chemical Plant;
