@@ -5,7 +5,7 @@ parent: Countries
 description: The Russian Federation, the primary belligerent in the Russia-Ukraine war.
 tags: [country, military, energy, nuclear, europe, eastern-europe, black-sea]
 status: ongoing
-timestamp: 2025-01-17T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Current Situation
@@ -28,7 +28,10 @@ Russian Presidential Aide Nikolai Patrushev reiterated on January 14 that Russia
 
 Russian federal censor Roskomnadzor caused a widespread internet outage on January 14 while operating restriction systems of its Sovereign Internet. The outage affected major Russian internet domains and online services across all telecommunications companies. Sources in the Russian telecommunications industry attributed the outage to technical means of countering threats (TSPU) used to restrict access to blocked domains.[2]
 
+Russian President Vladimir Putin reiterated on January 20 that the Kremlin is willing to negotiate with the United States about the war but indicated that he maintains his demands for Ukraine's full capitulation. Putin convened a meeting of the Russian Security Council on January 20 reiterating Russia's willingness to engage in peace negotiations with the new US presidential administration. Putin caveated that any peace settlement should "eliminate the root causes" of the war in Ukraine.[3]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
+[3] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)

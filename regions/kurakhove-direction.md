@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Kurakhove in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-19T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Current Situation
@@ -42,7 +42,11 @@ Russian forces recently advanced southwest of Kurakhove amid ongoing offensive o
 
 Russian forces recently advanced northwest of Kurakhove on January 19. Geolocated footage published on January 19 indicates that Russian forces recently marginally advanced southwest of Stary Terny (northwest of Kurakhove). Russian forces continued assaults northwest of Kurakhove near Slovyanka and Petropavlivka and towards Kostyantynopil and Andriivka; west of Kurakhove near Dachne and Ulakly; and southwest of Kurakhove near Yantarne on January 18 and 19. A Russian milblogger claimed on January 18 that Ukrainian forces counterattacked near Dachne and Zelenivka (southwest of Kurakhove). Elements of the Russian 238th Artillery Brigade (8th CAA, Southern Military District [SMD]) are reportedly operating near Dachne and drone operators of the 150th Motorized Rifle Division (8th CAA, SMD) are reportedly operating near Ulakly (west of Kurakhove). Elements of the Russian 14th Spetsnaz Brigade (Russian General Staff's Main Directorate [GRU]) are reportedly operating near Sukhi Yaly (southwest of Kurakhove).[15]
 
+Russian forces recently advanced in the Kurakhove direction amid continued offensive operations on January 20. Geolocated footage published on January 19 and 20 indicates that Russian forces recently advanced south of Petropavlivka (northwest of Kurakhove) and southeast of Kostyantynopil (west of Kurakhove). A Russian milblogger claimed that Russian forces also advanced west of Petropavlivka and west of Slovyanka (northwest of Kurakhove), but ISW has not observed confirmation. The Russian Ministry of Defense (MoD) claimed on January 20 that Russian forces seized Shevchenko (northwest of Kurakhove), and a Russian milblogger credited elements of the Russian 114th Motorized Rifle Brigade (51st Combined Arms Army [CAA], formerly 1st Donetsk People's Republic Army Corps [DNR AC]) with the seizure — ISW assessed Russian forces had seized Shevchenko as of January 3. Russian forces conducted offensive operations northwest of Kurakhove near Slovyanka, Petropavlivka, and Shevchenko; west of Kurakhove near Dachne, Andriivka, Kostyantynopil, and Ulakly; and southwest of Kurakhove near Sukhi Yaly, Zelenivka, Yantarne and Rozlyv on January 19 and 20. A Russian source claimed that Ukrainian forces counterattacked near Zelenivka. Elements of the Russian 68th Tank Regiment (150th Motorized Rifle Division, 8th CAA, Southern Military District [SMD]) are reportedly operating near Dalne (south of Kurakhove); elements of the 238th Artillery Brigade (8th CAA) are reportedly operating near Dachne; and drone operators of the "Somali" Battalion of the 9th Motorized Rifle Brigade (51st CAA) are reportedly operating near Slovyanka.
+
 # Citations
+
+[16] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

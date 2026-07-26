@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's war economy and energy exports, including sanctions effects and European energy dynamics.
 tags: [economics, energy, sanctions, europe, war-economy]
 status: ongoing
-timestamp: 2025-01-16T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Current Situation
@@ -22,9 +22,12 @@ Russian state-owned energy corporation Gazprom acknowledged on January 13 that i
 
 Russian and Transnistrian authorities are reportedly discussing Russian purchases of European gas for Transnistria through an intermediary, likely to avoid having to gain various states' permission to use the TurkStream and Trans-Balkan pipelines to supply Russian gas to the pro-Russian breakaway Moldovan republic. Russian business outlet Kommersant reported on January 16 that unspecified sources stated that Russia and Transnistria are discussing the possibility of Russia buying gas for Transnistria on the European spot market through Moldovan gas company Natural Gaz DC between January and April 2025. Kommersant stated that Moscow tentatively proposed using Russian budget funds to buy up to three million cubic meters per day of gas that would cover Transnistria's domestic consumption but would not support producing Transnistria's electricity exports to Moldova. Kommersant estimated that this volume of gas would likely cost Russia $164 million from January to April 2025. Natural Gaz DC co-owner Arkady Vikol stated on January 15 that the company had signed a contract with Transnistrian gas company Tiraspoltransgaz to supply two-to-three million cubic meters of European gas per day to Transnistria. Transnistria President Vadim Krasnoselsky announced on January 15 that Russia would provide Transnistria with gas as "humanitarian aid" but did not specify the delivery method. Russia is likely seeking alternative routes to supply Transnistria with gas as the Trans-Balkan pipeline transits Turkey, Bulgaria, Romania, and Ukraine. Ukraine stopped transiting Russian gas through its territory on January 1, and Ukrainian Foreign Minister Andrii Sybiha stated on January 15 that Ukraine was in discussions to help Transnistria but that the transit of Russian gas through Ukraine is "generally unacceptable." Ukrainian and Moldovan officials have recently noted how Russia is trying to use its artificially created gas crisis to affect Moldovan public opinion before the 2025 Moldovan parliamentary elections.[4]
 
+Moldovan and Transnistrian authorities continue efforts to supply Transnistria with European gas. Transnistrian President Vadim Krasnoselsky stated on January 20 that Transnistria will allow Moldovagaz to supply Transnistria with gas, presumably from Europe, despite initially refusing offers in early January 2025. Krasnoselsky claimed that Transnistria can guarantee payment – possibly referring to Moscow's reported proposal to use Russian budget funds to buy European gas for Transnistria's domestic consumption. Moldovan President Maia Sandu responded on January 20 that Krasnoselsky's proposal does not appear to be about Transnistria's purchase of gas through Moldovagaz but that Krasnoselsky rather is proposing that "someone else" buys the gas and delivers it to Moldovan territory.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
 [3] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [4] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
+[5] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)

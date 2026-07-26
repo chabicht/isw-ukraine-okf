@@ -25,3 +25,4 @@ per daily assessment (rules.md §7.1).
 * [Ukrainian Neptune and Drone Strike on Rostov Oblast](ukrainian-neptune-drone-strike-rostov-2025-01-09.html) - Ukrainian Neptune missiles and drones strike ammunition warehouse near Chaltyr, Rostov Oblast
 * [Ukraine-UK Centennial Partnership Agreement](ukraine-uk-centennial-partnership-agreement-2025.html) - Zelensky and Starmer sign a landmark 100-year partnership agreement in Kyiv
 * [NATO-Georgia 2025 Exercise](nato-georgia-2025-exercise.html) - Joint NATO-Georgia military exercise in March 2025 with Azerbaijan participation and Armenian observer status
+* [Ukrainian Drone Strike on Gorbunov Aircraft Plant in Kazan](ukrainian-drone-strike-kazan-2025-01-20.html) - Ukrainian drones strike the Gorbunov Aircraft Plant producing Tu-160 strategic bombers in Kazan, Republic of Tatarstan

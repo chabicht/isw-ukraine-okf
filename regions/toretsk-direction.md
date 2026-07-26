@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Toretsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-19T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Current Situation
@@ -40,7 +40,11 @@ Russian forces continued offensive operations in the Toretsk direction on Januar
 
 Both Ukrainian and Russian forces recently advanced in the Toretsk direction on January 19. Geolocated footage published on January 19 indicates that Ukrainian forces recently recaptured lost positions in southern Shcherbynivka (southwest of Toretsk). Geolocated footage published on January 19 indicates that Russian forces recently advanced northward on the territory of the Toretska Mine in northern Toretsk and northwestward along Stepana Razina Street in western Toretsk. Russian milbloggers claimed on January 19 that Russian forces seized half of the Toretska Mine in northern Toretsk, advanced near Tsentralna Mine in central Toretsk, and advanced and are clearing Ukrainian forces in Krymske (north of Toretsk). ISW has not observed confirmation of these claims, however. Russian forces continued attacking within Toretsk, north of Toretsk near Dyliivka, and southwest of Toretsk near Shcherbynivka.[11]
 
+Russian forces recently advanced in Toretsk amid continued fighting in the area on January 20. Geolocated footage published on January 18 and 20 indicates that Russian forces recently advanced within southern and northern Toretsk, respectively. A Russian milblogger claimed on January 20 that Russian forces seized a waste heap on the northwestern outskirts of Toretsk and are bypassing Toretsk from the north near Krymske. ISW has not observed confirmation. Russian forces continued attacking within Toretsk; north of Toretsk near Krymske and Dyliivka; northeast of Toretsk near Ozaryanivka; and southwest of Toretsk near Shcherbynivka on January 19 and 20. A Ukrainian officer operating in the Toretsk direction stated on January 20 that Russian forces did not make significant advances near Krymske and Ozaryanivka as other sources claimed but are sending small sabotage and reconnaissance groups to assault Ukrainian positions on the flanks of Toretsk.
+
 # Citations
+
+[12] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [2] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)

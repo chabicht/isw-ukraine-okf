@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations north and northwest of Vuhledar in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-19T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Current Situation
@@ -48,7 +48,11 @@ Russian forces recently advanced into eastern Velyka Novosilka on January 18. Ge
 
 Russian forces recently advanced farther in eastern Velyka Novosilka on January 19. Geolocated footage published on January 19 indicates that Russian forces recently marginally advanced in eastern Velyka Novosilka. A Russian milblogger claimed on January 18 that Russian forces advanced northeast of Velyka Novosilka. ISW has not observed confirmation of this claim, however. A Ukrainian source reported on January 18 that Russian forces recently conducted a reinforced company-sized mechanized assault comprised of 13 vehicles from Shakhtarske (northeast of Velyka Novosilka) towards Velyka Novosilka, and recent Russian advances in eastern Velyka Novosilka may be a result of this mechanized assault. Russian forces continued offensive operations in Velyka Novosilka on January 18 and 19. Russian sources claimed on January 19 that Russian forces are attacking and slowly advancing in southern, eastern, and western Velyka Novosilka. Ukraine's Khortytsia Group of Forces stated on January 19 that Russian forces are taking advantage of unfavorable weather conditions in the Novopavilvka direction (north of Velyka Novosilka) to conduct offensive operations and pressure Ukrainian forces in Velyka Novosilka from the north.[16]
 
+Russian forces continued offensive operations in the Velyka Novosilka direction on January 20 but did not make any confirmed advances. A Russian milblogger claimed on January 19 that Russian forces advanced in northeastern Velyka Novosilka. One milblogger claimed on January 20 that Russian forces seized the entirety of Velyka Novosilka, but other Russian sources claimed that Russian forces have not yet seized the rest of the settlement. ISW has not observed confirmation. Russian forces continued attacking near Velyka Novosilka itself and northwest of Velyka Novosilka towards Pryvilne on January 19 and 20. Drone operators of the Russian 57th Motorized Rifle Brigade (5th CAA, Eastern Military District [EMD]) are reportedly striking targets near Velyka Novosilka.
+
 # Citations
+
+[17] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

@@ -22,6 +22,26 @@ permalink: /log/
   [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 18-19 overnight strike (61 Shahed, 43 downed, 15 EW-lost), Iskander-M on Vysokyi, 12 Shahed entered Belarus;
   [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with BARS-Sarmat recruiting women, milblogger Iran arms trade speculation.
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Syrskyi 434K Russian casualties 2024 (150K KIA), Putin reiterates negotiations but maintains capitulation demands, Syrskyi reports Ukrainian DIB strikes halved Russian artillery usage;
+  [Ukraine's Strike Campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Kazan Gorbunov Aircraft Plant strike (Tu-160 strategic bomber production), Syrskyi DIB effects assessment;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 19-20 overnight strike (141 Shahed, 93 downed, 47 EW-lost), Iskander-M on Sumy, Mysnyk on intensified border glide bomb strikes;
+  [Russian mobilization and force generation]({{ site.baseurl }}/themes/russian-mobilization-force-generation.html) with artillery shell quality complaints, Sevastopol contract payment increase, Zaporizhia Cossack society registration, Zelensky NK POW interrogation video;
+  [Russian war economy and energy]({{ site.baseurl }}/themes/russian-war-economy-energy.html) with Krasnoselsky allows Moldovagaz gas supply, Sandu response;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with continued ops no advance, attacks near Nikolskiy/Viktorovka/Kurilovka, Ukrainian counterattack claims, 56th VDV/83rd VDV/40th Naval Infantry/Kashtan dispositions;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with repelled Sumy border mechanized assault, continued Vovchansk no advance, 245th MRR/Vakha Akhmat dispositions;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with Kupyansk unconfirmed Dvorichna claim, Borova MoD Novoyehorivka claim (unconfirmed), Lyman unconfirmed Ivanivka/Terny heights claims, 16th Spetsnaz in Serebryanske;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Verkhnokamyanske/Ivano-Darivka no advance;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with unconfirmed Desyatnyi Microraion/Refractory Plant claims, 98th VDV/BARS-31 dispositions;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with advances in southern and northern Toretsk (geolocated Jan 18/20), waste heap claim, Ukrainian officer on sabotage groups;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with Pokrovske Mine No.2 and Kotlyne advance (geolocated), unconfirmed Udachne/Novoandriivka claims, Trehubov on reduced frontal assaults, redeployment;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with advances south of Petropavlivka and southeast of Kostyantynopil (geolocated), MoD claimed Shevchenko (assessed Jan 3), 68th Tank/238th Artillery/Somali Battalion;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with continued Velyka Novosilka ops no confirmed advance, unconfirmed seizure claims, 57th MRB drone ops;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with continued Novoandriivka ops no advance;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Dnipro/Kozatskyi Island ops no advance, Bears BARS-Sarmat/80th Arctic MRB;
+  [Belarus]({{ site.baseurl }}/regions/belarus.html) with Kim Yo Jong statement on bilateral relations.
+* **Creation**: Event concept for [Ukrainian Drone Strike on Gorbunov Aircraft Plant in Kazan]({{ site.baseurl }}/events/ukrainian-drone-strike-kazan-2025-01-20.html).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Ukrainian strikes on Kaluga/Tula oil depots and Nebo-SVU/Buk-M3/S-300 AD systems, NATO-Georgia 2025 exercise planning, 2nd/41st CAA strike group assembly south of Pokrovsk, 110th MRB redeployment to east Pokrovsk, Velyka Novosilka GLOC interdiction and seizure forecast;
   [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with Kaluga and Tula oil depot strikes and AD system strikes;

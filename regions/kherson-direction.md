@@ -5,7 +5,7 @@ parent: Regions
 description: The Dnipro River delta and Kherson Oblast frontline area.
 tags: [military, eastern-europe, kinetic, black-sea]
 status: ongoing
-timestamp: 2025-01-19T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Current Situation
@@ -40,7 +40,11 @@ Russian forces continued limited ground attacks in the Dnipro direction on Janua
 
 Russian forces continued offensive operations in the Dnipro direction on January 18 and 19 but did not advance.[15]
 
+Russian forces continued offensive operations in the Dnipro direction, including near Kozatskyi Island (northeast of Kherson City), on January 19 and 20 but did not advance. Drone operators of the Russian "Bears" company of the BARS-Sarmat Detachment (Russian Combat Army Reserve) and elements of the 80th Arctic Motorized Rifle Brigade (14th Army Corps [AC], Leningrad Military District [LMD]) are reportedly operating in Kherson Oblast.
+
 # Citations
+
+[16] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)

@@ -5,7 +5,7 @@ parent: Themes
 description: Russia's efforts to generate combat power without general mobilization, including recruitment, training, and equipment.
 tags: [military, mobilization, war-economy]
 status: ongoing
-timestamp: 2025-01-19T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Current Situation
@@ -60,6 +60,14 @@ Russian volunteer military detachments continue efforts to boost manpower by rec
 
 A Russian milblogger suggested that the Russian government may continue to import new military equipment from Iran following the signing of the Russia-Iran Strategic Partnership Agreement on January 17. A Russian milblogger claimed on January 18 that Russia might sell Iran advanced Su-35S, Su-30SM, and Su-57 fighter jets and S-300 air defense systems in exchange for advanced Iranian stealth strike and reconnaissance drones, Fateh-110 and Zolfaghar ballistic missiles, and long-range rotary mounted .50 caliber "Moharram" machine guns. The milblogger postulated that the eventual arrival of Iranian "Moharram" machine guns might help Russian forces counter Ukrainian naval drones in the Black Sea.[12]
 
+A Russian milblogger and former Storm-Z instructor repeated on January 20 complaints that Russian milbloggers first issued in May 2024 about insufficient quality controls on Russian artillery shells. The milblogger claimed that the inconsistent amount of gunpowder in artillery shells is causing Russian artillery to perform inconsistently and inaccurately and that the Russian military command has not fixed the issue but instead continues to prohibit soldiers from disassembling munitions and weighing the gunpowder inside.[13]
+
+Russian occupation authorities continue cryptomobilization efforts in occupied Ukraine. Sevastopol occupation governor Mikhail Razvozhaev reported on January 20 that the Sevastopol occupation administration has increased the regional one-time payment for soldiers who sign a Russian MoD contract after January 1, 2025 from 400,000 rubles (roughly $3,950) to 500,000 rubles (roughly $4,950). Those who sign a MoD contract in occupied Sevastopol will now receive 900,000 rubles (roughly $8,900) between the regional and federal one-time payments.[13]
+
+Zaporizhia Oblast occupation deputy head Anton Titsky announced on January 20 that occupation authorities officially registered the first pro-Russian Cossack society organization in occupied Zaporizhia Oblast, as part of ongoing cryptomobilization efforts through the All-Russian Cossack Society.[13]
+
+Ukrainian President Volodymyr Zelensky published a video on January 20 showing an interrogation of a North Korean prisoner of war (POW), who states that he served in a reconnaissance battalion and that some North Korean underwent training with Russian heavy military equipment. The North Korean POW claimed that he did not know that he would fight for Russia before arriving in Russia.[13]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -74,3 +82,4 @@ A Russian milblogger suggested that the Russian government may continue to impor
 [10] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [11] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [12] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
+[13] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)

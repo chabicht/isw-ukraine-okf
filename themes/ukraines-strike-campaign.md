@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-18T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Current Situation
@@ -62,6 +62,10 @@ On the night of January 17 to 18, Ukrainian forces struck two Russian oil depots
 
 On January 18, Ukrainian forces also struck a Russian "Nebo-SVU" long-range radar detection system in occupied Kherson Oblast, a Buk-M3 air defense system in occupied Donetsk Oblast, and a 9C32M radiolocation station of an S-300 air defense system in occupied Donetsk Oblast. The Ukrainian General Staff reported that battle damage assessments (BDA) of the strikes are ongoing.
 
+On January 20, Ukrainian forces reportedly struck the Gorbunov Aircraft Plant in Kazan, Republic of Tatarstan. Ukrainian Center for Countering Disinformation Head Lieutenant Andriy Kovalenko stated on January 20 that unspecified drones struck Russian military facilities in Kazan. Russian opposition outlet Astra posted footage of a fire at the Gorbunov Aircraft Plant, an open-source intelligence Telegram account geolocated a picture of the aftermath of the strike to the fuel tanks of the plant. The Gorbunov Aircraft Plant is a subsidiary of the Russia Tupolev United Aircraft Company, which produces and repairs Tu-160 strategic bombers.[16]
+
+Ukrainian strikes against Russian DIB targets are reportedly affecting Russian forces' combat capabilities. Syrskyi stated on January 20 that Ukrainian strikes on Russia's military facilities, including oil refineries and those that produce ammunition, missile components, and dual-use products, have significantly disrupted Russian forces' combat capabilities. Syrskyi noted that Russian forces are using half as many artillery shells per day than they were an unspecified period of time ago.[16]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -79,3 +83,4 @@ On January 18, Ukrainian forces also struck a Russian "Nebo-SVU" long-range rada
 [13] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [14] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [15] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
+[16] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)

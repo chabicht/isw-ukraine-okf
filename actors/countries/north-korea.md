@@ -5,7 +5,7 @@ parent: Countries
 description: The Democratic People's Republic of Korea, a military partner of Russia providing troops and materiel for the war in Ukraine.
 tags: [country, military, asia, indo-pacific]
 status: ongoing
-timestamp: 2025-01-16T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Current Situation
@@ -24,9 +24,14 @@ South Korea's National Intelligence Service (NIS) reportedly announced at a clos
 
 ISW assessed on January 16 that the entire North Korean contingent of roughly 12,000 personnel currently in Kursk Oblast may be killed or wounded in action by mid-April 2025 should North Korean forces continue to suffer from their current high loss rate. Ukrainian President Zelensky stated in early January that 3,800 North Korean personnel had been killed or wounded in Kursk Oblast. Ukrainian Defense Minister Rustem Umerov stated on November 5, 2024 that North Korean forces were engaged in "small-scale" clashes in Kursk Oblast, but Russian milbloggers began claiming on December 6 that North Korean forces were participating in more significant combat operations. North Korean forces have therefore likely suffered roughly 92 casualties per day since starting to participate in significant fighting in early December 2024. At this rate, the entirety of the 12,000-strong North Korean contingent in Kursk Oblast may be killed or wounded in roughly 12 weeks (about mid-April 2025). North Korean forces will likely continue to suffer a larger ratio of wounded to killed in action — as is typical for armed conflict — and it is unclear if or when injured North Korean soldiers return to combat.[4]
 
+Ukrainian President Volodymyr Zelensky published a video on January 20 showing an interrogation of a North Korean prisoner of war (POW), who states that he served in a reconnaissance battalion and that some North Korean troops underwent training with Russian heavy military equipment. The North Korean POW claimed that he did not know that he would fight for Russia before arriving in Russia.[5]
+
+North Korea may be setting conditions to increase its cooperation with Belarus. North Korean dictator Kim Jong Un's sister and Vice Chair of the Workers' Party of Korea's Central Committee Kim Yo Jong stated on January 20 that North Korea is receptive to developing bilateral relations with Belarus, but that Belarus needs to more explicitly clarify its intentions.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
 [2] [Russian Offensive Campaign Assessment, January 12, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-12-2025/)
 [3] [Russian Offensive Campaign Assessment, January 13, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-13-2025/)
 [4] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
+[5] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)

@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-19T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Background
@@ -112,6 +112,12 @@ The Russian Central Grouping of Forces assembled a strike group comprised of uni
 
 The Ukrainian General Staff reported on January 18 that Russian forces used ammunition equipped with chemical agents banned by the Chemical Weapons Convention (CWC) 434 times in Ukraine in December 2024, contributing to a total of 5,389 documented cases since February 2023. Ukraine's radiation, chemical, and biological intelligence units are monitoring Russia's use of banned chemical agents, which include using regulated K-51 and RG-VO grenade launchers to launch munitions containing chemical agents and ammunition containing unspecified hazardous chemicals that are banned in warfare under the 1925 Geneva Protocol and CWC. Ukrainian officials have previously reported on increasingly common instances of Russian forces using chemical substances in combat that are banned by the CWC, to which Russia is a signatory, and the Ukrainian General Staff noted that such violations have been systematic in the Russian military since February 2023.[17]
 
+Ukrainian Commander-in-Chief General Oleksandr Syrskyi reported on January 20 that Russian forces suffered more than 434,000 casualties in 2024 — 150,000 of which were personnel killed in action. Syrskyi had stated on December 30, 2024 that Russian forces suffered 427,000 casualties in 2024. ISW continues to assess that the Russian military command was likely willing to accept record levels of casualties in Fall–Winter 2024, especially from September to November 2024, in order to achieve relatively larger territorial gains from continued infantry-led, attritional assaults.[19]
+
+Russian President Vladimir Putin reiterated on January 20 that the Kremlin is willing to negotiate with the United States about the war in Ukraine but indicated that he maintains his demands for Ukraine's full capitulation. Putin convened a meeting of the Russian Security Council on January 20, at which he and Russian Foreign Minister Sergei Lavrov reiterated Russia's willingness to engage in peace negotiations with the new US presidential administration under President Donald Trump. Putin caveated that any peace settlement should "eliminate the root causes" of the war. Senior Kremlin officials have been reiterating that the Kremlin refuses to consider any compromises to Putin's late 2021 and early 2022 demands, which include demands that Ukraine remain permanently "neutral" and not join NATO, impose severe limitations on the size of the Ukrainian military, and remove the current Ukrainian government.[19]
+
+Ukrainian strikes against Russian defense industrial base (DIB) targets are reportedly affecting Russian forces' combat capabilities. Syrskyi stated on January 20 that Ukrainian strikes on Russia's military facilities, including oil refineries and those that produce ammunition, missile components, and dual-use products, have significantly disrupted Russian forces' combat capabilities and ability to maintain a high intensity of combat operations. Syrskyi noted that Russian forces are using half as many artillery shells per day than they were an unspecified period of time ago.[19]
+
 # Analysis
 
 ### Belarus as a Strategic Enabler for the War Effort
@@ -140,3 +146,4 @@ Moscow's military integration with Belarus already provides operational benefits
 [16] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [17] [Russian Offensive Campaign Assessment, January 19, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-19-2025/)
 [18] [Russia's Quiet Conquest: Belarus](https://understandingwar.org/research/russia-ukraine/russias-quiet-conquest-belarus/)
+[19] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)

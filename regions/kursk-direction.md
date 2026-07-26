@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Ukrainian operations inside the Russian Federation's Kursk Oblast, including the salient centered on Sudzha.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-19T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Current Situation
@@ -54,7 +54,11 @@ Russian opposition media sources reported that displaced residents of Kursk Obla
 
 Russian forces recently advanced south of Sudzha amid continued activity in the northwestern part of the Ukrainian salient on January 19. Geolocated footage published on January 18 indicates that Russian forces recently advanced in eastern Kurilovka (south of Sudzha). A Russian milblogger claimed that Russian forces advanced near Viktorovka (northwest of Sudzha). Another Russian milblogger claimed that Russian forces operating northwest of Sudzha are regrouping near Staraya and Novaya Sorochina and are attacking near Nikolayeva and Viktorovka. Russian milbloggers claimed that Ukrainian forces conducted reconnaissance-in-force operations near Malaya Loknya and Viktorovka (both northwest of Sudzha). Elements of the Russian 56th Airborne (VDV) Regiment (7th VDV Division) are reportedly operating near Novoivanovka (northwest of Sudzha); elements of the Chechen "Kashtan" Spetsnaz Detachment are reportedly operating in Berdin (northeast of Sudzha); and elements of the 83rd and 11th VDV brigades and 40th Naval Infantry Brigade (Pacific Fleet, Eastern Military District [EMD]) are reportedly operating in other unspecified areas of Kursk Oblast.[10]
 
+Russian forces continued offensive operations in the Ukrainian salient in Kursk Oblast on January 20 but did not make any confirmed advances. Russian milbloggers claimed that Russian forces attacked northwest of Sudzha near Nikolskiy and towards Viktorovka from Novoivanovka and south of Sudzha near Kurilovka. A Russian milblogger claimed that Ukrainian forces counterattacked north of Sudzha near Staraya Sorochina and Novaya Sorochina and south of Sudzha in Makhnovka. Elements of the Russian 56th Airborne (VDV) Regiment (7th VDV Division), 83rd VDV Brigade, 40th Naval Infantry Brigade (Pacific Fleet, Eastern Military District [EMD]), and the "Kashtan" unit of Chechen Akhmat Spetsnaz reportedly continue operating in Kursk Oblast. Drone operators of the Russian 155th Naval Infantry Brigade (Pacific Fleet) are reportedly striking targets north of Sudzha near Nikolayevka.
+
 # Citations
+
+[11] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [2] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)

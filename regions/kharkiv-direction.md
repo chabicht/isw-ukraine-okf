@@ -5,7 +5,7 @@ parent: Regions
 description: The northern axis of Russian offensive operations in Kharkiv Oblast, centered on Vovchansk.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-19T00:00:00Z
+timestamp: 2025-01-20T00:00:00Z
 ---
 
 # Current Situation
@@ -34,7 +34,13 @@ Ukrainian forces recently recaptured lost positions north of Kharkiv City on Jan
 
 Russian forces continued offensive operations northeast of Kharkiv City near Vovchansk on January 18 and 19 but did not advance. Elements of the Russian 11th Army Corps (Leningrad Military District) are reportedly operating in Kharkiv Oblast.[12]
 
+Ukrainian Border Guards Spokesperson Andriy Demchenko stated on January 20 that Ukrainian forces repelled a Russian mechanized assault of an unspecified echelon along the Sumy Oblast-Kursk Oblast international border on an unspecified date in January 2025. Demchenko stated that Russian forces have conducted several attacks in the Sumy Oblast border area since January 1.
+
+Russian forces continued limited ground attacks northeast of Kharkiv City near Vovchansk on January 19 and 20 but did not advance. Elements of the Russian 245th Motorized Rifle Regiment (47th Tank Division, 1st Guards Tank Army [GTA], Moscow Military District [MMD]) and the "Vakha" Battalion of Chechen Akhmat Spetsnaz reportedly continue operating in northern Kharkiv Oblast.
+
 # Citations
+
+[13] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [2] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
