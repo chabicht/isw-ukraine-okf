@@ -5,7 +5,7 @@ parent: Themes
 description: Ukraine's campaign of deep strikes using missiles and drones against Russian military, logistics, and energy targets.
 tags: [military, strike-campaign, drone-warfare, missile, black-sea]
 status: ongoing
-timestamp: 2025-01-10T00:00:00Z
+timestamp: 2025-01-11T00:00:00Z
 ---
 
 # Current Situation
@@ -40,6 +40,8 @@ On January 8, Ukrainian forces struck a command post of the Russian 8th Combined
 
 On the night of January 9 to 10, Ukrainian forces struck a Russian ammunition and drone storage warehouse near Chaltyr, Rostov Oblast with drones and Neptune anti-ship cruise missiles. Sources within Ukraine's Security Service (SBU) told Ukrainian outlets that Ukrainian forces used the drones to overwhelm and exhaust Russian air defenses in the area before launching Neptune missiles at the warehouse. The sources stated that Russian forces use reconnaissance drones from this warehouse to correct Russian strikes on Ukrainian cities and frontline positions. Rostov Oblast Governor Yury Slyusar stated that Russian forces downed 16 Ukrainian drones over the oblast and that the strike caused a fire at an industrial enterprise just north of Chaltyr.[8]
 
+Ukrainian forces may have conducted a drone strike against an oil refinery in the Republic of Tatarstan on January 11, though details remain unclear. Russian opposition outlet Astra reported that authorities at the Tanevo plant at the Tatarstan Oil Refinery Complex in Nizhnekamsk evacuated the facility due to the risk of drone strikes and that locals reported smoke coming from the plant. Russian sources published footage purportedly showing a fire near the facility, though one source later claimed there was no fire and that evacuations were part of exercises. Republic of Tatarstan Head Rustam Minnikhanov's press service refuted reports of a fire, attributing the glow to a flare from planned equipment changes. Russian authorities issued a drone threat warning in the Republic of Tatarstan and stopped operations at Nizhnekamsk Airport citing unspecified safety concerns.[9]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -50,3 +52,4 @@ On the night of January 9 to 10, Ukrainian forces struck a Russian ammunition an
 [6] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [7] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
 [8] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
+[9] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)

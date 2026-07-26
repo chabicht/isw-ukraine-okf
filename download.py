@@ -11,6 +11,7 @@ import argparse
 import re
 import sys
 from pathlib import Path
+from urllib.parse import urlparse
 
 import html2text
 import requests
@@ -28,16 +29,23 @@ USER_AGENT = (
 )
 
 
-def date_from_url(url: str) -> str:
+def date_from_url(url: str) -> str | None:
     match = re.search(
         r"(january|february|march|april|may|june|july|august|september|october|november|december)"
         r"-(\d{1,2})-(\d{4})",
         url.lower(),
     )
     if not match:
-        sys.exit(f"error: could not find a date like 'january-2-2025' in URL: {url}")
+        return None
     month, day, year = match.groups()
     return f"{year}-{MONTHS[month]:02d}-{int(day):02d}"
+
+
+def date_from_page(soup: BeautifulSoup) -> str | None:
+    meta = soup.find("meta", property="article:published_time")
+    if meta and meta.get("content"):
+        return meta["content"][:10]
+    return None
 
 
 def main():
@@ -45,12 +53,22 @@ def main():
     parser.add_argument("url", help="ISW assessment URL")
     args = parser.parse_args()
 
-    date = date_from_url(args.url)
-
     response = requests.get(args.url, headers={"User-Agent": USER_AGENT}, timeout=60)
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
+
+    date = date_from_url(args.url)
+    if date:
+        filename = f"{date}.md"
+    else:
+        date = date_from_page(soup)
+        if not date:
+            sys.exit(
+                f"error: no date in URL slug and no article:published_time meta tag on page: {args.url}"
+            )
+        slug = urlparse(args.url).path.rstrip("/").rsplit("/", 1)[-1]
+        filename = f"{date}-{slug}.md"
     content = soup.find("div", class_="dynamic-entry-content")
     if content is None:
         print("warning: content div not found, converting full page", file=sys.stderr)
@@ -63,7 +81,7 @@ def main():
     title = soup.title.get_text().split("|")[0].strip() if soup.title else None
     header = f"# {title}\n\n" if title and not markdown.startswith("#") else ""
 
-    out_path = Path(__file__).parent / "sources" / "isw" / f"{date}.md"
+    out_path = Path(__file__).parent / "sources" / "isw" / filename
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(header + markdown, encoding="utf-8")
     print(out_path)

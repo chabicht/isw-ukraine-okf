@@ -5,7 +5,7 @@ parent: Regions
 description: The Republic of Belarus, a Russian ally providing staging grounds and supporting the war effort.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-10T00:00:00Z
+timestamp: 2025-01-11T00:00:00Z
 ---
 
 # Current Situation

@@ -6,6 +6,25 @@ permalink: /log/
 
 ## 2026-07-26
 
+* **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/).
+  Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with first North Korean POWs captured (SSO/VDV), Putin maximalist pre-war demands (FT report on Dec 2021 ultimatum), forced child deportation (3,310 from Kherson, 400 Donetsk excursion, 449 returned in 2024);
+  [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html) created with NK troop deployments in Kursk, large assault group tactics (400-500 personnel), high casualties (~1,000/week), POW capture details, registration card from Tuva, limited training, Russian 810th Brigade losses;
+  [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with Ukrainian advance in northern Pogrebki, contested Makhnovka claims, NK POW capture and assault tactics, Washington Post report of Russian multi-directional attacks, 1427th MRR, 30th MRR, 34th MRB dispositions;
+  [Kharkiv direction]({{ site.baseurl }}/regions/kharkiv-direction.html) with continued limited attacks, Russian marginal withdrawal in Vovchansk, Ukrainian positions north of Vovcha River;
+  [Kupyansk-Svatove-Kreminna line]({{ site.baseurl }}/regions/kupyansk-svatove-kreminna-line.html) with unconfirmed Dvorichna advance claim, Borova unconfirmed west of Makiivka claim, 752nd MRR near Nadiya, Lyman 488th/283rd MRR near Ivanivka unable to break through;
+  [Siversk axis]({{ site.baseurl }}/regions/siversk-axis.html) with continued Hryhorivka/Bilohorivka attacks no advance;
+  [Chasiv Yar direction]({{ site.baseurl }}/regions/chasiv-yar-direction.html) with Mashovets-reported Hryhorivka seizure, Dobroliubova Street claim, ~20% Refractory Plant, bypass tactics via Pivnichnyi Microraion, Sever-V Brigade, 200th MRB, 4th MRB, 215th Reconnaissance Battalion;
+  [Toretsk direction]({{ site.baseurl }}/regions/toretsk-direction.html) with Russian security agency clearing claim (unconfirmed), Petrivka claim, 109th MRR in northwestern Toretsk;
+  [Pokrovsk direction]({{ site.baseurl }}/regions/pokrovsk-direction.html) with MoD Shevchenko claim (assessed seized Dec 15), Baranivka/Yasenove unconfirmed claims, small mobile group tactics on ATVs due to weather, Siberskiye Medvedi Battalion;
+  [Kurakhove direction]({{ site.baseurl }}/regions/kurakhove-direction.html) with unconfirmed Slovyanka/Andriivka claims, 114th MRB, 238th Artillery, 5th/110th MRR operational areas, 20th/150th MRD reconstituting;
+  [Vuhledar direction]({{ site.baseurl }}/regions/vuhledar-direction.html) with unconfirmed Neskuchne seizure claims (394th MRR, 218th Tank, 60th MRB), encirclement threat, 37th/50th/40th/336th unsuccessful assaults, fiber-optic drone activity;
+  [Zaporizhia direction]({{ site.baseurl }}/regions/zaporizhia-direction.html) with Ukrainian General Staff report of no Russian offensive ops, Kamyanske claim;
+  [Kherson direction]({{ site.baseurl }}/regions/kherson-direction.html) with continued Dnipro ops no advance, 80th MRB drone operators;
+  [Russian air, missile, and drone campaign]({{ site.baseurl }}/themes/russian-air-missile-drone-campaign.html) with Jan 10-11 overnight strike (74 Shahed, 47 downed, 27 EW-lost), damage in Dnipropetrovsk, Chernihiv, Zaporizhzhia;
+  [Ukraine's strike campaign]({{ site.baseurl }}/themes/ukraines-strike-campaign.html) with possible drone strike on Tatarstan Oil Refinery Complex in Nizhnekamsk (unclear details);
+  [Volodymyr Zelensky]({{ site.baseurl }}/actors/volodymyr-zelensky.html) with statement on NK killing wounded personnel to conceal war participation.
+* **Creation**: Actor concept for [North Korea]({{ site.baseurl }}/actors/countries/north-korea.html).
+
 * **Incorporation**: Processed ISW [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/).
   Updated [Russia-Ukraine War]({{ site.baseurl }}/conflicts/russia-ukraine-war.html) with Kremlin talks stance (no preconditions but unchanged maximalist demands), US/UK/Japan sanctions on Gazprom Neft/Surgutneftegas/shadow fleet, EU EUR 3B frozen-asset transfer, BBC Russian Service 88,055 confirmed Russian soldiers killed;
   [Kursk direction]({{ site.baseurl }}/regions/kursk-direction.html) with marginal advances in Makhnovka, Russkoye Porechnoye, Kositsa, refuted encirclement claims for Pogrebki/Malaya Loknya/Sudzha, Ukrainian counterattacks near Berdin/Kruglenkoye, 810th Naval Infantry Brigade drone elements;

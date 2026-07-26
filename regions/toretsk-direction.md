@@ -5,7 +5,7 @@ parent: Regions
 description: The area of Russian offensive operations centered on Toretsk in Donetsk Oblast.
 tags: [military, eastern-europe, kinetic]
 status: ongoing
-timestamp: 2025-01-10T00:00:00Z
+timestamp: 2025-01-11T00:00:00Z
 ---
 
 # Current Situation
@@ -24,8 +24,11 @@ Russian forces recently advanced in the Toretsk direction amid continued offensi
 
 The Ukrainian General Staff reported that Ukrainian forces struck a Russian 3rd Army Corps command post in occupied Svitlodarsk (east of Toretsk and southeast of Bakhmut) on January 10. Geolocated footage confirmed that Ukrainian forces struck a command post of the Russian 8th CAA (Southern Military District) in occupied Khartsyzk, Donetsk Oblast on January 8.[3]
 
+Russian forces continued offensive operations in the Toretsk direction on January 11 but did not advance. Russian security agencies claimed on January 11 that Russian forces cleared Toretsk and that only isolated pockets of Ukrainian forces remain — an unconfirmed claim. A Russian milblogger claimed on January 10 that Russian forces advanced in southern Petrivka — ISW has not observed confirmation. Russian forces continued offensive operations within and near Toretsk, north of Toretsk near Dyliivka, and west of Toretsk near Shcherbynivka on January 10 and 11. Drone operators of the Russian 80th "Sparta" Separate Reconnaissance Battalion (51st CAA) reportedly continue striking Ukrainian forces near Toretsk, and elements of the 109th Motorized Rifle Regiment (1st "Slovyansk" MRB, 51st CAA) are reportedly operating in northwestern Toretsk.[4]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 7, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-7-2025/)
 [2] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [3] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
+[4] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)

@@ -5,7 +5,7 @@ parent: Conflicts
 description: The full-scale war between Russia and Ukraine that began on February 24, 2022.
 tags: [kinetic, europe, eastern-europe]
 status: ongoing
-timestamp: 2025-01-10T00:00:00Z
+timestamp: 2025-01-11T00:00:00Z
 ---
 
 # Background
@@ -46,6 +46,12 @@ Chechen Akhmat Spetsnaz commander Apty Alaudinov published a video of his meetin
 
 Ukrainian President Volodymyr Zelensky stated in an interview published on January 5 that 3,800 North Korean personnel have been killed and wounded in Kursk Oblast, warning that North Korea could deploy additional personnel to support Russian aggression.[5]
 
+Ukrainian forces captured the first North Korean prisoners of war in Kursk Oblast on January 9 and an unspecified date. Ukraine's SBU reported that elements of the Ukrainian Special Operations Forces captured a North Korean soldier on January 9 and that Airborne Assault Forces captured a second. One POW carried a Russian military registration card from the Tuva Republic and reported receiving only one week of coordination training, believing he was going to a training exercise in Russia. President Zelensky stated that Russian or North Korean forces usually kill wounded North Korean personnel to conceal their participation in the war.[10]
+
+President Vladimir Putin maintains his maximalist pre-war demands to isolate Ukraine and weaken NATO and reportedly aims to enforce these demands in any possible talks with Western leaders. The Financial Times reported on January 10, citing a former senior Kremlin official, that Putin will maintain his December 2021 ultimatum demands: preventing Ukraine from joining NATO, forcing NATO to withdraw from deployments in Eastern Europe, and "changing the rules" of the international system to ensure no threats to Russia. Putin's 2021 demands extended beyond Ukraine to roll back NATO across Eastern Europe, the Caucasus, and Central Asia. NATO did not undertake meaningful actions to expand in Eastern Europe or advance Ukraine's NATO membership between the 2008 Bucharest Declaration and 2022, undermining Putin's stated justification for the invasion.[10]
+
+Russian authorities continue to forcibly deport Ukrainian children to Russia as part of a systematic campaign to eliminate Ukrainian national identity. DNR Head Denis Pushilin stated on January 11 that 400 Ukrainian schoolchildren from occupied Donetsk Oblast returned following a Moscow excursion under a Kremlin-sponsored "Movement of the First" youth scheme. Ukrainian Human Rights Ombudsman Dmytro Lyubinets stated that Russian authorities deported 3,310 Ukrainian children from occupied Kherson Oblast to camps in remote Russian regions in Summer 2024 to Russify and militarize them. President Zelensky reported that Ukraine organized the return of 449 Ukrainian children in 2024.[10]
+
 Russian forces made tactical advances in northwestern Toretsk on January 7, reaching the northwestern administrative boundary along Kvitkova Street, with ISW assessing Russian forces occupy 71 percent of the settlement. Russian forces shifted assault tactics from fireteams to platoons of up to 20 soldiers. ISW assessed that Russian forces intend to exploit their advances to push towards Kostyantynivka along the T-05-16 highway but are unlikely to pose a significant threat to the town without reinforcements from other sectors. The Russian military command could redeploy forces from Pokrovsk and Kurakhove to Toretsk in the future but would likely not do so until objectives in those areas are achieved. The 5th and 110th motorized rifle brigades were reportedly withdrawn from Kurakhove for rest and reconstitution.[6]
 
 Ukrainian forces struck a command post of the Russian 810th Naval Infantry Brigade in Belaya, Kursk Oblast on January 7 — the second strike on an 810th Brigade command post in Kursk Oblast within two weeks. Ukraine's SSO reported killing 13 North Korean soldiers in Kursk Oblast.[6]
@@ -75,3 +81,4 @@ Russian opposition outlet Mediazone reported that Russian authorities have turne
 [7] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
 [8] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [9] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
+[10] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)

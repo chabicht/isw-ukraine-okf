@@ -5,7 +5,7 @@ parent: Regions
 description: The southern axis in Zaporizhia Oblast, including the Robotyne area.
 tags: [military, eastern-europe, kinetic, crimea]
 status: ongoing
-timestamp: 2025-01-10T00:00:00Z
+timestamp: 2025-01-11T00:00:00Z
 ---
 
 # Current Situation
@@ -24,6 +24,8 @@ Russian forces continued offensive operations in western Zaporizhia Oblast inclu
 
 Russian and Ukrainian forces continued limited positional fighting in western Zaporizhia Oblast on January 9 and 10 but did not make any confirmed advances. Drone operators of the Russian "Nemets" Group of the 291st Motorized Rifle Regiment (42nd MRD, 58th CAA, SMD) reportedly continue to strike Ukrainian targets near Novodanylivka (north of Robotyne).[7]
 
+The Ukrainian General Staff reported on January 11 that Russian forces did not conduct any offensive operations in western Zaporizhia Oblast. A Russian milblogger claimed that Ukrainian forces attacked in southern Kamyanske (northwest of Robotyne) on January 10.[8]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
@@ -33,3 +35,4 @@ Russian and Ukrainian forces continued limited positional fighting in western Za
 [5] [Russian Offensive Campaign Assessment, January 8, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-8-2025/)
 [6] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
 [7] [Russian Offensive Campaign Assessment, January 10, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-10-2025/)
+[8] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)

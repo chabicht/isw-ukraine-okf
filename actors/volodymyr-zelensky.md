@@ -5,7 +5,7 @@ parent: Actors
 description: President of Ukraine, the wartime leader of the nation's defense against Russian aggression.
 tags: [leader, ukraine, military]
 status: ongoing
-timestamp: 2025-01-09T00:00:00Z
+timestamp: 2025-01-11T00:00:00Z
 ---
 
 # Current Situation
@@ -26,9 +26,12 @@ Zelensky spoke at the Ukraine Defense Contact Group at Ramstein Air Base on Janu
 
 Zelensky stated on January 9 that 4,000 North Korean military personnel have been killed or wounded during the war to date, presumably in Kursk Oblast — up from the 3,800 figure he cited on January 5. North Korea deployed roughly 12,000 troops to support Russia's war effort in 2024, indicating Ukrainian forces have killed or wounded roughly one-third of the North Korean contingent.[4]
 
+Zelensky stated on January 11 that Russian or North Korean forces usually kill wounded North Korean personnel in order to conceal their participation in the war, following the capture of the first North Korean prisoners of war by Ukrainian forces.[5]
+
 # Citations
 
 [1] [Russian Offensive Campaign Assessment, January 2, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-2-2025/)
 [2] [Russian Offensive Campaign Assessment, January 3, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-3-2025/)
 [3] [Russian Offensive Campaign Assessment, January 6, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-6-2025/)
 [4] [Russian Offensive Campaign Assessment, January 9, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-9-2025/)
+[5] [Russian Offensive Campaign Assessment, January 11, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-11-2025/)
