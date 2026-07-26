@@ -43,4 +43,4 @@ Moldovan Prime Minister Dorin Recean stated on January 31 that Moldovan and Tran
 [5] [Russian Offensive Campaign Assessment, January 22, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-22-2025/)
 [6] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [7] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
-[7] [Russian Offensive Campaign Assessment, January 27, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-27-2025/)
+[8] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)

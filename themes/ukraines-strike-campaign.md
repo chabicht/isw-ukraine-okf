@@ -102,7 +102,7 @@ On the night of January 30 to 31, Ukrainian forces struck the Lukoil-Volgogradne
 [12] [Russian Offensive Campaign Assessment, January 14, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-14-2025/)
 [13] [Russian Offensive Campaign Assessment, January 16, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-16-2025/)
 [14] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
-[16] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
+[15] [Russian Offensive Campaign Assessment, January 18, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-18-2025/)
 [16] [Russian Offensive Campaign Assessment, January 20, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-20-2025/)
 [17] [Russian Offensive Campaign Assessment, January 21, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-21-2025/)
 [18] [Russian Offensive Campaign Assessment, January 24, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-24-2025/)

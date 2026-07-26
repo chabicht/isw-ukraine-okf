@@ -63,4 +63,4 @@ The Russian military command has shown that it is willing to commit to operation
 [8] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [9] [Putin's Poison Pill for Peace Talks](https://understandingwar.org/research/russia-ukraine/putins-poison-pill-for-peace-talks)
 [10] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
-[10] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
+[11] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)
