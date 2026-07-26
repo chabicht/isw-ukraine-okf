@@ -32,4 +32,4 @@ The United Kingdom, Finland, and Czechia announced several immediate and longer-
 [2] [Russian Offensive Campaign Assessment, January 17, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-17-2025/)
 [3] [Russian Offensive Campaign Assessment, January 25, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-25-2025/)
 [4] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
-[5] [Russian Offensive Campaign Assessment, January 31, 2025](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-january-31-2025/)
+[4] [Russian Offensive Campaign Assessment, January 30, 2025](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-january-30-2025/)
